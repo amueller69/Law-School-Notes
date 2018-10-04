@@ -29,8 +29,10 @@ Court rules that UCC should govern this transaction after applying the predomina
 ### [E.C. Styberg Engineering Co. v. Eaton Corp.](https://www.westlaw.com/Document/Ic26b99a02e8211dc8471eea21d4a0625/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0 "Westlaw")
 
 **Facts**:
+Engineering company (P) sues auto-part manufacturer (D) for breach of contract. Parties began negotiated agreement for P to custom manufacture part for D's transmissions. Since additional machinery needed to make custom part, P needed to secure minimum-purchase contract to cover the capital investment. D responded with letter indicating willingness to commit to minimum quantity. While negotiations still ongoing, production of initial units begin and D cancels order.
 
 **Ruling**:
+Court cites Ohio's adoption of UCC stating a contract may be made in any manner sufficient to show agreement, including conduct by both parties which recognizes the existence of such a contract (i.e. intent to be bound). However, there is still the requirement for essential terms of the contract to be defined, including the quantity. The communication between parties clearly showed that negotiations over these terms were still ongoing. Additionally, the purchase order for 250 units at quoted price does not show intent to be bound to minimum quantity of 13,000 units. Hence, court found that there was no contract.
 
 ---
 
