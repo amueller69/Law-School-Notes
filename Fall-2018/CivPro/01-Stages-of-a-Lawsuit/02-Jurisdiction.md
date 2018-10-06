@@ -25,7 +25,7 @@
       * Is subject to jurisdiction in the state where district is located or is served in a different judicial district no more than 100 miles away
       * Is not subject to **any** state court's jurisdiction
 
-### *New York Times v. Sullivan*
+### [*New York Times v. Sullivan*](https://www.westlaw.com/Document/I8aef8eecf66b11daaaf9821ce89a3430/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0 "Westlaw")
 
 New York Times files motion to quash service of process on several grounds, including lack of personal jurisdiction due to improper service. The court rejected this assertion and relied on three theories to establish personal jurisdiction. First, the court holds that the NYT waived its special appearance in its motion to quash because the challenge of subject matter jurisdiction was outside the scope of the stated specific purpose.
 > This defendant cannot assert that that it is not properly before this Court, and in the same breath argue that if it is, this Court has no jurisdiction of the subject matter of the action
