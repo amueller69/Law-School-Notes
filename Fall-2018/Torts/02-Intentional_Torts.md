@@ -117,10 +117,68 @@ P sues for damages caused when D denied him use of his dock for safety during a 
     * Courts are uncomfortable with the tort of intentional infliction of emotional distress, not because they fail to recognize the harm,but because of the consequences in setting precedent
     * Expectations in response to a rule, which will affect people's behavior and hence welfare, is the focus of the Law/Economics approach, not remedying at an individual case level.
 
-### Assault
+## Assault
 
-* Restatements
-  * 1st Restatement: An actor is subject to liability to another for assault if he acts intending to cause a harmful contact with that person…or an imminent apprehension of such contact
-  * 2nd Restatement: The law does not require real fear (not necessary that the victim believe that the act will be effective in inflicting the intended injury).  Therefore, a victim may have apprehension—feel threatened but know he can easily prevent the threatened harm by self-defense—and still recover for an actionable assault
+* Assault
+  * A plaintiff may recover damages for an act which causes her to fear of an actual harm or threat of a harm—Imminent Harm—even though she suffers no physical injury
+* Restatement (Second) on Torts
+  * §21 - An actor is subject to liability to another for assault if he acts intending to cause a harmful contact with that person…or an imminent apprehension of such contact AND the other is thereby put in such imminent apprehension
+  * §24 - In order that the other may be put in the apprehension necessary to make the actor liable for an assault, the other must believe that the act may result in imminent contact unless prevented from so resulting by the other's self-defensive action or by his flight or by the intervention of some outside force.
+  * §24 Comment b - Not necessary that the victim believe the act will be effective in inflicting the intended injury in order to constitute an actionable assault.  Therefore, a victim may have apprehension—feel threatened but know he can easily prevent the threatened harm by self-defense—and still recover for an actionable assault
 
-  
+### *Tuberville v. Savage*
+
+A threatening gesture will not constitute an emotional assault when there are accompanying words that clearly negate the gesture’s threat.No imminent harm because no judges were present when D said “I would take out my sword if the judges were here.”
+
+## Offensive Battery
+
+* Offensive Battery
+  * An act which causes great indignity and provokes retaliation by force is an offensive battery that compels an award of liberal damages.
+  * Insult is more to be considered than the actual damage, as though there is no great bodily pain, it is clearly within the definition of battery
+  * Restatement (3rd) of Torts §3- Battery: Definition of Offensive Contact:
+    >  A contact is offensive within the meaning of § 1(c)(ii) if:
+    > (a) the contact is offensive to a reasonable sense of personal dignity; or
+    > (b) the contact is highly offensive to the other's unusually sensitive sense of personal dignity, and the actor knows that the contact will be highly offensive to the other.
+
+### [*Alcorn v. Mitchell*](https://www.westlaw.com/Document/Iaf112ef2cebd11d9a489ee624f1f6e1a/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0 "Westlaw")
+
+At conclusion of a trial, the plaintiff at the trial spit at the defendant after having lost an appeal. Damage was offense to dignity. Man spit upon sued-he was insulted in public by the spitter's malicious act. Court awards damages
+
+## False Imprisonment
+
+* If individual is restrained in his personal freedom of movement out of some improper process (e.g. fear of personal harm, physical detainment), they have been falsely imprisoned
+* So long as plaintiff has an available way out, false imprisonment cannot be brought
+* Courts face difficulty of balancing a plaintiff freedom from being falsely imprisoned and a defendant's interest in taking reasonable steps to defend persons or property. In doing so, courts consider:
+  * Individuals need to protect persons or property in his charge
+  * The manner, place, and circumstances of the occurrence
+  * Practicality of any alternative courses of action
+* Criterion for determination of probable cause is an objective one
+  * If it was a subjective one, individual could be detained at the whims of another's inarticulate hunches without any regard to discernable fact
+  * Defense on grounds that their was probable cause must demonstrate detainment was: conducted in a reasonable manner, for no more than a reasonable time length, by an authorized individual, with reasonable grounds for belief of detainee's violation of property/person.
+
+### [*Coblyn v. Kennedy’s, Inc.*](https://www.westlaw.com/Document/I22e8c055ee7a11d9b386b232635db992/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0 "Westlaw")
+
+Old man was unreasonably detained by store’s employee for shoplifting. He is innocent, and suffers a heart attack out of fear. He sues for false imprisonment. CoA affirms judgement in his favor, holding it was not reasonable to use such force under the circumstances.
+
+## Intentional Infliction of Emotional Distress
+
+* Conduct must be extreme or outrageous – Some say this is the most fundamental element, most often determining whether someone’s held liable
+  * Objective test: Would people in the community think this is extreme/outrageous
+* Conduct must cause injury
+  * Conduct causes emotional/mental damage of a very serious kind, often to the extent where it is accompanied by physical harm
+  * Some courts require high standard of proximity
+* Restatement (Second) §46 – Outrageous Conduct Causing Severe Emotional Distress
+  > 1. One who by extreme and outrageous conduct intentionally or recklessly causes severe emotional distress to another is subject to liability for such emotional distress, and if bodily harm to the other results from it, for such bodily harm.
+  > 2. Where such conduct is directed at a third person, the actor is subject to liability if he intentionally or recklessly causes severe emotional distress
+  >    * (a) to a member of such person's immediate family who is present at the time, whether or not such distress results in bodily harm, or
+  >    * (b) to any other person who is present at the time, if such distress results in bodily harm.
+* Parasitic Damages
+  * Emotional or Physical damages, which typically arise out of an existing wrong, raise questions about whether IIED warrants an independent tort.
+* Function of IIED
+  * Deters individuals from acting recklessly, especially those prone to outrageous behavior
+  * Fills gap in law where individual dignity isn't covered by torts of Assault and Battery
+  * Use of punitive damages both deters and affirms societal values which deem certain behaviors unacceptable
+
+### *Wilkinson v. Downton*
+
+The defendant jokingly calls plaintiff to convey that her husband has been severely injured in an accident. She goes into nervous shock, experiences vomiting, etc. Plaintiff sues for IIED. Court awards damages, ruling the action was calculated to cause physical harm to plaintiff, an ordinary person could have suffered like P did, effects of D’s acts were not too remote. 
