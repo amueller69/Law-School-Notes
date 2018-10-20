@@ -37,3 +37,23 @@ Court cites Ohio's adoption of UCC stating a contract may be made in any manner 
 ---
 
 ## Qualified Acceptance: Battle of the Forms
+
+* Qualified Acceptance: Offeror's response to offer is valid, even with additional or different terms, unless acceptance is expressly made conditional on offeror's assent to new terms, in which case it constitutes a counter offer.
+* The changed/additional terms become party of the contract unless:
+  1. the original offer limits acceptance to its terms
+  1. they materially alter terms of the original offer
+  1. offeror objects to new terms within a reasonable time from notification
+* Contrasted with common law
+  * Mirror Image Rule - Varying acceptance has the effect of only a counter offer. Offeror is master of the offer and any attempt to accept according to different terms is a rejection and a new offer in which the original offeree assumes role as master.
+    * Restatement (Second) §59 appears to support this rule, though *comment a.* indicates Restatement is trying to steer courts closer to the UCC.
+  * Last Shot Rule
+    * A party impliedly assented to and thereby accepted a counter-offer by conduct indicating lack of objection to it.
+    * Both parties submitted their own terms, but terms last submitted prior to performance control the contract
+
+### [*Princess Cruises, Inc. v. General Elec. Co.*](https://www.westlaw.com/Document/Ic8eb0510944511d993e6d35cc61aab4a/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0 "Westlaw")
+
+P brought suit against D for breach (contract & express warranty) seeking to recover revenue lost while a ship was out of service for repair in excess of the period agreed to in the contract. Lower court entered judgment shipowner on breach of contract claim. D appealed, contending UCC was improperly applied. Applying the primary purpose test, court determines the contract was for services (ship repair) instead of sale of goods. Thus, contract guided by common law and not the UCC. Under the common law, an acceptance that varies the terms of the offer is a counteroffer which rejects the terms of the original offer. Additionally, an offeror who proceeds under a contract after receiving the counter offer can accept the terms by performance. P's performance and silence about the modified terms gave D every reason to believe P assented to new terms and contracts. Since modified terms of contract limited liability of D, court reverses and remands lower court's original judgement for P.
+
+## [*Brown Machine, Inc. v. Hercules, Inc.*](https://www.westlaw.com/Document/I74eacc4ce7b211d99439b076ef9ec4de/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0 "Westlaw")
+
+Seller of manufacturing equipment (P) sued buyer (D) for breach of indemnification provision in agreement. Trial court entered judgement for P and D appealed. Applying UCC, CoA determined buyer's purchase order, rather than seller's quotation, constituted offer. Since the purchase order contained no indemnity provision
