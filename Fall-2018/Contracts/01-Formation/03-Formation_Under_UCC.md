@@ -39,6 +39,7 @@ Court cites Ohio's adoption of UCC stating a contract may be made in any manner 
 ## Qualified Acceptance: Battle of the Forms
 
 * Qualified Acceptance: Offeror's response to offer is valid, even with additional or different terms, unless acceptance is expressly made conditional on offeror's assent to new terms, in which case it constitutes a counter offer.
+  * The conditional nature of the acceptance must be clearly expressed in a manner sufficient to notify the offeror that the offeree is unwilling to proceed with the transaction unless additional/different terms are included in the contract.
 * The changed/additional terms become party of the contract unless:
   1. the original offer limits acceptance to its terms
   1. they materially alter terms of the original offer
@@ -49,6 +50,9 @@ Court cites Ohio's adoption of UCC stating a contract may be made in any manner 
   * Last Shot Rule
     * A party impliedly assented to and thereby accepted a counter-offer by conduct indicating lack of objection to it.
     * Both parties submitted their own terms, but terms last submitted prior to performance control the contract
+* Improvements over common law approach
+  * UCC treatment of varying acceptance is viewed as an amelioration of strict mirror image rule, as it permits non-matching communications to form a contract if the parties apparently intended that they should. In many contexts, terms of offer an acceptance are rarely identical
+  * In cases where acceptance is expressly conditional (i.e. a counter-offer)
 
 ### [*Princess Cruises, Inc. v. General Elec. Co.*](https://www.westlaw.com/Document/Ic8eb0510944511d993e6d35cc61aab4a/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0 "Westlaw")
 
@@ -56,4 +60,8 @@ P brought suit against D for breach (contract & express warranty) seeking to rec
 
 ## [*Brown Machine, Inc. v. Hercules, Inc.*](https://www.westlaw.com/Document/I74eacc4ce7b211d99439b076ef9ec4de/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0 "Westlaw")
 
-Seller of manufacturing equipment (P) sued buyer (D) for breach of indemnification provision in agreement. Trial court entered judgement for P and D appealed. Applying UCC, CoA determined buyer's purchase order, rather than seller's quotation, constituted offer. Since the purchase order contained no indemnity provision
+Seller of manufacturing equipment (P) sued buyer (D) for breach of indemnity clause. D submitted purchase order which contained language that expressly limited acceptance to the terms stated and any additional/modified ones are rejected unless agreed to in writing. P responds with order acknowledgement, which contained all purchase order terms plus indemnity clause. Trial court entered judgement for P and D appealed. Applying UCC, CoA determined D's purchase order constituted an offer, not an acceptance, because the initial price quotation was only an invitation to make an offer (i.e. D would not have reasonably believed price quotation to be an offer). UCC holds that an offeree's response to an offer operates as a valid acceptance, despite new/modified terms, unless offeree's acceptance is made expressly conditional on offeror's assent in which case the acceptance operates as a counter-offer. Court rules that P's acceptance of purchase order was not made "expressly conditional", meaning it did not clearly manifest its unwillingness to proceed with the sale unless D agreed to additional terms, therefore it was not a counteroffer but an acceptance with additional terms. Under UCC, such terms of a qualified acceptance become part of the contract unless (1) the offer expressly limits acceptance to its terms; (2) they materially alter terms; or (3) original offeror provides notice objecting to these terms within a reasonable time. Since the purchase order limited acceptance to its terms, the additional indemnification provision did not become part of the contract. Thus, court rules there was no breach.
+
+### [*Paul Gottlieb & Co., Inc. v. Alps South Corp*](https://www.westlaw.com/Document/Iebcf0916aff311dcb6a3a099756c05b7/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0 "Westlaw")
+
+P brought action against D seeking damages due to D's nonpayment of bill in a contract to purchase fabric. D had grew increasingly discontent with the quality of P's fabrics. D asserted counterclaim for breach of warranty. Both parties were awarded damages, but D was awarded significantly more in the countesrclaim. TC asserted that limitation of P's liability in finished goods contract is considered, under UCC, a material alteration and is thus not party of the contract. P appealed. Court identified Florida code adopting UCC which provides standard recitation of the UCC qualified acceptance rule. Typically, terms that materially alter a contract would result in surprise if incorporated without express awareness by the other party. Thus, D must show that it cannot be assumed a reasonable merchant would have consented to the additional term. 
