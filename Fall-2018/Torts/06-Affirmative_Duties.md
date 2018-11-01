@@ -32,7 +32,18 @@ D is violently ill and on the verge of death. D is approached, informed of P's c
 * Not exempt from affirmative duties do to the special nature of the relationship with the harmed individual
   * Tenant-Landlord, Patient-Health Provider, etc.
   * Arises out of the individuals unique or superior ability to protect another individual in areas where they are unable to help themselves
+* Tarasoff Standard - Use reasonable care; No immunity for failure to warn
+  * If one knows or has reason to know that patient poses reasonable threat of danger to a person, they have duty to exercise reasonable care
+  * Implication - Forcing therapist to warn might undermine the therapist/client relationship so that patient won’t get the help he needs and could pose more of a danger
+  * We now rely on the judgement of of mental health professional, which are just as vulnerable to bias. Could be racial implications.
+  * Virtually all states have some form of Tarasoff now
+    * Expansion of mandatory reporting requirements
+    * No empirical evidence that this has impacted anything
 
 ### *Kline v. 1500 Massachusetts Ave. Apt.*
 
 D gets robbed and assaulted in the hallway of her building and suffered personal injuries. She sues landlord for negligence. TC dismissed. P appeals. CoA assert that general rule which exonerates a third party from protecting another from a criminal attack is not applicable to the landlord/tenant relationship in multiple dwelling homes. Landlord has a duty to tenant that arises out of their special relationship. Since landlord is the only one who can take the necessary acts to insure safety, he is obligated to minimize the risks—in this case risks were foreseeable. Contracts wouldn’t protect the tenant because of unequal bargaining power. Tort duty is necessary to protect the tenant who can’t help herself. Duty is created from the landlord’s superior ability to control the risk, and his special relationship with tenant
+
+### [*Tarasoff v. Regents of University of California*][Tarasoff]
+
+Patient of D’s told him that he planned to kill P. D had patient detained by police but he was later released. D’s superior told him not to try to detain anymore. Patient killed P. P's parents sued the university, the therapists, and the police on negligence theories about failure to detain patient and failure to warn. Court hold that D has a duty to all persons foreseeably endangered by the risks created by his conduct (i.e. failure to detain patient). D had a special relationship with tortfeasor so is not subject to general rule that a third party is not liable for actions of a tortfeasor. Therapist has duty to warn potential victim and failed to do so, hence he breached duty to exercise reasonable care.

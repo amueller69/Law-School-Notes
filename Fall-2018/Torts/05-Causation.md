@@ -6,31 +6,27 @@ Did any intervening/concurrent human actions or natural events sever the causal 
 
 ## Cause-in-Fact
 
-* But For Causation Test: 'But for the D’s conduct, would the injury have occurred?'
-  * 3 Steps
-    1. Identify the D’s wrongful conduct
-    1. What is the injury for which P is seeking redress? - Can only recover for injuries that he/she suffered
-    1. Holding everything else constant, 'What would have happened had D not engaged in wrongful conduct? Injury?'
-  * Plaintiff would not have been injured but for defendant’s conduct
-  * The defense will try to show that there was a break between chain of events from the breach of duty to injury
-  * Plaintiff will collapse all incidents together
-  * This is a **counterfactual inquiry**: What would have happened if defendant had acted reasonably? If the injury would still have happened, than the negligence was not the cause in fact of the injury.
-  * Restatement (Third) §26 - Factual Cause
-    > Conduct is a factual cause of harm when the harm would not have occurred absent the conduct...
-    > Comment b. - Factual Cause can also be described as a necessary condition for the outcome
-    > Comment c. Conduct need only be one of multiple factual causes of the other's harm
+### But For Causation Test
 
-### [*N.Y. Central R.R. vs. Grimstad*][N.Y.]
-
-* Barge was in the port and P fell into the water when a tug bumped the boat. P wife went to find a life preserve to throw overboard to husband. Boat did not have life preserve.
-* Judgment for D because even though a breach of duty was found, it could not be said that but for the life preserve being on the boat the husband would have survived
-  * Court - "We think it's a question about which reasonable men might at least differ whether [P] would have been saved had [a life preserver] been there."
-  * Hence **no factual cause**
-* While it may be foreseeable to see that an injury will result because of no life preserve, you cannot use this test in linking breach of duty to causation of injury.
-
+* 'But for the D’s conduct, would the injury have occurred?'
+* 3 Steps
+  1. Identify the D’s wrongful conduct
+  1. What is the injury for which P is seeking redress? - Can only recover for injuries that he/she suffered
+  1. Holding everything else constant, 'What would have happened had D not engaged in wrongful conduct? Injury?'
+* Plaintiff would not have been injured but for defendant’s conduct
+* The defense will try to show that there was a break between chain of events from the breach of duty to injury
 * Where a negligent act increases the chances that a particular type of accident would occur, and such an accident does in fact occur, a court may conclude that the negligent conduct was the cause of the injury.
+* This is a **counterfactual inquiry**: What would have happened if defendant had acted reasonably? If the injury would still have happened, than the negligence was not the cause in fact of the injury.
+* Restatement (Third) §26 - Factual Cause
+  > Conduct is a factual cause of harm when the harm would not have occurred absent the conduct...
+  > Comment b. - Factual Cause can also be described as a necessary condition for the outcome
+  > Comment c. Conduct need only be one of multiple factual causes of the other's harm
 
-### [*Zuchowicz v. US*][Zuchowicz]
+#### [*N.Y. Central R.R. vs. Grimstad*][N.Y.]
+
+Barge was in the port and P fell into the water when a tug bumped the boat. P wife went to find a life preserve to throw overboard to husband. Boat did not have life preserve. Judgment for D because even though a breach of duty was found, it could not be said that but for the life preserve being on the boat the husband would have survived. Court asserts, "We think it's a question about which reasonable men might at least differ whether [P] would have been saved had [a life preserver] been there." Hence, court held it was **no factual cause**. While it may be foreseeable to see that an injury will result because of no life preserve, you cannot use this test in linking breach of duty to causation of injury.
+
+#### [*Zuchowicz v. US*][Zuchowicz]
 
 * P was given a prescription for twice maximum recommended dosage of Danocrine
 * After stopping dosage, P was diagnosed with rare disease PPH and died two years later
@@ -131,29 +127,42 @@ Court held that reduction in survival odds must not be > 50% in order to be reco
 
 D's negligence in diagnosing P's cancer led to a 14% decrease in her chance of survival. P sues for damages and D argues that P would was more likely to die anyway, so negligence wasn’t the cause. Court faced with determining whether P could recover for the lost opportunity for survival. Court ultimately permits recovery not for death, but for lost chance of survival. It is certainly more likely than not that negligence caused lost chance for survival, thus proportion of wrongful damages can be recovered.
 
-* Proof of Factual Causation and Expert Testimony
-  * Fry Rule - Must be the case that the thing an expert is testifying to is consistent with consensus of the expert's field
-    * If scientific finding has been “generally accepted” within field, it should be admitted
-    * Justification - Juries have propensity to believe anything presented by someone who is supposed to represent authority
-    * Expert evidence needs to be screen somehow
-    * Peter Huber
-      * Critique of "Junk Science" being introduced in court rooms leading to sub-optimal outcomes
-    * This sentiment spreads and begins to put pressure on the courts
-* Daubert Rule
-  * Lists number of considerations for ensuring methodological rigour
-  * More state's begin applying Daubert over Fry
-* Success of a case can be contingent on admissibility expert testimony can
-* Leaving decisions about admissibility to the discretion of judges in areas that far exceed their expertise
-* Joyner?
-* Abuse of Discretion Appellate Standard
-  * Appealable, but as long as the admissibility decision isn't egregious and unreasonableness, deference will go to trial judge decision
-* Methodological Soundness
-  * Internal Validity - Relevance
-  * External Validity - 
-* Daubert Trilogy
-  * Daubert - establishes judges as gatekeeper of evidence based 
-  * Gatekeeper and defference on appeal
-   * Kumho Tire 
+### Proof of Factual Causation and Expert Testimony
+
+* Frye Rule - Must be the case that the thing an expert is testifying to is consistent with consensus of the expert's field
+  * If scientific finding has been “generally accepted” within field, it should be admitted
+  * Justification - Juries have propensity to believe anything presented by someone who is supposed to represent authority, thus expert evidence needs to be screen somehow
+  * Huber and "Junk Science" claims set the groundwork for shift in the standard of admissibility
+* Daubert Standard - Expands role of judges as gatekeepers of evidence
+  * Rejects Frye test of general acceptance, though general acceptance remains a consideration when making reliability inquiry
+  * Relevance Inquiry
+    * Is the testimony relevant? Will it assist the trier of fact?
+  * Reliability Inquiry
+    * Does the expert testimony consist of "scientific knowledge": Is it based on reliable data? Has technique/theory been tested? Has it been subject to peer review?
+  * Abuse of Discretion Appellate Standard
+    * Appealable, but as long as the admissibility decision isn't egregious and unreasonableness, deference will go to trial judge decision
+  * Was extended to "technical" and "other specialized" forms of knowledge in Kumho Tire case
+  * Became controlling standard in federal courts. States gradually started adopting Daubert over Frye, but some still apply general acceptance test alone
+  * Shortcomings
+    * Leaving decisions about admissibility to the discretion of judges in areas that far exceed their expertise and success of a case can be contingent on admissibility of expert testimony.
+
+#### [*General Electric Co. v. Joiner*][Joiner]
+
+P worked as an electrician and was regularly exposed to hazardous substance (PCBs). P diagnosed with small cell lung cancer, which was claimed to be linked to P's exposure to PCBs. P had also been a smoker for 8 years, his parents smoked, and there was a history of lung cancer in his family. TC found for D, saying that Joiner’s experts didn’t show a causal link that was more than just mere speculation and that evidence was therefore inadmissible (Joiner had epidemiological studies that showed correlation but not causation and animal studies). CoA held that in determining whether the trial court erred in admitting or excluding scientific evidence, it should use abuse of discretion standard. Since CoA found no evidence of such abuse by TC, it ruled that it had the right to exclude expert evidence if there were gaps between the data offered and the expert's conclusion.
+
+---
+
+## Proximate Cause (Legal Cause)
+
+* Even if factual causation has been proven, where should the line be drawn in the causal chain? Is the cause legally sufficient to support liability?
+* Two types of tests:
+  1. Directness Test—(backward-looking perspective)—Was plaintiff’s injury a direct result of defendant’s behavior or was there something that broke the chain of causation?  Where there any intervening causes in the chain of events?
+  1. Foreseeability Test—(forward-looking perspective)—Was plaintiff’s type of harm a foreseeable result of defendant’s behavior—from time defendant acted?
+     * Foreseeability was also involved in Duty/Breach, but foreseeability in Causation is different because it is individualized since it only relates to particular defendant, whereas foreseeability in Duty/Breach is related to society in general.
+
+### Physical Injury
+
+One of D's engines set fire to a woodshed, which subsequently spreads to other houses including that of P which resided 150 feet away from the shed. Fundamental question the court must decide is the extent of D's liability. Court asserts that a negligent party is liable for results that are natural/ordinary/anticipated, rather than “concurrence of accidental circumstances” over which the party has no control over its effects. The court thus ruled that the result at issue (the damage to P's house) was too remote.
 
 * Psyschological Harms
   * Courts have been somewhat reluctant to award damages
