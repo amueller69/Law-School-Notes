@@ -54,3 +54,24 @@ Commercial use of a patient’s blood or tissue products does not constitute con
 ### [*Indiana Harbor Belt RR v. American Cyanamid Co.*][Indiana Harbor]
 
 Chemical manufacturer (D) loaded hazardous chemical onto the train car. A train picked up the car, some of it leaked on the wayP spent $981,000 on decontamination measures and sued D to recovery these damages alleging negligent maintenance of the car and  maintained that transport of the chemical was an AD activity for which D  should be SL. TC held for P on the SL count. D appealed. Court (Posner) balances factors in the restatement and holds damage was caused by negligence D was not strictly liable for 2 reasons. (1) Damage caused wasn't the result of the chemical's hazardous nature, but the lack of due care by the party transporting. Manufacturer is severely limited in what they can do to mitigate the risks associated with transport. Coase perspective - Transporter is the least cost avoider. (2) Negligence is adequate to deal with these cases and will efficiently induce reasonable care - no need for SL. Unnecessarily imposing requirement for P to do more than exercise reasonable care would be excessively costly (i.e. discourages transportation of chemicals).
+
+### Private Nuisances
+
+* Spite Fences
+
+* Restatement (Second) §821 - Significant Harm
+  * > There is liability for a nuisance only to those to whom it causes significant harm, of a kind that would be suffered by a normal person in the community or by property in normal condition.
+  
+
+#### *Fontainebleau v. Forty-Five Twenty-Five*
+
+Plaintiff sued for right to sunlight for its hotel—defendant’s building was obstructing light. Court rules that there is no legal right to free flow of light and air. Additionally, court asserted it is universally held that where a structure serves a useful and beneficial purpose, it does not give rise to cause of action.
+
+#### *Rogers v. Elliott*
+
+Defendant was custodian of church and rang large bell everyday.  It caused convulsions to the plaintiff.  The defendant refused to stop ringing it and the plaintiff thus sued for injunction. Court asserts the standard for determining a private nuisance must be the discomfort or harm it would cause a person of ordinary sensibilities. The court rules for the defendant based upon a reasonable person standard—no injunction for extra-sensitivity. Someone with circumstances beyond those of a person of ordinary sensibilities faces the burden of avoiding any harm that may result.
+
+#### Ensign v. Walls
+
+Defendant’s property emitted offensive orders, was manifested with rats and flies, dogs barged constantly and escaped and roamed around the neighborhood.  Plaintiff sued for an injunction. Court held the fact that an alleged nuisance existed long before those objecting to it moved into the vicinity does not necessarily prevent a court from ordering it abated. Hence court rejects "coming to the Nuisance" as a categorical defense. Minority view rests on P's assumption of the risk when acquiring the property.
+

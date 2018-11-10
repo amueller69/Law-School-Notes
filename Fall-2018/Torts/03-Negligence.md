@@ -1,6 +1,8 @@
 # Negligence
 
-## Negligence in General
+## Introduction
+
+### Negligence Defined
 
 * Elements to a tort of negligence
   * D must have owed a duty to P
@@ -10,7 +12,7 @@
 * Restatement (Second) - § 282 Negligence Defined
   > In the Restatement of this Subject, negligence is conduct which falls below the standard established by law for the protection of others against unreasonable risk of harm. It does not include conduct recklessly disregardful of an interest of others.
 
-### Law and Economics Perspective
+### Negligence from Law and Economics Perspective
 
 * Determination of negligence can be roughly reduced to cost/benefit calculus
   * If the cost of a precautionary measure (i.e. upholding standard of care) is exceeded by its benefit, failure to take this precaution should result in liability for damages that result
@@ -18,34 +20,45 @@
   * Involves setting the parameters of reasonableness through some sort of efficiency analysis
   * This standard of reasonableness is duty court places on individuals when taking precautions
 
+---
+
 ## Reasonable Person
 
 * Determines whether defendant acted with reasonable care by determining what a reasonable person would do in the same situation
-  * Objective Standard - Eternal standard, no attention paid to individual’s particular feelings or capabilities
-    * Standard is not lowered for those with mental or physical deficiencies
-  * Subjective Standard - Defendant’s characteristics own characteristics are examined and determine if a reasonable person with those characteristics would have acted the same way
-  * Issue with variable standards
-    * Difficulty that arises from applying universal set of standards
-    * Expert/Novice - General rule holds a beginner to the same standard of care expected from someone reasonably skilled in the field
-      * This deters the inexperienced from engaging in excessive risk taking
-      * Converse problem can also arise for someone of superior skill or knowledge who would be held to a lower standard than of which she is capable. Both restatements make exceptions to the general rule, requiring individual with superior skill/knowledge exercise same level of care as would the average reasonable individual had they possessed the same level of skill/knowledge
-    * Age
-      * When a minor undertakes an adult activity which can result in grave danger to himself and to others, he is held liable to the same standard as the ordinarily prudent adult
-      * There are many exceptions, but the general rule is intended to deter minors from engaging in dangerous activity
+* Objective Standard - Eternal standard, no attention paid to individual’s particular feelings or capabilities
+  * Standard is not lowered for those with mental or physical deficiencies
+* Subjective Standard - Defendant’s characteristics own characteristics are examined and determine if a reasonable person with those characteristics would have acted the same way
+* Issue with variable standards
+  * Difficulty that arises from applying universal set of standards
+  * Expert/Novice - General rule holds a beginner to the same standard of care expected from someone reasonably skilled in the field
+    * This deters the inexperienced from engaging in excessive risk taking
+    * Converse problem can also arise for someone of superior skill or knowledge who would be held to a lower standard than of which she is capable. Both restatements make exceptions to the general rule, requiring individual with superior skill/knowledge exercise same level of care as would the average reasonable individual had they possessed the same level of skill/knowledge
+  * Age
+    * When a minor undertakes an adult activity which can result in grave danger to himself and to others, he is held liable to the same standard as the ordinarily prudent adult
+    * There are many exceptions, but the general rule is intended to deter minors from engaging in dangerous activity
+* Insanity and Mental Incapacity
+  * Third Restatement holds mental and emotional are generally not considered in determinations of negligence
+  * However, several courts recognize the *Breunig* exception for sudden and unforeseeable mental incapacity
 * Restatement (Second) - § 283 Conduct of a Reasonable Man: The Standard
   > Unless the actor is a child, the standard of conduct to which he must conform to avoid being negligent is that of a reasonable man under like circumstances.
 
-### [*Vaughan v. Menlove*](javascript:void(0);)
+### *Vaughan v. Menlove*
 
-D builds a hay rick on border of property, next to Ds' cottages. He was repeatedly warned that the haystack was likely to catch fire. Instead of removing it, D builds chimney around the haystack. It eventually caught fire and burned down neighboring cottages. P sues for damages. D argues that he was using his best judgment when he ignored warnings. The court agrees that there was indeed a substantial risk of a fire. It applies objective standard, in which the standard of caution is that of a person with average intelligence. A subjective standard, which would take into account the capacities of the individual, would be so variable that it would be difficult to apply. Thus it didn't matter if D used is best subjective judgement-he is liable because the average person would have taken more caution.
+D builds a hay rick on border of property, next to Ds' cottages. He was repeatedly warned that the haystack was likely to catch fire. Instead of removing it, D builds chimney around the haystack. It eventually caught fire and burned down neighboring cottages. P sues for damages. D argues that he was using his best judgment when he ignored warnings. The court agrees that there was indeed a substantial risk of a fire. **It applies objective standard, in which the standard of caution is that of a person with average intelligence**. A subjective standard, which would take into account the capacities of the individual, would be so variable that it would be difficult to apply. Thus it didn't matter if D used is best subjective judgement-he is liable because the average person would have taken more caution.
 
-### [*Roberts v. Ring*](https://www.westlaw.com/Document/I6a5d22c7006011da83e7e9deff98dc6f/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0 "Westlaw")
+### *Roberts v. Ring*
 
 7 year old boy (P) runs into the street in front of a car driven by 77 year old man (D). D hits P while traveling 4-5 mph, but hearing and sight were defective. Both parties claim the other acted negligently.  The court applied objective standard for D, despite his age and physical infirmities. Thus, court ruled D was negligent because he failed to meet the objective standard of reasonable care. If an individual cannot meet requisite standard of car associated with an activity, then they should be deterred from engaging in it.
 
-### [*Daniels v. Evans*](javascript:void(0);)
+### *Daniels v. Evans*
 
 P, a 19 year old "youth", was riding a motorcycle and collided with plaintiff’s car and was killed. His estate sues in negligence and is awarded damages. D appeals saying that child engaged in adult activity should be held to an adult standard of care. CoA awards judgment for D because the minor was acting as an adult since riding a motorcycle is an activity intended for adults
+
+### *Breunig v. American Family Insurance Co.*
+
+Driver of vehicle insured by D was suddenly overcome by "insane delusion" rendering her unable to operate the vehicle. Vehicle veers off into P's car. Driver had history of mental illness and hallucinatory visions. D refuses to pay the claim, arguing the driver could not be held negligent because of the delusion. TC initially ruled for the P, asserting the driver's “sudden” insanity was foreseeable based on prior incidents. CoA rules that **insanity may be a defense to liability for negligence if an individual is suddenly overcome by a mental episode rendering them incapable of conforming his conduct to the standards of a reasonable man and which was unknown to them prior to the harm.** Sudden mental incapacity is analogous to sudden heart attack or stroke. However, since driver had some knowledge of that such incapacity was possible based on prior diagnoses and similar episodes, court affirms TC's decision.
+
+### *Fletcher v. City of Aberdeen*
 
 ---
 
