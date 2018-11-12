@@ -1,5 +1,20 @@
 # Summary Judgement
 
+## Class Notes 10/2
+
+* Defensive motions for summary judgement are far more prevalent and make up majority of case law, but offensive motions can and do occur
+* If respondent believes discovery period has been inadequate when summary judgement is motioned for, Rule 56(d) allows respondent to move for additional time at court's discretion
+* Purpose of summary judgement is to infer, from the record, whether a party could conduct a competent trial that a reasonable jury could find compelling.
+  * Party must demonstrate that it can do so, but can't produce evidence in an admissable form
+  * Celotex is concerned with the burden of the moving party in showing the absence of issues of material fact
+  * In minority view, pointing out part of the record that demonstrates absence of factual basis for plaintiff's claim shifts burden on resisting party to show otherwise
+
+## Class Notes 10/3
+
+* Deferential Standard is to draw inferences most favorable to plaintiff
+  * Neglected in Harris because Justice Scalia claims video resolves any dispute of facts
+  * Weakening of the standard
+
 ## *Celotex Corp. v. Catrett*
 
 **Facts**:
@@ -14,3 +29,5 @@ Supreme court rejects CoA's interpretation of Rule 56. It affirms rule 56(c) man
 P is paralyzed after he is involved in a car crash while attempting to flee police. The officer pursuing P caused the accident while attempting to immobilize the vehicle. Video evidence is presented and D moves for summary judgement based on qualified immunity. District Court denies motion for summary judgement, finding there are issues of material fact. CoA affirms District Court. Supreme Court grants certiorari.
 
 **Ruling**:
+
+---

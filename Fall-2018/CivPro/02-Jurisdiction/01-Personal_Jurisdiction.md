@@ -98,11 +98,11 @@ D has incorporated in DE. It has deliberately conducted its business activities 
   1. Are there due process consequences?
      * Why are we so concerned about D's rights, especially to the detriment of P's interest? Because the defendant is the one who is being subjected to coercive power of court and is at risk of being deprived of rights
 
-#### McGee v. International Life Insurance
+#### *McGee v. International Life Insurance*
 
 California has a specific statute that authorizes personal jurisdiction. Mother of decedent sues in California, obtains a default judgment when the defendant refuses to appear, and tries to collect on the default judgment in Texas. Insurance company argues that CA courts had no jurisdiction. TX courts deny enforcement of the judgement. Supreme court holds D, an insurance company in TX, established sufficient minimum contacts to California forum with single insurance contract. Court recognizes state's has strong interest in protecting citizens and the need to expand the scope due to a modernizing economy. Court rules that California court did have personal jurisdiction.
 
-#### Gray v. American Radiator
+#### *Gray v. American Radiator*
 
 Lawsuit brought in courts of IL, involves PA and OH. P purchases hot water heater in IL sold by D, a company located in PA. But the company uses components from many places, included from Titan Valve located in OH. So, a valve is manufactured in OH, sent to PA where it is incorporated into water heater, and then sent to IL for sale. Ms. Gray is injured by the water heater. She sues American Radiator which impleads Titan Valve.The IL Supreme Court finds that Titan Valve is indeed suable in IL, ruling jurisdiction is authorized by an interpretation of IL product liability statute and not in violation of due process. Court says this is a foreseeable exercise of jurisdiction, because the product wound up in IL through a predictable chain of transactions ("stream of commerce"). The court infers that this isn’t the only Titan Valve valve ending up in IL, which means Titan Valve is enjoying many of the benefits of IL’s market. Therefore, it is fair that it should respond to lawsuit in IL in order to satisfy the obligations that come along with accessing that market
 
@@ -180,18 +180,62 @@ P with principal business in FL enter into franchise contract with D for BK rest
 
 ## Contemporary Specific Jurisdiction
 
+* Potentially signals paradigm shift in personal jurisdiction back towards those based around sovereign authority.
+  * Fairness principles adopted to address issues of the formalistic approach to PJ that allowed corporate defendants to shield themselves from being pulled into court, as demonstrated in *Intl Shoe*
+  * Defendant in *Nicastro* operates by similar strategy in the international context. Shields itself from being subject to jurisdiction in any particular state by directing all of its activity at a single distributor
+  * Return to the principles of sovereignty in *Nicastro* make this strategy successful and perhaps lays out blueprint for foreign corporations to take advantage of US markets while still shielding itself from any liability
+
 ### *J. McIntyre Machinery v. Nicastro*
 
-#### Factual Background 
+#### Factual Background
 
 NJ resident P became seriously injured while using a metal-shearing machine manufactured in the UK by D. D ships machine to exclusive distributor in OH, which then delivers its products throughout the US.  NJ supreme court found that, even though D never marketed its goods in the state nor shipped them there, NJ courts had jurisdiction over the company because the manufacturer knew or should have reasonably known that its products were distributed through a nationwide distribution system that might lead their products being sold in any of the 50 states, including New Jersey. D appealed.
 
 #### Kennedy Opinion
 
-Supreme court identifies "purposeful availment" as the governing rule and asserts the "stream-of-commerce" doctrine can't displace it. O'Connor's opinion in *Asahi* stating actions, not expectations, empower state to exercise jurisdiction should be the controlling standard. Personal jurisdiction requires a forum-by-forum analysis of whether the conduct was directed at the society or eeconomy existing within the jurisdiction of the forum.At no time did D engage in activities in the state of NJ that reveal an intent to invoke or benefit from the protection of its laws. Instead, marketing and sales efforts were directed at the US in general, no to a specfic state.
+Supreme court identifies "purposeful availment" as the governing rule and asserts the "stream-of-commerce" doctrine can't displace it. O'Connor's opinion in *Asahi* stating actions, not expectations, **empower** state to exercise jurisdiction should be the controlling standard. **Personal jurisdiction requires a sovereign-by-sovereign analysis of whether the conduct was directed at the society or economy existing within the jurisdiction of the forum so that the sovereign hs the power to to subject D to judgement concerning that act.** At no time did D engage in activities in the state of NJ that reveal an intent to invoke or benefit from the protection of its laws. Instead, marketing and sales efforts were directed at the US in general, no to a specfic state.
 
 #### Ginsberg Dissent
 
-Act was in fact purposefully directed - its goal was to see its products sold in as many states as possible with no states excluded. Further, McIntyre UK deliberately took steps to see that proudcts entered differnt states, namely by retaining a distributor. The plurality seems to be holding that by directing activiaty at US as a whole, a foreign entity can elude jurisdiction in individual states. It is unfair that P has no recourse in any state. *International Shoe* made clear that the legal fictions of "presence" and "implied consent" should be discarded, though plurality appears to be abandoning fairness in favor of consent.
+Act was in fact purposefully directed - its goal was to see its products sold in as many states as possible with no states excluded. Further, McIntyre UK deliberately took steps to see that products entered different states, namely by retaining a distributor. The plurality seems to be holding that by directing activity at US as a whole, a foreign entity can elude jurisdiction in individual states. It is unfair that P has no recourse in any state. *International Shoe* made clear that the legal fictions of "presence" and "implied consent" should be discarded, though plurality appears to be abandoning fairness principles in favor of a showing of D's intent to submit to authority of the state.
 
 ---
+
+## General Jurisdiction
+
+* Describes circumstances where plaintiff asserts personal jurisdiction is obtainable in forum state for any claim because there is something about the nature of D's relationship with that state
+  * Can only be satisfied in narrow set of circumstances
+  * General jurisdiction determination performs inquiry into state of affairs at the time the action is brought, not the time in which the events on which the claim is based ocurred
+* "Doing Business": Follows from the functional equivalent of "presence" that gives state personal jurisdiction over persons under power theory or tag jurisdiction
+  * Systematic and continuous commercial activity, in the Pennoyer era, became legal fiction equated to physical presence 
+  * Post-International Shoe, the idea of general jurisdiction based on level of business activity of corporate defendants carried over under a fairness reasoning. Minimal contacts test, though applied differently than general jurisdiction
+  * Likewise, a corporation is legally present and thus subject to general jurisdiction in state(s) where it is incorporated and the state where it has its principal place of business (this is still the case today).
+  * Helicopteros decision seemed to affirm the availability of this type of general jurisdiction ("doing business") - it was simply the case the activities of the particular defendant weren't enough to constitute "doing business".
+* "At home"
+  * Language introduced into the general jurisdiction equation by SCOTUS in *Goodyear*
+  * Initially signaled a curtailing on general jurisdiction, but the extent to which was not clear
+    * Sustaining a certain level of commerce might no longer lead to general jurisdiction
+  * Daimler provides clarification: D has massive corporate presence in CA yet is not held amenable to suit there under theory of general jurisdiction
+    * **General jurisdiction requires a relative inquiry that looks to the defendant corporation’s contacts in the jurisdiction relative to their total contacts**
+    * Under general jurisdiction doctrine as understood before, systematic and continuous presence would be met here, but not under standard set forth in Daimler, as it only made up a small fraction of its total global presence
+    * Significantly narrows the states where general jurisdiction is available, limits forum shopping, and restricts venue transfers
+    * Daimler suggests 20-30-20-30 presence across 4 states would not satisfy the relative analysis in any of the states. It would only be "at-home" in the state of incorporation or HQ
+  * Following Daimler, general jurisdiction over corporation can be established by any of the following:
+    1. **In the state(s) in which it is incorporated in**
+    1. **In its principal place of business (i.e. its nerve center/HQ)**
+    1. **If the can be made an extraordinary showing that the corporation is essentially "at home" in the state, relative to its total operations**
+
+### *Helicopteros v. Hall*
+
+Construction project undertaken by Colombian entity in Peru, using some personnel and equipment retained in the state of Texas. Accident occurs on the job site; estates of some deceased worker sought to sue Colombian company in TX on general jurisdiction theory. SCOTUS held there was no personal jurisdiction because level of activity failed to meet the threshold needed for "doing business", as it relates to general jurisdiction. "Mere purchases", even if made at regular intervals, were not enough for general jurisdiction
+
+### Goodyear v. Brown
+
+P parents of children killed in Paris bus accident brought suit in NC over faulty tire. Suit was against foreign subsidiary as well as parent company.
+SCOTUS holds general jurisdiction is available where activity essentially renders the defendant "at home"
+
+### *Daimler AG v. Bauman*
+
+P’s bring suit arising out of human rights violations connected to Argentina’s Dirty War that involved Argentine based company. German based parent company is responsible for any liabilities that the Argentine company incurred. Parent company also has US based subsidiary. Suit is brought in CA federal court. Ps argue that (1) US subsidiary is subject to general jurisdiction in CA because of its massive level of contacts there, and (2) whatever contacts US subsidiary has in America are attributable to parent company for purposes of jurisdiction according to an agency theory.Though US subsidiary is not incorporated or HQ’d in CA, it has massive corporate presence there and it comprises its largest market in the US. COURT finds that this isn't sufficient for a finding of general jurisdiction. It asserts need for a "relative inquiry" which looks at contacts/activity in a jurisdiction compared to the totality of its operations. Since CA only made up a small proportion of the parent company's global contacts, court ruled that the activity of the US subsidiary in CA is not enough to establish general jurisdiction over the parent company.
+
+## BMS
