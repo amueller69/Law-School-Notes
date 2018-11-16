@@ -24,6 +24,8 @@
 
 ## Reasonable Person
 
+### Reasonable Person Standard
+
 * Determines whether defendant acted with reasonable care by determining what a reasonable person would do in the same situation
 * Objective Standard - Eternal standard, no attention paid to individual’s particular feelings or capabilities
   * Standard is not lowered for those with mental or physical deficiencies
@@ -36,31 +38,54 @@
   * Age
     * When a minor undertakes an adult activity which can result in grave danger to himself and to others, he is held liable to the same standard as the ordinarily prudent adult
     * There are many exceptions, but the general rule is intended to deter minors from engaging in dangerous activity
-* Insanity and Mental Incapacity
-  * Third Restatement holds mental and emotional are generally not considered in determinations of negligence
-  * However, several courts recognize the *Breunig* exception for sudden and unforeseeable mental incapacity
+* Wealth should be excluded as a consideration when calculating negligent standard of care
+  * Legal rules are poor mechanism for redistributing wealth. Tax system is superior in this regard
 * Restatement (Second) - § 283 Conduct of a Reasonable Man: The Standard
   > Unless the actor is a child, the standard of conduct to which he must conform to avoid being negligent is that of a reasonable man under like circumstances.
 
-### *Vaughan v. Menlove*
+#### *Vaughan v. Menlove*
 
 D builds a hay rick on border of property, next to Ds' cottages. He was repeatedly warned that the haystack was likely to catch fire. Instead of removing it, D builds chimney around the haystack. It eventually caught fire and burned down neighboring cottages. P sues for damages. D argues that he was using his best judgment when he ignored warnings. The court agrees that there was indeed a substantial risk of a fire. **It applies objective standard, in which the standard of caution is that of a person with average intelligence**. A subjective standard, which would take into account the capacities of the individual, would be so variable that it would be difficult to apply. Thus it didn't matter if D used is best subjective judgement-he is liable because the average person would have taken more caution.
 
-### *Roberts v. Ring*
+#### *Roberts v. Ring*
 
 7 year old boy (P) runs into the street in front of a car driven by 77 year old man (D). D hits P while traveling 4-5 mph, but hearing and sight were defective. Both parties claim the other acted negligently.  The court applied objective standard for D, despite his age and physical infirmities. Thus, court ruled D was negligent because he failed to meet the objective standard of reasonable care. If an individual cannot meet requisite standard of car associated with an activity, then they should be deterred from engaging in it.
 
-### *Daniels v. Evans*
+#### *Daniels v. Evans*
 
 P, a 19 year old "youth", was riding a motorcycle and collided with plaintiff’s car and was killed. His estate sues in negligence and is awarded damages. D appeals saying that child engaged in adult activity should be held to an adult standard of care. CoA awards judgment for D because the minor was acting as an adult since riding a motorcycle is an activity intended for adults
 
-### *Breunig v. American Family Insurance Co.*
+### Insanity and Mental Incapacity
+
+* Finding of negligence in individuals with mental illness or incapacity
+  * Third Restatement holds mental and emotional are generally not considered in determinations of negligence
+  * However, several courts recognize the *Breunig* **exception for sudden and unforeseeable mental incapacity**
+* Economic Incentives  
+  * Induce the estate of the insane person to take greater precautions
+  * However, we don't want to place an excessive cost/burden on insitutions to protect themselves from liability
+    * *Jankee v. Clarke County* - Court applied an objective standard in refusing to extend liability to a patient who had escaped from the premises of a psychiatric ward. The court wanted to minimize the level of institutionalization and found that it would be irrational to install bars on all windows.  
+
+#### *Breunig v. American Family Insurance Co.*
 
 Driver of vehicle insured by D was suddenly overcome by "insane delusion" rendering her unable to operate the vehicle. Vehicle veers off into P's car. Driver had history of mental illness and hallucinatory visions. D refuses to pay the claim, arguing the driver could not be held negligent because of the delusion. TC initially ruled for the P, asserting the driver's “sudden” insanity was foreseeable based on prior incidents. CoA rules that **insanity may be a defense to liability for negligence if an individual is suddenly overcome by a mental episode rendering them incapable of conforming his conduct to the standards of a reasonable man and which was unknown to them prior to the harm.** Sudden mental incapacity is analogous to sudden heart attack or stroke. However, since driver had some knowledge of that such incapacity was possible based on prior diagnoses and similar episodes, court affirms TC's decision.
 
-### *Fletcher v. City of Aberdeen*
+### Physical Disability
+
+* **The standard of care required of a person with a disability is that of the level of care which a reasonable person under the same or similar disability would exercise under the circumstances**
+  * Third Restatement - "conduct of an actor with a physical disability is negligent only if the conduct does not conform to that of a reasonably careful person with the same disability"
+
+#### *Fletcher v. City of Aberdeen*
+
+P is a blind man that falls into a hole after a city construction worker temporarily removed the barricade around it. P brings suit for negligence against city. City claims that standard of care does not include thinking about blind people. Court enters judgement in favor of P, holding that the city breached a duty by removing barrier. City is obliged to provide use of its streets to the physically disabled, the the standard of care extends to blind people (**heightened duty of care**). Blind man is not liable for contributory negligence because he used the level of care that a reasonable person under the same or similar disability would exercise under the circumstances.
 
 ---
+
+## Calculus of Risk
+
+A person is only negligent if behavior fails to meet the standard of reasonable care. He cannot be liable for unforeseen circumstances, or damage due to negligible risks.
+
+---
+
 
 ## Medical Malpractice
 
