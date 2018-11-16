@@ -5,6 +5,12 @@
      * Compels enforcement of one state's judicial proceedings in other state, but does not require out-of-state enforcement if determined the court issuing judgement lacked jurisdiction over the defendant
   1. Due Process Clause of the 14th Amendment - No state shall deprive any person of life, liberty, or property without due process of law
      * Has been used to prohibit excessive assertions of jurisdiction by state courts
+* Specific vs General Jurisdiction
+  * **General** - Category where court has decided entity is under its jurisdiction for **any** claim. No need to show relation between claim D's presence in the state
+  * 2 main forms of general jurisdiction
+    1. State where they are domiciled
+    1. Tag jurisdiction: Physically served process within state boundaries. Constitutionality valid exercise of personal jurisdiction
+  * **Specific**: claim in which plaintiff is seeking jurisdiction over D arises out of, or relates to, D's contacts or activities in a state. Since general jurisdiction is only available in narrow set of circumstances, specific jurisdiction is typically exercised when suing out-of-state corporation.
 
 ## Traditional Bases of Jurisdiction
 

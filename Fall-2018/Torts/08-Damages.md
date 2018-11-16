@@ -37,7 +37,17 @@ An employer is vicariously liable for the reasonably foreseeable conduct of its 
   * Some degree of cognitive awareness is a prerequisite to recovery for loss of enjoyment of life
     * If Tort Law is really about compensation (as suggested by theories of corrective justice), then is there any value to compensating an incapacitated/non-cognizant individual. Requirement that P be cognizant corroborates view that torts is indeed about compensation
     * Loss in aggregate social utility is something to be deterred, regardless if harmed individual can be compensated
+* Overcompensation
+  * How to avoid windfalls when awarding tort damages for lost-income (i.e. income that would have been taxed in the counterfactual)?
+    * Currently not taxed
 
 #### *O'Shea v. Riverway Towing Co.*
 
-P injured on harbor boat and brought suit against operator (D) for damages. Jury finds P was free from contributory negligence  
+P injured on harbor boat and brought suit against operator (D) for damages. Jury finds P was free from contributory negligence.
+
+#### *Duncan v. Kansas City Southern RR*
+
+In reviewing the award of damages for abuse of discretion, court will examine the damages awarded in factually similar cases. Ds argue that unconscious biases influencing excessive damages or awarding when not warranted.
+
+* Collateral Source Rule
+  * Jury should not be informed of D's insurance status when calculating damages

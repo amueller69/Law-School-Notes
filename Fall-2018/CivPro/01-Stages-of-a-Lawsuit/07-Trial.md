@@ -23,3 +23,6 @@
     1. An absence of evidence supporting an alternative?
     1. Acceptance of plaintiff's theory?
   * Walmart instead presents procedures that, if adhered to, would have resulted in the prompt discovery and removal of the binding
+    * Is it reasonable to believe this was an instance where employee(s)?
+  * There is an unavoidable element of indeterminacy that, as a matter of social policy, might be best answered by a jury
+    * In Dixon, appeals court made a unilateral decision to override jury decision based on a set of assumptions it used to conclude P's theory was unreasonable, raising questions.
