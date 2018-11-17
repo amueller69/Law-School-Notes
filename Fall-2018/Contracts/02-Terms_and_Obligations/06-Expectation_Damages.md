@@ -43,7 +43,15 @@
     2. If only part performance may get damages on (1) loss of market value caused by breach or (2) cost of completion, if not disproportionate to loss in value
     3. If based on condition of fortuitous event, may get value of conditional right
 * UCC
-  * 2-710 Seller’s Incidental Damages
+  * § 2-706 Seller's Resale Including Contract for Resale
+    * Seller may resell the goods concerned or the undelivered balance thereof. Where the resale is reasonable and made in good faith, the seller may recover the difference between the resale price and the contract price together with any incidental damages, but less expenses saved in consequence of the buyer's breach
+  * § 2-708 Seller's Damages for Non-acceptance or Repudiation.
+    * Measure of damages for non-acceptance or repudiation by the buyer is the difference between the market price at the time and place for tender and the unpaid contract price together with any incidental damages provided
+  * § 2-709 Action for the Price
+    * When the buyer fails to pay the price as it becomes due, seller may recover,along with incidental damages, the price:  
+    1. of goods accepted or of conforming goods lost or damaged within a commercially reasonable time after risk of their loss has passed to the buyer; and
+    1. of goods identified to the contract if the seller is unable after reasonable effort to resell them at a reasonable price or the circumstances reasonably indicate that such effort will be unavailing.
+  * § 2-710 Seller’s Incidental Damages
     * Any commercially reasonable expenses incurred in stopping delivery, in the transport, care and custody of goods after the buyer’s breach, in connection w/ return resale of the goods or otherwise resulting from the breach
   * 2-715 Buyer’s Incidental + Consequential Damages
     * Incidental: any expenses reasonably incurred in connection with handling rightfully inspection rightfully rejected goods, or in connection w/ effecting cover (if commercially reasonable), any other reasonable expense incident to the breach.

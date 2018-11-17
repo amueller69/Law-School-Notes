@@ -3,7 +3,9 @@
 ## Express Condtions
 
 * Conditions
-  * R2d §224 - An event, not certain to occur, which must occur, unless non-occurrence is excused, before performance under a contract becomes due
+  * R2d § 224 - An event, not certain to occur, which must occur, unless non-occurrence is excused, before performance under a contract becomes due
+  * R2d § 226 - An event may be made a condition either by the agreement of the parties or by a term supplied by the court.
+  * Used to protect parties against various types of risk, including those that would affect the value of future performance
   * Often an event in which a contractual party has some, albeit limited, control over
   * Uncertainty is necessary. The mere passage of time, to which there is no uncertainty, can't be conditioned on
   * Non-occurrence is not breach unless duty of party was to bring about its occurrence
@@ -12,15 +14,25 @@
 * Distinction between express conditions and promises
   * Condition requires strict compliance to be satisfied
   * Substantial performance is not applicable to conditions
+* R2d § 225 - Effects of the Non-Occurrence of a Condition
+  1. Performance of a duty subject to a condition cannot become due unless the condition occurs or its non-occurrence is excused
+  1. Unless it has been excused, the non-occurrence of a condition discharges the duty when the condition can no longer occur
+  1. Non-occurrence of a condition is not a breach by a party unless he has a duty that the condition occur
 * Express conditions are strictly enforced with the following exceptions:
   * Disproportionate Forfeiture - Nonoccurence excused to prevent forfeiture
   * Waiver - Obligor whose duty is expressly dependent on a condition may be under a duty to perform despite the nonoccurence of that condition if he has, by word or conduct, waived the right to insist on fulfillment of the condition before performing the duty
-    * R2d §84 - Waiver is effective without consideration or reliance but only if condition was immaterial
+    * R2d § 84 - Waiver is effective without consideration or reliance but only if condition was immaterial and the other party did not assume risk of its non-occurrence
   * Estoppel - A material condition can be overcome by estoppel based on obligor's expression of intention not to insist on it followed by obligee's prejudicial reliance
   * Prevention of Condition - Condition excused if the promisor wrongfully hinders or prevents condition from occurring
 * Forfeiture
-  * R2d §229 - Refers to the denial of compensation that results when the obligee loses his right to the agreed exchange after he has relied substantial, as by preparation or performance on the expectation of that exchange
-  * R2d §229 - In determining whether forfeiture is disproportionate, court must weight extent of obligee's forfeiture against importance to obligor of the risk from which he sought to be protected and the degree to which that protection will be lost if condition is excused
+  * R2d § 229 - Refers to the denial of compensation that results when the obligee loses his right to the agreed exchange after he has relied substantial, as by preparation or performance on the expectation of that exchange. In determining whether forfeiture is disproportionate, court must weight extent of obligee's forfeiture against importance to obligor of the risk from which he sought to be protected and the degree to which that protection will be lost if condition is excused. Court may excuse the nonoccurrence of a condition where disproportionate forfeiture would otherwise result, unless the conditioning event was a material part of the parties’ exchange
+* **Decision Tree**
+  1. Is it an express condition?
+  2. If yes, no need to perform if not satisfied UNLESS
+     * Waived : obligee waived the right to insist on fulfillment of the condition before performing [where non-material to the agreed exchange OR consideration received for the waiver despite fact that it is a material change]
+     * Excused
+       * Non material AND forfeiture (non-occurrence of the condition would cause disproportionate forfeiture on the part of the obligee)
+       * Party in breach contributes to non-occurrence of the condition (some courts hold possibility of prevention of the condition by the obligor was a risk assumed by the obligee)
 
 ### *enXco Development Corp v. Norther States Power Co.*
 
@@ -28,7 +40,7 @@ Contract allows termination upon condition of failure of P to obtain a license n
 
 ### *J.N.A. Realty Corp. v. Cross Bay Chelsea, Inc.*
 
-D leased commercial property to a restaurant for a 10-year term, with an option to renew for another 10-year term. The lease required the restaurant to inform D at least six months prior to the end of the lease term if it wished to exercise the option. P buys lease from restaurant and has it modified so the option would increase to 24 years. D regularly informed P about lease obligations, but never provided reminder notifications about the lease extension. P is notified two weeks before expiration that they need to vacate and D refused to honor exercise option since deadline had passed. Court holds that tenant may suffer forfeiture when negligently failing to exercise option to extend lease when it has made in good faith improvements to the property intending to renew a lease. Court must weigh gravity of the fault by negligent party with the gravity of the hardship. In such case, if landlord would not be prejudiced by the delay in notice and the lessee would sustain substantial loss otherwise, then there is equitable interest in protecting against this forfeiture. Hence, court rules the case should not have been dismissed.
+D leased commercial property to a restaurant for a 10-year term, with an option to renew for another 10-year term. The lease required the restaurant to inform D at least six months prior to the end of the lease term if it wished to exercise the option. P buys lease from restaurant and has it modified so the option would increase to 24 years. D regularly informed P about lease obligations, but never provided reminder notifications about the lease extension. P is notified two weeks before expiration that they need to vacate and D refused to honor exercise option since deadline had passed. Court holds that tenant may suffer forfeiture when negligently failing to exercise option to extend lease when it has made in good faith improvements to the property intending to renew a lease. Court must weigh gravity of the fault by negligent party with the gravity of the hardship. In such case, **if landlord would not be prejudiced by the delay in notice and the lessee would sustain substantial loss otherwise, then there is equitable interest in protecting against this forfeiture**. Hence, court rules the case should not have been dismissed.
 
 ---
 
@@ -70,8 +82,8 @@ D leased commercial property to a restaurant for a 10-year term, with an option 
         1. Extent to which delay would prevent injured party from making substitute arrangements
         1. Extent to which extent to which agreement provides for performance without delay (time is of the essence clause)
 * UCC
-  * §2-601 - Buyer's Rights
-    * Buyer can reject goods if they or the tender of delivery fail in any respect to conform to contract
+  * §2-601 - Buyer's Rights (Perfect Tender Rule)
+    * Buyer can reject goods if they or the tender of delivery fail in any respect to conform to contract, regardless of how material
       * If choose to accept, this decision is final if seller knows of acceptance
   * §2-601 - Rightful Rejection
     * Rejection of goods must be within a reasonable time after their delivery or tender. It is ineffective unless buyer notifies seller
@@ -93,6 +105,39 @@ D agrees to share stock to P in installment payments due on specific dates. Stoc
 ---
 
 ## Anticipatory Repudiation
+
+* Performance not yet due, but there are reasonable grounds to doubt the willingness or ability of the other party to perform. Anticipatory repudiation, and **advance refusal to perform**, guards against prospect of nonperformance without committing breach itself
+  * Innocent party still runs the risk of breaching if anticipatory repudiation is not justified. Safer seek assurances rather than repudiate and be liable
+* Distinguished from "material breach" (where other party is justified in treating her performance obligations as discharged) insofar as there is no total breach at the time of repudiation since performance is not yet due
+* Party that issues anticipatory repudiation can generally still retract, unless:
+  1. The other party relies and changes position
+  1. The other party notifies of acknowledgement of the repudiation (through notification or its conduct)
+* Restatement (Second)
+  * § 250 A repudiation is:
+    * A statement indicating that the obligor will commit a total, material breach OR a voluntary act which renders obligor unable or apparently unable to perform. If a statement, language must be reasonably interpreted to mean party cannot or will not perform (not merely doubtful or indefinite)
+  * § 251 Failure to Give Assurance Treated as a Repudiation
+    * Where reasonable to believe that obligor will totally breach, obligee may demand adequate assurances of performance and may, if reasonable, suspend any performance for which he has not already received the agreed exchange until he receives assurance
+    * Obligee may treat as repudiation obligor’s failure to reassure within reasonable time
+  * § 253 Breach + Discharge of Duties
+    * Where obligor repudiates a duty before committing breach and before receiving all of the agreed exchange, repudiation alone gives rise to claim for damages for total breach
+    * Where K requires performances, one party’s repudiation of duty to perform discharges other party’s remaining duties to perform
+  * § 256 Retraction of anticipatory repudiation
+    * Can retract a repudiation so long as other party has not materially changed his position in reliance on repudiation OR other party indicates to the repudiating party that he considers the repudiation final
+* UCC
+  * § 2-609 – Reasonable Assurances
+    * When reasonable grounds for insecurity (according to commercial standards), party may demand (in writing, though not necessarily if done unambiguously) adequate assurance of due performance and may suspend any performance (if commercially reasonable) for which he has not received the agreed return until receive assurance.
+    * Failure to provide assurance within reasonable time (no more than 30 days) can be construed as a repudiation
+  * § 2-610 - Anticipatory Repudiation
+    * If party 1 repudiates pre-performance, party 2 may await performance (for a commercially reasonable time), OR resort to remedy (even if he has notified repudiating party that he would await the latter’s performance and has urged retraction)
+    * In either case, can suspend own performance, but if awaiting performance beyond commercially reasonable time, can’t recover avoidable damages
+    * Not as strict as restatement when it comes to demonstrating intent not to perform: action which reasonably indicates a rejection of the continuing obligation is sufficient
+  * § 2-611 - Retraction of Anticipatory Repudiation
+    * Can retract unless aggrieved party has materially changed his position or indicated that he considers the repudiation final
+    * Retraction reinstates repudiating party’s rights under the K with due excuse + allowance to aggrieved party for any delay caused by the repudiation
+* CISG
+  * Reasonable time instead of 30 days
+  * May suspend performance if apparent other party will not perform as result of some deficiency, his creditworthiness, or conduct in preparation to perform
+  * Installment Ks are treated separately but if grounds to believe future installments will be breached, can declare future installments avoided
 
 ### *Truman L. Flatt & Sons Co. v. Schupf*
 
