@@ -95,3 +95,7 @@ D enters agreement to sell home to P. Over duration of D's ownership, there had 
 ### *Williams v. Walker-Thomas*
 
 Furniture store (D) leases items to customers who make series of installment payments. Ownership is not conferred until final payment is made, at which point title passes to customer. Lease agreements contained unique provision that every time a new item was leased by a customer, balance would be dispersed across all items previously leased. This would allow D to repossess all previous purchase by that customer. P buys stereo and defaults, resulting in D repossessing all items. P sues on unconscionability grounds and trial court grants judgement for D. CoA rejects lower court holding that it lacked power to deny enforcement on unconscionability grounds. Court defines unconscionability as the absence of meaningful choice on the part of one of the parties combined with terms that are unreasonably favorable to the other party. CoA adopts rule that **contracts containing element of unconscionability should not be enforced and the court should determine this in light of the circumstances**.
+
+---
+
+## Public Policy
