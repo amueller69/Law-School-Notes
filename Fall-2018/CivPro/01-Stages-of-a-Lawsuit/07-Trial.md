@@ -26,3 +26,6 @@
     * Is it reasonable to believe this was an instance where employee(s)?
   * There is an unavoidable element of indeterminacy that, as a matter of social policy, might be best answered by a jury
     * In Dixon, appeals court made a unilateral decision to override jury decision based on a set of assumptions it used to conclude P's theory was unreasonable, raising questions.
+
+* Reason for denying Rule 50(a) but granting Rule 50(b)?
+  * Pg. 714
