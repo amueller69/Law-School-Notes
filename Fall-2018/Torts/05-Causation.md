@@ -237,9 +237,18 @@ D chartered ship from plaintiff to transport cargo. During unloading of a ship, 
   * Same foreseeability test applied, but this time D held liable
   * Difference an outcome suggests underlying policy rationale: that of placing liability on the least cost avoider. Ps in first case were in better position to avoid damage then those in the second.
 * Harm within the Risk
-  * Cardozo narrows foreseeability in *Palsgraf*
-  * Determines whether the victim was in foreseeable range of those harmed by an action and whether it was reasonably forseeable that an action risk harm to that particular class of persons
+  * Cardozo narrows foreseeability in *Palsgraf*: must determine whether the victim was in foreseeable range of those harmed by an action and whether it was reasonably forseeable that an action risk harm to that particular class of persons
   * Under this formulation, when a D outside the class of people to which harm is reasonably foreseeable (i.e. those to whom no duty is owed) is harmed, P is not liable
+  * RTT:LPEH §29 - Limitations on Liability for Tortious Conduct
+    * > An actor's liability is limited to those harms that result from the risks that made the actor's conduct tortious.
+    * Comment a: Attempts to limit liability with greater precision that substantial-factor test, thus does not use the language
+    * Comment d
+      * "[A]n actor should be held liable only for harm that was among the potential harms—the risks—that made the actor's conduct tortious"
+      * Applying this rule requires a consideration of, "(a) the risks that made the actor's conduct tortious, and (b) whether the harm for which recovery is sought was a result of any of those risks"
+      * "The magnitude of the risk is the severity of the harm discounted by the probability that it will occur. For purposes of negligence, which requires foreseeability, risk is evaluated by reference to the foreseeable (if indefinite) probability of harm of a foreseeable severity"
+  * While this standard has an overlap with concept of duty in negligence, the latter is a question of law while scope of liability is a question of fact
+  * The standard appeals to intuitive notions of fairness and proportionality by limiting liability to harms that result from risks created by the actor's wrongful conduct, but for no others. It also provides sufficient flexibility to accommodate fairness concerns raised by the specific facts of a case.
+* Courts have increasingly moved toward adopting a foreseeability test for scope of liability in negligence cases. Currently, virtually all jurisdictions employ a foreseeability (or a stricter risk) standard for some range of scope-of-liability issues in negligence cases
 
 #### *Overseas Tankship (U.K.) Ltd. v. Mort's Dock & Engineering Co., Ltd. (Wagon Mound No. 1)*
 
@@ -251,11 +260,52 @@ P was standing on a platform owned by railroad company, D. While P is waiting fo
 
 #### *Marshall v. Nugent*
 
-D1's truck cut corner as it rounded a curve, forcing P’s car off the roadway. As P was about to re-enter road, car driven by D2 saw his path was obstructed by D1's stopped truck and attempted to stop vehicle. D's car began to skid, hit both a plank fence and P, resulting in injuries to P. P sues both D1 and D2 and D2 brings cross claim against D1. TC awards judgement in favor of both P and D2. D1 appeals, arguing it was not proximate cause of P's injury. Court holds that D1 was indeed proximate cause of P's injury. **A defendant’s negligent conduct may be the proximate cause of injuries occurring to a plaintiff after the actual negligent conduct if the risk of those injuries is a foreseeable consequence of the negligent conduct**. Thus, D1 was proximate cause of P’s harm because injury to P occurred while still dealing with “fallout” from P1's initial negligence.
+D1's truck cut corner as it rounded a curve, forcing P’s car off the roadway. As P was about to re-enter road, car driven by D2 saw his path was obstructed by D1's stopped truck and attempted to stop vehicle. D's car began to skid, hit both a plank fence and P, resulting in injuries to P. P sues both D1 and D2 and D2 brings cross claim against D1. TC awards judgement in favor of both P and D2. D1 appeals, arguing it was not proximate cause of P's injury. Court holds that D1 was indeed proximate cause of P's injury. **A defendant’s negligent conduct may be the proximate cause of injuries occurring to a plaintiff after the actual negligent conduct if the risk of those injuries is a foreseeable consequence of the negligent conduct**. Thus, D1 was proximate cause of P’s harm because injury to P occurred while still dealing with “fallout” from P1's initial negligence. If P had re-entered roadway and traffic was “normal” again, D1 would not be a proximate cause because forseeable interaction with P would be “over”.
 
-### Psyschological Harms
+#### *Virden v. Betts and Beer Construction Co*
+
+P worked in maintenance at a school. He fell from top of a ladder and sustained severe injury while reinstalling a part of the ceiling that had been displaced. He sued contractors who had installed the ceiling, alleging that their negligence was the cause of his injury (improper installation of ceiling part that needed to be reinstalled). TC granted summary judgment for Defs, holding their negligence was not proximate cause of P’s injury. D appealed. CoA identified duty of D was to construct a ceiling that did not injure anyone, but not to ensure P did repairs safely. A defendant’s negligent conduct is the proximate cause of a plaintiff’s injury if but for the negligent conduct, the injury would not have occurred, and **the conduct is a substantial factor in bringing about the injury, one that is a reasonably forseeable or probable consequence of the negligence**. In the case of P falling off a ladder, the injury sustained arose outside the scope of probable risk created by D and which shaped D's duty of care (i.e. prevent component falling from ceiling and injuring someone). Hence, TC ruled correctly.
+
+#### *Herbert v. Enos*
+
+P brought action for personal injury from electric shock he received when watering plants on D's property. P alleged that faulty repairs on D's toilet caused toilet to overflow and overflowing toilet then reacted with electrical system, causing electrical current that shocked and injured P when he touched outside water faucet. D moved for summary judgment since P’s injury was not reasonably foreseeable consequence of negligence. CoA upholds granting of summary judgement in favor of P. **Even if a P proves conclusively that his injuries were factually caused by D's negligence, he cannot recover damages if the injuries are a “highly extraordinary” or “remote” result of the negligence**. P can in no way show that electrical shock is a reasonably foreseeable consequence of an overflowing toilet, hence D is not liable.
+
+### Emotional Distress
 
 * Courts have been somewhat reluctant to award damages
   * To the extent they do allow it, there is require for physical manifestation
+* Traditional rules:
+  * No physical impact/injury, no recovery
+    * This rule was an attempt to weed out fraudulent claims
+    * Alleviates concern that allowing recovery in this class of cases would open up floodgates of litigation where damages rely on speculation and feigned injuries would be difficult to detect
+    * However, barred recovery in cases where there was a clear causal chain between D's negligence and P's emotional/psychological injury
+  * Zone of danger
+    * Person must be within the zone of danger in order to recover for emotional distress damages. Can recover for suffering arising out of immediate fear for own life
+    * Also intended to weed out fraudulent claims
+* Three Factor Test (Dillon Rule)
+  * *Dillon* court held mere possibility of fraud is not a reason to abandon principles of foreseeability and proximate cause that generally govern tort law
+  * Foreseeability of risk should control whether D is liable for emotional harms arising out of its negligence. Foreseeability factors include:
+    1. Proximity to scene of harm
+    2. Direct observation of accident
+    3. Closeness of relationship to victim
+  * Criticisms of Dillon standard
+    * Arbitrariness of the factors
+    * How do you define who is within the risk?  Who is in orbit of duty?
 * From economic standpoint
   * No good incentive to disallow when causal chain is clear
+  * However, don't want to enable windfalls or recovery for fraudulent claims
+  * *Economic Structure of Tort Law* (Posner and Landes)
+    * Negligently inflicted bystander emotional distress claims should not be allowed because:
+      1. There will be no allocative effect if liability is imposed
+      2. Administrative costs are high (case-by-case determination)
+      3. Since the amount of harm inflicted on the bystander is miniscule in comparison to that on the actual victim, **no change in the level of care will result** by allowing recovery of smaller additional claims arising out of the same negligence
+    * However, what about when administrative costs are not high and it is easy to accurately discern psychic harm?
+      *
+
+#### *Mitchell v. Rochester RR*
+
+P is waiting to board a street car. As she was about to board, one of D’s horses came running down the street and came so close that she was between two horses heads when they stopped. She was so scared that she miscarried, become unconscious, and suffered a subsequent illness. She sues for recovery. TC holds for P. D appeals. CoA reverses and dismisses, holding the plaintiff can’t recover for fright. **In the traditional rule, P may not recover damages for injuries caused by fright induced by D's negligent conduct.** P’s injuries were too remote for negligence to be proximate cause of the miscarriage.
+
+#### *Dillon v. Legg*
+
+Mother walks two daughters across the street. Due to D's negligence, his car runs over and kills one daughter right in front of the mother. P sues for compensation for loss of child, emotional and physical suffering due to shock for self, and other daughter. TC allows recovery for other daughter, but denies it for mother because she was a few feet behind, outside the "zone of immediate danger". CoA recognizes the inadequacy of this "zone of danger" rule and looks to adopt a new one. Court ultimately holds that a **D's liability for emotional distress caused to a P largely depends upon whether such harm was reasonably foreseeable**, and foreseeability can be evaluated by considering factors such as whether a plaintiff was located near the scene of an accident as opposed to some distance from it, whether the shock alleged by the plaintiff resulted from his sensory and contemporaneous observance of the accident, and whether the plaintiff and the victim were closely related, as contrasted with an absence of any relationship or the presence of only a distant relationship. In this case, it is clear that P directly witnessed fatal injuries to daughter just a few feet away, hence the emotional injuries sustained by P are of the type that could have been reasonably foreseen as a consequence of D's negligence.
