@@ -38,13 +38,7 @@ D files motion for summary judgement on grounds that there is no evidence in sup
 
 ## Scott v. Harris
 
-
 **Facts**:
-P is paralyzed after he is involved in a car crash while attempting to flee police. The officer pursuing P caused the accident while attempting to immobilize the vehicle. Video evidence is presented and D moves for summary judgement based on qualified immunity. District Court denies motion for summary judgement, finding there are issues of material fact. CoA affirms District Court. Supreme Court grants certiorari.
-
-**Ruling**:
-When the facts present by the non-moving party so blatantly contradict the record, the court does not need to hold them in a light favorable to him/her when considering a summary judgment motion. In light of video evidence, Scott’s attempts to terminate dangerous high-speed car case that threatened innocent lives did not violate the 4th Amendment, even if the motorist was a risk of serious injury or death.
-Considerations: 
-
+P is paralyzed after he is involved in a car crash while attempting to flee police. The officer pursuing P caused the accident while attempting to immobilize the vehicle. Video evidence is presented and D moves for summary judgement based on qualified immunity. District Court denies motion for summary judgement, finding there are issues of material fact. CoA affirms District Court. Supreme Court grants certiorari. Court rules that when the facts present by the non-moving party so blatantly contradict a parties claims, the court does not need to hold them in a light favorable to him/her when considering a summary judgment motion. In light of video evidence, Scott’s attempts to terminate dangerous high-speed car case that threatened innocent lives did not violate the 4th Amendment, even if the motorist was a risk of serious injury or death.
 
 ---
