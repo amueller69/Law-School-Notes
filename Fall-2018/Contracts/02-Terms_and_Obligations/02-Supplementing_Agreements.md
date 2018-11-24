@@ -21,8 +21,11 @@ P and D have agreement where P has exclusive right to sell/license D's fabric de
 
 P and D reach agreement for exclusive dealer-distributorship where P becomes exclusive distributor of D's products and D is the exclusive supplier of the products to P. Length of the agreement was for an indefinite amount of time. After sales decrease, D notifies P that the relationship is being terminated and P sues for breach. Trial court awards summary judgement for P on grounds that indefinite agreement could be terminated by either party and any time. CoA applies UCC, citing case law in which similar dealership agreements were treated for the sale of goods. UCC provides that in the absence of specific time provisions, reasonable notification to the other party is required in order to terminate the contract. Court rules that, in light of the significant investment P had in the agreement, the notice given was not reasonable as a matter of law. Court vacated the summary judgement.
 
----
+--
 
+## The Implied Obligation of Good Faith 
+
+--
 ## Warranties
 
 ### Bayliner

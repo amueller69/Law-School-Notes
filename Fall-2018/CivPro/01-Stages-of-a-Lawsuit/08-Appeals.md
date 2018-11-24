@@ -2,9 +2,6 @@
 
 ## Class Notes
 
-* 7th Amendment Re-examination clause prohibits court from reconsidering jury verdict. Rule 50(b) is a technical workaround as it is raised before verdict is reached and simply continued afterwords at court's discretion. This enables court to circumvent 7th amendment while rendering its own judgement not withstanding the verdict
-* Rule 59 - Some improper behavior/evidence that could influence jury verdict can result in court issuing new trial if it is necessary in the interest of justice. May also be issued if court deems jury inferences unreasonable based on available evidence
-  * Must be filed 28 days after verdict?
 * Circuit courts can usually only hear final ruling. This is baseline assumptions: all proceedings must come to an end meaning intermediate contentions may be precluded from immediate appeal. This comes at aa cost, as court rulings at intermediate stages of litigation have significant impact. Party must continue costly litigation.
 * Benefits:
   * No constant interruption of litigation timeline

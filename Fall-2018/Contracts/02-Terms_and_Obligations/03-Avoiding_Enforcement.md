@@ -92,10 +92,55 @@ D enters agreement to sell home to P. Over duration of D's ownership, there had 
 
 ## Unconscionability
 
+* Definition
+  * One party’s lack of meaningful choice (typically due to lack of understanding or unequal bargaining power), K terms unreasonably favor the other party
+  * Idea that a grossly unfair bargain should be unenforceable
+  * Judged as to the time the K is made; not based on developments after K formed
+* Procedural and Substantive Unconscionability
+  * Need both, but on a sliding scale
+  * **Procedural** - What went into the process of making the K; conspicuousness + intelligibility of a clause; oppression or surprise because of the unequal bargaining power (may reflect lack of choice); 
+  * **Substantive** - Terms that are “overly harsh” or one-sided; outrageously unfair so as to shock the judicial conscience; no many would accept; commercially unreasonable; applies to purpose + effect of the terms along with allocation of risk between the parties
+* R2d §208. Unconscionable Contract or Term
+  * If a court finds the contract or any clause of the contract to have been unconscionable at formation, it may refuse to enforce the contract, enforce it without unconscionable clause, or limit application of clause so as to avoid an unconscionable result
+* UCC § 2-302. Unconscionable Contract or Clause
+  1. Identical to R2d §208
+  1. When unconscionability is claimed, parties shall be given a reasonable opportunity to present evidence as to its commercial setting, purpose and effect
+
 ### *Williams v. Walker-Thomas*
 
 Furniture store (D) leases items to customers who make series of installment payments. Ownership is not conferred until final payment is made, at which point title passes to customer. Lease agreements contained unique provision that every time a new item was leased by a customer, balance would be dispersed across all items previously leased. This would allow D to repossess all previous purchase by that customer. P buys stereo and defaults, resulting in D repossessing all items. P sues on unconscionability grounds and trial court grants judgement for D. CoA rejects lower court holding that it lacked power to deny enforcement on unconscionability grounds. Court defines unconscionability as the absence of meaningful choice on the part of one of the parties combined with terms that are unreasonably favorable to the other party. CoA adopts rule that **contracts containing element of unconscionability should not be enforced and the court should determine this in light of the circumstances**.
 
+### *Higgins v. Superior Court of LA County*
+
+P's are orphaned and are taken in by family. P's are featured on television program where family's home is renovated. Contract contained arbitration clause. After show and renovation, family kicks out P's from home. P sues and family and TV producers, whom petition to enforce arbitration clause. P contends clause was unconscionable. Court identifies **two different components to unconscionability: procedural (oppression or surprise because of the unequal bargaining power) and substantive (terms that are “overly harsh” or one-sided). Both must be present in order for there to be unconscionability (though not to the same extent).** Court finds procedural - P wasn't party who drafted K (i.e. contract of adhesion), there was no attempt to highlight clause, and Ps were young, unsophisticated, and vulnerable. Court also finds substantive component - th clause is only applicable to disputes raised by P, thus D can compel arbitration but still allow themselves to seek relief in court if necessary.
+
+### *Quicken Loans, Inc. v. Brown*
+
+P reluctant to sign loan agreement, but after several calls from D urging her to do so, she signs 81 page document containing significantly different terms than those offered to her and excluded documents that would by conducive to her understanding. P defaults and brings suit. TC awards damages to P and D appeals. CoA holds that mortgage is unconscionable if party conceals important terms with the intent to mislead and induce borrower to enter agreement. Clearly an element of procedural unconscionability based on parties' relative bargaining power. CoA also found the exorbitant cost of the loan to be evidence of substantive unfairness. Hence, TC ruled properly in declaring contract unconscionable. 
+
 ---
 
 ## Public Policy
+
+* Process of contract formation is untainted but a K may still be unenforceable because the K itself violates or runs contrary to public policy and can be voided
+  * Comes up in context of family law/children + covenants not to compete. Classic example is contract to commit a crime
+  * There is also a strong policy interest in freedom of contract so there must be a well-established basis for any public policy that would deny enforcement of a K
+* R2d §178 - When a Term is Unenforceable on Public Policy Grounds
+  1. A promise or other term of an agreement is unenforceable on public policy grounds if legislation provides that it is unenforceable or the interest in its enforcement is clearly outweighed by a public policy against its enforcement [balancing test]
+  1. In weighing the interest in the enforcement of a term, take account of:
+     * the parties’ justified expectations
+     * any forfeiture that would result if enforcement were denied, and
+     * any special public interest in the enforcement of the particular term
+  1. In weighing a public policy against enforcement of a term, take account of:
+     * the strength of that policy as manifested by legislation or judicial decisions
+     * the likelihood that a refusal to enforce the term will further that policy
+     * the seriousness of any misconduct involved and the extent to which it was deliberate
+     * the directness of the connection between that misconduct and the term.
+
+### *Valley Medical Specialists v. Farber*
+
+Physician (D) with specialized area of practice enters employment contact containing a restrictive covenant (non-compete) with P. After D ends employment and begins practicing in the same area, P brings action for break and seeks injunction. Court asserts that **a covenant is not valid unless it protects some legitimate business interest outside of simply shielding a business from competition**. It also acknowledge doctor-patient relationship is special and not like ordinary commercial contexts because  free movement and competition among physicians is a prerequisite to optimal care, thus it must consider the reasonableness in each case. **A covenant is unreasonable if it provides restrictions greater than that needed to protect and employer's legitimate interests or is outweighed by the detriment to the employee or public** (e.g. patients). Court finds both to be true in this case, thus the covenant is unenforceable on public policy grounds
+
+### *In re Baby*
+
+TN Supreme Court holds that **a contract is unenforceable on public policy grounds only when its terms clearly violate the public policy of the state**. Since state took neutral legislative stance on surrogacy arrangements, there is no clear public policy prohibiting such agreements. However, surrogacy contracts may not circumvent the statutes governing a person’s status as a legal parent or the statutory procedures for terminating parental rights. Here, the portion of the juvenile court’s order terminating the surrogate's parental rights prior to childbirth in the absence of statutory authority contravenes public policy. 

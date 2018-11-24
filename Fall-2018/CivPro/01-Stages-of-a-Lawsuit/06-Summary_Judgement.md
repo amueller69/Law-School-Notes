@@ -21,24 +21,25 @@
 * Rule 56(d): If respondent believes discovery period has been inadequate when summary judgement is motioned for, allows respondent to move for additional time at court's discretion
 * Rule 56(f): Courts can make judgments independent of a motion or the party filing the motion
 * Court Interpretation of Rule 56
-  * *Celotex* is concerned with the burden of the moving party in showing the absence of issues of material fact. Moving party must go beyond simply asserting "You've got nothing", but need not show by preponderance of the evidence that opposing parties claims are false
+  * *Celotex* is concerned with the burden of the moving party in showing the absence of issues of material fact. Moving party must go beyond simply asserting "You've got nothing" or putting opposing party to its proof, but need not show by preponderance of the evidence that opposing parties claims are false
     * Example: if defendant propounded an interrogatory that said, “Identify every document you claim demonstrates, or tends to demonstrate, that Mr. Catrett was exposed to defendant’s asbestos,” and the answer to that interrogatory is, “Plaintiff is aware of no such documents,” then that interrogatory answer is a part of the discovery record that demonstrates an absence of material in support of plaintiff’s claim.
+      * Affidavits showing absence not necessary so long as standard of entry of summary judgement is satisfied.
+      * "One of the principal purposes of the summary judgement rule is to isolate and dispose of factually unsupported claims or defense...it should be interpreted in a way that allows it to accomplish this purpose"
   * In minority view, pointing out part of the record that demonstrates absence of factual basis for plaintiff's claim shifts burden on resisting party to show otherwise
+* No genuine dispute of material fact
+  * Standard depends on judge's conclusion that no reasonable jury could find for the non-moving party based on the evidence of record
+  * Deferential Standard is to draw inferences most favorable to plaintiff
+    * Neglected in *Harris* because Justice Scalia claims video resolves any dispute of facts - weakening of the standard
+      * Begging the question: summary judgement is a device used to determine whether there are disputes of material fact, but Scalia proposes court only make inferences favorable to non-moving party where facts are genuinely disputable. Absence of genuine dispute of material fact is already assumed prior to the analysis.
+  * *Harris* court takes away the decision from the jury, even when there seem to be clear issues of triable fact (video is interpreted differently throughout multiple courts)
 
 ### *Celotex Corp. v. Catrett*
 
 D files motion for summary judgement on grounds that there is no evidence in support of wrongful death claim. District court grants motion, reasoning that there was no showing D's product was linked to wrongful death. Court of Appeals holds that the summary judgement was defective because the motioning party made no effort and thus failed to produce evidence showing the absence of any issues of fact, citing FRCP Rule 56(e). Supreme court rejects CoA's interpretation of Rule 56. It affirms rule 56(c) mandates the entry of summary judgement after adequate amount of time for discovery if a party fails to sufficiently show an element essential to their claim. It also agrees **that party seeking judgement bears initial responsibility for informing the court of the basis of its motion and identifying items in the record, if any, which it believes demonstrate the absence of an issue. However, the court found no requirement, express or implied in Rule 56, for a party to make an affirmative evidentiary showing that would negate its opponent's claims**. Instead, the portion of Rule 56(e) that is at issue was intended to prevent resistance of summary judgement by opposing parties who simply reference the pleadings and conclusory assertions. The courts decision clarifies *Adickes*: Rule 56 should not be construed to mean the burden is on the moving party to produce evidence showing the absence of a genuine issue of material fact. Instead, burden on moving party is satisfied by "showing" (i.e. pointing out) that there is an absence of evidence to support the opposing party's case.
 
-## Class Notes 10/3
-
-* Deferential Standard is to draw inferences most favorable to plaintiff
-  * Neglected in Harris because Justice Scalia claims video resolves any dispute of facts
-  * Weakening of the standard
-* The court takes away the decision from the jury, even when there seem to be clear issues of triable fact (video is interpreted differently throughout multiple courts)
-
 ## Scott v. Harris
 
 **Facts**:
-P is paralyzed after he is involved in a car crash while attempting to flee police. The officer pursuing P caused the accident while attempting to immobilize the vehicle. Video evidence is presented and D moves for summary judgement based on qualified immunity. District Court denies motion for summary judgement, finding there are issues of material fact. CoA affirms District Court. Supreme Court grants certiorari. Court rules that when the facts present by the non-moving party so blatantly contradict a parties claims, the court does not need to hold them in a light favorable to him/her when considering a summary judgment motion. In light of video evidence, Scott’s attempts to terminate dangerous high-speed car case that threatened innocent lives did not violate the 4th Amendment, even if the motorist was a risk of serious injury or death.
+P is paralyzed after he is involved in a car crash while attempting to flee police. The officer pursuing P caused the accident while attempting to immobilize the vehicle. Video evidence is presented and D moves for summary judgement based on qualified immunity. TC denies motion for summary judgement, finding there are issues of material fact. CoA affirms District Court. Supreme Court grants certiorari. Court rules that **when the facts present by the non-moving party so blatantly contradict a parties claims, the court does not need to hold them in a light favorable to him/her when considering a summary judgment motion**. In light of video evidence, Scott’s attempts to terminate dangerous high-speed car case that threatened innocent lives did not violate the 4th Amendment, even if the motorist was a risk of serious injury or death. The consequence of this decision is that the court takes away the decision from the jury, even when there seem to be clear issues of triable fact on which a jury may draw on a separate body of knowledge and reasoning when weighing evidence
 
 ---
