@@ -12,7 +12,8 @@
 * Contractual disputes on the basis of insufficient consideration are rare.
   * They are of much greater academic/intellectual significance than practical.
   * If they do arise, it is typically in the context of contract modifications, options contracts, or family agreements
-  * Hence, differences in the two theories about seem to be marginal since nearly every contract will satisfy both with the exception of some family promises or edge cases that may go unenforced under the bargain theory.
+  * Hence, differences in the two theories about seem to be marginal since nearly every contract will satisfy both with the exception of some family promises or edge cases that may go unenforced under the bargain theory
+* Illusory Promise: a promise that appears on its face to be so insubstantial as to impose no obligation on the promisor. Promisor is not bound to anything - performance is optional
 
 ### [Hamer v. Sidway](https://www.westlaw.com/Document/I424105bcd7aa11d98ac8f235252e36df/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0 "Westlaw")
 
