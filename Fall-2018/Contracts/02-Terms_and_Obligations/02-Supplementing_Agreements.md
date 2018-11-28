@@ -77,45 +77,49 @@ P, an actress, enters contract with D, a movie studio, to get first look on any 
   * Seller bore nor responsibility at all for the quality of the product he was selling unless he expressly guaranteed it or gave a “warranty”
 * American courts gradually reversed rule of caveat emptor by imposing obligations on the seller as to the quality of the good she was selling
   * Implied warranties were obligations not based on actual agreement of the parties but instead imposed by law on the seller
+  * Express warranties are obligations based on sellers representation of the good and or conduct
+  * Whether or not warranty served as a "basis of the bargain" is important here
 * Parol evidence rule doesn’t create a problem for implied warranties in UCC sale of goods context but comes into play if trying to claim there was an oral express warranty not reflected in written agreement (may be allowed in if K only partially integrated)
-* Overwhelming majority of states now recognize implied warranty of habitability in residential leases
-* Outside the contexts of goods and homes, warranties are either express or non-existent
+* Common Law Implied Warranty of Workmanlike/Skillful Construction
+  * Building must be constructed in a reasonably good and workmanlike manner
+  * Independent of of the contract, thus not extinguished after builder's performance is complete, though application of this warranty to subsequent purchasers varies by jurisdiction
+  * Must be reasonably fit for the intended purposes
+* Overwhelming majority of states also recognize implied warranty of habitability in residential leases
+  * Implied warranty, e.g., that landlord comply w/ building codes, make repairs and keep premises in a fit + habitable condition
+  * Rationale: tenants dependent on landlords to maintain the condition of a building; inequality in bargaining power between landlord/tenant
+* Outside the contexts of goods (UCC) and homes/leases (common law), warranties are either express or non-existent
 * UCC
-  * § 2-313 – Express Warranty
-    1. Oral or written statement of fact that forms basis of the bargain
-    1. Presume that if seller opens their mouth, it is relied upon. Seller has to prove that buyer did not base bargain on this promise
-    1. Justified b/c of difficulty for buyer to prove and b/c seller need not open their mouth
-  * § 2-314 – Implied Warranty of Merchantability
-    1. MERCHANTS ONLY
-    1. Must be fit for the ordinary purposes for which the goods are used
-    1. To disclaim, must explicitly mention merchantability
-    1. Selling “as is” may disclaim implied warranty
-  * § 2-315 – Implied Warranty of Fitness for a Particular Purpose
+  * UCC §2-313. Express Warranties
+    1. Express warranties by the seller are created by:
+       1. Any affirmation of fact or promise made by the seller to the buyer which relates to the goods and becomes part of the basis of the bargain creates an express warranty that the goods shall conform to the affirmation or promise (unless there is clearly no reliance)
+       1. Any description of the goods which is made part of the basis of the bargain creates an express warranty that the goods shall conform to the description
+       1. Any sample or model which is made part of the basis of the bargain creates an express warranty that the whole of the goods shall conform to the sample or model (not as much when only a description is offered)
+    1. To have an express warranty, seller doesn’t need to use words like “warrant” or “guarantee” or have a specific intention to make a warranty. BUT an affirmation merely of the value of the goods or a statement of the sellers’ opinion or commendation of the goods does not crate a warranty (most common application: a written or oral express warranty given by a seller or manufacturer of a consumer product concerning the quality or nature of the goods (the car will get at least 25 miles/gallon; this washing machine is a 1999 model))
+  * UCC §2-314. Implied Warranty of Merchantability
+    * A merchant who regularly sells goods of a particular kind impliedly warrants to the buyer that the goods are of good quality and fit for the ordinary purposes for which they are used ("Merchant" must be more than selling good in isolation)
+    * To be merchantable, goods must:
+      1. Pass w/out objection in the trade under the description used in the contract
+      1. If fungible, must be of fair/average quality w/in the description [majority can’t be the worst of the sellers’ bunch
+      1. Are fit for the ordinary purposes for which such goods are used
+      1. Run, w/in the variations permitted by the agreement; relatively homogeneous
+      1. Adequately contained, packaged, and labeled as the agreement may require
+      1. Conform to the promises or affirmations of fact made on the container or label if any
+      1. Other implied warranties, unless excluded or modified, may arise from course of dealing or trade usage
+  * UCC §2-315. Implied Warranty of Fitness for a Particular Purpose (Extends beyond merchants)
+    * Where the seller at the time of contracting has reason to know any particular purpose for which the goods are required and that the buyer is relying on the seller’s skill or judgment to select or furnish suitable goods, there is unless excluded or modified an implied warranty that the goods shall be fit for such purpose
+      * Requires sellers reliance
+      * "Particular purpose” differs form the ordinary purpose for which the goods are used
+  * UCC §2-316. Exclusion or Modification of Warranties
+    1. Warranties are inoperative to the extent unreasonable
+    1. To exclude or modify the implied warranty of merchantability, the language must mention merchantability and, in the case of a writing, must be conspicuous.
+    1. Expressions such as "as is" or "with all faults" which calls buyer's attention to exclusion of warranty are sufficient. No implied warranty for defects that were discoverable through examination of goods
 
 ### Bayliner
 
-* Express warranties by the seller created:
-  **1. Any affirmation of fact/promise made by the seller relating to the goods becomes part of the basis of the bargain
-  2. Any description of the goods which becomes part of the basis of the bargain**
-  * In these cases, an express warranty is created that the goods shall conform to the description/affirmation of fact
-  * Court ruled D didn't breach express warranty because boat in the descriptions was no the specific boat purchased by P.
-  * **Statements purporting to be the sellers opinion commendation about the goods do not create a warranty.**
-  * Thus, P's statement about the quality of the boats performance did not create an express warranty.
-* **For a good to be merchantable, it must be such that it would "pass without objection in the trade" and "are fit for the ordinary purposes for which goods are used"**
-  * First element concerns whether significant segment of the buying public would object to buy the goods
-  * Second element concerned with goods are "reasonably capable of performing their ordinary functions"
-  * Court determined there was no evidence that the boat sold to P was not merchantable under that standard
-* Implied warranty for fitness of purpose is created if seller **has reason to know any particular purpose for which goods are required and the buyer is relying on seller's skills or judgement to select suitable goods**
-  * Thus to establish implied warranty for fitness of purpose, **buyer must prove he made known to seller the particular purpose for which the goods were required**
-  * Court found D did not establish P had knowledge of the fact that a boat incapable of traveling faster than 30 mph was unacceptable, thus no breach
+P buys a boat that can’t be used in a way he intended, despite high price. The specific model was not included on any of the spec sheets and he was unable to test ride. He sues for breach of warranty under three theories. An express warranty is created that the goods shall conform to the description/affirmation of fact. Court ruled D didn't breach express warranty because boat in the descriptions was no the specific boat purchased by P. **Statements purporting to be the sellers opinion commendation about the goods do not create a warranty.** Thus, P's statement about the quality of the boats performance did not create an express warranty. Moving on to issue of merchantability, **For a good to be merchantable, it must be such that it would "pass without objection in the trade" and "are fit for the ordinary purposes for which goods are used"**. The first element concerns whether significant segment of the buying public would object to buy the goods. The second element concerned with goods are "reasonably capable of performing their ordinary functions". Court determined there was no evidence that the boat sold to P was not merchantable under that standard. Finally, an implied warranty for fitness of purpose is created if seller **has reason to know any particular purpose for which goods are required and the buyer is relying on seller's skills or judgement to select suitable goods**. Thus to establish implied warranty for fitness of purpose, **buyer must prove he made known to seller the particular purpose for which the goods were required**. Court found D did not establish P had knowledge of the fact that a boat incapable of traveling faster than 30 mph was unacceptable, thus no breach under any of the theories asserted by P.
 
-### Speight
+### *Speight v. Walters Development Co.*
 
-* Implied warranty of workmanlike construction is judicially created doctrine implemented to protect home buyers against address inequity existing between them and experienced builders.
-  * Building must be constructed in a reasonably good and workmanlike manner
-  * Independent of of the contract, thus not extinguished after builder's performance is complete.
-  * Must be reasonably fit for the intended purposes.
-  * **Buyer must show that house was constructed to be occupied as a home, that it was purchased from the party who constructed it for sale, that it was not fit at the time of purchase, and the buyer was both unaware at the time of purchase and suffered damages.**
-* Application of this warranty to subsequent purchasers varies by jurisdiction
-  * Court identifies that the same public policy justifications support extending this warranty to subsequent buyers, who are in no better position to discover defects as those who purchase from builder.
-* Court argues claim not barred by statue of limitations because P could not have gained actual or imputed knowledge when the statute of limitations expired.
+P purchases home from party that originally had it constructed over a decade prior. After P takes ownership, defect which was unbeknownst to original owners leads to damage. P sues builders. **Implied warranty of workmanlike construction** is judicially created doctrine implemented to protect home buyers against address inequity existing between them and experienced builders. In order for there to be breach of this warranty, a **Buyer must show that house was constructed to be occupied as a home, that it was purchased from the party who constructed it for sale, that it was not fit at the time of purchase, and the buyer was both unaware at the time of purchase and suffered damages.** Court identifies that the same public policy justifications support extending this warranty to subsequent buyers, who are in no better position to discover defects as those who purchase from builder. Court argues claim not barred by statue of limitations because P could not have gained actual or imputed knowledge when the statute of limitations expired. Thus, D held liable for breaching this warranty.
+
+---
