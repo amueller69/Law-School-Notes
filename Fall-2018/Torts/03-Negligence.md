@@ -82,10 +82,56 @@ P is a blind man that falls into a hole after a city construction worker tempora
 
 ## Calculus of Risk
 
-A person is only negligent if behavior fails to meet the standard of reasonable care. He cannot be liable for unforeseen circumstances, or damage due to negligible risks.
+* Henry Terry on Negligence
+  * To make conduct negligent, risk involved must be unreasonably great and some injury unreasonably probable
+    * All conduct involves assuming some level of risk or possibility of injury; it is conduct that presents an unreasonable amount of risk that is allocatively undesirable
+    * Risk tradeoff varies circumstantially - large risk may be reasonable in some circumstances, small risk may be unreasonable in others
+  * Reasonableness of a given risk depends on 5 factors
+    1. Magnitude of the risk
+    1. Value or importance of that exposed to the risk (i.e. the "principle object")
+    1. The value or importance of the "collateral object", the pursuit of which is the reason for taking the risk
+    1. Utility of the risk - probability of the "collateral object" being obtained or achieved
+    1. Necessity of the risk - probability the collateral object would not have been attained without taking the risk
+  * Alex's Critique - Seemingly arbitrary without any way to quantify the factors. How does this operate at the margins? How do we know precisely when factors justifying risk outweigh opposing considerations and crosses the threshold of reasonableness? How much does moral intuition factor into this?
+* Balancing Risk
+  * *Osborne* - Cost/Benefit (benefit of driving v. risk to pedestrian)
+    * Tradeoff exists to the extent that risk can be denominated monetarily. People are willing to be compensated for incurring risk
+    * Tradeoff isn't necessarily linear - That people will spend any amount of money to avoid certain risk of death DOES NOT mean they will spend any amount of money to avoid low risks of death.
+  * *Cooley* - Utilitarian approach
+    * Consider what duty is to the greatest number of people who may suffer from greatest risk
+    * The law does not contemplate a shifting duty between potential Plaintiffs; this would be inconsistent with the fundamental conception of the duty of due care requiring the measure of care reasonable under the circumstances
+  * Criticism from Shavell
+    * Negligence rule won't affect level of activity, but only the level of due care in performing that activity
+      * Not concerned with whether one engages in activity, but level of care taken after one decides to engage in activity
+    * Strict liability, on the other hand, will induce people to consider potential losses of both their level of activity and level of care (i.e. only drive when utility gained outweighs expected liability)
+    * Is exclusion of activity-level considerations from the negligence formula inefficient?
+* Hand Formula
+  * The Hand Formula assesses negligence based on assigning values to Burden of adequate precaution, Probability that injury occurs, and Magnitude/gravity of Injury (L)
+    * B < PL
+  * The “P” Problem – Errors in Probability
+    * Cognitive bias in assumption that what happened was probable outcome in retrospect
+    * Drive P up because the only things that make torts suit actionable litigation are what has already happened
+    * *Carroll Towing* - Judge Hand notes that probability of damage was HIGH given the context (midday, wartime with lots of ships going in and out of port) 
+
+### *Blyth v. Birmingham Waterworks*
+
+Pipes are laid 25 years earlier. They explode due to extraordinary cold weather and flood P's property. P brings action to recover damages, arguing that pipe installers failed to use proper care. Court holds that an **individual is not liable for taking reasonable precautions that fail to protect against unforeseen/extreme circumstance. Ds are liable for negligence when they fail to do what is reasonably prudent under the circumstances; it is unreasonable to take extra expenses that do not aid in preventing unlikely/unforeseen harm.** Court found that, upon installation, D took care to protect against frost. However, the risk of such a severe frost was so small that it is unreasonable to expect one to take added precautions in order to protect against it. Thus, D took reasonable care and could not be held liable for accident which occurred due to extraordinary occurrence.
+
+### *Osborne v. Montgomery*
+
+P injured on bicycle after colliding with door of stopped car opened by D. Court holds D did not act negligently. **Acts that injure others but are not negligent should not result in liability because these acts conform to what great mass of people would do under the same circumstances. Ordinary care is what is required, nothing more.**
+
+### *Cooley v. Public Service Co.*
+
+Telephone company runs wires above street, fully compliant with standard safety precautions. D also ran power lines above street, though these were not insulated. Power line fell onto telephone line, burning through it and causing a loud noise which harmed P. She sues telephone company for damages. TC found for Telephone company and against D. CoA reverses, finding that D exercised appropriate precautions and that taking additional precautions to prevent injury to P would have **posed an even greater risk to and even greater number of people** (electrocution to pedestrians). Hence, D not liable
+
+### *United States v. Carroll Towing Co*
+
+Sinking of a barge when D’s tug attempted a tricky maneuver. D counter-claimed company that had chartered a barge. D raised contributory negligence as a partial defense because no one was manning the barge that could have detected and alerted someone to the sinking, thus avoiding the damages. Court held that company that chartered barge was negligent because it is not beyond reasonable expectation that a barge owner would have an employee on board during daylight hours. Owners **duty is a function of three variables: (1) probability of harm, (2) gravity of harm, and (3) the burden of adequate precautions. When the burden is less than the gravity of the loss times its probability (B<PL) individual who fails to take burden of precaution is liable for damage.** Thus, since it would not have been unduly burdensome for to properly staff, and considering enormity of the loss and reasonable possibility of the ship sinking, the company is contributorily negligent
+
+
 
 ---
-
 
 ## Medical Malpractice
 
@@ -107,3 +153,4 @@ In order to establish medical malpractice, patient must demonstrate:
 2. Proof the medical personnel failed to follow the basic norms
 3. Causal relation between failing to follow the norm and the harm to patient
 
+---
