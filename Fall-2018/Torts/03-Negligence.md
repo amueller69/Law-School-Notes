@@ -111,7 +111,7 @@ P is a blind man that falls into a hole after a city construction worker tempora
   * The “P” Problem – Errors in Probability
     * Cognitive bias in assumption that what happened was probable outcome in retrospect
     * Drive P up because the only things that make torts suit actionable litigation are what has already happened
-    * *Carroll Towing* - Judge Hand notes that probability of damage was HIGH given the context (midday, wartime with lots of ships going in and out of port) 
+    * *Carroll Towing* - Judge Hand notes that probability of damage was HIGH given the context (midday, wartime with lots of ships going in and out of port)
 
 ### *Blyth v. Birmingham Waterworks*
 
@@ -128,8 +128,6 @@ Telephone company runs wires above street, fully compliant with standard safety 
 ### *United States v. Carroll Towing Co*
 
 Sinking of a barge when D’s tug attempted a tricky maneuver. D counter-claimed company that had chartered a barge. D raised contributory negligence as a partial defense because no one was manning the barge that could have detected and alerted someone to the sinking, thus avoiding the damages. Court held that company that chartered barge was negligent because it is not beyond reasonable expectation that a barge owner would have an employee on board during daylight hours. Owners **duty is a function of three variables: (1) probability of harm, (2) gravity of harm, and (3) the burden of adequate precautions. When the burden is less than the gravity of the loss times its probability (B<PL) individual who fails to take burden of precaution is liable for damage.** Thus, since it would not have been unduly burdensome for to properly staff, and considering enormity of the loss and reasonable possibility of the ship sinking, the company is contributorily negligent
-
-
 
 ---
 

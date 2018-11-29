@@ -79,20 +79,32 @@ P, a school, hired D as employee for 2 year contract. D commutes 45 minutes to j
     * "Natural" in the sense that it accords with common experience of ordinary persons
   * Need not make special showing
 * Consequential Damages
-  * Loss that results in the non-ordinary course of events, must be forseeable 
+  * Loss that results in the non-ordinary course of events, must be forseeable
+  * Applies to collateral contracts as in *Florafax* since losses not directly arising out of contract
   * Also apply to any damage to property/persons caused by failure to conform to contractual warranties
-* R2d § 351 - Unforseeability + Related Limitations on Damages
-  * Not liable for loss that the party in breach did not have reason to foresee as a probable result of breach when the K was made. Foreseeable = in the ordinary course of things (general/direct) OR as a result of special circumstances that the breaching party had reason to know (consequential/special).
-    * Court may limit damages for foreseeable loss if justice so requires to avoid disproportionate compensation (e.g. excluding lost profits, limiting to reliance, etc.)
-* R2d § 352 - Uncertainty as a Limitation on Damages
-  * Damages not recoverable for loss beyond amount that evidence permits to be established with reasonable certainty
-* UCC § 2-710. Seller’s Incidental Damages
-  * Any commercially reasonable expenses incurred in stopping delivery, in the transport, care and custody of goods after the buyer’s breach, in connection w/ return resale of the goods or otherwise resulting from the breach.
-* UCC § 2-715 Buyer’s Incidental + Consequential Damages
-  * Incidental: any expenses reasonably incurred in connection with handling rightfully inspection rightfully rejected goods, or in connection w/ effecting cover (if commercially reasonable), any other reasonable expense incident to the breach.
-  * Consequential: any loss resulting from general or particular requirements which seller at time of contracting had reason to know and which could not be reasonably prevented by cover or otherwise (*Hadley* rule for lost profits); and
-    * Injury to person or property proximately resulting from any breach of warranty (not proximate if buyer unreasonably failed to inspect good) (not subject to foreseeability test)
-    * Particular needs of the buyer must be made known to the seller)
+* R2d
+  * § 351 - Unforeseeability + Related Limitations on Damages
+    * Not liable for loss that the party in breach did not have reason to foresee as a probable result of breach when the K was made. Foreseeable = in the ordinary course of things (general/direct) OR as a result of special circumstances that the breaching party had reason to know (consequential/special).
+      * Court may limit damages for foreseeable loss if justice so requires to avoid disproportionate compensation (e.g. excluding lost profits, limiting to reliance, etc.)
+  * § 352 - Uncertainty as a Limitation on Damages
+    * Damages not recoverable for loss beyond amount that evidence permits to be established with reasonable certainty
+    * Uncertainty of the exact amount does not preclude recovery as long as sufficient evidence shows extent of damage by just and reasonable inference
+* UCC
+  * § 2-710 - Seller’s Incidental Damages
+    * Any commercially reasonable expenses incurred in stopping delivery, in the transport, care and custody of goods after the buyer’s breach, in connection w/ return resale of the goods or otherwise resulting from the breach.
+  * § 2-715 Buyer’s Incidental + Consequential Damages
+    * Incidental: any expenses reasonably incurred in connection with handling rightfully inspection rightfully rejected goods, or in connection w/ effecting cover (if commercially reasonable), any other reasonable expense incident to the breach.
+    * Consequential:
+      * Any loss resulting from general or particular requirements which seller at time of contracting had reason to know and which could not be reasonably prevented by cover or otherwise
+      * Injury to person or property proximately resulting from any breach of warranty
+        * Not proximate if buyer unreasonably failed to inspect good
+        * Not subject to foreseeability test, though particular needs of the buyer must generally be made known to the seller
+    * § 2-719 – Contractual Modification and Limitation of Remedy
+    * Parties can agree to provide for remedies in addition to or instead of those provided by UCC and may limit or alter the measure of damages
+    * Resort to provided remedies is optional unless parties expressly agreed it to be the exclusive remedy—in which case it is. If the provided remedy fails its essential purpose, have UCC to back up
+    * May limit or exclude consequential damages unless unconscionable
+* CISG Art. 74
+  * Will allow damages for loss and loss of profit, as long as foreseeable at the time of conclusion of the contract
 
 ### *Hadley v. Baxendale*
 
@@ -100,4 +112,45 @@ Crank shaft in a mill owned by P broke, causing entire milling operation to shut
 
 ### *Florafax International, Inc. v. GTE Market Resources, Inc.*
 
-Floral products marketer enters agreement with P, a floral clearinghouse, whereby P will handle direct consumer orders and place corresponding outbound orders. Contract was initially for 1 year w/ a month-to-month renewal thereafter and termination rights with 60 days notice, terminable at any time. P subcontracts D to provide telecom services for 2 years. D was aware of P's contract and knew it would be challenged by the volume of calls, but accepted the work despite questions around its profitability. D ultimately unable to handle the volume and evidence that they made little attempt to increase its capacity. As result of D's poor performance, floral marketer terminates agreement with P. P terminates its agreement with D and is forced to assume D's responsibilities. P filed suit against D seeking to recover lost profits from other contract and other damages. Court awards incidental damages incurred by P in setting up own call center to assume D's responsibilities following the breach. Court holds that if there was reason 
+Floral products marketer enters agreement with P, a floral clearinghouse, whereby P will handle direct consumer orders and place corresponding outbound orders. Contract was initially for 1 year w/ a month-to-month renewal thereafter and termination rights with 60 days notice, terminable at any time. P subcontracts D to provide telecom services for 2 years. D was aware of P's contract and knew it would be challenged by the volume of calls, but accepted the work despite questions around its profitability. D ultimately unable to handle the volume and evidence that they made little attempt to increase its capacity. As result of D's poor performance, floral marketer terminates agreement with P. P terminates its agreement with D and is forced to assume D's responsibilities. P filed suit against D seeking to recover lost profits from other contract and other damages. Court awards incidental damages incurred by P in setting up own call center to assume D's responsibilities following the breach. Court also asserts that **future/anticipated profit is recoverable in breach actions if: 1) the loss is within the contemplation of parties at time of formation; 2) the loss flows directly or proximately from the breach; and 3) the loss is capable of reasonable and accurate measurement/estimate.** Here, court found that D clearly had within its contemplation the potential for lost profits. D goes on to contend it should only be liable for lost profits over the 60-day notification period. Court recognizes that, upon a breach of contract claim, no party may recover more in lost profits or other damages than that party could have gained by full performance of that contract. Thus, **to recover lost profit damages, party must show that such profits were reasonably certain to have been made absent the breach.** Court holds P provided sufficient evidence to establish such reasonable certainty, as its agreement with the floral marketer was intended, by both parties, to be a long/continuous one. Thus, court permits recovery of consequential damages for lost profits over the remaining duration of P and D's contract.
+
+---
+
+## Restrictions on Expectation Damages: Mitigation
+
+* Mitigation is a restriction on recovery, not technically a duty
+  * One can freely accumulate avoidable losses, they just won't be able to recover
+  * Court his interests in the reduction of social waste
+* Failure to mitigate in employment context is an affirmative defense w/ burden on employer to prove availability substitute employment and no reasonable mitigation efforts taken 
+* If unsure of breach, may use reasonable assurances or declaratory judgment to determine whether you will need to mitigate
+  * Continuing performance where there is substantial reason to believe K has been repudiated may result in accumulating unrecoverable damages
+* If volume seller, no real duty to mitigate, damages based off of lost profits resulting from breach
+  * Reselling goods to avoid loss where other goods in inventory could have been sold instead results in loss of volume of business
+  * "If he would have entered into both transactions but for the breach, he has “lost volume” and a second transaction is not a substitute for the first."
+  * This obviously doesn't account for fixed costs (contribution margin is a better term here than "profit") nor does it apply where what is being sold has limited capacity (e.g. personal services)
+* R2d § 350 - Avoidability as a Limitation on Damages
+  * Injured party can’t recover for loss that it could have avoided w/out undue risk, burden, or humiliation - must make reasonable efforts to avoid loss
+    * Can recover where reasonable efforts were unsuccessful
+    * Lost Volume Seller principle recognized in the comments
+* UCC
+  * § 2-708. Sellers Damages for Non-Acceptance or Repudation
+    * You get incidental damages for costs reasonably incurred minus any credit you got for proceeds of resale (with exception of lost volume sellers)
+  * § 2-715: Buyer’s Damages
+    * Consequential: any loss which could not be reasonably prevented by cover or otherwise
+    * Imposes good faith requirement
+* CISG Article 77
+  * Non-breaching party has a duty to mitigate the loss, including loss of profit. Breacher may claim reduction in damages in the amount of loss that should have been mitigated but there was failure to do so
+
+### *Rockingham v. Luten Bridge Co.*
+
+P, a contractor, enters K with a county (D) to construct a bridge. County commission reverses its position on the bridge contract, but P proceeds with construction in hope that a change in the makeup of the commission will result in the restoration of the agreement. County had neither desire nor any use for a completed bridge, but P completes bridge anyways and brings suit for breach to recover full contractual price. Court asserts that **in the case of a breach while the contract is still executory, non-breaching party has a duty to mitigate. It cannot simply continue performance and allow the damages to pile up.** This is an extension of the general rule that breaching party should not be held liable for damages that need not have been incurred. Thus, court holds that damages should be limited to those incurred up to the point of the repudiation plus profit that would have been realized upon its completion.
+
+### *Maness v. Collins*
+
+P sells manufacturing operation to D, but is retained by new ownership to serve in a managerial role. He enters 3 year employment contract which includes non-compete provision. Leadership installed by new owners undermines P in his new role to the point where he becomes severely disgruntled. Relations between P and D continue to sour and P is ultimately let go. P spends time unemployed constructing himself a new home. He brings suit for breach of the employment contract. D contends that there was just cause in P's termination and, even if there was breach, that he failed to mitigate his damages. Court finds that there was no cause behind P's termination. Moving on to the issue of mitigation, court holds that **failure to mitigate damages arising out of termination is an affirmative defense. Breaching party must show the availability of suitable and comparable substitute employment and that P failed to take reasonable diligence in his pursuit of employment.** The terminated party is not allowed to simply sit idly. Plaintiff is precluded from recovering only if proof shows that the amount he would have earned equaled or exceeded amount he would have earned under the original employment K. Since D provides no evidence that suitable/comparable work was available and that P could have obtained it through reasonable efforts, court holds D liable.
+
+### *Jetz Service Co. v. Salina Properties*
+
+P is laundry equipment service from which P leases machinery for its building and for which P receives monthly payment. Months into contract, D breaches by replacing P's machines with its own. P is forced to move machinery into warehouse where it sits idly until eventually being re-serviced elsewhere.  D breaches b/c sees how much money they can make. P sues for entirety of lost profits. Court applies traditional reasonable certainty rule when determining damages for lost profit. However, **instead of limiting the recoverable damages to lost profits during the period where machines sat idly, court uses "lost volume seller" measure of damages which refers to lost volume of business that a non-breaching seller incurs on buyers breach. When seller resells entity he expected to sell to original buyer, he deprives himself of what would be a separate additional sale by merely substituting the buyers.** Since P had other machines it could have used to satisfy sale to other party, awarding damages minus loss avoided doesn't capture net profit that would have resulted if contract had been fully performed. Thus, court rules P should be awarded the expected profits from contract following the breach
+
+---
