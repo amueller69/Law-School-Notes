@@ -2,6 +2,95 @@
 
 ## Interpretation
 
+* Interpretation
+  * Refers to the process by which a court gives meaning to contractual language when the parties attach materially different meanings to that language
+  * Modern definition collapses, into a single term, both the process of determining the meaning parties attributed to contractual language and judicial role in determining the legal effect of the language
+  * Problems in this area are focused on what the purpose of the contract is, what the subjective intents of the parties are, and what evidence to use in interpreting the contract
+* Historical Approach (Subjective)
+  * Where parties attribute materially different meanings to language, contract was not formed because formation required a meeting of the minds
+  * Holmes argues for an external approach to interpretation because subjective one was to difficult to enforce and external method is fair because a speaker should always expect words to be understood in accordance with normal usage
+* Objective Approach
+  * Williston - Words and conduct should be interpreted in accordance with the standard of a reasonable person familiar with the circumstances rather than in accordance with the subjective intention of either party
+  * Modern law has departed from the extreme objectivist approach - possible to interpret a contract in a way in which neither party intended nor desired
+* Modern Contract Law Approach
+  * Corbin layed foundation: In interpreting K, court should answer two questions:
+    1. Whose meaning controls the interpretation of the contract
+    1. What was that party's meaning
+  * This would prevent court from imposing meaning that differed from what both parties understood
+  * R2d § 201 adopts this approach
+  * Even after applying array of interpretation tools, may be appropriate for court so conclude that the parties did not intend to make an enforceable agreement
+    * However, where it is clear that parties intended to be bound or where there has already been a good deal of performance, rescission may be inappropriate
+
+### Rules
+
+* R2d
+  * §201 - Whose Meaning Prevails
+    1. Where the parties have attached the same meaning to a promise/agreement/term; it is interpreted according to that meaning.
+    1. Where the parties have attached different meanings to a promise/agreement/term, it is interpreted according to the meaning attached by one of them if at the time the agreement was made:
+       * That party did not know/have reason to know of any different meaning attached by the other
+       * The other knew/had reason to know meaning attached by the first party
+    1. If neither party knew/had reason to know the other’s different meaning, there is no contract due to lack of mutual assent
+  * § 202 – Rules in Aid of Interpretation
+    1. Words and other conduct interpreted in light of circumstances; principle purpose of the parties (if ascertainable) given great weight
+    1. Interpret the contract as a whole, including supplements
+    1. Language is interpreted in accordance with generally prevailing meaning, or in accordance with usage in respective technical field if technical/term of art, unless otherwise stated
+    1. Use, with great weight, course of performance to understand nature of contract where agreement involves repeated occasion for performance or objection by knowledgeable party
+    1. Interpret intent as consistent w/ course of performance, dealing, and trade usage wherever reasonable
+  * § 203 - Standards of Preference in Interpretation
+    * In interpreting agreement, following standards of preference are generally applicable:
+      * An interpretation which gives a reasonable, lawful, and effective meaning to all the terms is preferred to an interpretation which leaves a part unreasonable, unlawful, or of no effect
+      * Hierarchy of weight: express terms \> course of performance \> course of dealing \> trade usage
+      * Specific terms and exact terms are given greater weight than general language
+      * Separately negotiated or added terms are given greater weight than standardized terms or other terms not separately negotiated
+  * § 204 - Supplying an Omitted Essential Term
+    * When the parties have not agreed with respect to a term which is essential to determining rights/obligations, term reasonable in light of circumstances is supplied by the court
+  * § 206 - Interpretation Against the Draftsman
+    * In choosing among the reasonable meanings, generally prefer the meaning that operates against the party who supplies the words/writing
+      * The application of this varies by the circumstances and jurisdiction. Some don't see need where both parties are sophisticated. Others limit to cases where one party is solely responsible for language
+  * § 207 - Interpretation Favoring the Public
+    * In choosing among the reasonable meanings of a promise/agreement/term, generally prefer a meaning that serves the public interest
+  * § 211 - Standardized Agreements
+    1. Where party signs/manifests assent to a writing and has reason to believe that like writings are regularly used to embody terms of agreements of the same type, he adopts the writing as an integrated agreement
+    1. Term of standardized agreement, where reasonable, interpreted as treating alike all those similarly situated
+    1. Where other party has reason to believe the other party manifesting such assent would not do so if they knew writing contained a particular term, the term is not part of the agreement
+  * § 222 - Usage of Trade
+    1. Usage of trade is a usage so regularly observed in place/field as to justify expectation that it will be observed with respect to a particular agreement
+    1. Unless otherwise agreed, a trade usage in the field that parties are engaged in or a usage of which they know (or have reason to) gives meaning to their agreement
+  * § 223 – Course of Dealing
+    * Course of dealing is sequence of conduct concerning previous transactions between the parties to a particular transaction that is fairly to be regarded as establishing a common basis of understanding for interpreting their expressions and other conduct. Gives meaning to agreement unless otherwise agreed.
+* UCC § 1-303 – Course of Performance, Dealing, and Usage of Trade
+  1. A course of performance is same as in R2d
+  1. Course of dealing is same as in R2d
+  1. A trade usage is same as in R2d
+  1. Course of dealing, course of performance, and usage of trade are relevant to ascertaining particular meaning of terms and may supplement or qualify them
+  1. Course of dealing, course of performance, and usage of trade must be construed whenever reasonable as consistent with each other. If they conflict: express terms \> course of performance \> course of dealing \> trade usage
+  1. A course of performance is relevant to show a waiver or modification of any term inconsistent with the course of performance
+  1. Evidence of a relevant trade usage offered by one party is not admissible unless that party has given the other party notice that the court finds sufficient to prevent unfair surprise to the other party
+
+### Canons of Interpretation: Standard Maxims
+
+Use these to figure out the starting question of what is the meaning of an ambiguous express prior to proceeding down the hierarchy of weight:
+
+1. Noscitur a sociis. The meaning of a word in a series is affected by others in the same series; or, a word may be affected by its immediate context. Look to the terms in a list to determine the meaning of an ambiguous term
+1. Ejusdem generis. A general term joined w/ a specific one will be deemed to include only things that are like the specific one. (cattle, hogs, and other animals. Wouldn’t include house-dog but might include sheep being raised for market)
+1. Expressio unius exclusio alterius. If one or more specific items are listed, w/out any more general or inclusive terms, other items, although similar in kind, are excluded. (“I’m selling my cattle and hogs.” Excludes sheep and house-dog; If regulating X, Y, Z  means you are not regulating D)
+1. Ut magis valeat quam pereat. An interpretation that makes the contract valid is preferred to one that makes it invalid. (like canon of constitutional avoidance)
+1. Omnia praesumuntur contra proferentem. I cut you pick. Interpretation Against the Draftsman if there are two reasonable meanings. (incentivizes parties to draft fairly. Employed very vigorously in a form K. Not employed vigorously where a K has gone back and forth a lot)
+1. Interpret contract as a whole. Every term should be interpreted as part of the whole and not as if isolated from it. (“chicken” meant same thing each time term appeared in K)
+1. Purpose of the parties. Principal/common purpose will govern. If purposes obscure, go to “plain meaning.”
+1. Specific provision is exception to a general one. If two provisions of a K are inconsistent and if one is “general” enough to include the specific situation, the specific provision will be deemed to qualify the more general one (and to control in attributing meaning).
+1. Handwritten or typed provisions control printed provisions
+1. Public interest preferred. That interpretation which favors the public interest controls
+   * Modern courts have held that usage of same term in statute/legislation is not completely determinative
+
+### *Frigaliment Importing, Co. v. B.N.S. International Sales Corp.*
+
+Dispute over the term chicken after D ships P chickens that didn't meet its expectations. P contends chicken means "broiler" (young, baking chicken) While D contends chicken is a general term which also encompasses fowl (old, stewing chicken). Court holds that P failed to meet burden of showing that the term was used in the narrow sense. It first recognizes ambiguity of the term and looks to the rest of the contract (other express terms) to aid in its interpretation. This doesn't resolve ambiguity. Nor are there any course of performance/dealings that can aid in interpretation. Court uses combination of trade usage and definition to ascertain an objective meaning. **A party is bound by the other's meaning if that party had reason to know the other party's meaning while the other had no reason to know of the different meaning ascribed by the first party**. Here, the objective meaning coincides with D's subjective understanding and it had no reason to believe that P's own understanding departed from the objective one.
+
+### *C & J Fertilizer, Inc. v. Allied Mutual Insurance Co.*
+
+P's plant burglarized. Insurance policy defined “burglary” as requiring visible damage to exterior of premises. Visible damage was to interior, though outside door could have been forced open without leaving visible marks. P contends it was obvious this was an outside job. Purpose of contract was to cover only external burglary, not internal employee theft. Court recognizes this is a case involving an insurance contract of adhesion, where the majority rule has held that the insured is not bound to know its contents. Here, whatever terms buried in such a contract do not eviscerate the reasonable meaning of such a term. **Where other party has reason to believe that the party manifesting assent would not do so if he knew that the writing contained a particular term, the term is not part of the agreement**. Such reason includes a bizarre/oppressive definition of a term or evisceration of a terms standard meaning. There was nothing that would lead P to reasonably expect "third party burglary" to require the appearance of visible marks on the exterior. Thus, the objectively reasonable expectation should be enforced and the policy should cover.
+
 ---
 
 ## Parol Evidence Rule
