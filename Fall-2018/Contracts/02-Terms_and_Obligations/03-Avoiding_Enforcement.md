@@ -98,7 +98,7 @@ D enters agreement to sell home to P. Over duration of D's ownership, there had 
   * Judged as to the time the K is made; not based on developments after K formed
 * Procedural and Substantive Unconscionability
   * Need both, but on a sliding scale
-  * **Procedural** - What went into the process of making the K; conspicuousness + intelligibility of a clause; oppression or surprise because of the unequal bargaining power (may reflect lack of choice); 
+  * **Procedural** - What went into the process of making the K; conspicuousness + intelligibility of a clause; oppression or surprise because of the unequal bargaining power (may reflect lack of choice);
   * **Substantive** - Terms that are “overly harsh” or one-sided; outrageously unfair so as to shock the judicial conscience; no many would accept; commercially unreasonable; applies to purpose + effect of the terms along with allocation of risk between the parties
 * R2d §208. Unconscionable Contract or Term
   * If a court finds the contract or any clause of the contract to have been unconscionable at formation, it may refuse to enforce the contract, enforce it without unconscionable clause, or limit application of clause so as to avoid an unconscionable result
@@ -116,7 +116,7 @@ P's are orphaned and are taken in by family. P's are featured on television prog
 
 ### *Quicken Loans, Inc. v. Brown*
 
-P reluctant to sign loan agreement, but after several calls from D urging her to do so, she signs 81 page document containing significantly different terms than those offered to her and excluded documents that would by conducive to her understanding. P defaults and brings suit. TC awards damages to P and D appeals. CoA holds that mortgage is unconscionable if party conceals important terms with the intent to mislead and induce borrower to enter agreement. Clearly an element of procedural unconscionability based on parties' relative bargaining power. CoA also found the exorbitant cost of the loan to be evidence of substantive unfairness. Hence, TC ruled properly in declaring contract unconscionable. 
+P reluctant to sign loan agreement, but after several calls from D urging her to do so, she signs 81 page document containing significantly different terms than those offered to her and excluded documents that would by conducive to her understanding. P defaults and brings suit. TC awards damages to P and D appeals. CoA holds that mortgage is unconscionable if party conceals important terms with the intent to mislead and induce borrower to enter agreement. Clearly an element of procedural unconscionability based on parties' relative bargaining power. CoA also found the exorbitant cost of the loan to be evidence of substantive unfairness. Hence, TC ruled properly in declaring contract unconscionable.
 
 ---
 
@@ -143,4 +143,6 @@ Physician (D) with specialized area of practice enters employment contact contai
 
 ### *In re Baby*
 
-TN Supreme Court holds that **a contract is unenforceable on public policy grounds only when its terms clearly violate the public policy of the state**. Since state took neutral legislative stance on surrogacy arrangements, there is no clear public policy prohibiting such agreements. However, surrogacy contracts may not circumvent the statutes governing a person’s status as a legal parent or the statutory procedures for terminating parental rights. Here, the portion of the juvenile court’s order terminating the surrogate's parental rights prior to childbirth in the absence of statutory authority contravenes public policy. 
+TN Supreme Court holds that **a contract is unenforceable on public policy grounds only when its terms clearly violate the public policy of the state**. Since state took neutral legislative stance on surrogacy arrangements, there is no clear public policy prohibiting such agreements. However, surrogacy contracts may not circumvent the statutes governing a person’s status as a legal parent or the statutory procedures for terminating parental rights. Here, the portion of the juvenile court’s order terminating the surrogate's parental rights prior to childbirth in the absence of statutory authority contravenes public policy
+
+---

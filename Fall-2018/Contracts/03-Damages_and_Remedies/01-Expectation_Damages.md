@@ -19,7 +19,7 @@
 * Components of Calculation
   * Loss in value: value of what should have been received - value of what was actually received
   * Other loss: consequential + incidental damages
-    * Consequential damages include injury to person or proerty caused by the breach
+    * Consequential damages include injury to person or property caused by the breach
     * Incidental damages include additional costs incurred after the breach in a reasonable attempt to avoid loss (costs of trying to mitigate)
   * Cost avoided: Savings from avoiding expenditure that would have been incurred if no breach
   * Loss avoided: Loss avoided by the salvage/reallocation of resources devoted to original contract
@@ -121,7 +121,7 @@ Floral products marketer enters agreement with P, a floral clearinghouse, whereb
 * Mitigation is a restriction on recovery, not technically a duty
   * One can freely accumulate avoidable losses, they just won't be able to recover
   * Court his interests in the reduction of social waste
-* Failure to mitigate in employment context is an affirmative defense w/ burden on employer to prove availability substitute employment and no reasonable mitigation efforts taken 
+* Failure to mitigate in employment context is an affirmative defense w/ burden on employer to prove availability substitute employment and no reasonable mitigation efforts taken
 * If unsure of breach, may use reasonable assurances or declaratory judgment to determine whether you will need to mitigate
   * Continuing performance where there is substantial reason to believe K has been repudiated may result in accumulating unrecoverable damages
 * If volume seller, no real duty to mitigate, damages based off of lost profits resulting from breach
@@ -133,7 +133,7 @@ Floral products marketer enters agreement with P, a floral clearinghouse, whereb
     * Can recover where reasonable efforts were unsuccessful
     * Lost Volume Seller principle recognized in the comments
 * UCC
-  * § 2-708. Sellers Damages for Non-Acceptance or Repudation
+  * § 2-708. Sellers Damages for Non-Acceptance or Repudiation
     * You get incidental damages for costs reasonably incurred minus any credit you got for proceeds of resale (with exception of lost volume sellers)
   * § 2-715: Buyer’s Damages
     * Consequential: any loss which could not be reasonably prevented by cover or otherwise
@@ -152,5 +152,30 @@ P sells manufacturing operation to D, but is retained by new ownership to serve 
 ### *Jetz Service Co. v. Salina Properties*
 
 P is laundry equipment service from which P leases machinery for its building and for which P receives monthly payment. Months into contract, D breaches by replacing P's machines with its own. P is forced to move machinery into warehouse where it sits idly until eventually being re-serviced elsewhere.  D breaches b/c sees how much money they can make. P sues for entirety of lost profits. Court applies traditional reasonable certainty rule when determining damages for lost profit. However, **instead of limiting the recoverable damages to lost profits during the period where machines sat idly, court uses "lost volume seller" measure of damages which refers to lost volume of business that a non-breaching seller incurs on buyers breach. When seller resells entity he expected to sell to original buyer, he deprives himself of what would be a separate additional sale by merely substituting the buyers.** Since P had other machines it could have used to satisfy sale to other party, awarding damages minus loss avoided doesn't capture net profit that would have resulted if contract had been fully performed. Thus, court rules P should be awarded the expected profits from contract following the breach
+
+---
+
+## Nonrecoverable Damages
+
+* Attorney’s fees, emotional distress (plus other non-economic injuries), and punitive damages are usually not compensable
+  * Generally justified  because the prevent windfalls to the non-breaching party and take away from the stability of risk allocation in contract
+  * However, many times this may lead to drastically undercompensating parties and could be justified as foreseeable – consequential damages
+
+### Rules
+
+* R2d
+  * § 353 - No emotional distress damages unless:
+    * Breach also caused bodily harm
+    * Emotional harm is a particularly likely result of breach due to nature of the contract or breach (medical contexts or where emotional concerns are essence of the contract)
+  * § 355 - May not recover punitive damages unless an accompanying tort allows for it (e.g. (personal injury, fraud in the inducement, or breach of fiduciary duty)
+    * Rationale: Would put P in better position than before (windfall) and culpability is not a consideration in contract law
+
+### *Erlich v. Menezes*
+
+Court does not permit recovery of damages for emotional distress arising out of breach of contract to construct a home. **Breach of contract is tortious only when it violates a duty independent of the contract. Tort damages allowed in contract cases where there is physical injury or in specific types of contracts due to public policy reasons (i.e. bad faith in insurance), but not where just a negligent breach. No emotional distress recovery where mere property damage or economic injury**.
+
+### *Zapata v. Hearthside Baking*
+
+P, a cookie tin manufacturer, sues D, a cookie baker, for breach after D refused to pay $900,000 in past orders to get new contract leverage. P also attempts to recover attorney fees. CISG does not allow for recovery of attorney’s fees in America even though foreseeable w/ breach. Punitive damages not allowed except in torts and attorney fees can't be used as a pretext for making breaching party pay punitive damages
 
 ---

@@ -1,6 +1,6 @@
 # Consequences of Nonperformance
 
-## Express Condtions
+## Express Conditions
 
 * Conditions
   * R2d § 224 - An event, not certain to occur, which must occur, unless non-occurrence is excused, before performance under a contract becomes due
