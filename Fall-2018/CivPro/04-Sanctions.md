@@ -32,3 +32,5 @@ Party in suit motions for sanctions, contending that the opposing party brought 
 ### *Revson v. Cinque & Cinque*
 
 Attorney for party (P) sent an aggressive letter to get client files from D, who previously represented P in lawsuit but was dismissed after dispute over fees. At one point in the letter, P's attorney threatens to perform the legal equivalent of a “proctology exam” and disrupt D's business with other clients, among other things. Dispute eventually leads to litigation where the lower court imposed sanctions on P's attorney not P, since the attorney represented to the court that he was responsible for litigation decisions and strategy. Additionally, the sanctions imposed by lower court did not fall under Rule 11, since the conduct was not part of any filing, but court's inherent authority under statute. CoA reviewed decision and held that, even though behavior is distasteful, it’s not sanctionable under the circumstances. The conduct, despite being obnoxious and malicious, had some merit based on the context (need to quick receipt of files, D's performance as an attorney being at issue in the case, etc.)
+
+---

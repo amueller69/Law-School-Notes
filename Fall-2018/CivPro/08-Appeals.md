@@ -21,7 +21,7 @@
          * Example: "don't clear the forest until the case is completed"
          * Is exercised frequently and appellate court obligated to hear it
     1. Section 1292(b) Discretionary appeals
-       * Order involves a "**controlling question of the law**" as to which there are "**substantial grounds for difference in opinion**" and which immediate appeal of may materially advance resolution of the litigation
+       * Order involves a "controlling question of the law" as to which there are "substantial grounds for difference in opinion" and which immediate appeal of may materially advance resolution of the litigation
        * Trial court has discretion over whether this section is applicable to the question, and if so, the CoA has discretion to take for appeal
          * Neither decision is reviewable
   * **Extraordinary writs**

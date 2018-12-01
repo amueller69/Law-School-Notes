@@ -20,12 +20,12 @@
 
 ## Trial Procedure
 
-* **Pre-Trial Order**
+* Pre-Trial Order
   * Constructed in pretrial conference following discovery. Rule specifies the order can only be modified to avoid "manifest injustice" The reasoning behind this is to eliminate potential for a "trial-by-surprise"
   * Parties will establish how many days trial will be, what witnesses, expert testimony, and documents the parties want to present, the admissibility of evidence. This happens as close to the day of trial as possible
   * Any evidence offered that is not included in the Final Pretrial Order may be excluded from the trial if the opposing party objects to its introduction
   * Inclusion of witness, evidence, etc. does not obligate parties to present them. Instead, it maps out everything that *can* happen in trial
-* **Voir Dire**
+* Voir Dire
   * People called for jury service show up in the venire of potential jurors, fill out a questionnaire, are asked questions by either the judge or the lawyers in a process called voir dire (“speaking the truth”).
   * Purpose is to determine if the prospective jurors have personal knowledge of facts/circumstances surrounding the case, including any personal relationships with either party, and to see if the juror can be impartial and make decisions based on the evidence presented rather than coming in with a preconceived idea of what party should win
   * Jurors are stricken “for cause” if they have some connection to the case or cannot be impartial. Unlimited number of these challenges
