@@ -9,13 +9,12 @@
 * Clickwrap terms
   * Before completing the purchase of the product, the purchaser must scroll through the seller’s terms of sale and click an “I agree” button. If the purchaser refuses to do so, the seller will not complete the sale
   * Treat additional term as an accepted part of the K unless unconscionable
-    * Rationale - Assume that if you clicked, you made a choice + made an autonomous decision
-
-Shrinkwrap agreements = purchaser orders a product and receives it. Often, but not always, a warning on the outside of the package informs the purchaser that the product contains the seller’s contract terms + that the use of the product constitutes the purchaser’s agreement with those terms. After removing the wrapping, the purchaser can inspect the product and review the contract terms
+    * Rationale - assume that if you clicked, you made a choice + made an autonomous decision
+* Shrinkwrap agreements = purchaser orders a product and receives it. Often, but not always, a warning on the outside of the package informs the purchaser that the product contains the seller’s contract terms + that the use of the product constitutes the purchaser’s agreement with those terms. After removing the wrapping, the purchaser can inspect the product and review the contract terms
   * Terms tell purchaser that he may return product to seller w/in a certain # of days
   * Terms also say that if the purchaser does not return the product w/in that period of time, the purchaser agrees to the seller’s contract terms.
   * Majority rule: treat as part of the K. Minority rule: not part of the K
-  * Rationale: practically forced to see terms/agreement; presume constructive knowledge
+    * Rationale - practically forced to see terms/agreement; presume constructive knowledge
 
 Focus is on the idea of consent. If there is consent (even if we know that no one reads), uphold. Majority courts are not compelled by disparities in bargaining power. They favor the seller’s efficiency interest (selling to so many individuals). Courts feel they should leave the issue of unequal bargaining power to the legislature
 
