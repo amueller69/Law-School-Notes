@@ -8,10 +8,6 @@
      * Person acting officiously (i.e. "thrusting" their services on another and demanding payment) is not entitled to restitution
   1. Circumstances where the retention of benefits without recompense would be unjust to another person
      * Person acting without intent to charge (i.e. offered as a gift) is also not entitled to restitution
-* Restatement (Third) on Restitution:
-  * § 1 - A person who is unjustly enriched at the expense of another is subject to liability in restitution
-  * § 20/21 - Protection of Another’s Life or Health/Property
-    * A person who provides care required for the protection of another’s health or property is entitled to restitution to the extent needed to prevent unjust enrichment (measured by a reasonable charge for the services in question), if the circumstances justify (i.e. emergency/necessary services OR reasonable to assume person would consent) the decision to intervene without request
 * Contract implied in law
   * An obligation imposed by law, regardless of either parties assent, applied as a legal fiction to remedy unjust enrichment
   * Commonly referred to as a quasi-contract, though restitution and unjust enrichment don't always arise in contractual contexts
@@ -20,6 +16,13 @@
   * Distinct from restitutionary claim insofar as the party receiving the benefit requested it
   * Law infers a bargain to pay
   * Like express contracts, contracts implied in fact are real contracts
+
+### Rules - Restitution
+
+* **Restatement (Third) on Restitution**:
+  * § 1 - A person who is unjustly enriched at the expense of another is subject to liability in restitution
+  * § 20/21 - Protection of Another’s Life or Health/Property
+    * A person who provides care required for the protection of another’s health or property is entitled to restitution to the extent needed to prevent unjust enrichment (measured by a reasonable charge for the services in question), if the circumstances justify (i.e. emergency/necessary services OR reasonable to assume person would consent) the decision to intervene without request
 
 ### *Credit Bureau Enterprises, Inc. v. Pelo*
 
@@ -46,14 +49,23 @@ P and D ended a nonmarital cohabitatation relationship. P brought action claimin
   * While an individual may be bound by moral conscience to recompense for past services rendered, they are not bound by law
 * Difference from pure restitution
   * Promissory restitution does not do much more than pure restitution, but such differences occur at the margins
-* R2d
-  * § 82 Promise to pay a prior contract debt is binding. Facts = promise in these scenarios:
-    1. Voluntary ack of prior debt
-    2. Voluntary transfer of money
-    3. A statement that s.o.l. will not be used against other party
-  * § 83 - Promise to pay debt, if made after bankruptcy proceedings, is binding
-  * § 85 - A promise to perform a voidable contract is binding
-  * § 86 - A promise made in recognition of a previous benefit is binding to prevent injustice. A binding promise must rest on an actual benefit, as opposed to pure gratitude or sentiment
+
+### Rules
+
+* **R2d § 82 - Promise to Pay Indebtedness**
+  * Promise to pay a prior contract debt is binding if the indebtedness is still enforceable
+  * Following facts operate as such a promise unless otherwise indicated
+    1. Voluntary acknowledgement of prior debt
+    2. Voluntary transfer of money made as interest payment for prior debt
+* **R2d § 83 - Promise to Pay Indebtedness Discharged in Bankruptcy**
+  * An express promise to pay all or part of an indebtedness of the promisor, discharged, or dischargeable in bankruptcy proceedings begun before the promise is made, is binding
+* **R2d § 84 - Promise to Perform a Voidable Duty**
+  * A promise to perform all or part of an antecedent contract of the promisor, previously voidable by him, but not avoided prior to the making of the promise, is binding
+* **R2d § 85 - Promise to Perform Voidable Duty**
+  * A promise to perform a voidable contract is binding
+* **R2d § 86 - Promise for Benefit Received**
+  * A promise made in recognition of a previous benefit is binding to prevent injustice
+  * A binding promise must rest on an actual benefit, as opposed to pure gratitude or sentiment and must not have been conferred as a gift
 
 ### *Mills v. Wyman*
 
@@ -62,4 +74,6 @@ Court identifies the general rule which maintains promises offered without consi
 
 ### *Webb v. McGowin*
 
-P falls off of mill and is severely injured while attempting to prevent it from falling on top of D. P's injuries render him physically unable to work and D promises to pay $15/week out of gratitude for saving his life. D kept promise and made payments for 8 years until his death. P bringing action against D's estate for refusing to continue payments. The court applies rule where **there is sufficient consideration in promise to pay for past services if promisee confers a *material benefit* upon the promisor**. It also acknowledges the rule applied in *Mills v. Wyman* where for a moral obligation to constitute consideration there must have existed some prior legal obligation. However, it identifies qualification to this rule in cases where a material benefit is conferred. In such cases, subsequent promise to pay is a *ratification* of the benefit provided, suggesting a previous request/invitation for the benefit was implied. Saving D from serious bodily harm is a material benefit and it was provided to P's detriment. Hence, the court ruled that the agreement is enforceable.
+P falls off of mill and is severely injured while attempting to prevent it from falling on top of D. P's injuries render him physically unable to work and D promises to pay $15/week out of gratitude for saving his life. D kept promise and made payments for 8 years until his death. P bringing action against D's estate for refusing to continue payments. The court applies rule where **there is sufficient consideration in promise to pay for past services if promisee confers a *material benefit* upon the promisor**. It also acknowledges the rule applied in *Mills v. Wyman* where for a moral obligation to constitute consideration there must have existed some prior legal obligation. However, it identifies qualification to this rule in cases where a material benefit is conferred. In such cases, subsequent promise to pay is a *ratification* of the benefit provided, suggesting a previous request/invitation for the benefit was implied. Saving D from serious bodily harm is a material benefit and it was provided to P's detriment. Hence, the court ruled that the agreement is enforceable
+
+---

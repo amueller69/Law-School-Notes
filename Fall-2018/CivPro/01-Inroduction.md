@@ -1,4 +1,4 @@
-# What is Civil Procedure
+# Introduction - What is Civil Procedure
 
 ## What is a Lawsuit
 
@@ -46,9 +46,9 @@
 * Structure of the court system varies by state
   * Typically a trial court, and intermediate court of appeals, and a supreme court
 
-## Stages of a Lawsuit
-
 ---
+
+## Stages of a Lawsuit
 
 ### 1. Investigation
 

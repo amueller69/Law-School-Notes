@@ -7,18 +7,23 @@
     * Limitation on necessaries. Minor liable for the value of items one needs to live (i.e. food, clothing, and shelter)
     * Court views obligation to make restitution is to bind minor to obligation they have privilege to avoid under the law
     * *Dodson v. Shrader* departs from this traditional rule
-  * Restatement (Second) §14 - Infants
-    * > Unless a statue provides otherwise, a natural person has the capacity to incur only voidable contractual duties unitl the beginning of the day before the person's 18th birthday
-    * Comment c -If consideration has been dissipated while in the minor's possession, the other party is without remedy unless the infant ratifies the contract after coming of age
 * Incapacity due to mental illness
   * **Modern approach** asserts "where a person has some understanding of a particular transaction which is affected by mental illness or defects, the controlling consideration is whether the transaction in its result is one which a reasonably competent person might have made"
     * Inquiry into capacity focuses on understanding or conduct at time of transaction only
     * Contrasted with Minority Doctrine - Whereas minor can generally disaffirm even if restoration cannot be made, mentally incompetent person is required to make restoration unless special circumstances are present
-  * Restatement (Second) §15
-    * Person incurs voidable contractual duties by entering into a transaction if by reason of mental illness if he is unable to reasonably understand the nature/consequences of the transaction and the other party has reason to know of his condition
-    * Where other party is without knowledge or of reason to know of the mental illness or defect, the power of avoidance terminates to the extent that the contract has been so performed in whole or in part or the circumstances have so changed that avoidance would be unjust
   * **Traditional "cognitive" test** is an inquiry into a persons capacity to understand the nature of a transaction
 * Contract can be rendered void for incapacity in other contexts, such as intoxication, if demonstrated that the other party in a transaction had reason to know of the other's inability to understand the nature and consequences of the transaction
+
+### Rules - Incapacity
+
+* **R2d § 14 - Infants**
+  * Unless a statue provides otherwise, a natural person has the capacity to incur only voidable contractual duties until the beginning of the day before the person's 18th birthday
+  * Comment c -If consideration has been dissipated while in the minor's possession, the other party is without remedy unless the infant ratifies the contract after coming of age
+* **R2d § 15 - Mental Illness or Defect**
+  * Person incurs voidable contractual duties by entering into a transaction if by reason of mental illness if he is unable to reasonably understand the nature/consequences of the transaction and the other party has reason to know of his condition
+  * Where other party is without knowledge or of reason to know of the mental illness or defect, the power of avoidance terminates to the extent that the contract has been so performed in whole or in part or the circumstances have so changed that avoidance would be unjust
+* **R2d § 16 - Intoxicated Person**
+  * Person incurs voidable contractual duties by entering into transaction if the other party has reason to know that by reason of intoxication he is unable to understand the nature/consequences of the transaction
 
 ### *Dodson v. Shrader*
 
@@ -41,7 +46,29 @@ P claims that mediation agreement was unenforceable because it she had experienc
        * Would harm the recipient and would not significantly benefit the party making the threat
      * In the context of economic duress, there must thus be a showing that duress resulted from D's wrongful and oppressive conduct and not by P's necessities
 * Other formulations emphasize the suppression of ones free will and judgement
-* Those claiming coercion typically seek to avoid the contract or any modifications/settlements
+  * Those claiming coercion typically seek to avoid the contract or any modifications/settlements
+
+### Rules - Duress
+
+* **R2d § 174 - When Duress by Physical Compulsion Prevents Formation of a Contract**
+  * If a party is compelled by physical duress to assent, assent is ineffective
+* **R2d § 175 - When Duress by Threat Makes a Contract Voidable**
+  * If a party’s assent is induced by an improper threat by the other party that leaves the victim no reasonable alternative, the K is voidable by the victim
+  * If a party’s assent is induced by someone who is not a party to the K, the K is voidable by the victim unless the other party to the transaction in good faith and without reason to know of the duress either gives value or relies materially on the transaction
+* **R2d §176 - When a Threat is Improper**
+  * A threat is improper if
+    * What is threatened is a crime or a tort, or the threat itself would be a crime or a tort if it resulted in obtaining property,
+    * What is threatened is a criminal prosecution
+    * What is threatened is the use of civil process and the threat is made in bad faith, or
+    * The threat is a breach of the duty of good faith and fair dealing
+  * A threat is improper if the resulting exchange is not on fair terms, and
+    * The threatened act would harm the recipient and would not significantly benefit the party making the threat,
+    * The effectiveness of the threat in inducing the manifestation of assent is significantly increased by prior unfair dealing by the party making the threat, or
+    * What is threatened is otherwise a use of power for illegitimate ends
+* **R2d § 177 -  When Undue Influence Makes a Contract Voidable**
+  * Undue influence is unfair persuasion of a party who is under the domination of the person exercising the persuasion or who by virtue of the relation between them is justified in assuming that that person will not act in a manner inconsistent with his welfare
+  * A party’s assent, if induced by other party’s undue influence, makes the K voidable by the victim
+  * If a party’s manifestation of assent is induced by one who is not a party to the transaction, the contract is voidable by the victim unless the other party to the transaction in good faith and without reason to know of the undue influence either gives value or relies materially on the transaction
 
 ### *Totem v. Alyeska Pipeline*
 
@@ -73,12 +100,14 @@ P and D in contractual relationship to transport pipeline construction materials
   1. Person supplying false information has failed to exercise reasonable care or competence in obtaining/communicating the information
   1. Person relying upon false information is the intended beneficiary of the information supplied
   1. Damages are suffered by relying party in transaction that negligent party is trying to influence
-* Restatement
-  * Second §164 - A contract is voidable if a party's manifestation of assent is induced by either fraudulent or a material misrepresentation by the other party upon which the recipient is justified in relying.
-    * "Material" misrepresentations may be made innocently but nonetheless render contract unavoidable
-  * Second §162 - Defines fraudulent to include an assertion made as true but without knowledge or confidence by the maker whether it is true or false, and thus may include statements that are made recklessly or negligently
-    * An opinion defines an express of a belief, without certainty, as the existence of a fact. These are typically given a certain degree of leeway, but statements of opinion may be actionable in certain relationships (e.g. fiduciary, expert reliance, etc.)
-    * An opinion can also be actionable for misrepresentation if it can be demonstrated that it was not genuinely held
+
+### Rules - Misrepresentation 
+
+* **R2d § 164** - A contract is voidable if a party's manifestation of assent is induced by either fraudulent or a material misrepresentation by the other party upon which the recipient is justified in relying.
+  * "Material" misrepresentations may be made innocently but nonetheless render contract unavoidable
+* **R2d § 162** - Defines fraudulent to include an assertion made as true but without knowledge or confidence by the maker whether it is true or false, and thus may include statements that are made recklessly or negligently
+  * An opinion defines an express of a belief, without certainty, as the existence of a fact. These are typically given a certain degree of leeway, but statements of opinion may be actionable in certain relationships (e.g. fiduciary, expert reliance, etc.)
+  * An opinion can also be actionable for misrepresentation if it can be demonstrated that it was not genuinely held
 
 ### Syester v. Banta
 
@@ -100,9 +129,12 @@ D enters agreement to sell home to P. Over duration of D's ownership, there had 
   * Need both, but on a sliding scale
   * **Procedural** - What went into the process of making the K; conspicuousness + intelligibility of a clause; oppression or surprise because of the unequal bargaining power (may reflect lack of choice);
   * **Substantive** - Terms that are “overly harsh” or one-sided; outrageously unfair so as to shock the judicial conscience; no many would accept; commercially unreasonable; applies to purpose + effect of the terms along with allocation of risk between the parties
-* R2d §208. Unconscionable Contract or Term
+
+### Rules - Unconscionability
+
+* **R2d § 208 - Unconscionable Contract or Term**
   * If a court finds the contract or any clause of the contract to have been unconscionable at formation, it may refuse to enforce the contract, enforce it without unconscionable clause, or limit application of clause so as to avoid an unconscionable result
-* UCC § 2-302. Unconscionable Contract or Clause
+* **UCC § 2-302 - Unconscionable Contract or Clause**
   1. Identical to R2d §208
   1. When unconscionability is claimed, parties shall be given a reasonable opportunity to present evidence as to its commercial setting, purpose and effect
 
@@ -125,7 +157,10 @@ P reluctant to sign loan agreement, but after several calls from D urging her to
 * Process of contract formation is untainted but a K may still be unenforceable because the K itself violates or runs contrary to public policy and can be voided
   * Comes up in context of family law/children + covenants not to compete. Classic example is contract to commit a crime
   * There is also a strong policy interest in freedom of contract so there must be a well-established basis for any public policy that would deny enforcement of a K
-* R2d §178 - When a Term is Unenforceable on Public Policy Grounds
+
+### Rules - Public Policy
+
+* **R2d §178 - When a Term is Unenforceable on Public Policy Grounds**
   1. A promise or other term of an agreement is unenforceable on public policy grounds if legislation provides that it is unenforceable or the interest in its enforcement is clearly outweighed by a public policy against its enforcement [balancing test]
   1. In weighing the interest in the enforcement of a term, take account of:
      * the parties’ justified expectations

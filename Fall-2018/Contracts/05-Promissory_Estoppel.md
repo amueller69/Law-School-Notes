@@ -2,8 +2,12 @@
 
 ## Promissory Estoppel in General
 
-* Unbargained-for reliance as a substitute for consideration in contractual enforcement
-* **R2d §90**
+* Promissory Estoppel
+  * Unbargained-for reliance as a substitute for consideration in contractual enforcement
+
+### Rules
+
+* **R2d § 90 - Promise Reasonably Inducing Action or Forbearance**
   * Promissory estoppel will be found when:
     1. The promisor reasonably expects his action or promise will induce action
     2. Promisee acts in reliance on this promise
@@ -46,6 +50,30 @@ MLK Jr made decision to deposit manuscripts and other materials with the Trustee
   * *Aceves* - hard to see an acceptance
     * PE is a more natural fit than a typical K
     * Very indefinite terms - what constitutes “working with someone”?
+* Option Contracts
+  * An option contract can be made binding and irrevocable by subsequent action in reliance upon it it even though such action is neither requested nor given in exchange for the option promise
+  * When an option is conditioned upon a performance of certain acts, the performance of certain acts, the performance of the acts may constitute a consideration may constitute a consideration to uphold a contract for option. However, there is no such condition imposed if the acts wer not intended to benefit nor were they incurred on behalf of the option
+    * Distinction from unilateral contract is fuzzy?
+* Unilateral Contracts
+  * Offer inviting performance (and not promissory acceptance) caries implied promise not to revoke once performance begins. The start of performance serves as consideration which makes subsidiary promise binding
+  * Merely acting in justifiable reliance on an offer may, in some cases, serve as sufficient reason for making the subsidiary promise binding (see §90)
+  * Reasonable reliance resulting in a forseeable prejudicial change in position affords a compelling basis for implying the subsidiary promise not to revoke
+
+### Rules
+
+* **R2d § 87 - Option Contract**
+  * An offer is binding as an option contract if it:
+    * Is in writing and signed by the offeror, recites a purported consideration for the offer, and proposes an exchange on fair terms within a reasonable time; OR
+    * Is made irrevocable by statute
+  * An offer which the offeror should reasonably expect to induce action or forbearance of a substantial character on the part of the offeree before acceptance and which does induce such action or forbearance is binding as an option contract to the extent necessary to avoid injustice
+* **R2d § 45 – Option Contract Created by Part Performance**
+  * If an offer for a unilateral contract is made, and part of the consideration requested in the offer is given or tendered by the offeree in response there to, the offeror is bound by a contract, the duty of immediate performance of which is conditional on the full consideration being given or tendered with the time stated in the offer
+  * Comment b - Main offer includes an necessarily implied subsidiary promise that if part of performance is given (i.e. consideration), offeror will not revoke offer and acceptance will occur when performance is complete.
+* **UCC §2-205 Firm Offers**
+  * An offer by a merchant to buy or sell goods in a signed writing which by its terms gives assurance that it will be held open is not revocable, for lack of consideration, during the time stated or if no time is stated for a reasonable time, but in no event may such period of irrevocability exceed three months; but any such term of assurance on a form supplied by the offeree must be separately signed by the offeror
+    * Gives assurance that it will be held open, even where offer not supported by consideration
+* **UCC 2-104: Merchant + Between Merchants**
+  * “Merchant” means someone who deals in goods, even if employ someone else to do the dealing
 
 ### *Katz v. Danny Dare, Inc.*
 
@@ -68,26 +96,8 @@ P defaults on mortgage and files for Chapter 7 bankruptcy. D, who purchased mort
 
 The court determined that D's promise was unambiguous: it wouldn't foreclose without first engaging it negotiations. Additionally, the court held that D should have foreseen P's reliance on the promise because it was offered for the sole purpose of inducing P to file Chapter 13, which it did. Finally, P's reliance on the promise resulted in several rights and protections under Chapter 7 bankruptcy to be surrendered and this ultimately allowed D to foreclose. Thus, the court determined P stated a claim for promissory estoppel.
 
----
-
-## Promissory Estoppel in the Context of Option and Unilateral Contracts
-
-* An option contract can be made binding and irrevocable by subsequent action in reliance upon it it even though such action is neither requested nor given in exchange for the option promise
-* When an option is conditioned upon a performance of certain acts, the performance of certain acts, the performance of the acts may constitute a consideration may constitute a consideration to uphold a contract for option. However, there is no such condition imposed if the acts wer not intended to benefit nor were they incurred on behalf of the option
-  * Distinction from unilateral contract is fuzzy?
-* R2d § 87 Option Contract
-  * > An offer is binding as an option contract if it:
-    > 1. is in writing and signed by the offeror, recites a purported consideration for the making of the offer, and proposes an exchange on fair terms within a reasonable time; or
-    > 1. is made irrevocable by statute.
-  * > An offer which the offeror should reasonably expect to induce substantial reliance by the offeree before acceptance and which does induce such reliance is binding as an option contract to the extent necessary to avoid injustice
-* UCC § 2-205 on Revocability
-  * > An offer by a merchant to buy or sell goods in a signed writing which by its terms gives assurance that it will be held open is not revocable, for lack of consideration, during the time stated or if no time is stated for a reasonable time, but in no event may such period of irrevocability exceed three months; but any such term of assurance on a form supplied by the offeree must be separately signed by the offeror
-* Unilateral Contracts
-  * § 45 - "If an offer for a unilateral contract is made, and part of the consideration requested in the offer is given or tendered by the offeree in response there to, the offeror is bound by a contract, the duty of immediate performance of which is conditional on the full consideration being given or tendered with the time stated in the offer
-    * Comment b - Main offer includes an necessarily implied subsidiary promise that if part of performance is given (i.e. consideration), offeror will not revoke offer and acceptance will occur when performance is complete.
-    * Merely acting in justifiable reliance on an offer may, in some cases, serve as sufficient reason for making the subsidiary promise binding (see §90)
-    * Reasonable reliance resulting ina forseeable prejudicial change in position affords a compelling basis for implying the subsidiary promise not to revoke
-
 ### *Berryman v. Kmoch*
 
-P and D enter agreement for option contract for the purchase of land. D has right to exercise option within 120 days in exchange for providing $10 or "other valuable consideration". D never actually makes the payment and P requests a release from the option days later. P sells the land to another party and D attempts to exercise the option. P seeks declaratory judgement that option is null and void. Court holds that option contracts require consideration in order to be binding; **an "option contract" without consideration (or reliance that can satisfy promissory estoppel) is no more than a mere offer to sell**. Court rejects the promissory estoppel defense as P could not have reasonably relied on the option while knowingly failing to pay $10. Thus, in the absence of consideration, there is nothing here more than an offer to sell the land. Thus, D's receipt of reliable information that the land had been sold served as an effective revocation of the offer.
+P and D enter agreement for option contract for the purchase of land. D has right to exercise option within 120 days in exchange for providing $10 or "other valuable consideration". D never actually makes the payment and P requests a release from the option days later. P sells the land to another party and D attempts to exercise the option. P seeks declaratory judgement that option is null and void. Court holds that option contracts require consideration in order to be binding; **an "option contract" without consideration (or reliance that can satisfy promissory estoppel) is no more than a mere offer to sell**. Court rejects the promissory estoppel defense as P could not have reasonably relied on the option while knowingly failing to pay $10. Thus, in the absence of consideration, there is nothing here more than an offer to sell the land. Thus, D's receipt of reliable information that the land had been sold served as an effective revocation of the offer
+
+---
