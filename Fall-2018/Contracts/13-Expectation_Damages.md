@@ -34,29 +34,32 @@
 * Peevyhouse Rule
   * Where provision breached was merely incidental to contract's main purpose and where the economic benefit which P would receive from completing performance is grossly disproportionate to cost of completion, damages are limited to the difference/diminution in value resulting because of non-performance.
   * Most courts vary from this rule, but it is still valid law in OK
-* Restatement (Second)
-  * § 344 – Allows expectation damages, among others, which it defines as interest in having the benefit of the bargain by being put in as good a position as he would have had K been performed
-  * § 347 – Injured party has right to damages based on his expectation interest as measured by
+
+### Rules - Expectation Damages
+
+* **R2d § 344 - Purpose of Remedies**
+  * Allows expectation damages, among others, which it defines as interest in having the benefit of the bargain by being put in as good a position as he would have had K been performed
+* **R2d § 347 - Measure of Damages in General**
+  * Injured party has right to damages based on his expectation interest as measured by
     1. Loss in value to him by other party's deficiency
     1. Any other loss, including incidental and consequential, caused by breach
     1. Cost or other loss avoided by not having to perform
-  * § 348 – Alt. to Loss in Value of Performance
-    1. If breach delays use of property and loss is not recoverable with reasonable certainty, may use rental value or interest as proxy
-    2. If only part performance may get damages on (1) loss of market value caused by breach or (2) cost of completion, if not disproportionate to loss in value
-    3. If based on condition of fortuitous event, may get value of conditional right
-* UCC
-  * § 2-706 Seller's Resale Including Contract for Resale
-    * Seller may resell the goods concerned or the undelivered balance thereof. Where the resale is reasonable and made in good faith, the seller may recover the difference between the resale price and the contract price together with any incidental damages, but less expenses saved in consequence of the buyer's breach
-  * § 2-708 Seller's Damages for Non-acceptance or Repudiation.
-    * Measure of damages for non-acceptance or repudiation by the buyer is the difference between the market price at the time and place for tender and the unpaid contract price together with any incidental damages provided
-  * § 2-709 Action for the Price
-    * When the buyer fails to pay the price as it becomes due, seller may recover,along with incidental damages, the price:  
-    1. of goods accepted or of conforming goods lost or damaged within a commercially reasonable time after risk of their loss has passed to the buyer; and
-    1. of goods identified to the contract if the seller is unable after reasonable effort to resell them at a reasonable price or the circumstances reasonably indicate that such effort will be unavailing.
-  * § 2-710 Seller’s Incidental Damages
-    * Any commercially reasonable expenses incurred in stopping delivery, in the transport, care and custody of goods after the buyer’s breach, in connection w/ return resale of the goods or otherwise resulting from the breach
-  * 2-715 Buyer’s Incidental + Consequential Damages
-    * Incidental: any expenses reasonably incurred in connection with handling rightfully inspection rightfully rejected goods, or in connection w/ effecting cover (if commercially reasonable), any other reasonable expense incident to the breach.
+* **R2d § 348 – Alt. to Loss in Value of Performance**
+  1. If breach delays use of property and loss is not recoverable with reasonable certainty, may use rental value or interest as proxy
+  2. If only part performance may get damages on (1) loss of market value caused by breach or (2) cost of completion, if not disproportionate to loss in value
+  3. If based on condition of fortuitous event, may get value of conditional right
+* **UCC § 2-706 Seller's Resale Including Contract for Resale**
+  * Seller may resell the goods concerned or the undelivered balance thereof. Where the resale is reasonable and made in good faith, the seller may recover the difference between the resale price and the contract price together with any incidental damages, but less expenses saved in consequence of the buyer's breach
+* **UCC § 2-708 Seller's Damages for Non-acceptance or Repudiation**
+  * Measure of damages for non-acceptance or repudiation by the buyer is the difference between the market price at the time and place for tender and the unpaid contract price together with any incidental damages provided
+* **UCC § 2-709 Action for the Price**
+  * When the buyer fails to pay the price as it becomes due, seller may recover,along with incidental damages, the price:  
+  1. of goods accepted or of conforming goods lost or damaged within a commercially reasonable time after risk of their loss has passed to the buyer; and
+  1. of goods identified to the contract if the seller is unable after reasonable effort to resell them at a reasonable price or the circumstances reasonably indicate that such effort will be unavailing.
+* **UCC § 2-710 Seller’s Incidental Damages**
+  * Any commercially reasonable expenses incurred in stopping delivery, in the transport, care and custody of goods after the buyer’s breach, in connection w/ return resale of the goods or otherwise resulting from the breach
+* **UCC § 2-715 Buyer’s Incidental + Consequential Damages**
+  * Incidental: any expenses reasonably incurred in connection with handling rightfully inspection rightfully rejected goods, or in connection w/ effecting cover (if commercially reasonable), any other reasonable expense incident to the breach.
 
 ### *Peevyhouse v. Garland Coal & Mining Co.*
 
@@ -82,28 +85,29 @@ P, a school, hired D as employee for 2 year contract. D commutes 45 minutes to j
   * Loss that results in the non-ordinary course of events, must be forseeable
   * Applies to collateral contracts as in *Florafax* since losses not directly arising out of contract
   * Also apply to any damage to property/persons caused by failure to conform to contractual warranties
-* R2d
-  * § 351 - Unforeseeability + Related Limitations on Damages
-    * Not liable for loss that the party in breach did not have reason to foresee as a probable result of breach when the K was made. Foreseeable = in the ordinary course of things (general/direct) OR as a result of special circumstances that the breaching party had reason to know (consequential/special).
-      * Court may limit damages for foreseeable loss if justice so requires to avoid disproportionate compensation (e.g. excluding lost profits, limiting to reliance, etc.)
-  * § 352 - Uncertainty as a Limitation on Damages
-    * Damages not recoverable for loss beyond amount that evidence permits to be established with reasonable certainty
-    * Uncertainty of the exact amount does not preclude recovery as long as sufficient evidence shows extent of damage by just and reasonable inference
-* UCC
-  * § 2-710 - Seller’s Incidental Damages
-    * Any commercially reasonable expenses incurred in stopping delivery, in the transport, care and custody of goods after the buyer’s breach, in connection w/ return resale of the goods or otherwise resulting from the breach.
-  * § 2-715 Buyer’s Incidental + Consequential Damages
-    * Incidental: any expenses reasonably incurred in connection with handling rightfully inspection rightfully rejected goods, or in connection w/ effecting cover (if commercially reasonable), any other reasonable expense incident to the breach.
-    * Consequential:
-      * Any loss resulting from general or particular requirements which seller at time of contracting had reason to know and which could not be reasonably prevented by cover or otherwise
-      * Injury to person or property proximately resulting from any breach of warranty
-        * Not proximate if buyer unreasonably failed to inspect good
-        * Not subject to foreseeability test, though particular needs of the buyer must generally be made known to the seller
-    * § 2-719 – Contractual Modification and Limitation of Remedy
-    * Parties can agree to provide for remedies in addition to or instead of those provided by UCC and may limit or alter the measure of damages
-    * Resort to provided remedies is optional unless parties expressly agreed it to be the exclusive remedy—in which case it is. If the provided remedy fails its essential purpose, have UCC to back up
-    * May limit or exclude consequential damages unless unconscionable
-* CISG Art. 74
+
+### Rules - Foreseeability, Certainty, and Causation
+
+* **R2d § 351 - Unforeseeability + Related Limitations on Damages**
+  * Not liable for loss that the party in breach did not have reason to foresee as a probable result of breach when the K was made. Foreseeable = in the ordinary course of things (general/direct) OR as a result of special circumstances that the breaching party had reason to know (consequential/special).
+    * Court may limit damages for foreseeable loss if justice so requires to avoid disproportionate compensation (e.g. excluding lost profits, limiting to reliance, etc.)
+* **R2d § 352 - Uncertainty as a Limitation on Damages**
+  * Damages not recoverable for loss beyond amount that evidence permits to be established with reasonable certainty
+  * Uncertainty of the exact amount does not preclude recovery as long as sufficient evidence shows extent of damage by just and reasonable inference
+* **UCC § 2-710 - Seller’s Incidental Damages**
+  * Any commercially reasonable expenses incurred in stopping delivery, in the transport, care and custody of goods after the buyer’s breach, in connection w/ return resale of the goods or otherwise resulting from the breach.
+* **UCC § 2-715 Buyer’s Incidental + Consequential Damages**
+  * Incidental: any expenses reasonably incurred in connection with handling rightfully inspection rightfully rejected goods, or in connection w/ effecting cover (if commercially reasonable), any other reasonable expense incident to the breach.
+  * Consequential:
+    * Any loss resulting from general or particular requirements which seller at time of contracting had reason to know and which could not be reasonably prevented by cover or otherwise
+    * Injury to person or property proximately resulting from any breach of warranty
+      * Not proximate if buyer unreasonably failed to inspect good
+      * Not subject to foreseeability test, though particular needs of the buyer must generally be made known to the seller
+* **UCC § 2-719 – Contractual Modification and Limitation of Remedy**
+  * Parties can agree to provide for remedies in addition to or instead of those provided by UCC and may limit or alter the measure of damages
+  * Resort to provided remedies is optional unless parties expressly agreed it to be the exclusive remedy—in which case it is. If the provided remedy fails its essential purpose, have UCC to back up
+  * May limit or exclude consequential damages unless unconscionable
+* **CISG Art. 74**
   * Will allow damages for loss and loss of profit, as long as foreseeable at the time of conclusion of the contract
 
 ### *Hadley v. Baxendale*
@@ -128,17 +132,19 @@ Floral products marketer enters agreement with P, a floral clearinghouse, whereb
   * Reselling goods to avoid loss where other goods in inventory could have been sold instead results in loss of volume of business
   * "If he would have entered into both transactions but for the breach, he has “lost volume” and a second transaction is not a substitute for the first."
   * This obviously doesn't account for fixed costs (contribution margin is a better term here than "profit") nor does it apply where what is being sold has limited capacity (e.g. personal services)
-* R2d § 350 - Avoidability as a Limitation on Damages
+
+### Rules - Mitigation
+
+* **R2d § 350 - Avoidability as a Limitation on Damages**
   * Injured party can’t recover for loss that it could have avoided w/out undue risk, burden, or humiliation - must make reasonable efforts to avoid loss
     * Can recover where reasonable efforts were unsuccessful
     * Lost Volume Seller principle recognized in the comments
-* UCC
-  * § 2-708. Sellers Damages for Non-Acceptance or Repudiation
-    * You get incidental damages for costs reasonably incurred minus any credit you got for proceeds of resale (with exception of lost volume sellers)
-  * § 2-715: Buyer’s Damages
-    * Consequential: any loss which could not be reasonably prevented by cover or otherwise
-    * Imposes good faith requirement
-* CISG Article 77
+* **UCC § 2-708 - Sellers Damages for Non-Acceptance or Repudiation**
+  * You get incidental damages for costs reasonably incurred minus any credit you got for proceeds of resale (with exception of lost volume sellers)
+* **UCC § 2-715 - Buyer’s Damages**
+  * Consequential: any loss which could not be reasonably prevented by cover or otherwise
+  * Imposes good faith requirement
+* **CISG Article 77**
   * Non-breaching party has a duty to mitigate the loss, including loss of profit. Breacher may claim reduction in damages in the amount of loss that should have been mitigated but there was failure to do so
 
 ### *Rockingham v. Luten Bridge Co.*
@@ -161,14 +167,13 @@ P is laundry equipment service from which P leases machinery for its building an
   * Generally justified  because the prevent windfalls to the non-breaching party and take away from the stability of risk allocation in contract
   * However, many times this may lead to drastically undercompensating parties and could be justified as foreseeable – consequential damages
 
-### Rules
+### Rules - Nonrecoverable Damages
 
-* R2d
-  * § 353 - No emotional distress damages unless:
-    * Breach also caused bodily harm
-    * Emotional harm is a particularly likely result of breach due to nature of the contract or breach (medical contexts or where emotional concerns are essence of the contract)
-  * § 355 - May not recover punitive damages unless an accompanying tort allows for it (e.g. (personal injury, fraud in the inducement, or breach of fiduciary duty)
-    * Rationale: Would put P in better position than before (windfall) and culpability is not a consideration in contract law
+* **R2d § 353** - No emotional distress damages unless:
+  * Breach also caused bodily harm
+  * Emotional harm is a particularly likely result of breach due to nature of the contract or breach (medical contexts or where emotional concerns are essence of the contract)
+* **R2d § 355** - May not recover punitive damages unless an accompanying tort allows for it (e.g. (personal injury, fraud in the inducement, or breach of fiduciary duty)
+  * Rationale: Would put P in better position than before (windfall) and culpability is not a consideration in contract law
 
 ### *Erlich v. Menezes*
 

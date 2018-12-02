@@ -41,28 +41,28 @@
 
 ### Rules
 
-* R2d § 110 - Statute of Frauds: Classes of Contracts Covered
+* **R2d § 110 - Statute of Frauds: Classes of Contracts Covered**
   * The following classes of contracts are subject to a statute, commonly called the Statute of Frauds, forbidding enforcement unless there is a written memorandum or an applicable exception
     * A contract of an executor or administrator to answer for a duty of his decedent (the executor-administrator provision);
     * A contract to answer for the duty of another (the suretyship provision—one party assumes liability for the debt of another)
     * A contract made upon consideration of marriage (the marriage provision)
     * A contract for the sale of an interest in land (the land contract provision)
     * A contract that is not to be performed (completed) w/in one year from the making thereof (the one-year provision)
-* R2d § 129 – Land: Action in Reliance
+* **R2d § 129 – Land: Action in Reliance**
   * A contract for the transfer of an interest in land may be specifically enforced notwithstanding failure to comply with the Statute of Frauds if it is established that the party seeking enforcement, in reasonable reliance on the contract and on the continuing assent of the party against whom enforcement is sought, has so changed his position that injustice can be avoided only by specific enforcement
-* R2d §131 - General Requisites of a Memorandum
+* **R2d §131 - General Requisites of a Memorandum**
   * Unless additional requirements are prescribed by the particular statute, a contract within the SoF is enforceable if it is evidenced by any writing, signed by or on behalf of the party to be charged, which
     * Reasonably identifies the subject matter of the contract
     * Is sufficient to indicate that a contract with respect thereto has been made between the parties or offered by the signer to the other party, and
     * States with reasonable certainty the essential terms of the unperformed promises in the contract
-* R2d §132 - Several Writings
+* **R2d §132 - Several Writings**
   * The memorandum may consist of several writings if one of the writings is signed and the writings in the circumstances clearly indicate that they relate to the same transaction
-* R2d §133 -Memorandum Not Made as Such
+* **R2d §133 -Memorandum Not Made as Such**
   * Except in the case of a writing evidencing a contract upon consideration of marriage, the Statute may be satisfied by a signed writing not made as a memorandum of a contract (e.g. informal letter, meeting minutes, etc)
-* R2d §134 - Signature
+* **R2d §134 - Signature**
   * The signature to a memorandum may be any symbol made or adopted with an intention, actual or apparent, to authenticate the writing as that of the signer
     * Courts generally have low bar for determining what constitutes a signature: use of letterhead, initials, today the typed out names at the bottom of an employment agreement, electronic signatures
-* R2d §139 - Consequences of Non-Compliance: Enforcement by Virtue of Action in Reliance
+* **R2d §139 - Consequences of Non-Compliance: Enforcement by Virtue of Action in Reliance**
   * A promise which the promisor should reasonably expect to induce action by the promisee and does so in fact is enforceable, notwithstanding the Statute of Frauds, if injustice can be avoided only by enforcement of the promise
   * Following circumstances significant in determining whether injustice can be avoided only by enforcement of the promise
   1. availability + adequacy of other remedies, particularly cancellation + restitution
@@ -104,7 +104,7 @@ D promises P a job. P moves to AK for that job. When she arrives, D tells her th
 
 ### Rules (UCC)
 
-* UCC §2-201: Statute of Frauds
+* **UCC §2-201: Statute of Frauds**
   * Except as otherwise provided in this section a contract for the sale of goods for the price of $500 or more is not enforceable by way of action or defense unless there is some writing sufficient to indicate that a K for sale has been made between the parties and signed by the party against whom enforcement is sought or by his authorized agent or broker. A writing is not insufficient because it omits or incorrectly states a term agreed upon but the contract is not enforceable under this paragraph beyond the quantity of goods shown in such writing
   * Between merchants if within a reasonable time a writing in confirmation of the contract and sufficient against the sender is received and the party receiving it has reason to know its contents, it satisfies the requirements of subsection (1) against such party unless written notice of objection to its contents is given w/in 10 days after it is received
   * A contract which does not satisfy the requirements of subsection (1) but which is valid in other respects is enforceable

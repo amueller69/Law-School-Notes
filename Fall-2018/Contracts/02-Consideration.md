@@ -1,6 +1,6 @@
-# Chapter 2 - Section B: Consideration
+# Consideration
 
-## Consideration
+## In General
 
 * "Bargained-for-exchange" theory:
   * Definition of consideration in which there is reciprocal inducement of a party's detriment by the other party's promise. Holmesian test of "reciprocal conventional inducement, each for the other" is commonly employed by courts.

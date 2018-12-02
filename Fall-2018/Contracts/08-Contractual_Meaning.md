@@ -1,4 +1,4 @@
-# The meaning of the Agreement
+# Contractual Meaning - Interpretation and Parol Evidence
 
 ## Interpretation
 
@@ -23,42 +23,41 @@
 
 ### Rules
 
-* R2d
-  * §201 - Whose Meaning Prevails
-    1. Where the parties have attached the same meaning to a promise/agreement/term; it is interpreted according to that meaning.
-    1. Where the parties have attached different meanings to a promise/agreement/term, it is interpreted according to the meaning attached by one of them if at the time the agreement was made:
-       * That party did not know/have reason to know of any different meaning attached by the other
-       * The other knew/had reason to know meaning attached by the first party
-    1. If neither party knew/had reason to know the other’s different meaning, there is no contract due to lack of mutual assent
-  * § 202 – Rules in Aid of Interpretation
-    1. Words and other conduct interpreted in light of circumstances; principle purpose of the parties (if ascertainable) given great weight
-    1. Interpret the contract as a whole, including supplements
-    1. Language is interpreted in accordance with generally prevailing meaning, or in accordance with usage in respective technical field if technical/term of art, unless otherwise stated
-    1. Use, with great weight, course of performance to understand nature of contract where agreement involves repeated occasion for performance or objection by knowledgeable party
-    1. Interpret intent as consistent w/ course of performance, dealing, and trade usage wherever reasonable
-  * § 203 - Standards of Preference in Interpretation
-    * In interpreting agreement, following standards of preference are generally applicable:
-      * An interpretation which gives a reasonable, lawful, and effective meaning to all the terms is preferred to an interpretation which leaves a part unreasonable, unlawful, or of no effect
-      * Hierarchy of weight: express terms \> course of performance \> course of dealing \> trade usage
-      * Specific terms and exact terms are given greater weight than general language
-      * Separately negotiated or added terms are given greater weight than standardized terms or other terms not separately negotiated
-  * § 204 - Supplying an Omitted Essential Term
-    * When the parties have not agreed with respect to a term which is essential to determining rights/obligations, term reasonable in light of circumstances is supplied by the court
-  * § 206 - Interpretation Against the Draftsman
-    * In choosing among the reasonable meanings, generally prefer the meaning that operates against the party who supplies the words/writing
-      * The application of this varies by the circumstances and jurisdiction. Some don't see need where both parties are sophisticated. Others limit to cases where one party is solely responsible for language
-  * § 207 - Interpretation Favoring the Public
-    * In choosing among the reasonable meanings of a promise/agreement/term, generally prefer a meaning that serves the public interest
-  * § 211 - Standardized Agreements
-    1. Where party signs/manifests assent to a writing and has reason to believe that like writings are regularly used to embody terms of agreements of the same type, he adopts the writing as an integrated agreement
-    1. Term of standardized agreement, where reasonable, interpreted as treating alike all those similarly situated
-    1. Where other party has reason to believe the other party manifesting such assent would not do so if they knew writing contained a particular term, the term is not part of the agreement
-  * § 222 - Usage of Trade
-    1. Usage of trade is a usage so regularly observed in place/field as to justify expectation that it will be observed with respect to a particular agreement
-    1. Unless otherwise agreed, a trade usage in the field that parties are engaged in or a usage of which they know (or have reason to) gives meaning to their agreement
-  * § 223 – Course of Dealing
-    * Course of dealing is sequence of conduct concerning previous transactions between the parties to a particular transaction that is fairly to be regarded as establishing a common basis of understanding for interpreting their expressions and other conduct. Gives meaning to agreement unless otherwise agreed.
-* UCC § 1-303 – Course of Performance, Dealing, and Usage of Trade
+* **R2d § 201 - Whose Meaning Prevails**
+  1. Where the parties have attached the same meaning to a promise/agreement/term; it is interpreted according to that meaning.
+  1. Where the parties have attached different meanings to a promise/agreement/term, it is interpreted according to the meaning attached by one of them if at the time the agreement was made:
+      * That party did not know/have reason to know of any different meaning attached by the other
+      * The other knew/had reason to know meaning attached by the first party
+  1. If neither party knew/had reason to know the other’s different meaning, there is no contract due to lack of mutual assent
+* **R2d § 202 – Rules in Aid of Interpretation**
+  1. Words and other conduct interpreted in light of circumstances; principle purpose of the parties (if ascertainable) given great weight
+  1. Interpret the contract as a whole, including supplements
+  1. Language is interpreted in accordance with generally prevailing meaning, or in accordance with usage in respective technical field if technical/term of art, unless otherwise stated
+  1. Use, with great weight, course of performance to understand nature of contract where agreement involves repeated occasion for performance or objection by knowledgeable party
+  1. Interpret intent as consistent w/ course of performance, dealing, and trade usage wherever reasonable
+* **R2d § 203 - Standards of Preference in Interpretation**
+  * In interpreting agreement, following standards of preference are generally applicable:
+    * An interpretation which gives a reasonable, lawful, and effective meaning to all the terms is preferred to an interpretation which leaves a part unreasonable, unlawful, or of no effect
+    * Hierarchy of weight: express terms \> course of performance \> course of dealing \> trade usage
+    * Specific terms and exact terms are given greater weight than general language
+    * Separately negotiated or added terms are given greater weight than standardized terms or other terms not separately negotiated
+* **R2d § 204 - Supplying an Omitted Essential Term**
+  * When the parties have not agreed with respect to a term which is essential to determining rights/obligations, term reasonable in light of circumstances is supplied by the court
+* **R2d § 206 - Interpretation Against the Draftsman**
+  * In choosing among the reasonable meanings, generally prefer the meaning that operates against the party who supplies the words/writing
+    * The application of this varies by the circumstances and jurisdiction. Some don't see need where both parties are sophisticated. Others limit to cases where one party is solely responsible for language
+* **R2d § 207 - Interpretation Favoring the Public**
+  * In choosing among the reasonable meanings of a promise/agreement/term, generally prefer a meaning that serves the public interest
+* **R2d § 211 - Standardized Agreements**
+  1. Where party signs/manifests assent to a writing and has reason to believe that like writings are regularly used to embody terms of agreements of the same type, he adopts the writing as an integrated agreement
+  1. Term of standardized agreement, where reasonable, interpreted as treating alike all those similarly situated
+  1. Where other party has reason to believe the other party manifesting such assent would not do so if they knew writing contained a particular term, the term is not part of the agreement
+* **R2d § 222 - Usage of Trade**
+  1. Usage of trade is a usage so regularly observed in place/field as to justify expectation that it will be observed with respect to a particular agreement
+  1. Unless otherwise agreed, a trade usage in the field that parties are engaged in or a usage of which they know (or have reason to) gives meaning to their agreement
+* **R2d § 223 – Course of Dealing**
+  * Course of dealing is sequence of conduct concerning previous transactions between the parties to a particular transaction that is fairly to be regarded as establishing a common basis of understanding for interpreting their expressions and other conduct. Gives meaning to agreement unless otherwise agreed.
+* **UCC § 1-303 – Course of Performance, Dealing, and Usage of Trade**
   1. A course of performance is same as in R2d
   1. Course of dealing is same as in R2d
   1. A trade usage is same as in R2d
@@ -112,7 +111,7 @@ P's plant burglarized. Insurance policy defined “burglary” as requiring visi
   * Four Corners Rule - Question must be determined from the four quarters of the writing without resort to extrinsic evidence. A substantial number of jurisdictions till generally adhere to this approach
   * Others jurisdictions have adopted the contextual approach that is reflected in R2d - A writing cannot of itself prove its own completeness and wide latitude must be allowed for inquiry into circumstances bearing on the intention of the parties
     * Corbin - A finding of integration should always depend on the actual intent of the parties
-* **Exceptions to Parol Evidence Rule**
+* Exceptions to Parol Evidence Rule
   * Interpreting ambiguity - Parol evidence is admissible for the purpose of aiding the interpretation of ambiguity in a contract. While traditionally only applicable when contractual terms were ambiguous prima facie, modern courts are more likely to admit evidence that a party offers to demonstrate special meaning of terms that don't appear unclear on their face. Rather than determine whether an agreement is only partially integrated, courts are more likely to treat it as complete and then rely on the ambiguity exception.
   * Subsequent agreements - Rule does not apply to agreements made after the execution of the writing
   * Oral conditions precedent - Parol evidence rule not applicable to evidence purported to show that a written agreement's effectiveness was subject to an oral condition
@@ -125,28 +124,27 @@ P's plant burglarized. Insurance policy defined “burglary” as requiring visi
 
 ### Rules
 
-* R2d
-  * §210 - Completely and Partially Integrated Agreements
-    1. A completely integrated agreement is an integrated agreement adopted by the parties as a complete and exclusive statement of the terms of the agreement
-    1. A partially integrated agreement is an integrated agreement other than a completely integrated agreement
-    1. Whether an agreement is completely or partially integrated is to be determined by the court as a question preliminary to determination of a question of interpretation or to application of the parol evidence rule
-  * §214 - Evidence of Prior or Contemporaneous Agreements and Negotiations
-    * Agreements and negotiations prior to or contemporaneous w/ the adoption of a writing are admissible in evidence to establish
-      * That the writing is or is not an integrated agreement
-      * That the integrated agreement, if any, is completely or partially integrated
-      * The meaning of the writing, whether or not integrated
-      * Illegality, fraud, duress, mistake, lack of consideration, or other invalidating cause
-      * Ground for granting or denying rescission, reformation, specific performance, or other remedy
-  * §215 - Contradiction of Integrated Terms
-    * Except as stated in the preceding Section, where there is a binding agreement, either completely or partially integrated, evidence of prior or contemporaneous agreements or negotiations is not admissible in evidence to contradict a term of the writing
-  * §216 - Contradiction of Integrated Terms
-    * Evidence of a consistent additional term is admissible to supplement an integrated agreement unless the court finds that the agreement was completely integrated'
-    * An agreement is not completely integrated if the writing omits a consistent additional agreed term which is
-      1. Agreed to for separate consideration, or
-      1. Such a term as in the circumstances might naturally be omitted from the writing
-  * §217 - Integrated Agreement Subject to Oral Requirement of a Condition
-    * Where the parties to a written agreement agree orally that performance of the agreement is subject to the occurrence of a stated condition, the agreement is not integrated with respect to the oral condition
-* UCC §2-202 - Final Written Expression: Parol or Extrinsic Evidence
+* **R2d § 210 - Completely and Partially Integrated Agreements**
+  1. A completely integrated agreement is an integrated agreement adopted by the parties as a complete and exclusive statement of the terms of the agreement
+  1. A partially integrated agreement is an integrated agreement other than a completely integrated agreement
+  1. Whether an agreement is completely or partially integrated is to be determined by the court as a question preliminary to determination of a question of interpretation or to application of the parol evidence rule
+* **R2d § 214 - Evidence of Prior or Contemporaneous Agreements and Negotiations**
+  * Agreements and negotiations prior to or contemporaneous w/ the adoption of a writing are admissible in evidence to establish
+    * That the writing is or is not an integrated agreement
+    * That the integrated agreement, if any, is completely or partially integrated
+    * The meaning of the writing, whether or not integrated
+    * Illegality, fraud, duress, mistake, lack of consideration, or other invalidating cause
+    * Ground for granting or denying rescission, reformation, specific performance, or other remedy
+* **R2d § 215 - Contradiction of Integrated Terms**
+  * Except as stated in the preceding Section, where there is a binding agreement, either completely or partially integrated, evidence of prior or contemporaneous agreements or negotiations is not admissible in evidence to contradict a term of the writing
+* **R2d § 216 - Contradiction of Integrated Terms**
+  * Evidence of a consistent additional term is admissible to supplement an integrated agreement unless the court finds that the agreement was completely integrated'
+  * An agreement is not completely integrated if the writing omits a consistent additional agreed term which is
+    1. Agreed to for separate consideration, or
+    1. Such a term as in the circumstances might naturally be omitted from the writing
+* **R2d § 217 - Integrated Agreement Subject to Oral Requirement of a Condition**
+  * Where the parties to a written agreement agree orally that performance of the agreement is subject to the occurrence of a stated condition, the agreement is not integrated with respect to the oral condition
+* **UCC §2-202 - Final Written Expression: Parol or Extrinsic Evidence**
   * Terms w/ respect to which the confirmatory memoranda of the parties agree or which are otherwise set forth in a writing intended by the parties as a final expression of their agreement with respect to such terms as are included therein may not be contradicted by evidence of any prior agreement or of a contemporaneous oral agreement but may be explained or supplemented
     * By course of dealing or trade usage or by course of performance
     * By evidence of consistent additional terms unless the court finds the writing to have been intended also as a complete and exclusive statement of the terms of the agreement

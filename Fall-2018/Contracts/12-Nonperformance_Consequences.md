@@ -3,8 +3,6 @@
 ## Express Conditions
 
 * Conditions
-  * R2d § 224 - An event, not certain to occur, which must occur, unless non-occurrence is excused, before performance under a contract becomes due
-  * R2d § 226 - An event may be made a condition either by the agreement of the parties or by a term supplied by the court.
   * Used to protect parties against various types of risk, including those that would affect the value of future performance
   * Often an event in which a contractual party has some, albeit limited, control over
   * Uncertainty is necessary. The mere passage of time, to which there is no uncertainty, can't be conditioned on
@@ -14,18 +12,11 @@
 * Distinction between express conditions and promises
   * Condition requires strict compliance to be satisfied
   * Substantial performance is not applicable to conditions
-* R2d § 225 - Effects of the Non-Occurrence of a Condition
-  1. Performance of a duty subject to a condition cannot become due unless the condition occurs or its non-occurrence is excused
-  1. Unless it has been excused, the non-occurrence of a condition discharges the duty when the condition can no longer occur
-  1. Non-occurrence of a condition is not a breach by a party unless he has a duty that the condition occur
 * Express conditions are strictly enforced with the following exceptions:
   * Disproportionate Forfeiture - Nonoccurence excused to prevent forfeiture
-  * Waiver - Obligor whose duty is expressly dependent on a condition may be under a duty to perform despite the nonoccurence of that condition if he has, by word or conduct, waived the right to insist on fulfillment of the condition before performing the duty
-    * R2d § 84 - Waiver is effective without consideration or reliance but only if condition was immaterial and the other party did not assume risk of its non-occurrence
+  * Waiver - Obligor whose duty is expressly dependent on a condition may be under a duty to perform despite the nonoccurence of that condition if he has, by word or conduct, waived the right to insist on fulfillment of the condition before performing the duty (R2d § 84)
   * Estoppel - A material condition can be overcome by estoppel based on obligor's expression of intention not to insist on it followed by obligee's prejudicial reliance
   * Prevention of Condition - Condition excused if the promisor wrongfully hinders or prevents condition from occurring
-* Forfeiture
-  * R2d § 229 - Refers to the denial of compensation that results when the obligee loses his right to the agreed exchange after he has relied substantial, as by preparation or performance on the expectation of that exchange. In determining whether forfeiture is disproportionate, court must weight extent of obligee's forfeiture against importance to obligor of the risk from which he sought to be protected and the degree to which that protection will be lost if condition is excused. Court may excuse the nonoccurrence of a condition where disproportionate forfeiture would otherwise result, unless the conditioning event was a material part of the parties’ exchange
 * **Decision Tree**
   1. Is it an express condition?
   2. If yes, no need to perform if not satisfied UNLESS
@@ -33,6 +24,27 @@
      * Excused
        * Non material AND forfeiture (non-occurrence of the condition would cause disproportionate forfeiture on the part of the obligee)
        * Party in breach contributes to non-occurrence of the condition (some courts hold possibility of prevention of the condition by the obligor was a risk assumed by the obligee)
+
+### Rules - Conditions
+
+* **R2d § 84 - Promise to Perform in Spite of Non-occurrence of a Condition**
+  * Waiver is effective without consideration or reliance but only if condition was immaterial and the other party did not assume risk of its non-occurrence
+* **R2d § 224 - Conditioned Defined**
+  * An event, not certain to occur, which must occur, unless non-occurrence is excused, before performance under a contract becomes due
+* **R2d § 225 - Effects of the Non-Occurrence of a Conidtion**
+  * Effects of the Non-Occurrence of a Condition
+    1. Performance of a duty subject to a condition cannot become due unless the condition occurs or its non-occurrence is excused
+    1. Unless it has been excused, the non-occurrence of a condition discharges the duty when the condition can no longer occur
+    1. Non-occurrence of a condition is not a breach by a party unless he has a duty that the condition occur
+* **R2d § 226 - How and Event May Be Made A Condition**
+  * An event may be made a condition either by the agreement of the parties or by a term supplied by the court
+* **R2d § 227 - Standards/Preferences with Regard to Conditions**
+  * Because conditions have a sharp edge, courts try to interpret things as not conditions. Interpret things away from being conditions where it would be fair to do that unless the language is very very clear
+    * Interpret in a way to reduce obligee’s risk of forfeiture, unless the event is w/in the obligee’s control or the circs indicate that he has assumed the risk.
+* **R2d § 229 - Forfeiture**
+  * Refers to the denial of compensation that results when the obligee loses his right to the agreed exchange after he has relied substantial, as by preparation or performance on the expectation of that exchange. In determining whether forfeiture is disproportionate, court must weight extent of obligee's forfeiture against importance to obligor of the risk from which he sought to be protected and the degree to which that protection will be lost if condition is excused. Court may excuse the nonoccurrence of a condition where disproportionate forfeiture would otherwise result, unless the conditioning event was a material part of the parties’ exchange
+* **R2d § 245**
+  * When a party’s breach by non-performance contributes materially to the non-occurrence of a condition of one of his duties, the non-occurrence is excused
 
 ### *enXco Development Corp v. Norther States Power Co.*
 
@@ -59,40 +71,41 @@ D leased commercial property to a restaurant for a 10-year term, with an option 
   * Significant from partial breach in two ways:
     1. Partial breach does not discharge non-failing party
     1. Total breach allows injured party to recover both actual and future damages arising out of breach
-  * Different from material breach insofar as material breach only suspends one's duty to perform. When material becomes total in §242, party is discharged from performing.
-* Restatement (Second)
-  * §234 - Order of Performance
-    * Performances that can be rendered at the same time are due simultaneously unless otherwise prescribed in contract
-  * §235 - Performance, Breach, and Discharge
-    * Full performance of duty under contract discharges duty
-    * When performance of duty under contract is due, any non-performance is a breach
-  * §237 - Effect on Other Party's Duties of a Failure to Render Performance
-    * It is a condition of each party's remaining duties to render performance that there be no **material** failure by the other party to render performance at an earlier time
-      * Comment a - Material failure to perform suspends, at least temporarily, other party's duty and discharges it can no longer occur
-    * §241 - Determining Material Failure
-      * Following circumstances are significant in determining whether failure to render performance is material:
-        1. Extent to which the injured party will be deprived of expected benefit
-        1. Extent to which injured party can be adequately compensated for deprived benefit
-        1. Extent to which party failing to perform will suffer forfeiture
-        1. Likelihood party failing to perform will cure failure in light of circumstances
-        1. Extent to which party failing to perform comports with standards of good faith and fair dealing
-    * §242 - Determining Discharge of Duties
-      * Following factors relevant in determining whether material failure discharges remaining duties:
-        1. Those stated in §241
-        1. Extent to which delay would prevent injured party from making substitute arrangements
-        1. Extent to which extent to which agreement provides for performance without delay (time is of the essence clause)
-* UCC
-  * §2-601 - Buyer's Rights (Perfect Tender Rule)
-    * Buyer can reject goods if they or the tender of delivery fail in any respect to conform to contract, regardless of how material
-      * If choose to accept, this decision is final if seller knows of acceptance
-  * §2-601 - Rightful Rejection
-    * Rejection of goods must be within a reasonable time after their delivery or tender. It is ineffective unless buyer notifies seller
-  * §2-508 - Revocation of Acceptance
-    * Buyer can revoke acceptance of goods whose non-conformity substantially impairs its value if it was accepted on the assumption that the non-conformity would be cured and wasn't or if non-conformity wasn't discovered either by difficulty or seller's assurance
-    * Must occur within reasonable time after buyer gains grounds to revoke 
-  * §2-508 - Cure of Improper Tender
-    * Seller can cure goods rejected for non-conformance my notifying buyer and doing so within period for which performance is allowed
-    * Seller can have further reasonable time to substitute conforming tender if they had grounds to believe original tender was acceptable and notification is given to buyer
+  * Different from material breach insofar as material breach only suspends one's duty to perform. When material becomes total in §242, party is discharged from performing
+
+### Rules - Material Breach
+
+* **R2d § 234 - Order of Performance**
+  * Performances that can be rendered at the same time are due simultaneously unless otherwise prescribed in contract
+* **R2d § 235 - Performance, Breach, and Discharge**
+  * Full performance of duty under contract discharges duty
+  * When performance of duty under contract is due, any non-performance is a breach
+* **R2d § 237 - Effect on Other Party's Duties of a Failure to Render Performance**
+  * It is a condition of each party's remaining duties to render performance that there be no **material** failure by the other party to render performance at an earlier time
+    * Comment a - Material failure to perform suspends, at least temporarily, other party's duty and discharges it can no longer occur
+* **R2d §241 - Determining Material Failure**
+  * Following circumstances are significant in determining whether failure to render performance is material:
+    1. Extent to which the injured party will be deprived of expected benefit
+    1. Extent to which injured party can be adequately compensated for deprived benefit
+    1. Extent to which party failing to perform will suffer forfeiture
+    1. Likelihood party failing to perform will cure failure in light of circumstances
+    1. Extent to which party failing to perform comports with standards of good faith and fair dealing
+* **R2d §242 - Determining Discharge of Duties**
+  * Following factors relevant in determining whether material failure discharges remaining duties:
+    1. Those stated in §241
+    1. Extent to which delay would prevent injured party from making substitute arrangements
+    1. Extent to which extent to which agreement provides for performance without delay (time is of the essence clause)
+* **UCC § 2-601 - Buyer's Rights (Perfect Tender Rule)**
+  * Buyer can reject goods if they or the tender of delivery fail in any respect to conform to contract, regardless of how material
+    * If choose to accept, this decision is final if seller knows of acceptance
+* **UCC § 2-601 - Rightful Rejection**
+  * Rejection of goods must be within a reasonable time after their delivery or tender. It is ineffective unless buyer notifies seller
+* **UCC § 2-508 - Revocation of Acceptance**
+  * Buyer can revoke acceptance of goods whose non-conformity substantially impairs its value if it was accepted on the assumption that the non-conformity would be cured and wasn't or if non-conformity wasn't discovered either by difficulty or seller's assurance
+  * Must occur within reasonable time after buyer gains grounds to revoke 
+* **UCC § 2-508 - Cure of Improper Tender**
+  * Seller can cure goods rejected for non-conformance my notifying buyer and doing so within period for which performance is allowed
+  * Seller can have further reasonable time to substitute conforming tender if they had grounds to believe original tender was acceptable and notification is given to buyer
   
 ### *Jacob & Youngs, Inc. v. Kent*
 
@@ -112,29 +125,31 @@ D agrees to share stock to P in installment payments due on specific dates. Stoc
 * Party that issues anticipatory repudiation can generally still retract, unless:
   1. The other party relies and changes position
   1. The other party notifies of acknowledgement of the repudiation (through notification or its conduct)
-* Restatement (Second)
-  * § 250 A repudiation is:
+
+### Rules - Anticipatory Repudiation
+
+* **R2d § 250 - When Statement Acts as Repudiation**
+  * A repudiation is:
     * A statement indicating that the obligor will commit a total, material breach OR a voluntary act which renders obligor unable or apparently unable to perform. If a statement, language must be reasonably interpreted to mean party cannot or will not perform (not merely doubtful or indefinite)
-  * § 251 Failure to Give Assurance Treated as a Repudiation
-    * Where reasonable to believe that obligor will totally breach, obligee may demand adequate assurances of performance and may, if reasonable, suspend any performance for which he has not already received the agreed exchange until he receives assurance
-    * Obligee may treat as repudiation obligor’s failure to reassure within reasonable time
-  * § 253 Breach + Discharge of Duties
-    * Where obligor repudiates a duty before committing breach and before receiving all of the agreed exchange, repudiation alone gives rise to claim for damages for total breach
-    * Where K requires performances, one party’s repudiation of duty to perform discharges other party’s remaining duties to perform
-  * § 256 Retraction of anticipatory repudiation
-    * Can retract a repudiation so long as other party has not materially changed his position in reliance on repudiation OR other party indicates to the repudiating party that he considers the repudiation final
-* UCC
-  * § 2-609 – Reasonable Assurances
-    * When reasonable grounds for insecurity (according to commercial standards), party may demand (in writing, though not necessarily if done unambiguously) adequate assurance of due performance and may suspend any performance (if commercially reasonable) for which he has not received the agreed return until receive assurance.
-    * Failure to provide assurance within reasonable time (no more than 30 days) can be construed as a repudiation
-  * § 2-610 - Anticipatory Repudiation
-    * If party 1 repudiates pre-performance, party 2 may await performance (for a commercially reasonable time), OR resort to remedy (even if he has notified repudiating party that he would await the latter’s performance and has urged retraction)
-    * In either case, can suspend own performance, but if awaiting performance beyond commercially reasonable time, can’t recover avoidable damages
-    * Not as strict as restatement when it comes to demonstrating intent not to perform: action which reasonably indicates a rejection of the continuing obligation is sufficient
-  * § 2-611 - Retraction of Anticipatory Repudiation
-    * Can retract unless aggrieved party has materially changed his position or indicated that he considers the repudiation final
-    * Retraction reinstates repudiating party’s rights under the K with due excuse + allowance to aggrieved party for any delay caused by the repudiation
-* CISG
+* **R2d § 251 Failure to Give Assurance Treated as a Repudiation**
+  * Where reasonable to believe that obligor will totally breach, obligee may demand adequate assurances of performance and may, if reasonable, suspend any performance for which he has not already received the agreed exchange until he receives assurance
+  * Obligee may treat as repudiation obligor’s failure to reassure within reasonable time
+* **R2d § 253 Breach + Discharge of Duties**
+  * Where obligor repudiates a duty before committing breach and before receiving all of the agreed exchange, repudiation alone gives rise to claim for damages for total breach
+  * Where K requires performances, one party’s repudiation of duty to perform discharges other party’s remaining duties to perform
+* **R2d § 256 Retraction of anticipatory repudiation**
+  * Can retract a repudiation so long as other party has not materially changed his position in reliance on repudiation OR other party indicates to the repudiating party that he considers the repudiation final
+* **UCC § 2-609 – Reasonable Assurances**
+  * When reasonable grounds for insecurity (according to commercial standards), party may demand (in writing, though not necessarily if done unambiguously) adequate assurance of due performance and may suspend any performance (if commercially reasonable) for which he has not received the agreed return until receive assurance.
+  * Failure to provide assurance within reasonable time (no more than 30 days) can be construed as a repudiation
+* **UCC § 2-610 - Anticipatory Repudiation**
+  * If party 1 repudiates pre-performance, party 2 may await performance (for a commercially reasonable time), OR resort to remedy (even if he has notified repudiating party that he would await the latter’s performance and has urged retraction)
+  * In either case, can suspend own performance, but if awaiting performance beyond commercially reasonable time, can’t recover avoidable damages
+  * Not as strict as restatement when it comes to demonstrating intent not to perform: action which reasonably indicates a rejection of the continuing obligation is sufficient
+* **UCC § 2-611 - Retraction of Anticipatory Repudiation**
+  * Can retract unless aggrieved party has materially changed his position or indicated that he considers the repudiation final
+  * Retraction reinstates repudiating party’s rights under the K with due excuse + allowance to aggrieved party for any delay caused by the repudiation
+* **CISG Art. 71-73**
   * Reasonable time instead of 30 days
   * May suspend performance if apparent other party will not perform as result of some deficiency, his creditworthiness, or conduct in preparation to perform
   * Installment Ks are treated separately but if grounds to believe future installments will be breached, can declare future installments avoided
@@ -145,4 +160,6 @@ D agreed to sell P a parcel of land. Contract for sale of land was contingent up
 
 ### Hornell Brewing Co. v. Spry
 
-D approached P seeking distribution rights for Arizona Tea in Canada. P grants exclusive distribution rights in an oral agreement. D begins to fall behind on payments, but it informs P that it has secured a line of credit for $1.5 million. D continues to miss payments, leading P to send letter stating it would allow relationship to continue and extend allowable outstanding balance if D could show proof of line of credit. D doesn't respond so P moves to terminate relationship. D refuses to sign agreement ending relationship. P seeks declaratory judgement that relationship had been properly terminated. Court identifies UCC as controlling body of law. **UCC authorizes a party upon reasonable grounds for insecurity to demand adequate assurance of due performance and until he receives such assurance, if commercially reasonable, suspend any performance for which he has not already received the agreed return.**. The court holds that D's falling behind on payments was reasonable ground for insecurity and that P's request for adequate assurance was proper. P failed to substantiate its purported line of credit and thus multiple failures by D to respond constituted a repudiation.
+D approached P seeking distribution rights for Arizona Tea in Canada. P grants exclusive distribution rights in an oral agreement. D begins to fall behind on payments, but it informs P that it has secured a line of credit for $1.5 million. D continues to miss payments, leading P to send letter stating it would allow relationship to continue and extend allowable outstanding balance if D could show proof of line of credit. D doesn't respond so P moves to terminate relationship. D refuses to sign agreement ending relationship. P seeks declaratory judgement that relationship had been properly terminated. Court identifies UCC as controlling body of law. **UCC authorizes a party upon reasonable grounds for insecurity to demand adequate assurance of due performance and until he receives such assurance, if commercially reasonable, suspend any performance for which he has not already received the agreed return.**. The court holds that D's falling behind on payments was reasonable ground for insecurity and that P's request for adequate assurance was proper. P failed to substantiate its purported line of credit and thus multiple failures by D to respond constituted a repudiation
+
+---

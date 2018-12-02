@@ -29,17 +29,7 @@ Engineering company (P) sues auto-part manufacturer (D) for breach of contract. 
 
 ## Qualified Acceptance: Battle of the Forms
 
-* UCC §2-207: Additional Terms in Acceptance or Confirmation
-  * Offeror's response to offer is valid, even with additional or different terms, unless acceptance is expressly made conditional on offeror's assent to new terms, in which case it constitutes a counter offer.
-  * The conditional nature of the acceptance, to the extent necessary to constitute a counter-offer, must be clearly expressed in a manner sufficient to notify the offeror that the offeree is unwilling to proceed with the transaction unless additional/different terms are included in the contract.
-  * **The changed/additional terms become part of the contract between merchants unless:**
-    1. **the original offer limits acceptance to its terms**
-    1. **they materially alter terms of the original offer**
-    1. **offeror objects to new terms within a reasonable time from notification**
-  * Where parties are not both merchants, there is still a K, but additional terms are only proposals to modify and must be assented to as a modification
-  * Where acceptance is "expressly conditional", conduct by parties recognizing existence of a K is sufficient to establish K even where the writings of the parties do not otherwise establish a contract. In these cases, terms are writings on which parties agree along with supplementary terms
-  * Knockout Approach - Where there are conflicting terms in different forms, both terms dropout and term is supplied by UCC default
-* Contrasted with common law
+* Common Law Approach
   * Mirror Image Rule - Varying acceptance has the effect of only a counter offer. Offeror is master of the offer and any attempt to accept according to different terms is a rejection and a new offer in which the original offeree assumes role as master.
     * Restatement (Second) §59 appears to support this rule, though *comment a.* indicates Restatement is trying to steer courts closer to the UCC.
   * Last Shot Rule
@@ -49,7 +39,27 @@ Engineering company (P) sues auto-part manufacturer (D) for breach of contract. 
 * Improvements over common law approach
   * UCC treatment of varying acceptance is viewed as an amelioration of strict mirror image rule, as it permits non-matching communications to form a contract if the parties apparently intended that they should. In many contexts, terms of offer an acceptance are rarely identical
   * CL Last shot rule can drag out negotiations since last form is what controls. It also enables unsophisticated persons from being exploited by last offeror
-* CISG (Art. 16)
+
+### Rules - Qualified Acceptance
+
+* **UCC § 2-206 - Offer and Acceptance in Formation of Contract**
+  * Unless otherwise unambiguously indicated by the language or circumstances
+    1. An offer to make a contract shall be construed as inviting acceptance in any manner and by any medium reasonable in the circumstances
+    1. An order or other offer to buy goods for prompt or current shipment shall be construed as inviting acceptance either by a prompt promise to ship or by the prompt or current shipment of conforming or non-conforming goods, but such a shipment of non-conforming goods does not constitute an acceptance if the seller seasonably (within a reasonable time) notifies the buyer that the shipment is offered only as an accommodation to the buyer
+       * “But” clause - Acknowledges the sending of non-conforming goods, but doing this to accommodate buyer. Permits buyer to retain and pay for them or reject the (hence defeating the contract). This is not seen as an acceptance but as a counteroffer by the seller (no risk of breaching buyers original offer)
+  * Where the beginning of a requested performance is a reasonable mode of acceptance an offeror who is not notified of acceptance within a reasonable time may treat the offer as having lapsed before acceptance.
+* **UCC § 2-207 - Additional Terms in Acceptance or Confirmation**
+  * Offeror's definite and seasonable expression response to offer is valid, even with additional or different terms, unless acceptance is expressly made conditional on offeror's assent to new terms, in which case it constitutes a counter offer.
+  * The conditional nature of the acceptance, to the extent necessary to constitute a counter-offer, must be clearly expressed in a manner sufficient to notify the offeror that the offeree is unwilling to proceed with the transaction unless additional/different terms are included in the contract.
+  * The changed/additional terms become part of the contract between merchants unless:
+    1. the original offer limits acceptance to its terms
+    1. they materially alter terms of the original offer
+    1. offeror objects to new terms within a reasonable time from notification
+  * Where acceptance is "expressly conditional", conduct by parties recognizing existence of a K is sufficient to establish K even where the writings of the parties do not otherwise establish a contract. In these cases, terms are writings on which parties agree along with supplementary terms
+  * Comments
+    * Where parties are not both merchants, there is still a K, but additional terms are only proposals to modify and must be assented to as a modification
+    * Knockout Approach - Where there are conflicting terms in different forms, both terms dropout and term is supplied by UCC default
+* **CISG (Art. 16)**
   * Appears to follow common law approach similar to mirror image rule
   * Material changes are counter-offer, but different terms that are not material nor objected to become part of K. 
   * Material terms include: price, payment, quantity, place/time, etc. Thus most changes are considered material
@@ -64,4 +74,6 @@ Seller of manufacturing equipment (P) sued buyer (D) for breach of indemnity cla
 
 ### *Paul Gottlieb & Co., Inc. v. Alps South Corp*
 
-P brought action against D seeking damages due to D's nonpayment of bill in a contract to purchase fabric. D had grew increasingly discontent with the quality of P's fabrics. D asserted counterclaim for breach of warranty. Both parties were awarded damages, but D was awarded significantly more in the counterclaim. TC asserted that limitation of P's liability in finished goods contract is considered, under UCC, **a material alteration and is thus not part of the contract**. P appealed. Court identified Florida code adopting UCC which provides standard recitation of the UCC qualified acceptance rule. Typically, terms that materially alter a contract would result in surprise if incorporated without express awareness by the other party. Thus, D **must show that it cannot be assumed a reasonable merchant would have consented to the additional term**. Court holds that limitation of damages is not the type of material term which would cause surprise or hardship, as explicitly identified in  UCC § 2-207 comment 5. Thus, court rules TC erred in awarding damages beyond the limitation.
+P brought action against D seeking damages due to D's nonpayment of bill in a contract to purchase fabric. D had grew increasingly discontent with the quality of P's fabrics. D asserted counterclaim for breach of warranty. Both parties were awarded damages, but D was awarded significantly more in the counterclaim. TC asserted that limitation of P's liability in finished goods contract is considered, under UCC, **a material alteration and is thus not part of the contract**. P appealed. Court identified Florida code adopting UCC which provides standard recitation of the UCC qualified acceptance rule. Typically, terms that materially alter a contract would result in surprise if incorporated without express awareness by the other party. Thus, D **must show that it cannot be assumed a reasonable merchant would have consented to the additional term**. Court holds that limitation of damages is not the type of material term which would cause surprise or hardship, as explicitly identified in  UCC § 2-207 comment 5. Thus, court rules TC erred in awarding damages beyond the limitation
+
+---
