@@ -108,10 +108,13 @@ P is a blind man that falls into a hole after a city construction worker tempora
 * Hand Formula
   * The Hand Formula assesses negligence based on assigning values to Burden of adequate precaution, Probability that injury occurs, and Magnitude/gravity of Injury (L)
     * B < PL
-  * The “P” Problem – Errors in Probability
-    * Cognitive bias in assumption that what happened was probable outcome in retrospect
-    * Drive P up because the only things that make torts suit actionable litigation are what has already happened
-    * *Carroll Towing* - Judge Hand notes that probability of damage was HIGH given the context (midday, wartime with lots of ships going in and out of port)
+  * Posner - Hand Formula provides  an operational definition of unreasonable risk that allocatively efficient
+    * Incentivize the level of precaution that maximizes net social gain
+      * Individuals will take the level of precaution up until the point where the benefit of not taking precautions exceeds the cost of such precautions (M)
+  * Weaknesses of the HAnd Formula
+    * The "P" Problem - Cognitive bias in assumption that what happened was probable outcome in retrospect
+    * The more certain D can be of liability faced, the more he can adjust his behavior/ risk calculation
+      * Assumption of risk neutrality is not realistic: people responded to uncertainty in different ways
 
 ### *Blyth v. Birmingham Waterworks*
 
