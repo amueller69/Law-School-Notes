@@ -12,6 +12,7 @@
 ## Law and Economics
 
 * Law and Economics approach has been the dominant framework in tort law since the 1970's
+* Posner - Hypothesis is that the rules governing tort liability are best explained as efforts to minimize social costs
 * Tort rules function as a mechanism for internalizing externalities
   * Awarding tort damages can be viewed as a Pigouvian tax, applied after the fact, intended to disincentivize certain actions
 * Goal of Law and Economics approach is to maximize efficiency
@@ -64,4 +65,82 @@
   * Whenever transaction costs are lower than the gains from transacting, there will not result an externality
   * In these cases, voluntary transactions of property rights will lead to efficiency while being cheaper to administer than the legal system
   * Courts/Lawmakers must determine which approach brings closer to the optimal result (i.e. that of a "perfect)
-* Coase's theorem has no room for normative judgements, thus it indifferent about which party actually bears the cost. Giving injurer right to create risk or injured right to be free from risk affects the distribution of wealth
+* Other possible weaknesses
+  * Coase's theorem has no room for normative judgements, thus it indifferent about which party actually bears the cost. However, giving injurer right to create risk or injured right to be free from risk affects the distribution of wealth
+
+## Strict Liability vs. Negligence
+
+* Problem of Uncertainty
+  * How to attach value and hence chose among uncertain prospects
+  * Assumption 1: Utility is a function of income (U = U(I))
+  * Assumption 2: People have preference for income, hence positive MU (subject to diminishing returns)
+  * Uncertainty is brought in by expressing expected utility as:
+    ```E(U) = ΣpᵢU(Iᵢ)```
+    * where there are n # of mutually exclusive states and sum of all p values is equal to 1
+  * A rational individual will choose that prospect with the greatest expected utility
+  * However, not all people value uncertain prospects the same, hence there are different utility functions for different risk appetites
+    * For the risk averse, U'' < 0
+      * Loss in utility from losing $1 is greater than gain in utility from gaining $1
+    * For risk preferring, U'' > 0
+    * When given option between two different prospects, one in which I is certain and the other where I is uncertain but both yield the same E(I):
+      * Risk neutral will be indifferent
+      * Risk preferring will favor uncertain
+      * Risk averse will favor certain
+  * **Assumption of economic approach to tort law is that bother injurers and victims are risk neutral**
+    * While unrealistic, it simplifies the analysis and yields more definite predictions
+    * This assumption would be inappropriate when examining some mechanism intended to reduce risk (e.g. insurance. However, it is clear that tort law does not serve this function. It cost much more to litigate than it would to just buy insurance.
+* Optimal or Due Care
+  * Benefit of our assumption of risk neutrality is that the utility function is linear and we can effective use I as a proxy for social welfare
+  * Hypo:
+    * Car accident between A and B. A is the victim and B is the injurer. A's inputs of care are denoted by x. B's inputs of care denoted by y.
+    * Probability of an accident is a function of inputs of care and subject to diminishing returns: p(x,y)
+    * D is the dollar equivalent of the injury
+    * A(x) and B(x) is the cost of care to A and B, respectively
+    * Thus, expected utility for A (victim):
+      ```math
+      E(Ua) = p(Ia - D - A(x)) + (1 - p) (Ia - A(x))
+            =  Ia - pD - A(x)
+      ```
+    * Expected utility for B (injurer):
+      ```math
+      E(Ub) = p(Iab- B(y)) + (1 - p) (Ib - B(y))
+            =  Ib - B(y)
+      ```
+    * Sum of expected utilities:
+      ```math
+      E(U) = Ia + Ib - pD - A(x) - B(y)
+      ```
+    * Social costs can thus be expressed as a function of each parties level of care:
+      ```math
+      L(x,y) = p(x,y)D + A(x) + B(y)
+      ```
+    * Conclusion: **Optimal level of care is that which minimizes social costs (L)**
+      * How do we find this? Take partial derivatives of L with respect to each x and y and then set the resulting expressions to 0
+        * This yields:
+          ```math
+          Ax = -pxD
+          By = -pyD
+          ```
+        * Where Ax and By are marginal costs of care for A and B respectively and -pxD and -pyD are the reductions in expected damages for an additional unit of x or y.
+    * **Thus, A and B should keep adding inputs of care until the reduction in expected damages is equal to the marginal cost of the last unit of care**
+  * Inputs of care take two forms:
+    1. Perform the activity more carefully
+    1. Reduce the overall level of activity
+  * In previous hypothetical, Coase Theorem would assert that, if costs of voluntary negotiation are not prohibitive, A and B will agree to use x\* and y\* (i.e. optimal levels of care) because they maximize the party's joint incomes
+    * If transactions are infeasible (A and B are strangers), however, there arises an externality problem: Why should B expend any resources on care if all benefits inure to A?
+    * Raises the important issue which becomes major focus of Law and Econ approach: **How liability rules can serve to internalize the costs of accidents and thereby induce A and B to invest x\* and y\* respectively**?
+* Liability Rules
+  * Problem with this analysis: It assumes individuals fall into pre-determined roles of potential victim and potential injurer
+    * In reality, level of care exercised may ultimately determine who is seen as the victim
+    * This is simply an assumption though
+  * No Liability
+    * Victim has incentive to invest to point where Ax=-pxD, but injurer has no incentive to alter level of care since they won't accrue the benefits
+    * Only efficient if injurers optimal care = 0
+  * Strict Liability
+    * Symmetrical with zero liability - this time the potential victim has no incentive to take care because he is fully compensated, whereas injurer must invest in care up to point where By=-pyD
+    * More expensive, however, than no liability since no liability has no costs to administer
+      * Perhaps victim does have small incentive to exercise care: to avoid legal costs
+    * Argument that strict liability will induce injurer to greater level of care is nonsense, says Posner. Will never expend more than y\*, assuming the party is risk neutral
+  * Negligence
+    * Rule can be reduced to the following (ignoring contributory negligence by assuming x=0): if injurers inputs are less than his optimal amount, he is liable for P's damages
+      * This looks like a variant of the Hand formula
