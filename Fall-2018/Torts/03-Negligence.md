@@ -110,11 +110,15 @@ P is a blind man that falls into a hole after a city construction worker tempora
     * B < PL
   * Posner - Hand Formula provides  an operational definition of unreasonable risk that allocatively efficient
     * Incentivize the level of precaution that maximizes net social gain
-      * Individuals will take the level of precaution up until the point where the benefit of not taking precautions exceeds the cost of such precautions (M)
-  * Weaknesses of the HAnd Formula
+      * Individuals will take the level of precaution up until the point where the benefit of not taking precautions exceeds the cost of such precautions (analysis must take place at the margins)
+  * Weaknesses of the Hand Formula
     * The "P" Problem - Cognitive bias in assumption that what happened was probable outcome in retrospect
     * The more certain D can be of liability faced, the more he can adjust his behavior/ risk calculation
       * Assumption of risk neutrality is not realistic: people responded to uncertainty in different ways
+* Common Carriers
+  * Justification for heightened duty of care:
+    1. Perceived ultrahazardous nature of public rapid transit
+    1. Status of passengers and their relationship to the carrier, notably their total dependency upon them for safety precautions
 
 ### *Blyth v. Birmingham Waterworks*
 
@@ -132,7 +136,28 @@ Telephone company runs wires above street, fully compliant with standard safety 
 
 Sinking of a barge when D’s tug attempted a tricky maneuver. D counter-claimed company that had chartered a barge. D raised contributory negligence as a partial defense because no one was manning the barge that could have detected and alerted someone to the sinking, thus avoiding the damages. Court held that company that chartered barge was negligent because it is not beyond reasonable expectation that a barge owner would have an employee on board during daylight hours. Owners **duty is a function of three variables: (1) probability of harm, (2) gravity of harm, and (3) the burden of adequate precautions. When the burden is less than the gravity of the loss times its probability (B<PL) individual who fails to take burden of precaution is liable for damage.** Thus, since it would not have been unduly burdensome for to properly staff, and considering enormity of the loss and reasonable possibility of the ship sinking, the company is contributorily negligent
 
+### *Andrews v. United Airlines*
+
+P is passenger on flight by D. Hit in head by bag when unknown person opened overhead bin after landing. P, in bringing suit, argues that D could have taken additional measure to ensure his safety without much inconvenience. Court holds that **a common carrier owes a duty of utmost care and the vigilance of a very cautious person towards its passengers, and is required to do all that human care, vigilance, and foresight reasonably can do under all the circumstances**. Since D is categorized as a common carrier, it thus has a heightened duty of care. However, **safety precautions are not required by the common carrier unless they can reasonably be exercised consistent with the character and mode of conveyance operated and the practical operation of business**. Nonetheless, court found that D did not adequately fulfill its heightened duty to prevent harm to its passengers by simply offering a warning of danger. Other airlines have done so, but D neglected to. Thus, judgement awarded to P.
+
 ---
+
+## Custom
+
+* Local practice (this has phased out) or industry standard
+  * Plays unique role in medical malpractice
+  * Also important for informed consent as a custom in medicine
+  * Conformity with custom is evidence of non-negligence, and non-conformity is evidence of negligence, BUT NOT PRIMA FACIE CASE OF NEGLIGENCE PER SE
+  * Conformity to custom is NOT a perfect shield, just as non-conformity is not a perfect claim
+    * The entire custom may be lacking 
+* Typically safety related
+  * Non-safety related (explicitly) “customs” with safety consequences or externalities DO NOT count as “custom” standard for assessing breach of duty (duty of care to provide safe conditions, for example) 
+* Third Restatement on CUSTOM: Complying with custom is evidence that the actor’s conduct is not negligent, but DOES NOT preclude findings of negligence
+  * Departure from custom does not prima facie establish negligence, but is merely evidence of actor’s negligence
+* Custom as a SWORD is generally more effective than custom as D's shield
+  * An entire industry may have a bad, lagging customary standard (TJ Hooper), and therefore conforming to custom by D is not a good defense
+* P can make powerful argument that Def. couldn’t even meet “low, self-set” custom
+  * Industries are likely to set lower standards for themselves, so non-conformity to custom is more powerful sword
 
 ## Medical Malpractice
 
