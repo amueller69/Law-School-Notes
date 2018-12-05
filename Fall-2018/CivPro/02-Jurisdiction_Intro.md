@@ -1,4 +1,4 @@
-# Jurisdiction
+# Intro to Jurisdiction
 
 ## Personal Jurisdiction
 
@@ -67,3 +67,5 @@ In its decision, the Court cites the following well established legal doctrine:
   * A nominal or formal party is one that has no interest in the result of the suit or no control over the subject matter in the litigation.
 
   The Court found that, on the basis of the allegations in the complaint, there was no controversy between Rose and the Cincinnati Reds, rendering the Reds as nominal party. Likewise, MLB was also found to be a nominal party. The League itself has no direct control over the commissioners actions, nor any obligation to moderate them. The controversy lies solely between Rose and the commissioner. Since the only real party, the commissioner, is a citizen of a different state, diversity jurisdiction is affirmed and the plaintiff's motion is denied.
+
+---

@@ -56,12 +56,17 @@
 * Serving minors or people with mental impairments
   * 4(g) - state law controls
     * Rationale - serious policy questions here, and states are primarily entrusted with safeguarding the interests of their citizens
+
 * Constitutional standards of notice:
   * *Mullane* addresses question of what procedures for notice are constitutionally required when some parties to a lawsuit are known and identified individuals but others are unknown or could only be identified through enormous effort
-    * Answer:
+    * Answer: 
 
 ---
 
 ## Venue
 
+---
+
 ## Forum Non Conveniens
+
+---
