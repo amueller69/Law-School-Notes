@@ -54,3 +54,5 @@
   * Can be viewed as an attempt to correct the issues and perverse incentives created by *Swift*
     * All but eliminates forum shopping opportunities if the same law is being applied regardless if case is heard in a federal or state court
     * Unequal protection problem: diverse or non-diverse parties in a similar lawsuit could lead to different results
+
+---

@@ -147,17 +147,41 @@ P is passenger on flight by D. Hit in head by bag when unknown person opened ove
 * Local practice (this has phased out) or industry standard
   * Plays unique role in medical malpractice
   * Also important for informed consent as a custom in medicine
-  * Conformity with custom is evidence of non-negligence, and non-conformity is evidence of negligence, BUT NOT PRIMA FACIE CASE OF NEGLIGENCE PER SE
-  * Conformity to custom is NOT a perfect shield, just as non-conformity is not a perfect claim
-    * The entire custom may be lacking 
 * Typically safety related
-  * Non-safety related (explicitly) “customs” with safety consequences or externalities DO NOT count as “custom” standard for assessing breach of duty (duty of care to provide safe conditions, for example) 
-* Third Restatement on CUSTOM: Complying with custom is evidence that the actor’s conduct is not negligent, but DOES NOT preclude findings of negligence
-  * Departure from custom does not prima facie establish negligence, but is merely evidence of actor’s negligence
-* Custom as a SWORD is generally more effective than custom as D's shield
-  * An entire industry may have a bad, lagging customary standard (TJ Hooper), and therefore conforming to custom by D is not a good defense
+  * Non-safety related (explicitly) “customs” with safety consequences or externalities DO NOT count as “custom” standard for assessing breach of duty (duty of care to provide safe conditions, for example)
+* Third Restatement on CUSTOM: Complying with custom is evidence that the actor’s conduct is not negligent, but DOES NOT preclude findings of negligence. Likewise, an actor's departure from customs is evidence of negligence
+  * Compliance/departure from custom does not prima facie establish negligence finding, but is merely evidence thereof
+* Custom is not a complete shield to negligence claims
+  * An entire industry may have a bad, lagging customary standard (TJ Hooper, Mayhew), and therefore conforming to custom by D is not a good defense
 * P can make powerful argument that Def. couldn’t even meet “low, self-set” custom
   * Industries are likely to set lower standards for themselves, so non-conformity to custom is more powerful sword
+* Private Rules of Conduct
+  * P can use D's private rules of conduct (or failure to follow those rules) as “custom” standard
+  * P may have made a decision to do business with/contract with Def. based on those private standards
+    * Lucy Webb Hayes v. Perotti - P argued that Def. fell short of its own internal standard by allowing decedent to wander from closed ward
+  * P may rely on D's internal standards, or D's reputation in upholding those internal standards, in choosing to deal with Def. in the first place
+  * Can hold someone in certain industry to a HIGHER standard than the industry in general when this higher standard is their own, internal, self-proclaimed standard of operation
+    * Reliance interest - P may choose to deal with Def. based on higher internal standard
+  * What are some problems with holding Def. to internal standard higher than industry custom?
+    * Def. who “tries harder” (has higher standard) is held more liable for failing to meet that standard (punishing Def. for having higher internal standards), and instead for “falling to the industry standard” from their higher, internal standard
+    * If they did not have higher standard but operated along industry custom, would not be liable
+  * Don’t want to deter people from having these higher standards, especially regarding safety
+
+### *Titus v. Bradford*
+
+**The standard of care for business practices is that of the average prudent man engaged in that particular trade considering the usages, habits, and ordinary risks of the business**. Employers are NOT insurers. some employment is by its nature, hazardous. This was a plain case of acceptance of employment with knowledge of the risks. Thus, where an employer is using business practices that constitute customary practice throughout the industry, he is not liable in negligence for any injury that may result from such practices, D not liable.
+
+### *Mayhew v. Sullivan Mining Co*
+
+Court holds that **even when a custom is universal, it may still fail to meet the standard of ordinary care required by an employer** Negligence is negligence regardless of how many people act in such a negligent manner. One does not exercise reasonable care by following an industry custom if that custom is negligent. Hence, D liable despite adhering to custom
+
+### *The TJ Hooper I*
+
+**A business violates its duty of care by failing to use new safety technology if the use of that type of technology is widespread among other businesses in the same field.**. Thus, standard of care in a negligence case changes with technological advances, knowledge and new devices of demonstrated worth. D's failure to adopt widespread safety constituted a breach of the requisite standard of ordinary care
+
+### *The TJ Hooper II*
+
+Appeal from first case. **A business may be liable for failing to adopt new technology, even if the industry has not widely adopted it, if the use of the technology constitutes reasonable prudence**. A whole industry may lag in the adoption of new and available devices, but this does not mean it was reasonably prudent to lag as such. Judge Hand - Where a business practice known to exist can measurably increase the safety of an enterprise, it should be adopted, irrespective whether it is yet customary. Radio technology may not have been existing custom (not general within industry yet), but should have radios because they were cheap, reliable way to avert MAJOR HARM (B<PL where B is cost of installing working radio). If the TJ Hooper had a radio set, could have avoided the storm; the damage was a DIRECT CONSEQUENCE of not having a radio, so this was a NEGLIGENT omission
 
 ## Medical Malpractice
 

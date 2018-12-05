@@ -112,4 +112,6 @@
 
 ### 13. Finality
 
-* Characteristic of all dispute-resolution mechanisms that prevents re-litigation of claims that have already been tried.
+* Characteristic of all dispute-resolution mechanisms that prevents re-litigation of claims that have already been tried
+
+---

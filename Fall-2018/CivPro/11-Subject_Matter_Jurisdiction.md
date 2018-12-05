@@ -1,4 +1,4 @@
-# SUBJECT MATTER JURISDICTION OF THE FEDERAL COURTS
+# Subject Matter Jurisdiction of the Federal Courts
 
 ## Diversity Jurisdiction
 
@@ -13,3 +13,5 @@
 ---
 
 ## Other Subject-Matter Jurisdiction Issues
+
+---

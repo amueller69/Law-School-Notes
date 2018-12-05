@@ -95,17 +95,17 @@
   * Benefit of our assumption of risk neutrality is that the utility function is linear and we can effective use I as a proxy for social welfare
   * Hypo:
     * Car accident between A and B. A is the victim and B is the injurer. A's inputs of care are denoted by x. B's inputs of care denoted by y.
-    * Probability of an accident is a function of inputs of care and subject to diminishing returns: p(x,y)
+    * Probability of an accident is a function of inputs of care and subject to diminishing returns: `p(x,y)`
     * D is the dollar equivalent of the injury
     * A(x) and B(x) is the cost of care to A and B, respectively
     * Thus, expected utility for A (victim):
       ```math
-      E(Ua) = p(Iₐ - D - A(x)) + (1 - p) (Iₐ - A(x))
+      E(Uₐ) = p(Iₐ - D - A(x)) + (1 - p) (Iₐ - A(x))
             =  Iₐ - pD - A(x)
       ```
-    * Expected utility for B (injurer (using sub-beta instead of P b/c there is no unicode subscript B in unicode)):
+    * Expected utility for B (injurer (using sub-beta instead of sub-b because no unicode char)):
       ```math
-      E(Ub) = p(Iᵦ- B(y)) + (1 - p) (Iᵦ - B(y))
+      E(Uᵦ) = p(Iᵦ- B(y)) + (1 - p) (Iᵦ - B(y))
             =  Iᵦ - B(y)
       ```
     * Sum of expected utilities:
@@ -123,26 +123,42 @@
           Aₓ = -pₓD
           Bᵧ = -pᵧD
           ```
-        * Where Aₓ and By are marginal costs of care for A and B respectively and -pₓD and -pᵧD are the reductions in expected damages for an additional unit of x or y.
+        * Where `Aₓ` and `By` are marginal costs of care for A and B respectively and `-pₓD` and `-pᵧD` are the reductions in expected damages for an additional unit of x or y.
     * **Thus, A and B should keep adding inputs of care until the reduction in expected damages is equal to the marginal cost of the last unit of care**
   * Inputs of care take two forms:
     1. Perform the activity more carefully
     1. Reduce the overall level of activity
-  * In previous hypothetical, Coase Theorem would assert that, if costs of voluntary negotiation are not prohibitive, A and B will agree to use x\* and y\* (i.e. optimal levels of care) because they maximize the party's joint incomes
+  * In previous hypothetical, Coase Theorem would assert that, if costs of voluntary negotiation are not prohibitive, A and B will agree to use `x*` and `y*` (i.e. optimal levels of care) because they maximize the party's joint incomes
     * If transactions are infeasible (A and B are strangers), however, there arises an externality problem: Why should B expend any resources on care if all benefits inure to A?
-    * Raises the important issue which becomes major focus of Law and Econ approach: **How liability rules can serve to internalize the costs of accidents and thereby induce A and B to invest x\* and y\* respectively**?
+    * Raises the important issue which becomes major focus of Law and Econ approach: **How liability rules can serve to internalize the costs of accidents and thereby induce A and B to invest `x*` and `y*` respectively**?
 * Liability Rules
   * Problem with this analysis: It assumes individuals fall into pre-determined roles of potential victim and potential injurer
     * In reality, level of care exercised may ultimately determine who is seen as the victim
     * This is simply an assumption though
   * No Liability
-    * Victim has incentive to invest to point where Aₓ=-pₓD, but injurer has no incentive to alter level of care since they won't accrue the benefits
-    * Only efficient if injurers optimal care = 0
+    * Victim has incentive to invest to point where `Aₓ=-pₓD`, but injurer has no incentive to alter level of care since they won't accrue the benefits
+    * Only efficient if injurers optimal care is 0
   * Strict Liability
-    * Symmetrical with zero liability - this time the potential victim has no incentive to take care because he is fully compensated, whereas injurer must invest in care up to point where Bᵧ=-pᵧD
+    * Symmetrical with zero liability - this time the potential victim has no incentive to take care because he is fully compensated, whereas injurer must invest in care up to point where `Bᵧ=-pᵧD`
     * More expensive, however, than no liability since no liability has no costs to administer
       * Perhaps victim does have small incentive to exercise care: to avoid legal costs
-    * Argument that strict liability will induce injurer to greater level of care is nonsense, says Posner. Will never expend more than y\*, assuming the party is risk neutral
+    * Argument that strict liability will induce injurer to greater level of care is nonsense, says Posner. Will never expend more than `y*`, assuming the party is risk neutral
   * Negligence
     * Rule can be reduced to the following (ignoring contributory negligence by assuming x=0): if injurers inputs are less than his optimal amount, he is liable for P's damages
       * This looks like a variant of the Hand formula
+      * Since D would only be liable for P's injuries if he failed to exercise this level of due care, he has incentive to exercise optimal level of care (`y*`)
+    * Reasons why negligence doesn't always induce proper level of care
+      * Depends on both injurer's and court's determination of `y*` and any slight difference may result in D being liable despite significant amount of resources on care but slightly below that required by court's determination. D is then liable for both P's damage and the cost of care it had taken and believed to have been sufficient. This is not allocatively efficient
+        * Care has a stochastic element-  a potential injurer may attempt to achieve a level of care `y*`, but his realized care is `y = y* + e`, where e is a random error term with a mean of zero
+      * Reasonable person standard used in negligence determination of `y*` where injurer lacks the capabilities of an average person
+  * Economic distinction between strict liability and negligence: incentives to avoid accidents by reducing the level of activity vs. incentives to avoid by increasing the care with which the activity is conducted
+    * Under strict liability, a potential injurer will interpret `y*` broadly. He is interested in any measure that would reduce his expected liability by more than the cost oft he measure; it is a matter of indifference to him whether the cost results from having to purchase some safety input or from forgoing the profits from a higher level of productive activity
+    * Under negligence, all that matters for potential injurer is confined to only the level of care. There is no incentive to reduce overall activity level since all injurer needs to do to avoid liability is to ensure that optimal level of care is taken
+      * When a court determines `y*`, as it must when the rule is negligence rather than strict liability, it may take a narrower view of the potential injurer's options
+        * Courts consider precautionary measures. It generally won't take into consideration whether a specific transaction or activity that lead to the injury was really necessary (i.e. in excess)
+          * Information costs of determining activity level are usually too high for court to attempt determining
+          * However, where information costs are low and optimal activity level are easy to obtain (ones that have high p regardless of level of precautions taken such as running into a burning building to get a hat), courts will find such activity negligent
+          * Argument that shift to negligence standard has lead to courts "subsidizing" dangerous but productive activities has no merit if this tradeoff is done right
+    * However, under strict liability standard, victim has no incentive to adjust activity level since he is fully compensated for any injury not caused by his failure to be careful
+    * Conversely, under standard of negligence, victim has incentive to adjust activity level because he won't be compensated if injurer takes proper care. Thus, he must internalize the costs of activity.
+    * **Conclusion: Different effects of strict liability and negligence on activity do not provide an economic reason for preferring strict liability to negligence. Neither standard is consistently more efficient than the other**
