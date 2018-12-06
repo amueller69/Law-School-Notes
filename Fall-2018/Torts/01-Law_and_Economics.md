@@ -162,3 +162,7 @@
     * However, under strict liability standard, victim has no incentive to adjust activity level since he is fully compensated for any injury not caused by his failure to be careful
     * Conversely, under standard of negligence, victim has incentive to adjust activity level because he won't be compensated if injurer takes proper care. Thus, he must internalize the costs of activity.
     * **Conclusion: Different effects of strict liability and negligence on activity do not provide an economic reason for preferring strict liability to negligence. Neither standard is consistently more efficient than the other**
+      * Where P's activity level is an efficient method of accident avoidance, SL is attractive and will be the rule chosen
+      * Where greater care is optimal method of accident avoidance by potential injurers, case for negligence is strengthened
+* Contributory Negligence
+  * 
