@@ -2,7 +2,7 @@
 
 ## Fall 2018
 
-* [Contracts][1]([PDF][2])([DOCX][3])
+* [Contracts][1] ([pdf][2]) ([doc][3])
 * [Civil Procedure][4]
 * [Torts][5]
 
