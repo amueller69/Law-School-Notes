@@ -13,8 +13,12 @@
 
 * Law and Economics approach has been the dominant framework in tort law since the 1970's
 * Posner - Hypothesis is that the rules governing tort liability are best explained as efforts to minimize social costs
+  * **Positive Analysis** is even in the title
+  * This was true of the earlier models - an attempt to provide economic framework for analyzing accidents that could be applied generally
 * Tort rules function as a mechanism for internalizing externalities
   * Awarding tort damages can be viewed as a Pigouvian tax, applied after the fact, intended to disincentivize certain actions
+  * **Fundamental question is when does the law need to intervene in order to internalize externalities, when should intervention occur through liability rules, and what is the optimal structure of liability?**
+  * For Calabresi, Posner, and Shavell - tort liability is an effective mechanism for inducing optimal investments in care by both injurers and victims when liability is needed to internalize costs as it is for accidents involving strangers or customers who cannot observe the quality of goods/services prior to purchase
 * Goal of Law and Economics approach is to maximize efficiency
   * To achieve efficiency is to  maximize net surplus/welfare. Economists have used several formulations of this term throughout the last century
     * Pareto Efficiency: At least 1 person is better off , nobody is worse off
@@ -31,16 +35,31 @@
   * Modern formulations stress view that purpose of law is solely a matter of fairness in resolving disputes between parties and undoing imbalances created by violation of a preexisting right
   * Long term incentives are viewed as extrinsic to the basic purpose of law
 
+## Functional School of Law and Economics (i.e. Klick)
+
+* Developed out of the  Normative approach to L&E, it recognizes the structural and political impediments to developing efficient legal rules and remedying faulty ones
+* Because it is difficult to identify all of the ultimate consequences of corrective legal rules, the functional school focuses on using economic theory to design legal meta-rules that lead to efficiency ex ante.This requires design of legal institutions that induce individuals to internalize the effects of their private activities, as well as to reveal their true preferences in situations where collective decisions must be made
+* Skeptical of the Positive school's general efficiency hypothesis and even more vocally skeptical of its application to sources of the law other than common law (e.g., legislation or administrative regulations)
+* Critical of Normative school and its tendency to overlook the many unintended consequences of legal intervention
+* Methodological foundations in Public Choice Theory
+  * In spite of the sophisticated mathematical techniques of economic analysis, judges and policymakers in many situations still lack the expertise and methods for evaluating the efficiency of alternative legal rules
+  * Functional analysis, on the other hand, requires them to first inquire into the incentives underlying the legal or social structure that generated the legal rule, rather than directly attempting to weigh the costs and benefits of individual rules
+  * With this focus on the underlying legal and social structure, there is less impetus to micro-manage individual legal and policy decisions, which are likely to suffer from the rent seeking activities of interested parties.
+
 ## Coase Theorem
 
 * If there are no transaction costs, the efficient outcome will occur regardless (or in spite) of the legal rule
   * Regardless of whom the law gives the entitlement, the same efficient will result
 * If there are positive transaction costs, the efficient outcome may not occur under every legal rule. In these circumstances, the preferred legal rule is the one minimizing the effects of transaction costs
-* We first need to understand the distinction between property rights and liability rules, which often coexist in same resource
-  * Property rights are exclusive rights that can't be confiscated involuntarily. Remedies for enforcing protection of these rights are intended to deter/prevent violation (e.g. enjoinders, punitive damages)
-  * Liability rules provide right to claim damages for injury to a resource, but no right to exclude (i.e. I can't prevent you from engaging in the risky behavior, but if you harm me, then you are liable). Remedies are compensatory
-  * Liability rules allow involuntary transfer of resources through the courts since injurer has right to inflict harm \*if\* willing to pay the cost. Transfer of property rights can only occur through voluntary bargaining at the market level
-  * **If voluntary market transaction costs are low, they are economically preferable than the liability/court transaction approach since markets are more reliable registers of value**. If these same costs are high, property approach is inferior because optimal use is prevented (this is when people rely on the courts)
+* There are a few foundational ideas/assumptions that must be understood prior to a discussion of Coase's theorem
+  * All externalities are, in fact, reciprocal
+    * An “opportunity cost” – that is the financial cost of an economic opportunity that an actor declines to take - is incurred when reducing activity level to correct externality
+    * Railroad company running fewer trains per day to prevent fires in nearby fields results in unrealized profits
+  * The distinction between property rights and liability rules, which often coexist in same resource
+    * Property rights are exclusive rights that can't be confiscated involuntarily. Remedies for enforcing protection of these rights are intended to deter/prevent violation (e.g. enjoinders, punitive damages)
+    * Liability rules provide right to claim damages for injury to a resource, but no right to exclude (i.e. I can't prevent you from engaging in the risky behavior, but if you harm me, then you are liable). Remedies are compensatory
+    * Liability rules allow involuntary transfer of resources through the courts since injurer has right to inflict harm \*if\* willing to pay the cost. Transfer of property rights can only occur through voluntary bargaining at the market level
+    * **If voluntary market transaction costs are low, they are economically preferable than the liability/court transaction approach since markets are more reliable registers of value**. If these same costs are high, property approach is inferior because optimal use is prevented (this is when people rely on the courts)
 * Railroad-Farmer Example:
   * Railroad keeps starting fires in corn field adjacent to train tracks. The more trains run per day, the more fires that ignite and the more crop damage is done
   * Railroad profits and crop damage where x = # of trains, R(x) is railroad profit as a function of x, and D(x) is crop damage as a function of x
@@ -165,4 +184,33 @@
       * Where P's activity level is an efficient method of accident avoidance, SL is attractive and will be the rule chosen
       * Where greater care is optimal method of accident avoidance by potential injurers, case for negligence is strengthened
 * Contributory Negligence
-  * 
+  * Assume that each party minimizes his expected loss (or conversely, maximizes expected income) by taking account of the particular liability rule and the likely behavior of the other party
+    * If A expects B to be negligent, he will chose `x*` in order to minimize loss (since any `x` where `x < x*` would preclude recovery under CN)
+    * Likewise, if A expects B to exercise `y*`, he will still chose `x*` since B would no longer be held negligent and he now has incentive to take precaution
+    * Since A has incentive to exercise `x*`, regardless of B's level of care, B will form his expectations around this
+    * Thus, B has incentive to exercise `y*` because it expects A to exercise `x*` and failure to exercise any level of care below `y*` would result in B being liable under negligence standard
+  * However, negligence doesn't need CN inorder to induce victims to take due level of care
+    * B will still have incentive to chose `y*` when A fails to take due level of care because CN is no longer a defense. Thus, B has incentive to exercise due level of care regardless of its expectations regarding A
+    * Since B will always have incentive to exercise `y*`, A will adjust his expectations. Since `y*` would result in no liability for B, A will have incentive to exercise `x*` in order to minimize expected losses
+  * Why is there CN defense then?
+    1. If parties don't chose level of care simultaneously, but only after observing other party's, and injurer (for whatever reason) defies incentives and exercises level below due care, then victim who observes this will no longer have incentive to mitigate
+    1. More importantly, because negligence system will not always succeed in deterring careless behavior, CN will operate to avoid liability where both parties fail to take due care. In these cases, CN serves to reduce costs of administering tort system where no allocative purpose would be served by imposing liability
+* Comparative Negligence
+  * Yields the same result as contributory negligence (optimal levels of care by both parties)
+  * Only applicable where `y < y*` and `x < x*`, then victims damages are apportioned between parties with `s` being the share of their respective damages
+    * However, there is no equilibrium where both parties exercise less than due level of care
+    * Both of these can't be true: `sₐp(x₀,y₀)D + A(x₀) < A(x*)` and `sᵦp(x₀,y₀)D + B(y₀) < B(y*)`
+    * Thus, one party will always exercise optimal level of care and other will alter expectations and adjust its level of care to the optimal point as well
+  * No advantages of comparative negligence to contributory negligence or just plain negligence within the economic model
+    * Negligence is less costly to administer because it avoids apportionment costs when both parties are negligent
+  * **Within this model, movement of courts towards comparative negligence is a contradiction to the positive economic theory of tort law**
+    * Only way this might be beneficial is if we assume insurance is unavailable, individuals are strongly risk averse, and the cost of apportionment is small (it's not)
+    * While we may perceive this to be unfair, there comparative negligence is more costly from an administrability standpoint without producing more allocatively efficient results
+
+## Accident Law
+
+* Hand Formula
+  * Attempt to articulate what has long been underlying negligence determinations
+  * Limitations of the hand formula (compared to the model above)
+    * Expression of total, instead of marginal, values me lead to liability finding where it would be allocatively inefficient
+    * Makes no reference to care on behalf of potential victim (neglects joint care)
