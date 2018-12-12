@@ -17,7 +17,7 @@
 * **R2d § 20: Effect of Misunderstanding**
   * No manifestation of mutual assent (and thus no contract) if parties attach materially different meanings to their manifestations and
     * There are two reasonable meanings and neither knows or has reason to know what other meant (mutual mistake) ; OR
-    * Breach party knows or has reason to know the meaning attached by the other
+    * Each party knows or has reason to know the meaning attached by the other
   * You have manifestation of assent to the meaning attached by a party if:
     1. That party does not know or have reason to know of any different meaning attached by the other; AND
     1. The other knows or has reason to know the meaning attached by the first
@@ -65,8 +65,8 @@ Owners (P) entered a contract with builders (D) for the construction of a home. 
   * Offeree loses power of acceptance if he rejects it, unless offeror manifests intent otherwise (e.g. keeps offer open)
   * Manifestation of intent not to accept counts as a rejection unless there is also manifestation to take offer into further consideration
 * **R2d § 39 - Counter-Offers**
-  * Counter-offer is offer made be original offeree relating to same subject matter with proposed substituted bargaining different from the original
-  * Counter-offeror does not lose power of acceptance if offeror has manifested a contrary intention or unless the counteroffer manifests a contrary intention of the offeree
+  * Counter-offer is offer made by original offeree relating to same subject matter with proposed substituted bargaining different from the original
+  * Counter-offeror terminates power of acceptance unless offeror has manifested a contrary intention or unless the counteroffer manifests a contrary intention of the offeree
 * **R2d § 43 - Indirect Communication of Revocation**
   * An offeree’s power of acceptance is terminated when the offeror takes definite action inconsistent with an intention to enter into the proposed contract and the offeree acquires reliable information to that effect
     * Generally, a revocation by the offeror does not become effective until it is received by the offeree
@@ -109,13 +109,16 @@ Plaintiffs make an offer on a home with a time-for-acceptance provision. The rea
 ## Offer and Acceptance - Unilateral Contracts
 
 * A unilateral offer generally includes an implied *subsidiary promise* not to revoke in exchange for initiation of the invited performance so long as offeree's performance is timely. In beginning to render performance, offeree is providing both manifestation of assent and consideration for this option contract
-  * Part performance or tender furnishes consideration for the subsidiary promise in is the basis for the *substantial performance doctrine*
-  * In these option contracts, the offeree is not bound to complete the performance. However, beginning to render performance may constitute as a promise to complete it if there is justifiable reliance
+  * Part performance or tender furnishing consideration in exchange for the subsidiary promise is the basis for the *substantial performance doctrine*
+  * In these option contracts, the offeree is not bound to complete the performance
 * Historical Development
   * Traditional unilateral contract theory was very liberal with regards to offeror's freedom to revoke at any time. Modern approach attempted to ameliorate this
   * Llewellyn criticizes modern approach dichotomy of bilateral vs unilateral, arguing there are very few instances in which true unilateral contracts are formed. These are where there is skepticism about a party's ability to perform and hence offeror has no interest in promissory acceptance (i.e. show, don't tell)
 * A unilateral contract can be viewed as a way for offerors to insulate themselves from the risk of non-performance. However, to remedy this potential imbalance, the court has adopted certain ways of protecting offerees whom must first render performance in order for the offeror to be bound to its promise
   * May also provide benefit offeree in situations where he is unsure about his ability to perform, as it allows him to attempt performance without binding him to  full completion
+* Some modern courts tend to disfavor unilateral contracts
+  * Bilateral preferable because it establishes immediate rights
+  * Will only treat as unilateral if expressly clear that promissory acceptance is inadequate and performance is necessary to accept
 
 ### Rules - Unilateral Contracts
 
