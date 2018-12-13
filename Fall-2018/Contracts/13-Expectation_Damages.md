@@ -124,7 +124,7 @@ Floral products marketer enters agreement with P, a floral clearinghouse, whereb
 
 * Mitigation is a restriction on recovery, not technically a duty
   * One can freely accumulate avoidable losses, they just won't be able to recover
-  * Court his interests in the reduction of social waste
+  * Court has interests in the reduction of social waste
 * Failure to mitigate in employment context is an affirmative defense w/ burden on employer to prove availability substitute employment and no reasonable mitigation efforts taken
 * If unsure of breach, may use reasonable assurances or declaratory judgment to determine whether you will need to mitigate
   * Continuing performance where there is substantial reason to believe K has been repudiated may result in accumulating unrecoverable damages
@@ -181,6 +181,6 @@ Court does not permit recovery of damages for emotional distress arising out of 
 
 ### *Zapata v. Hearthside Baking*
 
-P, a cookie tin manufacturer, sues D, a cookie baker, for breach after D refused to pay $900,000 in past orders to get new contract leverage. P also attempts to recover attorney fees. CISG does not allow for recovery of attorney’s fees in America even though foreseeable w/ breach. Punitive damages not allowed except in torts and attorney fees can't be used as a pretext for making breaching party pay punitive damages
+P, a cookie tin manufacturer, sues D, a cookie baker, for breach after D refused to pay $900,000 in past orders to get new contract leverage. P also attempts to recover attorney fees. CISG does not allow for recovery of attorney’s fees in America even though foreseeable w/ breach. **Punitive damages not allowed except in torts and attorney fees can't be used as a pretext for making breaching party pay punitive damages**
 
 ---

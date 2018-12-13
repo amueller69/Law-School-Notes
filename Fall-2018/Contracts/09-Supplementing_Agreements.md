@@ -117,7 +117,6 @@ P, an actress, enters contract with D, a movie studio, to get first look on any 
     1. Other implied warranties, unless excluded or modified, may arise from course of dealing or trade usage
 * **UCC §2-315 - Implied Warranty of Fitness for a Particular Purpose** (Extends beyond merchants)
   * Where the seller at the time of contracting has reason to know any particular purpose for which the goods are required and that the buyer is relying on the seller’s skill or judgment to select or furnish suitable goods, there is unless excluded or modified an implied warranty that the goods shall be fit for such purpose
-    * Requires sellers reliance
     * "Particular purpose” differs form the ordinary purpose for which the goods are used
 * **UCC § 2-316 - Exclusion or Modification of Warranties**
   1. Warranties are inoperative to the extent unreasonable

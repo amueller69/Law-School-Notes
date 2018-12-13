@@ -154,7 +154,7 @@ Football coach (D) has contract giving exclusive broadcast rights on his intervi
   * New rule: determines reasonability at time of breach – actual damages
     * If actual loss is much less than liquidated damages, some courts will just strike down the liquidated damages clause. (Dissent in Barrie School) (Majority disagrees)
 * R2d uses an OR—reasonable in light of anticipated OR actual loss (9th Cir. follows this in UCC, commercially sophisticated actors context)
-  * Modern courts read “or” as an “and” (must be both reasonable in anticipation and in actuality)
+  * Some odern courts read “or” as an “and” (must be both reasonable in anticipation and in actuality)
 * R2d seems to say only use liquidated damages if actual damages are hard to figure out
   * Courts really focus on the reasonableness part of it
   * In Barrie School, evidence of loss appeared to be ascertainable. Why court determine that actual loss difficult to tell?

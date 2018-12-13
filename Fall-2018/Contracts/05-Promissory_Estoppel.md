@@ -52,7 +52,7 @@ MLK Jr made decision to deposit manuscripts and other materials with the Trustee
     * Very indefinite terms - what constitutes “working with someone”?
 * Option Contracts
   * An option contract can be made binding and irrevocable by subsequent action in reliance upon it it even though such action is neither requested nor given in exchange for the option promise
-  * When an option is conditioned upon a performance of certain acts, the performance of certain acts, the performance of the acts may constitute a consideration may constitute a consideration to uphold a contract for option. However, there is no such condition imposed if the acts wer not intended to benefit nor were they incurred on behalf of the option
+  * When an option is conditioned upon a performance of certain acts, the performance of the acts may constitute a consideration to uphold a contract for option. However, there is no such condition imposed if the acts wer not intended to benefit nor were they incurred on behalf of the option
     * Distinction from unilateral contract is fuzzy?
 * Unilateral Contracts
   * Offer inviting performance (and not promissory acceptance) caries implied promise not to revoke once performance begins. The start of performance serves as consideration which makes subsidiary promise binding

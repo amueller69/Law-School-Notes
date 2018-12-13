@@ -68,7 +68,7 @@
 
 ### Canons of Interpretation: Standard Maxims
 
-Use these to figure out the starting question of what is the meaning of an ambiguous express prior to proceeding down the hierarchy of weight:
+Use these to figure out the starting question of what is the meaning of an ambiguous express term prior to proceeding down the hierarchy of weight:
 
 1. Noscitur a sociis. The meaning of a word in a series is affected by others in the same series; or, a word may be affected by its immediate context. Look to the terms in a list to determine the meaning of an ambiguous term
 1. Ejusdem generis. A general term joined w/ a specific one will be deemed to include only things that are like the specific one. (cattle, hogs, and other animals. Wouldn’t include house-dog but might include sheep being raised for market)
@@ -138,7 +138,7 @@ P's plant burglarized. Insurance policy defined “burglary” as requiring visi
 * **R2d § 215 - Contradiction of Integrated Terms**
   * Except as stated in the preceding Section, where there is a binding agreement, either completely or partially integrated, evidence of prior or contemporaneous agreements or negotiations is not admissible in evidence to contradict a term of the writing
 * **R2d § 216 - Contradiction of Integrated Terms**
-  * Evidence of a consistent additional term is admissible to supplement an integrated agreement unless the court finds that the agreement was completely integrated'
+  * Evidence of a consistent additional term is admissible to supplement an integrated agreement unless the court finds that the agreement was completely integrated
   * An agreement is not completely integrated if the writing omits a consistent additional agreed term which is
     1. Agreed to for separate consideration, or
     1. Such a term as in the circumstances might naturally be omitted from the writing
@@ -157,6 +157,10 @@ P's plant burglarized. Insurance policy defined “burglary” as requiring visi
   * If partially integrated, exclude PE of contradicting terms
   * If completely integrated, exclude both supplemental and contradicting terms
   * If neither, PE rule does not apply
+
+### Common Law Parol Evidence Rule: Visualized
+
+![Parole Evidence Rule](../../Assets/Parol_Evidence_Rule.png)
 
 ### *Thompson v. Libby*
 

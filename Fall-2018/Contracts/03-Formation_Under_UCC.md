@@ -64,6 +64,10 @@ Engineering company (P) sues auto-part manufacturer (D) for breach of contract. 
   * Material changes are counter-offer, but different terms that are not material nor objected to become part of K. 
   * Material terms include: price, payment, quantity, place/time, etc. Thus most changes are considered material
 
+### Battle of the Forms: Visualized
+
+![Battle of the Forms](../../Assets/UCC_Battle_of_the_Forms.png)
+
 ### *Princess Cruises, Inc. v. General Elec. Co.*
 
 P brought suit against D for breach (contract & express warranty) seeking to recover revenue lost while a ship was out of service for repair in excess of the period agreed to in the contract. Lower court entered judgment shipowner on breach of contract claim. D appealed, contending UCC was improperly applied. Applying the primary purpose test, court determines the contract was for services (ship repair) instead of sale of goods. Thus, contract guided by common law and not the UCC. **Under the common law, an acceptance that varies the terms of the offer is a counteroffer which rejects the terms of the original offer. Additionally, an offeror who proceeds under a contract after receiving the counter offer can accept the terms by performance**. P's performance and silence about the modified terms gave D every reason to believe P assented to new terms and contracts. Since modified terms of contract limited liability of D, court reverses and remands lower court's original judgement for P.

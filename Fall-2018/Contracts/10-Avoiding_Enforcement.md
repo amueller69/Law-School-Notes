@@ -104,7 +104,7 @@ P and D in contractual relationship to transport pipeline construction materials
 ### Rules - Misrepresentation 
 
 * **R2d § 164** - A contract is voidable if a party's manifestation of assent is induced by either fraudulent or a material misrepresentation by the other party upon which the recipient is justified in relying.
-  * "Material" misrepresentations may be made innocently but nonetheless render contract unavoidable
+  * "Material" misrepresentations may be made innocently but nonetheless render contract avoidable
 * **R2d § 162** - Defines fraudulent to include an assertion made as true but without knowledge or confidence by the maker whether it is true or false, and thus may include statements that are made recklessly or negligently
   * An opinion defines an express of a belief, without certainty, as the existence of a fact. These are typically given a certain degree of leeway, but statements of opinion may be actionable in certain relationships (e.g. fiduciary, expert reliance, etc.)
   * An opinion can also be actionable for misrepresentation if it can be demonstrated that it was not genuinely held
