@@ -12,6 +12,10 @@
     1. Tag jurisdiction: Physically served process within state boundaries. Constitutionality valid exercise of personal jurisdiction
   * **Specific**: claim in which plaintiff is seeking jurisdiction over D arises out of, or relates to, D's contacts or activities in a state. Since general jurisdiction is only available in narrow set of circumstances, specific jurisdiction is typically exercised when suing out-of-state corporation.
 
+* Process for personal jurisdiction
+  * Start with source of state authority for exercising PJ
+  * General and specific provide two very different pathways. In many cases, only one of these paths may be relevant based on the facts
+
 ## Traditional Bases of Jurisdiction
 
 ### Power Over Person and Property
@@ -128,7 +132,8 @@ Lawsuit brought in courts of IL, involves PA and OH. P purchases hot water heate
   * Majority in WWVW hold that it has never, by itself, been a sufficient benchmark for personal jurisdiction under due process.
   * Interpretation relevant to due process inquiry - Not the mere likelihood a product will make way into a state, but that D's conduct/contacts are such that he should anticipate being "hauled into court" in that state (Volkswagen)
     * This is unclear and may be circular
-  * Forseeability, as part of the stream-of-commerce doctrine, was the basis of Brennan's concurrence in *Asahi*. This was rejected both in O'Connor's opinion and later on in *Nicastro*, which asserts actions, not expectations, empower state to exercise jurisdiction.
+  * Forseeability, as part of the stream-of-commerce doctrine, was the basis of Brennan's concurrence in *Asahi*. This was rejected both in O'Connor's opinion and later on in *Nicastro*, which asserts actions, not expectations, empower state to exercise jurisdiction
+    * *Asahi* - Fairness considerations can be an independent basis for there being no PJ
 * Multi-step inquiry following WWVW:
   1. How purposeful is the defendant’s connection to the forum state? Has it sufficiently availed itself?
   1. In the particular facts of the case, do fairness factors point to or away from exercising jurisdiction?
@@ -150,6 +155,9 @@ P was injured and his wife killed when they crashed their motorcycle due to a ti
 
 * Cases involving personal jurisdiction across different contexts (e.g. contracts, intentional torts, etc.) can be viewed as applying a shared set of principles
   * Some paradigms in a specific context might not translate to another context due to differences in the nature of the disputes
+  * Products liability is the area where there has been the least consensus
+  * However, in the contracts and intentional tort area, there is a consistent series of majority opinions
+  * Sometimes court is speaking to specific doctrinal matters, though sometimes these have broader thematic implications that will carry across contexts
 * What is distinctive about intentional torts?
   * Generally, allegations in an intentional tort case features D's deliberate contact or connection with P who claims to be injured
   * Contrasted with *Gray*, where manufacturer/dealer had no direct connection with the injured consumer or *WWVW*, where D's connection was only in selling the car
@@ -199,7 +207,11 @@ NJ resident P became seriously injured while using a metal-shearing machine manu
 
 #### Kennedy Opinion
 
-Supreme court identifies "purposeful availment" as the governing rule and asserts the "stream-of-commerce" doctrine can't displace it. O'Connor's opinion in *Asahi* stating actions, not expectations, **empower** state to exercise jurisdiction should be the controlling standard. **Personal jurisdiction requires a sovereign-by-sovereign analysis of whether the conduct was directed at the society or economy existing within the jurisdiction of the forum so that the sovereign hs the power to to subject D to judgement concerning that act.** At no time did D engage in activities in the state of NJ that reveal an intent to invoke or benefit from the protection of its laws. Instead, marketing and sales efforts were directed at the US in general, no to a specfic state.
+Supreme court identifies "purposeful availment" as the governing rule and asserts the "stream-of-commerce" doctrine can't displace it. O'Connor's opinion in *Asahi* stating actions, not expectations, **empower** state to exercise jurisdiction should be the controlling standard. **Personal jurisdiction requires a sovereign-by-sovereign analysis of whether the conduct was directed at the society or economy existing within the jurisdiction of the forum so that the sovereign hs the power to to subject D to judgement concerning that act.** Relevant question is one pertaining to the actual intent of D. Where did it intend to submit itself to the power of the state? At no time did D engage in activities in the state of NJ that reveal an intent to invoke or benefit from the protection of its laws. Instead, marketing and sales efforts were directed at the US in general, not to a specific state.
+
+#### Breyer & Alito Concurrence
+
+Needs to be something demonstrating that it would be fair to subject D to PJ based on level of activity and personal availment. The fact that only one machine ended up in NJ is evidence that it would be unfair based, on McIntyre's activity in the NJ market, to make it amenable to suit in NJ. Volume of sales used as a proxy for intent
 
 #### Ginsberg Dissent
 
@@ -213,15 +225,17 @@ Act was in fact purposefully directed - its goal was to see its products sold in
   * Can only be satisfied in narrow set of circumstances
   * General jurisdiction determination performs inquiry into state of affairs at the time the action is brought, not the time in which the events on which the claim is based ocurred
 * "Doing Business": Follows from the functional equivalent of "presence" that gives state personal jurisdiction over persons under power theory or tag jurisdiction
-  * Systematic and continuous commercial activity, in the Pennoyer era, became legal fiction equated to physical presence 
+  * Systematic and continuous commercial activity, in the Pennoyer era, became legal fiction equated to physical presence
   * Post-International Shoe, the idea of general jurisdiction based on level of business activity of corporate defendants carried over under a fairness reasoning. Minimal contacts test, though applied differently than general jurisdiction
-  * Likewise, a corporation is legally present and thus subject to general jurisdiction in state(s) where it is incorporated and the state where it has its principal place of business (this is still the case today).
-  * Helicopteros decision seemed to affirm the availability of this type of general jurisdiction ("doing business") - it was simply the case the activities of the particular defendant weren't enough to constitute "doing business".
+  * Likewise, a corporation is legally present and thus subject to general jurisdiction in state(s) where it is incorporated and the state where it has its principal place of business (this is still the case today)
+  * Helicopteros decision seemed to affirm the availability of this type of general jurisdiction ("doing business") - it was simply the case the activities of the particular defendant weren't enough to constitute "doing business"
+  * *Perkins*, which held that exercising PJ over foreign corporation where it carries "systemic and continuous" activities doesn't violate due process, is still good law today
 * "At home"
   * Language introduced into the general jurisdiction equation by SCOTUS in *Goodyear*
   * Initially signaled a curtailing on general jurisdiction, but the extent to which was not clear
     * Sustaining a certain level of commerce might no longer lead to general jurisdiction
   * Daimler provides clarification: D has massive corporate presence in CA yet is not held amenable to suit there under theory of general jurisdiction
+    * Daimler seems to have rejected altogether the idea of "Starbucks jurisdiction"
     * **General jurisdiction requires a relative inquiry that looks to the defendant corporation’s contacts in the jurisdiction relative to their total contacts**
     * Under general jurisdiction doctrine as understood before, systematic and continuous presence would be met here, but not under standard set forth in Daimler, as it only made up a small fraction of its total global presence
     * Significantly narrows the states where general jurisdiction is available, limits forum shopping, and restricts venue transfers
@@ -244,22 +258,8 @@ SCOTUS holds general jurisdiction is available where activity essentially render
 
 P’s bring suit arising out of human rights violations connected to Argentina’s Dirty War that involved Argentine based company. German based parent company is responsible for any liabilities that the Argentine company incurred. Parent company also has US based subsidiary. Suit is brought in CA federal court. Ps argue that (1) US subsidiary is subject to general jurisdiction in CA because of its massive level of contacts there, and (2) whatever contacts US subsidiary has in America are attributable to parent company for purposes of jurisdiction according to an agency theory.Though US subsidiary is not incorporated or HQ’d in CA, it has massive corporate presence there and it comprises its largest market in the US. COURT finds that this isn't sufficient for a finding of general jurisdiction. It asserts need for a "relative inquiry" which looks at contacts/activity in a jurisdiction compared to the totality of its operations. Since CA only made up a small proportion of the parent company's global contacts, court ruled that the activity of the US subsidiary in CA is not enough to establish general jurisdiction over the parent company.
 
-## BMS
+### Bristol-Myers Squibb
+
+Case represents personal jurisdiction in complex litigation (though not a class action). 600 Ps join together to sue BMS in CA over harmful effects of a drug. CA is most plaintiff friendly and also represents that largest pool of individuals among the Ps (86 are residents of CA). No general jurisdiction available here because of Daimler — BMS is not HQ’d or incorporated in CA. **The “arises out of” requirement has to be strictly applied to every plaintiff, no matter how much contact defendant has with forum**.Holding means that you can’t join large number of plaintiffs altogether if they are from (and have been injured in) different states. One option is to sue the defendant in its home state, based on general jurisdiction
 
 ---
-
-* Products liability is the area where there has been the least consensus
-* However, in the contracts and intentional tort area, there is a consistent series of majority opinions
-* Sometimes court is speaking to specific doctrinal matters, though sometimes these have broader thematic implications
-
-* Start with source of state authority for exercising PJ
-* General and specific provide two very different pathways. In many cases, only one of these paths may be relevant based on the facts
-
-* Perkins is still good law
-* Daimler seems to have rejected altogether the idea of "Starbucks jurisdiction"
-
-* NiCastro
-  * Kennedy - Relevant question is one pertaining to the actual intent of D. Where did it intend to submit itself to the power of the state?
-  * Breyer & Alito - Needs to be something demonstrating that it would be fair to subject D to PJ based on level of activity and personal availment. The fact that only one machine ended up in NJ is, evidence that it would be unfair based on McIntyre's activity in the NJ market. Volume of sales used as a proxy for intent
-
-* Asahi - Fairness considerations can be an independent basis for there being no PJ

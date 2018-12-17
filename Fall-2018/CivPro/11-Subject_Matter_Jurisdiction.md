@@ -134,22 +134,85 @@ Case involving land seizure by state to satisfy P's unpaid tax liability. Proper
 
 * Whether the limited subject matter jurisdiction of the federal courts precludes authority over additional claims between P and D or over 3rd parties that, standing alone, couldn’t be asserted in such tribunals
   * Practically, there will be complicated lawsuits, and for convenience, you’ll want to try them all at once
-* If you want to bring a suit where some claims have independent federal question and some don't
-* When there is a jurisdictional challenge, you have to be prepared to account for every element of the litigation
-  * Joinder:  Joinder is the way in which one is permitted to "put the lego pieces together" in a particular way in constructing a lawsuit. Are you allowed to put case together through the tools of the joinder rules?
-  * Jurisdiction: there must be a claim that has original subject matter jurisdiction
-  * Even if it makes convenient sense and meets joinder rules, SMJ may be lacking in some claim
 * Under Article III, court reads “cases and controversies” as very expansive: encompasses all parts of a lawsuit that fit together and from the same “controversy” even if there are separate claims
   * Statutory power not present federal common law grounded in Article III interpretation
   * There is no statutory provision for hearing non-diverse state claims in federal courts
   * Major question is how Article III treats these "mixed" claim cases
+    * Basic answer in *Gibbs* - Since judicial power extends to "cases and controversies", and we have federal anchor claim, court can adjudicate similar state claims so closely related to anchor as to be part of same case/controversy
+* When there is a jurisdictional challenge, you have to be prepared to account for every element of the litigation
+  * Joinder - the way in which one is permitted to "put the lego pieces together" in a particular way in constructing a lawsuit. Are you allowed to put case together through the tools of the joinder rules?
+  * Jurisdiction: there must be a claim that has original subject matter jurisdiction
+  * Even if it makes convenient sense and meets joinder rules, SMJ may be lacking in some claim
 * Two tests  for whether two claims are party of the same case or controversies
-  1. Common Nucleus of operative facts - Gibbs
-    * Asks about the facts underlying the two claims and whether the share facts of common and whether the constitute the core and whether operatively they work
-    1. Moore
-  * 
+  1. Common Nucleus of operative facts - *Gibbs*
+     * Invites an inquiry into the facts that comprise each of the claims in the mixed lawsuit
+     * Asks about the facts underlying the two claims and whether the facts that overlap are: core, insofar as they are central to the claim as opposed to existing in the periphery; and operative, insofar as their resolution drives the outcome of the lawsuit, as opposed to atmospheric facts
+       * An easier way to think about this is if the various claims are such that they would ordinarily be expected to be tried in a single judicial proceeding
+     * If this test is satisfied, state claims in a mixed case are sufficiently related to anchor claims so as to be part of the same "controversy" in Article III, thus entirety of claims comprises one constitutional case
+     * Importance of common nucleus of operative fact standard
+       * Efficiency, constitutional authority, fairness
+     * Still a matter of discretion as to whether court actually accepts case for adjudication. Discretionary factors include:
+       * If anchor claim gets dismissed fairly early in lawsuit; if supplemental claims require court to decide complex or novel issues of state law; if state law claims predominate over federal law claims; exceptional circumstances
+  1. Logical Relationship Test - *Moore*
+     * Moore allows supplemental jurisdiction because there is a “logical relation” between the claims
+     * Can be better understood as a matter of dependence
+       * Whatever factual overlap exists, if the resolution of supplemental claim relies on the resolution of the anchor claim, then they can be heard under the same controversy
+       * In order to decide the one claim, as a practical reality, we have to decide the other as well
+* Additional Parties - *Kroger* and *Finley*
+  * Statutory authorization - have it for general federal question jurisdiction, but what about supplemental?
+    * Did not exist at time of *Gibbs* and *Kroger*
+    * *Gibbs* ignored this, but *Kroger* recognized this and held that allowing exercise of supplemental jurisdiction in the case would have presented a statutory problem
+      * Court does not want to permit parties to do indirectly that which has been "barred" by statute when done directly
+      * "Barred", more specifically, can be understood as conflicting with congressionally approved jurisdictional policy
+  * Finley was the impetus for 28 USC §1367
+    * (a) - Affirmative authorization of supplemental jurisdiction to the limits of Article III §2 ("same case or controversy") except:
+      * Other federal statute
+      * (b) or (c)
+    * (b) - Only applies where anchor claim based solely on diversity
+      * No supplemental jurisdiction over claims by P against against persons joined under:
+        * Rule 14 - Impleader Rule
+        * Rule 19 - Necessary Party Rule
+        * Rule 20 - Ordinary Joinder Rule
+          * Glitch - Only applies to parties joined by P. This may allow one of multiple Ps to circumvent amount in controversy requirements
+        * Rule 24 - Provision for Intervention
+      * Counterclaims under Rule 13 are not excluded from supplemental jurisdiction when anchor claim is based on diversity
+      * No supplemental jurisdiction over claims by persons joined under:
+        * Rule 19 - Necessary Party Rule
+        * Rule 24 - Provision for Intervention
+    * (c) Discretionary Factors
+      * Codifies discretionary factors in goods which may be good reason not to exercise supplemental jurisdiction
+
+### *United Mine Workers v. Gibbs*
+
+P unable to fulfill obligations in employment contract due to actions by D. He filed suit against D based on their violation of a federal statute (Labor Management Relations Act) and the claim in controversy is a state-law claim allegedly part of an unlawful conspiracy to “maliciously, wantonly and willfully” interfere with his contracts. Court says it makes sense to bring claims together in a single lawsuit; it would have been unfair to bring this claim in state court. Where there is a lawsuit involving claim with independent basis for federal SMJ, article 3 allows that any claims closely related to this "anchor claim" be litigated together as a matter of common sense. To determine this, court employs test which requires the **state and federal claims derive from a common nucleus of operative facts**
+
+### Moore v. NY Cotton Exchange
+
+P brings federal anti-trust claim against D, D brings state counter-claim (Joinder Rule 13) alleging P stole pricing information which it used as the basis of its anti-trust accusations. Federal claim was dismissed on the merits, not for lack of jurisdiction. On the state-claim, court rules that if one party asserts federal anchor claim, and other party counter-claims with a state-law claim, the **court can exercise its discretion to hear the additional claim if the counter-claim arises from the same transaction or series of transactions such that they bear a logical relationship to one another**, even if the anchor claim is dismissed (unless dismissed for jurisdictional issues)
+
+### Owen Equipment v. Kroger
+
+P filed wrongful death action in federal court on diversity. D1 impleaded 3rd party (Rule 14), and P amends complaint to add impleaded D2 as new party. Original D1 got his case dismissed, so the only remaining parties were P v. D2 (with no diversity). Court holds that there is no supplemental jurisdiction; there is no complete diversity which **conflicts with express authority of 1332**. Additionally, no efficiency in jurisdictional exercise of a suit with only non-diverse parties when the proper forum is state court. Hypothetically, if D1 remained as defendant and impleaded D2, court might not strike down since it is defendant who is trying to get both claims heard in one court (would otherwise be inconvenience) and its not incompatible with 1332
+
+### *Finley v. United States*
+
+P was wife and mother of victims of a plane crash. She sued the FAA, which can only be sued in federal courts, as well as local entities (city of San Diego and SD Gas & Electric) with state claims. SCOTUS held that federal court lacked authority to assert jurisdiction over the state claims against the non-federal defendants. She would need to bring two separate suits. In doing this, SCOTUS was effectively inviting congress to act and provide express authorization
+
 ---
 
-## Other Subject-Matter Jurisdiction Issues
+## Removal
+
+* Right to Removal under §1441
+  * Tool for D’s to remove case to federal court if it would have had original jurisdiction anyway, grounded in either §1331, §1332, or §1367
+  * Challenge removal by motion to remand. Case not dismissed, simply sent back to state court
+  * Where multiple Ds, all parties must consent to removal
+  * Parties have 30 days to file motion to remand if grounds for challenging are something other than subject matter jurisdiction
+  * Filing for removal on diversity grounds requires D satisfy plausibility standard in establishing scope of the damages meets amount in controversy requirements
+    * May conflict with D's own interests, as he is basically setting the floor on damages that can be assessed against him at $75,000
+  * Only Ds can remove. Ps are not allowed to remove, even if the D does something that leads the P to have a good reason to be in federal court
+  * The removal motion needs a short and plain statement for basis of removal. Notice of removal has to spell out the basis for removal
+  * If court issues order to remand, this decision is not reviewable with 2 exceptions:
+    1. Court asserts reason for denying is something other than improper removal (i.e. too busy) - Can appeal via extraordinary writs in these cases
+    1. Remands under discretionary provision of supplemental jurisdiction
 
 ---
