@@ -247,3 +247,19 @@ Pâ€™s bring suit arising out of human rights violations connected to Argentinaâ€
 ## BMS
 
 ---
+
+* Products liability is the area where there has been the least consensus
+* However, in the contracts and intentional tort area, there is a consistent series of majority opinions
+* Sometimes court is speaking to specific doctrinal matters, though sometimes these have broader thematic implications
+
+* Start with source of state authority for exercising PJ
+* General and specific provide two very different pathways. In many cases, only one of these paths may be relevant based on the facts
+
+* Perkins is still good law
+* Daimler seems to have rejected altogether the idea of "Starbucks jurisdiction"
+
+* NiCastro
+  * Kennedy - Relevant question is one pertaining to the actual intent of D. Where did it intend to submit itself to the power of the state?
+  * Breyer & Alito - Needs to be something demonstrating that it would be fair to subject D to PJ based on level of activity and personal availment. The fact that only one machine ended up in NJ is, evidence that it would be unfair based on McIntyre's activity in the NJ market. Volume of sales used as a proxy for intent
+
+* Asahi - Fairness considerations can be an independent basis for there being no PJ

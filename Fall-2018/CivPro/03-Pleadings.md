@@ -21,7 +21,7 @@
 
 ## Twombly Standard
 
-* \"[i]n\ practices, a complaint...must contain either direct or inferential allegations respecting all the material elements necessary to sustain recovery under some viable legal theory."
+* "In practices, a complaint...must contain either direct or inferential allegations respecting all the material elements necessary to sustain recovery under some viable legal theory."
 * Conclusory Allegations v. Allegation of Fact
   * Conclusory Allegations
     * A bare restatement of elements in the cause of action or an allegation made by inferences drawn from other allegations. These are not entitled to a presumption of truth at the pleadings stage
@@ -33,6 +33,7 @@
   * A Primary task of court in determining if complain satisfies Twombly standard is to determine which claims are factual and which are conclusory.
 * Plausibility Analysis
   * Examines relationship between factual allegations and conclusory ones
+    * Distinction between an allegation describing a thing that happened in the world and a restatement/repackaging of elements in a cause of action
   * Court assumes the fact allegations to be true and looks at the conclusory allegations in the complaint's overall context to determine if the culpable inference is plausible based on the alleged facts
   * Though this isn't quite clear, for a culpable inference to be plausible, it must be, at a minimum, equally compelling as any other inference drawn from the same set of facts
   * Consequence is that it invites court to police what is plausible (i.e. what explanations of the facts is most likely) at the pleadings stage

@@ -52,7 +52,16 @@
   * Puts to rest the idea of a general federal common law. Federal courts are not purpose common law courts (though state courts are)
     * Decision stands for the proposition that state courts are the expositors of the contents of state law
   * Can be viewed as an attempt to correct the issues and perverse incentives created by *Swift*
-    * All but eliminates forum shopping opportunities if the same law is being applied regardless if case is heard in a federal or state court
+    * All but eliminates forum shopping opportunities if the same law is being applied regardless of whether case is heard in a federal or state court
     * Unequal protection problem: diverse or non-diverse parties in a similar lawsuit could lead to different results
+      * Seems unfair to defendant that they will win or lose depending on which court they get sued in
+      * However, casebook notes indicates the displacement of state law didn't really give disproportionate power to 
+* Challenges with *Erie*
+  * Erie discussed federalism issues and issues about equal protection, both constitutional issues. Post-*Erie* court struggled in subsequent decades to figure out how much of *Erie* decision was a constitutional doctrine vs a matter of policy within federal courts related to procedural questions
+    * If the Federal/State procedural distinction is indeed a matter of constitutional law, 
+
+### *Erie R. Co. v. Tompkins*
+
+Anytime you are presented with the question about the content of a cause of action in a diversity case (what you might label a “substantive” law question about regulatory or liability issues), use state law. These diversity cases in federal court we’ve talked about throughout the course have been based on state law. The tricky part is understanding how this principle works in cases involving judge-made “procedural” law. In light of the Rules of Decision Act (laws of several states shall govern in federal court), and background constitutional context of federal courts as courts of limited jurisdiction, how does this set of principles work when it comes to procedural questions? Our first pass at this question looks at whether the procedural question concerns federal judge-made law or a federal statute/rule.
 
 ---
