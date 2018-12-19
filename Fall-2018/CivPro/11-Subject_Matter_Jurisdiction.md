@@ -210,6 +210,7 @@ P was wife and mother of victims of a plane crash. She sued the FAA, which can o
   * Filing for removal on diversity grounds requires D satisfy plausibility standard in establishing scope of the damages meets amount in controversy requirements
     * May conflict with D's own interests, as he is basically setting the floor on damages that can be assessed against him at $75,000
   * Only Ds can remove. Ps are not allowed to remove, even if the D does something that leads the P to have a good reason to be in federal court
+  * Resident defendants do not have power to remove if sued in their state of residency
   * The removal motion needs a short and plain statement for basis of removal. Notice of removal has to spell out the basis for removal
   * If court issues order to remand, this decision is not reviewable with 2 exceptions:
     1. Court asserts reason for denying is something other than improper removal (i.e. too busy) - Can appeal via extraordinary writs in these cases
