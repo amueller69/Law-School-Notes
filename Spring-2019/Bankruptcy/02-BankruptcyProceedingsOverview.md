@@ -85,4 +85,4 @@
     * Individual reorganization plans
     * Chapter 11 - Restructuring
 
-## Major Players in Bankruptcy Proceedings
+## Major Players in Bankruptcy Proceeding

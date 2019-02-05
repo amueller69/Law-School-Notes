@@ -13,3 +13,17 @@
 [5]: https://github.com/amueller69/Law-School-Notes/tree/master/Fall-2018/Torts
 
 ---
+
+## Spring
+
+* [Criminal Law][6]
+* [Constitutional Law][7]
+* [Privacy][8]
+* [Bankruptcy][9]
+
+[6]: https://github.com/amueller69/Law-School-Notes/tree/master/Spring-2019/CrimLaw
+[7]: https://github.com/amueller69/Law-School-Notes/tree/master/Spring-2019/ConLaw
+[8]: https://github.com/amueller69/Law-School-Notes/tree/master/Spring-2019/Privacy
+[9]: https://github.com/amueller69/Law-School-Notes/tree/master/Spring-2019/Bankruptcy
+
+---
