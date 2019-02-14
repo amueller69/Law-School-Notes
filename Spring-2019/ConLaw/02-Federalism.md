@@ -191,27 +191,61 @@
 
 ### Modern Interpretation Takes Shape
 
-* Majority Opinion
-  * Three categories of activity that can be regulated:
-    1. Use of the channels of interstate commerce (i.e. sales directly interstate)
-    1. Instrumentalities of interstate commerce (e.g. highways, railroads, things used to conduct commerce across state lines)
-    1. Intrastate activities that have a “substantial relation” to interstate commerce
-  * Proper test for the third category requires an analysis of whether the regulated activity "substantially affects" interstate commerce
-  * Possessing a gun near a school did not substantially affect interstate commerce and thus law was unconstitutional
-    * The "soup" of justifications for its decision that the majority cites in decision (e.g. concerns about federalism, directness, substantial affects, economic in nature, etc) leave us with a pretty incoherent framework
-    * The statute has nothing to do with commerce and lacks jurisdictional element that would ensure its relation to interstate commerce. It can't be sustained that the activities related here substantially affect interstate commerce in the aggregate
-      * Purpose of the jurisdictional element requirement seems to preventing law from upsetting the balance of federalism
-      * While no formal burden to show the effects, majority contends there are no findings that support a basis for the belief
-      * Those arguments government presents to show a reasonable basis are dismissed because of there implications for federalism
-* Thomas Concurrence
-  * Rejects the third category and argues for a far more narrow view of congressional power. This would look something like a return to pre-New Deal doctrine
-  * Substantially affects standard swallows up all powers in Art. I §8
-* Kennedy/O'Connor Concurrence
-  * Stress principles of limited federalism and importance of preserving intended relationship between congress and state authority
-  * Emphasizes that the government had gone too far in that specific instance, but disclaims a formalist test that gives too little weight to the Congressional interest in regulating for the economic well-being in the modern economy
-* Souter Dissent
-  * The economic character question bears on whether courts defer to Congress
-    * Rehnquist is wrong in reviewing the Court’s rationale; need to give deference
-  * If non-economic character in question, the no rationality deference to Congress
-* Breyer Dissent
-  * Criticizes majority for judicial activism and abandoning precedent of last 60 years. Appeals to the rational basis principle that an activity affect interstate commerce and that guns are inherently part of interstate commerce and have economic impact that justifies the regulation
+* *US v. Lopez*
+  * Majority Opinion
+    * Three categories of activity that can be regulated:
+      1. Use of the channels of interstate commerce (i.e. sales directly interstate)
+      1. Instrumentalities of interstate commerce (e.g. highways, railroads, things used to conduct commerce across state lines)
+      1. Intrastate activities that have a “substantial relation” to interstate commerce
+    * Proper test for the third category requires an analysis of whether the regulated activity "substantially affects" interstate commerce
+    * Possessing a gun near a school did not substantially affect interstate commerce and thus law was unconstitutional
+      * The "soup" of considerations that the majority cites in decision (e.g. concerns about federalism, directness, substantial affects, economic in nature, etc) **leave us with a pretty incoherent framework**
+      * **Ultimately concludes that the statute has nothing to do with commerce and lacks jurisdictional element that would ensure its relation to interstate commerce**. It can't be sustained that the activities related here substantially affect interstate commerce in the aggregate
+        * Purpose of the jurisdictional element requirement seems to preventing law from upsetting the balance of federalism
+        * While no formal burden to show the effects, majority contends there are no findings that support a basis for the belief
+        * Those arguments government presents to show a reasonable basis are dismissed because of there implications for federalism
+  * Thomas Concurrence
+    * Rejects the third category and argues for a far more narrow view of congressional power. This would look something like a return to pre-New Deal doctrine
+    * Substantially affects standard swallows up all powers in Art. I §8
+  * Kennedy/O'Connor Concurrence
+    * Stress principles of limited federalism and importance of preserving intended relationship between congress and state authority
+    * Emphasizes that the government had gone too far in that specific instance, but disclaims a formalist test that gives too little weight to the Congressional interest in regulating for the economic well-being in the modern economy
+  * Souter Dissent
+    * Majority is saying that the economic character question bears on whether courts defer to Congress (i.e. If non-economic character in question, the no rationality deference to Congress)
+      * Rehnquist is wrong in reviewing the Court’s rationale; need to give deference
+      * Distinction between what is commercial and non-commercial is return to formalistic jurisprudence from 60 years ago
+  * Breyer Dissent
+    * Criticizes majority for judicial activism and abandoning precedent of last 60 years. Appeals to the rational basis principle that an activity affect interstate commerce and that guns are inherently part of interstate commerce and have economic impact that justifies the regulation
+* *US v. Morrison*
+  * Background: Violence Against Women Act provided a federal cause of action for violent crimes against women (purely intrastate activity). Congress made extensive legislative findings about the substantial effects of such violence on interstate activity
+  * Outcome: 3 part test as articulated in *Lopez* is affirmed. Court struck down VAWA, because there was no “substantial relation” to interstate commerce under category 3
+  * Majority:
+    * This is a regulation of non-economic activity and non-economic activity has traditionally been dealt with by state laws
+    * Gender-motivated crimes are in no sense economic. There has been no precedent by which aggregate effects of intrastate non-economic activity have been considered and used to uphold regulation of this activity
+    * Congress' findings related to the impact on the economy are not sufficient by itself, as allowing Congress to rely on the attenuated effects of a long causal chain would allow them to regulate just about anything
+      * Looks a lot like the directness test from Pre-1937
+      * Concerns about limits and federalism
+  * Dissent:
+    * Souther stresses deference to congress. Congress has conducted voluminous hearings and found significant effects on the economy.
+* New limitations following *Lopez* and *Morrison* - Congress cannot regulate non-economic activity based on aggregate substantial effects on interstate commerce in areas that have traditionally been regulated by the states (i.e. intrastate activity)
+* *Gonzales v. Raich* (2005)
+  * Facts:
+    * California’s Compassionate Use Act of 1996 allows for the possession and cultivation of marijuana for medicinal purposes upon physician recommendation
+    * Under Controlled Substances Act, manufacture and possession of marijuana is illegal
+    * Raich prescribed marijuana for medical purposes; relies on home-grown marijuana; challenges constitutionality of CSA
+  * Stevens (Majority)
+    * Within congressional commerce power if congress has a rational basis to conclude that the activity:
+      1. Is part of an economic class of activities that cumulatively has a substantial effect on interstate commerce OR
+      1. Even if non-commercial, failure to regulate would undercut the regulation of a greater overall economic activity
+    * They find that the greater overall activity that is being regulated (interstate marijuana sales) is of a commercial quality and even if possession is assumed to be non-economic, there is rational basis for believing that not regulating intrastate possession would frustrate (i.e. undercut) the federal interest in regulating the interstate market
+    * This distinguishes the case at hand from *Morrison* and *Lopez*
+  * Scalia (Concurrence)
+    * Within congressional commerce power if congress has a rational basis to conclude that the activity:
+      1. Activity cumulatively has a substantial effect on interstate commerce and doesn't rely on remote chain of inferences (unless activity is economic) OR
+      1. Congress reasonably concludes that activity, if unregulated, could undercut a larger reign of economic activity
+    * Determines that this satisfies 2
+  * O'Connor (Dissent)
+    * Presents a conjunctive test:
+      1. Must belong to a class of economic activities AND
+      1. Must substantially affect interstate commerce
+    * Attacks second prong, though is skeptical about the first as well. Argues that there is an empirical gap in the effects on interstate commerce
