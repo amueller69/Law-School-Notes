@@ -98,7 +98,7 @@
   1. What does among the several states mean?
   1. Does 10th amendment limit the scope of congress' commerce powers?
 
-### Gibbons v. Ogden (SCOTUS 1824) - Seminal Commerce Clause Case
+### Gibbons v. Ogden (SCOTUS 1824) - The Grandfather of Commerce Clause Cases
   
 * Background
   * Fulton and Livingston given monopoly to operate steamboats in NY waters, who license Ogden to operate ferry boat between NYC and NJ
@@ -159,3 +159,59 @@
     * Court claims it is not inquiring into congressional purpose or motive
     * Champion and Hoke, harm was yet to come; here harm complete prior to start of interstate comm.
 * At end of this period, there was significant pressure for a change in doctrine, as the court's interpretation limited congressional commerce power, overturning important pieces of new deal legislation. The doctrines were also intellectually vulnerable because the decisions appeared to have rested on arbitrary distinctions and reasoning
+
+### Post New Deal Relaxation of Limitations
+
+* *NLRB v. Jones & Laughlin Steel* (1937) - NLRA challenged by Steel Industry, Court reverses direction:
+  1. Rejects categorical approach to commerce (e.g. *Knight*); steel “production” is no bar: "...that the employees were engaged in production is not prohibitive"
+  1. Cardozo is avenged. Directness based approach is rejected. Power under the commerce clause is "necessarily one of degree"
+  1. Court speaks broadly about Congress' commerce power: The power to regulate is plenary and may be exerted to protect interstate commerce no mater what the source of the dangers which threaten it. Not as clear at the time, but signals the major shift captured in *Darby* and *Wickard*
+* *U.S. v. Darby* (1941) - FLSA prevents good failing to meet labor standard from being shipped or produced for purpose of interstate commerce
+  1. Power to regulate w/in the bounds of ICC is plenary, courts will not inquire into motives to determine constitutionality (*Hammer* and seems to conflict with *McCulloch*)
+     * Rejects view that activities such as production reserved exclusively to the states
+  1. Even purely intrastate activity (production) satisfies among the states because of substantial interstate effects
+     * Failing to pay minimum wage in one state would drive down wages in nearby states to compete -> interstate effects
+     * Power over interstate commerce extends to intrastate commerce so affecting interstate commerce as to make regulation an appropriate means to a legitimate end
+  1. 10A is not an independent external constraint on the commerce power, it merely “states a truism.” We already know that powers not granted to congress are reserved to the states.
+* *Wickard v. Fillburn* (1942) - Quota on wheat production challenged subsistence farmer
+  1. Cannonizes rule that would control until 1995: Regulation constitutional so long as Congress could rationally conclude the activity, in the aggregate, had a substantial effect on interstate commerce
+     * Substantial Effects is the first prong, which looks at economic measures in the aggregate. Though P's own homegrown wheat didn't have any direct affect on interstate commerce, this activity collectively has effects on wheat market demand and thus interstate commerce
+     * Rational Basis
+  1. Rejects the formalistic distinctions from the former era such as commerce vs. production or indirect vs. direct effects. These are irrelevant if the substantial affects, measured in economic terms, support the reach of power
+* Other Cases and Developments
+  * Elimination of the word substantial in *Hodel*, where court could only invalidate if there is no rational basis that the regulated activity affects interstate commerce. Hard to imagine anything could not be regulated under this broad interpretation of the clause
+  * Implications of the trilogy above:
+    * Congress can set terms of items shipped interstate; it could virtually regulate anything that could potentially travel over state lines
+    * Purely intrastate activities could be regulated so long as there is rational basis for believing there is an interstate effect or that it is necessary to protect its regulation of interstate activities
+  * Criminal Civil Rights Laws
+    * In *Heart of Atlanta*, Court upheld law that outlawed discrimination by private places of public accommodation (e.g. hotels, restaurants, etc). Court found that only relevant question was whether there was rational basis for finding discrimination by hotels affected interstate commerce and whether the selected means where reasonable and appropriate
+      * Reiterated in *McClung*
+    * *Perez* upheld Consumer Credit Protection Act because there is no need for proof of effects on interstate commerce, just belief that it is affected. Thus, loan-sharking activities, which often occur interstate, can be regulated under commerce clause powers
+    * Question about motive/desired end had constitutional implications
+
+### Modern Interpretation Takes Shape
+
+* Majority Opinion
+  * Three categories of activity that can be regulated:
+    1. Use of the channels of interstate commerce (i.e. sales directly interstate)
+    1. Instrumentalities of interstate commerce (e.g. highways, railroads, things used to conduct commerce across state lines)
+    1. Intrastate activities that have a “substantial relation” to interstate commerce
+  * Proper test for the third category requires an analysis of whether the regulated activity "substantially affects" interstate commerce
+  * Possessing a gun near a school did not substantially affect interstate commerce and thus law was unconstitutional
+    * The "soup" of justifications for its decision that the majority cites in decision (e.g. concerns about federalism, directness, substantial affects, economic in nature, etc) leave us with a pretty incoherent framework
+    * The statute has nothing to do with commerce and lacks jurisdictional element that would ensure its relation to interstate commerce. It can't be sustained that the activities related here substantially affect interstate commerce in the aggregate
+      * Purpose of the jurisdictional element requirement seems to preventing law from upsetting the balance of federalism
+      * While no formal burden to show the effects, majority contends there are no findings that support a basis for the belief
+      * Those arguments government presents to show a reasonable basis are dismissed because of there implications for federalism
+* Thomas Concurrence
+  * Rejects the third category and argues for a far more narrow view of congressional power. This would look something like a return to pre-New Deal doctrine
+  * Substantially affects standard swallows up all powers in Art. I §8
+* Kennedy/O'Connor Concurrence
+  * Stress principles of limited federalism and importance of preserving intended relationship between congress and state authority
+  * Emphasizes that the government had gone too far in that specific instance, but disclaims a formalist test that gives too little weight to the Congressional interest in regulating for the economic well-being in the modern economy
+* Souter Dissent
+  * The economic character question bears on whether courts defer to Congress
+    * Rehnquist is wrong in reviewing the Court’s rationale; need to give deference
+  * If non-economic character in question, the no rationality deference to Congress
+* Breyer Dissent
+  * Criticizes majority for judicial activism and abandoning precedent of last 60 years. Appeals to the rational basis principle that an activity affect interstate commerce and that guns are inherently part of interstate commerce and have economic impact that justifies the regulation

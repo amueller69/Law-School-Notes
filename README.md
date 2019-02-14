@@ -14,7 +14,7 @@
 
 ---
 
-## Spring
+## Spring 2019
 
 * [Criminal Law][6]
 * [Constitutional Law][7]
