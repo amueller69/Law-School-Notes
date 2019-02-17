@@ -69,7 +69,7 @@
     * §364 – Financing Provision
       * Facilitates borrowing by debtors when they are in bankruptcy
       * Turns out to be one of the most important provisions in Chapter 11 (American business bankruptcy)
-      * Gives the court a lot of discretion to approve lending. If the debtor wants to get debtor-in-possession financing the, court has privileges it can give to the loan.
+      * Gives the court a lot of discretion to approve lending. If the debtor wants to get debtor-in-possession financing the, court has privileges it can give to the loan
         * Not only can court give lender administrative expense status or a lien, it can give a lien that takes priority over all other liens (priming lien)
         * Chapter 11 debtor-in-possession is distinguishing provision of American bankruptcy
       * Recently (in the last year or so) the government has become the biggest debtor-in-possession lender. This has really been in the auto industry bankruptcies
@@ -81,8 +81,35 @@
       * §725 - Property interests gets paid off first
       * §726 - Priority interests below property interest
         * Directs you to §507 for priority rules
-    * Chapter 13 - Wage Earner Plans
-    * Individual reorganization plans
     * Chapter 11 - Restructuring
+      * Primarily for businesses
+    * Chapter 13 - Rehabilitation for individuals
+      * Propose a 3-5 year repayment plan
+         * You have to pay all of your disposable income for the next 3-5 years less reasonable expenses (costs you more than Chapter 7, in which you simply turn over your available assets)
+         * You would effectively have to pay interest on any secured claims over the life of the plan, not on unsecured claims
+         * If the plan FAILS, take away the discharge/the restructured obligations go back to original (aka owe 100 cents on the dollar even if restructure to owe 30 cents on the dollar)  
+      * Limitations: there are debt maximums (something like 1M secured; 350k unsecured). If you have more than that you, you cannot use Chapter 13
+        * Examples: Mike Tyson; Michael Vic both filed for Chapter 11 because they had more debt than the maximum allowed under Chapter 13
+      * Reasons to file for Chapter 13:
+        1. You want to keep a house with equity in it or some other asset (main reason you would want to file for Chapter 13 over Chapter 7)
+        2. Some types of debt that cannot discharge in Chapter 7 can be discharged in Chapter 13
 
 ## Major Players in Bankruptcy Proceeding
+
+* Debtor
+* Creditor (+ Unsecured Creditor’s Committee)
+  * Unsecured Creditor’s Committee:
+    * (Only committee in the statute)
+    * Composed of the 7 largest unsecured creditors who are willing to serve
+    * Serves as the “face” of the unsecured creditors
+* Trustee/Debtor-in-Possession
+  * Chapter 7:
+    * A trustee is put in place, whose role is to gather assets, sell them and distribute the proceeds to creditors
+    * Trustee (generally a lawyer/accountant)
+  * Chapter 11:
+    * Generally no trustee; rather have the debtor-in-possession in charge (aka the managers of the firm continue to run it in bankruptcy). Only if there is a problem is one put in place
+  * US Trustee (government watch dog)
+    * If no one is appointed or willing to serve. Preference to have a private party be the trustee  
+* Bankruptcy Judges (Article I) – have a tremendous about of power/discretion (§105 powers)
+
+---
