@@ -243,9 +243,61 @@
     * Within congressional commerce power if congress has a rational basis to conclude that the activity:
       1. Activity cumulatively has a substantial effect on interstate commerce and doesn't rely on remote chain of inferences (unless activity is economic) OR
       1. Congress reasonably concludes that activity, if unregulated, could undercut a larger reign of economic activity
-    * Determines that this satisfies 2
+    * Determines that this satisfies 2, relying on N&P Clause in addition to the Commerce Clause
   * O'Connor (Dissent)
     * Presents a conjunctive test:
       1. Must belong to a class of economic activities AND
       1. Must substantially affect interstate commerce
     * Attacks second prong, though is skeptical about the first as well. Argues that there is an empirical gap in the effects on interstate commerce
+* *NFIB v. Sebelius* (2012)
+  * Facts:
+    * Affordable Care Act requires individuals to purchase health insurance as part of a “three-legged stool” solution: (1) insurer reform; (2) individual mandate; (3) Medicaid expansion
+    * Government argues that individual mandate is necessary to prevent cost-shifting by healthy and death spirals caused by adverse selection problem
+  * Outcome - Individual mandate is an unconstitutional use of Congress’s Commerce Clause powers. Congress may only regulate pre-existing activity and may not compel activity
+  * Roberts Opinion
+    * Must be an activity to be reachable under Commerce Clause, and this individual mandate is not regulating an activity but rather inactivity. Improper for Congress to draw into regulatory sphere those who would be outside it
+      * Activity/Inactivity distinction comes from the meaning of "regulate", as you cannot regulate activity that is not taking place
+      * Government's logic would allow use of commerce power to compel individuals to act, which would be of significant consequence
+    * N&P Clause involves authority derivative of a granted/existing power, where as the individual mandate is the exercise of a "great substantive and independent power"
+    * Primary distinction with cases like *Raich* is one of regulating classes of individuals rather than classes of activities:
+      * *Raich* dealt with an individual instantiation of a class of activity (i.e. in-state growing and possessing marijuana), however it did not specifically regulate individuals themselves (statute prohibits an activity)
+      * *NFIB* is not aimed at any activity in the affirmative sense, but is directed at a class of individuals (i.e. the uninsured). The object of this regulation falls outside of the three categories, as those who haven't purchased health insurance are not "persons involved in interstate commerce"
+        * "The individual mandate's regulation of the uninsured as a class is, in fact, particularly divorced from any link to existing commercial activity"
+  * Ginsburg
+    * Recites formulation of the rule. Congress has power to regulate economic activities that substantially affect interstate commerce. When appraising this legislation, ask only whether there is rational basis for concluding substantial effects AND whether there is reasonable connection between regulatory means and asserted ends.
+      * Only invalidate laws upon plain showing that Congress acted irrationally
+    * The word regulate can mean to “direct,” which is to tell people what to do [precedent is in *Seven-Sky*]. Also, this is regulation of activity b/c everyone actively involved in healthcare market or engages in self-insurance when not purchasing from company
+      * We got rid of formulas and line-drawing because of their limitations, but Roberts bringing back activity/inactivity distinction
+    * Fundamental precept: Congress has sufficient regulatory authority to meet the economic needs of the nation in all cases where uniform measures are necessary (see Madison)
+      * Majority decision does not allow Congress to adopt the practical solution it devised for the health care problem
+  * Scalia
+    * Cannot regulate or “direct” commerce that does not exist by compelling its existence
+    * Distinguishes Raich b/c here there are multiple ways of achieving regulatory goals
+    * Fundamental precept: Federal government cannot do everything; enumerated powers
+
+---
+
+## 10th Amendment
+
+* Two approaches on 10th amendment as limit on congressional power
+  1. 10th Amendment is not a separate constraint on Congress, but rather a reminder that Congress my only legislate if it has authority under the constitution. No independent basis for invalidating on 10th Amendment grounds, this merely means Congress has exceeded the scope of powers delegated in Article I
+  1. 10th Amendment protects state sovereignty from federal intrusion and is a key mechanism for maintaining the appropriate balance of power/federalism and states power. Zone of activity for state's exclusive control and any federal laws that intrude are unconstitutional
+* Benefits of protecting state sovereignty from intrusion
+  1. Decreasing likelihood of federal tyranny - Is this still as important in modern national market economy?
+  1. Enhancing democratic rule by providing government that is closer to the people - However, consider Madison's concern about factions of special interests dominating local levels of government
+  1. Allowing states to be labs for new ideas - When is it worth experimenting if rights/liberties are at stake?
+
+### Restricting Laws of General Applicability
+
+* *National League of Cities v. Usery* (1976)
+  * Background:
+    * The only case between 1937 and the 1990s to deviate and find that a law violated the 10th Amendment
+    * Issue was whether Congress could enforce FLSA requirements of minimum wage against State governments
+  * Outcome:
+    * Court held that Congress violates 10A when it interferes with traditional state and local government functions, though it did not specifically define what these functions were
+    * J. Blackmun, who was the deciding vote, said he viewed majority decision as a balancing test in which exercise of federal power would be permissible in areas where the federal interest is demonstrably greater than that in protecting state sovereignty
+  * Cases following *Usery* provided clarification and narrowed the scope of this ruling
+    * *Hodel* made it clear that it applied only when Congress was regulating state governments, not private conduct. Must regulate states as states an not directly impair ability to perform essential functions
+    * *United Transportation* further narrowed this application so that only violates 10A when would be likely to hamper the state government's ability to fulfill its role in the Union
+
+  
