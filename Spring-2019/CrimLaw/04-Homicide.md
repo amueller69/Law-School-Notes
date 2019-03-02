@@ -255,95 +255,99 @@
 
 ## Death Penalty
 
+### Issues, Developments, and Policy Considerations
+
+* Death Penalty is expensive to administer
+  * Significantly greater investigative, trial, and appeal costs
+  * In NC, it costs over $2 million per execution more than if it were just to impose life sentence
+* MPC has withdrawn death penalty (not officially endorsing or opposing it) b/c of the “current intractable institutional and structural obstacles to ensuring a minimally adequate system for administering capital punishment”
+* Still has public support, though lower than its peak
+  * Trending downward
+  * Subject to little regional variation, but extent to which penalty is carried out widely differ
+* Number of states recently moved away
+  * 7 states made it illegal, 21 more have proposed its repeal, others have undertaken reviews of the process
+* **Primary considerations are related to the animating principles of criminal law and theories of punishment**
+  * Deterrence
+    * As long as people believe that death penalty is worse than life sentence, it should have a deterrent effect (in theory)
+      * Counterargument that it has "brutalization effect" promoting violence to deal with problems and thus increasing murder rate
+    * Empirical evidence is inconclusive
+      * Raises question of how sure do we need to be of deterrent effect in order to justify using capital punishment?
+  * Retribution
+    * Kantian defense rests on the principle of equality, the basis for the biblical principle of lex talonis ("an eye for an eye")
+      * This is compelled by, and according to Kant is consistent with, the CI
+    * Expressive function, though this seems to have an end that falls outside pure retribution
+* Error and Bias
+  * Is risk of error inherently less acceptable in capital sentencing due to the significance of its implications?
+    * Can't simply correct it after innocent person has been executed
+    * To what extent to improved forensic technologies alleviate this concern? In reality, this probably doesn't make a significant difference as it is rarely available and subject to error itself
+    * Counterargument that concerns about protecting the innocent are given too much weight and the risk must be accepted in order to achieve benefits of the death penalty
+  * Argument that disproportionate racial or economic bias that is systemic in the administration of capital punishment
+    * Consider poor defendants who can't afford adequate legal representation or black defendants subject to discrimination
+* Constitutional Limitations
+  * Procedural Due Process under 5th and 14th Amendments
+    * SCOTUS, in *McGautha*, rejects argument that life-or-death sentencing decisions needs to follow some explicit criteria in order to comport with due process. Instead, due process is consistent with leaving these decisions to the unguided discretion of judges and juries
+  * 8th Amendment protections against cruel and unusual punishment
+    * SCOTUS ruled shortly after in *Furman* that capital punishment is it was administered then (1972) was a violation of protection against cruel and unusual punishment. Forced states to quickly adopt new legislation clarifying sentencing criteria (either by re-writing laws to (1) make death penalty mandatory for certain crimes OR (2) standardize guidelines for jury sentencing)
+* Guided discretion and mandatory sentencing
+  * New statutory schemes adopted in TX, GA, and FL post *Furman* were upheld. These required sentencing authority weigh certain factors, yet did not impose mandatory imposition of death sentence, ultimately leaving decision to jury
+  * Court later held mandatory capital sentencing were inconsistent with standards of decency and thus remained unconstitutional. They argued this schemes fail to address concerns from *Furman* of unchecked and unguided jury, especially when they felt sentence was inappropriate. Individualized sentencing, where all possible mitigating factors are considered, is necessary (*Woodson* and *Locket*)
+  * *Woodson* and *Lockett* decisions, where mitigating factors to be considered cannot be limited to those specifically enumerated in the statute, seems to conflict with *Furman* decision arguing the need for structure and less arbitrariness in sentencing guidelines. Also concerns about the excessive time needed for this detailed procedural review and how the time it forces D to spend on death row are irreconcilable with goals of punishment
+* Limitations
+  * Declared unconstitutional under 8th Amendment where disproportional to the offense, such as rape (*Coker*)
+  * Capital sentencing for the mentally disabled ruled to be unconstitutional in *Atkins*
+    * Criteria for determining when this applies is unclear, as is standard of proof necessary to establish intellecutal disability
+
 ### Cases
 
 | Year | Case | Holding | Vote |
 |------|------|---------|------|
 |1879|Wilkerson v. Utah|Firing squad is constitutional|9-0|
 |1890|In re Kemmler|Electrocution is constitutional|9-0|
-|1905|Rooney v. North Dakota|Adoption of private execution versus public execution after sentence does not violate the Ex post facto clause 9-0
-|1915|Malloy v. South Carolina|Retroactively changing the execution method does not violate the Ex post facto clause.	9-0
+|1905|Rooney v. North Dakota|Adoption of private execution versus public execution after sentence does not violate the Ex post facto clause|9-0|
+|1915|Malloy v. South Carolina|Retroactively changing the execution method does not violate the Ex post facto clause|9-0|
 |1932|Powell v. Alabama|Courts are required to ensure that indigent defendants in capital cases who doesn't represent themselves be appointed counsel|7-2|
 |1947|Francis v. Resweber|Re-execution after a failed attempt does not constitute cruel and unusual punishment nor double jeopardy|5-4|
 |1968|Witherspoon v. Illinois|A state may not have unlimited challenge for cause of jurors who might have any objection to the death penalty. (See also Morgan v. Illinois (1992))|6-3|
 |1971|McGautha v. California|The death penalty can be imposed by a jury without standards to govern its imposition, and a unitary guilt and punishment trial is constitutional. (Overruled in Furman v. Georgia, 1972, and Gregg v. Georgia, 1976)|6-3|
-|1972|Furman v. Georgia|Death sentences in these cases were unconstitutional. There were no opinion of the court nor even a plurality—each justice of the five-member majority issued his own concurrence without joining any other. The ruling caused all death sentences pending at the time to be reduced to life imprisonment and made all previous capital punishment statutes void|5-4|
-|1976|Gregg v. Georgia|Post-Furman death penalty statutes providing a bifurcated trial in capital cases to decide guilt and punishment are constitutional|7-2|
+|1972|**Furman v. Georgia**|Death sentences in these cases were unconstitutional. There were no opinion of the court nor even a plurality—each justice of the five-member majority issued his own concurrence without joining any other. The ruling caused all death sentences pending at the time to be reduced to life imprisonment and made all previous capital punishment statutes void|5-4|
+|1976|**Gregg v. Georgia**|Post-Furman concerns about arbitrary death penalty sentences can be satisfied by statutes providing a clear information and  guidance to sentencing authority and providing bifurcated trial in capital cases to decide guilt and punishment. Such statutory changes adopted by GA legislature were sufficient to render sentence constitutional|7-2|
 |1976|Woodson v. North Carolina| Statutes providing mandatory imposition of the death penalty are unconstitutional|5-4|
-|1977|Coker v. Georgia|The death penalty is an unconstitutional punishment for rape of an adult woman when the victim is not killed|6-3|
+|1977|**Coker v. Georgia**|The death penalty is an unconstitutional punishment for rape of an adult woman when the victim is not killed. Violates Eighth Amendment because non-proportional. SCOTUS has subsequently denied death penalty for non-proportionality, including crimes of child rape or felony murder AND crimes committed by juvenile offenders, insane, or mentally disabled (Atkins)|6-3|
 |1978|Lockett v. Ohio|Sentencing authorities must have the discretion to consider every possible mitigating factor, rather than being limited to a specific list of factors|6-2|
 |1980|Beck v. Alabama|Jury must be allowed to consider lesser included offense, not just capital offense or acquittal|7-2|
 |1980|Godfrey v Georgia|Murder must involve a narrow and precise aggravating factor to be punishable by death|6-3|
 |1982|Enmund v. Florida|Death penalty is unconstitutional for a person who is a minor participant in a felony and does not kill, attempt to kill, or intend to kill|5-4|
-
-1984	Pulley v. Harris
-There is no constitutional requirement for a proportionality review of sentences in comparable cases throughout a state.	7-2
-1984	Spaziano v. Florida
-It is constitutional for a judge rather than jury to decide aggravating factors. (Overruled by Ring v. Arizona, 2002).
-6-3
-1986	Ford v. Wainwright
-Execution of an insane convict is unconstitutional.	5-4
-1987	Tison v. Arizona
-Death penalty may be imposed on a felony-murder defendant who was a major participant in the underlying felony and exhibits extreme indifference to human life.	5-4
-1987	McCleskey v. Kemp
-Racial disparities not recognized as a constitutional violation of "equal protection of the law" unless intentional racial discrimination against the defendant can be shown.	5-4
-1987	Sumner v. Shuman	A death sentence cannot be mandatory even for a murder committed by a prisoner already serving a life sentence without the possibility of parole.	6-3
-1988	Lowenfield v. Phelps
-The aggravating factor making the crime punishable by death may be found in the definition of the crime itself as long it is enough narrow and precise.	7-2
-1988	Thompson v. Oklahoma
-Executions of offenders age 15 and younger at the time of their crimes is unconstitutional.	5-3
-1989	South Carolina v. Gathers
-Admission of a victim impact statement at the sentencing phase of a death penalty-trial is unconstitutional. (Overruled in Payne v. Tennessee, 1991)	5-4
-1989	Stanford v. Kentucky
-The death penalty for crimes committed at age 16 or 17 is constitutional. (Overruled in Roper v. Simmons, 2005)	5-4
-1989	Penry v. Lynaugh
-Executing persons with mental retardation is constitutional. (Overruled in Atkins v. Virginia, 2002)	5-4
-1990	Walton v. Arizona
-Judge-finding of aggravating factors is constitutional. The aggravating factor "especially heinous, cruel, or depraved" is not unconstitutionally vague. (First holding overruled in Ring v. Arizona, 2002)	5-4
-1991	Payne v. Tennessee
-Victim impact statements are admissible during the penalty phase of a capital case.
-6-3
-1992	Morgan v. Illinois
-A defendant may challenge for cause a prospective juror who would automatically vote to impose the death penalty in every capital case.	6-3
-1993	Herrera v. Collins
-In the absence of other constitutional grounds, federal courts have no power to rule on innocence claims based on newly discovered evidence.	6-3
-1995	Schlup v. Delo
-A condemned man can bypass the procedural bar on successive federal habeas petitions if he show that "a constitutional violation has probably resulted in the conviction of one who is actually innocent".	5-4
- 
-
-1995	Harris v. Alabama	Alabama scheme allowing the judge to impose a death sentence and making the jury recommendation non-binding even when it calls for life imprisonment is constitutional.	8-1
-2002	Ring v. Arizona
-A death sentence where the necessary aggravating factors are determined by a judge violates a defendant's constitutional right to a trial by jury, as the jury should determine if there are such factors sufficient to allow the death penalty.	7-2
-2002	Atkins v. Virginia
-The execution of mentally retarded offenders is unconstitutional.	6-3
-2004	Schriro v. Summerlin
-The Ring v. Arizona decision does not apply retroactively to cases already final on direct review.	5-4
-2005	Roper v. Simmons
-The death penalty for those who had committed their crimes under 18 years of age is unconstitutional.	5-4
-2006	Oregon v. Guzek
-States may limit the evidence of innocence a defendant may present at his sentencing hearing to evidence already presented at his trial.	8-0
-2006	Hill v. McDonough
-Challenging constitutionality of the execution method is a §1983 lawsuit, not an habeas corpus petition, and thus not subject to the procedural bar on successive petitions.	9-0
-2006	Kansas v. Marsh
-Imposing the death penalty when mitigating and aggravating factors are in equipoise is constitutional.	5-4
-2008	Medellin v. Texas
-Because the treaty was not self-executing, it was not binding to the states without a statute adopted by Congress.	6-3
-2008	Baze v. Rees
-Kentucky's lethal injection method using sodium thiopental is constitutional.
-7-2
-2008	Kennedy v. Louisiana
-The death penalty is unconstitutional for child rape and other non-homicidal crimes against the person.
-5-4
-2009	Harbison v. Bell
-Indigent death row inmates sentenced under state law have a right to federally funded habeas counsel in post-conviction state clemency proceedings, when the state has denied such counsel.	7-2
-2011	Leal Garcia v. Texas
-Courts cannot stay an execution on the basis of the future possibility that Congress enact a statute to enforce an international law.	5-4
-2014	Hall v. Florida
-IQ tests alone can not be used as a rigid limit for determining intellectual disability.	5-4
-2015	Glossip v. Gross
-To be unconstitutional, a method of execution must involve any risk of harm which is substantial when compared to a known and available alternative method. The condemned has the burden of proof.	5-4
-2016	Hurst v. Florida
-Florida law giving to judges the power to decide facts related to sentencing violates the Sixth Amendment in light of Ring, which requires a jury to determine if there are aggravating factors making the crime punishable by death.	8
-
+|1984|Pulley v. Harris| There is no constitutional requirement for a proportionality review of sentences in comparable cases throughout a state.|7-2|
+|1984|Spaziano v. Florida|It is constitutional for a judge rather than jury to decide aggravating factors. (Overruled by Ring v. Arizona, 2002).|6-3|
+|1986|Ford v. Wainwright|Execution of an insane convict is unconstitutional|5-4|
+|1987|Tison v. Arizona|Death penalty may be imposed on a felony-murder defendant who was a major participant in the underlying felony and exhibits extreme indifference to human life.|5-4|
+|1987|**McCleskey v. Kemp**|Racial disparities not recognized as a constitutional violation of "equal protection of the law" unless intentional racial discrimination against the defendant can be shown. No evidence that this is systemic. Would be forced to extend claim to any variable that might be statistically shown to be a factor in sentencing outcomes. Effectively saying that this is a necessary evil of a discretionary standard|5-4|
+|1987|Sumner v. Shuman|A death sentence cannot be mandatory even for a murder committed by a prisoner already serving a life sentence without the possibility of parole.|6-3|
+|1988|Lowenfield v. Phelps|The aggravating factor making the crime punishable by death may be found in the definition of the crime itself as long it is enough narrow and precise.|7-2|
+|1988|Thompson v. Oklahoma|Executions of offenders age 15 and younger at the time of their crimes is unconstitutional.|5-3|
+|1989|South Carolina v. Gathers|Admission of a victim impact statement at the sentencing phase of a death penalty-trial is unconstitutional. (Overruled in Payne v. Tennessee, 1991)|5-4|
+|1989|Stanford v. Kentucky|The death penalty for crimes committed at age 16 or 17 is constitutional. (Overruled in Roper v. Simmons, 2005)|5-4|
+|1989|Penry v. Lynaugh|Executing persons with mental retardation is constitutional. (Overruled in Atkins v. Virginia, 2002)|5-4|
+|1990|Walton v. Arizona|Judge-finding of aggravating factors is constitutional. The aggravating factor "especially heinous, cruel, or depraved" is not unconstitutionally vague. (First holding overruled in Ring v. Arizona, 2002)|5-4|
+|1991|Payne v. Tennessee|Victim impact statements are admissible during the penalty phase of a capital case.|6-3|
+|1992|Morgan v. Illinois|A defendant may challenge for cause a prospective juror who would automatically vote to impose the death penalty in every capital case.|6-3|
+|1993|Herrera v. Collins|In the absence of other constitutional grounds, federal courts have no power to rule on innocence claims based on newly discovered evidence.|6-3|
+|1995|Schlup v. Delo|A condemned man can bypass the procedural bar on successive federal habeas petitions if he show that "a constitutional violation has probably resulted in the conviction of one who is actually innocent".|5-4|
+|1995|Harris v. Alabama|Alabama scheme allowing the judge to impose a death sentence and making the jury recommendation non-binding even when it calls for life imprisonment is constitutional.|8-1|
+|2002|Ring v. Arizona|A death sentence where the necessary aggravating factors are determined by a judge violates a defendant's constitutional right to a trial by jury, as the jury should determine if there are such factors sufficient to allow the death penalty.|7-2|
+|2002|**Atkins v. Virginia**|The execution of mentally retarded offenders is unconstitutional.|6-3|
+|2004|Schriro v. Summerlin|The Ring v. Arizona decision does not apply retroactively to cases already final on direct review.|5-4|
+|2005|Roper v. Simmons|The death penalty for those who had committed their crimes under 18 years of age is unconstitutional.|5-4|
+|2006|Oregon v. Guzek| States may limit the evidence of innocence a defendant may present at his sentencing hearing to evidence already presented at his trial.|8-0|
+|2006|Hill v. McDonough|Challenging constitutionality of the execution method is a §1983 lawsuit, not an habeas corpus petition, and thus not subject to the procedural bar on successive petitions.|9-0|
+|2006|Kansas v. Marsh|Imposing the death penalty when mitigating and aggravating factors are in equipoise is constitutional.|5-4|
+|2008|Medellin v. Texas|Because the treaty was not self-executing, it was not binding to the states without a statute adopted by Congress|6-3|
+|2008|Baze v. Rees|Kentucky's lethal injection method using sodium thiopental is constitutional|7-2|
+|2008|Kennedy v. Louisiana|The death penalty is unconstitutional for child rape and other non-homicidal crimes against the person.|5-4|
+|2009|Harbison v. Bell|Indigent death row inmates sentenced under state law have a right to federally funded habeas counsel in post-conviction state clemency proceedings, when the state has denied such counsel.|7-2|
+|2011|Leal Garcia v. Texas|Courts cannot stay an execution on the basis of the future possibility that Congress enact a statute to enforce an international law|5-4|
+|2014|Hall v. Florida|IQ tests alone can not be used as a rigid limit for determining intellectual disability.|5-4|
+|2015|Glossip v. Gross|To be unconstitutional, a method of execution must involve any risk of harm which is substantial when compared to a known and available alternative method. The condemned has the burden of proof. Breyer DISSENT death penalty on verge of violating Eighth Amendment|5-4|
+|2016|Hurst v. Florida|Florida law giving to judges the power to decide facts related to sentencing violates the Sixth Amendment in light of Ring, which requires a jury to determine if there are aggravating factors making the crime punishable by death|8-0|
 
   ---

@@ -102,12 +102,21 @@
     * (Only committee in the statute)
     * Composed of the 7 largest unsecured creditors who are willing to serve
     * Serves as the “face” of the unsecured creditors
+    * No committee for secured creditors because their interests are already protected and will likely get paid. They are typically fewer secured creditors, so less coordination problems
+    * 3 Consensual Security devices that can be used to assure payment of a debt:
+      1. Interest in property
+      1. Personal guarantee
+      1. Letters of credit
+
 * Trustee/Debtor-in-Possession
-  * Chapter 7:
-    * A trustee is put in place, whose role is to gather assets, sell them and distribute the proceeds to creditors
-    * Trustee (generally a lawyer/accountant)
-  * Chapter 11:
-    * Generally no trustee; rather have the debtor-in-possession in charge (aka the managers of the firm continue to run it in bankruptcy). Only if there is a problem is one put in place
+  * The principal duty of the trustee is to collect the property of the estate, sell it, and use the proceeds to pay expenses and CR claims
+  * In Chapter 7, the bankruptcy estate is administered by a trustee who can either be an individual or a corporation. § 701.
+    * Trustee is assigned by the U.S. Trustee who keeps a list of possible private trustees (usually private professionals)
+    * If CRs want a different trustee they can vote to put a specific trustee in place
+  * Under Ch. 11, management can ask for a trustee to be appointed but it is really uncommon – usually the managers continue to run the business.
+    * Requirements:  Gross Mismanagement and Fraud
+    * Frequently most of the old managers are gone before they file for bankruptcy.  A bank may require new managers or that a “Chief Restructuring Officer” be put in place before giving the company a loan for the restructuring. 
+    * If nobody will agree to be the trustee, the U.S. Trustee itself can be the trustee
   * US Trustee (government watch dog)
     * If no one is appointed or willing to serve. Preference to have a private party be the trustee  
 * Bankruptcy Judges (Article I) – have a tremendous about of power/discretion (§105 powers)

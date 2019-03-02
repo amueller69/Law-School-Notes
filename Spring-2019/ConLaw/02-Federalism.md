@@ -289,15 +289,178 @@
 
 ### Restricting Laws of General Applicability
 
+* As a general rule, Congress may regulate states as a part of a regulatory regime of “general applicability” that applies to private actors and the states equally. No immunity for States; treated just like private parties except when the political safeguards breakdown
+* *New York v. United States* [NY I] (1946)
+  * Facts: State of NY bottles and sells mineral water; taxed via 1932 Revenue Act §615(a)(5)
+  * Holding: - The State of New York is not immune from this federal tax since it is operating a mineral spring in a conservation effort
+    * “No restriction upon Congress to include the States in levying a tax exacted equally from private persons upon the same subject matter.”
+  * **Non-discriminatory rule**: can’t tax State activities while leaving the same activities by private parties untaxed; cannot treat the States worse than private parties
 * *National League of Cities v. Usery* (1976)
   * Background:
     * The only case between 1937 and the 1990s to deviate and find that a law violated the 10th Amendment
     * Issue was whether Congress could enforce FLSA requirements of minimum wage against State governments
   * Outcome:
     * Court held that Congress violates 10A when it interferes with traditional state and local government functions, though it did not specifically define what these functions were
+    * Binary rule: Where X = traditional or integral function of state government -> Yes to regulating if X, and no to regulating if ~X
     * J. Blackmun, who was the deciding vote, said he viewed majority decision as a balancing test in which exercise of federal power would be permissible in areas where the federal interest is demonstrably greater than that in protecting state sovereignty
   * Cases following *Usery* provided clarification and narrowed the scope of this ruling
     * *Hodel* made it clear that it applied only when Congress was regulating state governments, not private conduct. Must regulate states as states an not directly impair ability to perform essential functions
     * *United Transportation* further narrowed this application so that only violates 10A when would be likely to hamper the state government's ability to fulfill its role in the Union
+* *Garcia v. SAMTA* (1985) - *Usery* expressly overturned in
+  * FLSA imposed min wage and max hours on county public mass transit system in Texas
+  * > We therefore now reject, as unsound in principle and unworkable in practice, a rule of state immunity from federal regulation that turns on a judicial appraisal of whether a particular government function is 'traditional' or 'integral'.
+    * Concern that it invites imposition of judicial will based on policies it prefers and ones it doesn't
+    * Protection of state prerogatives should be through the political process
+      * Political safeguards of federalism: ordinary political process can be relied upon to keep Congress in check and prevent overly burdensome rules from being applied to the States
+  * **Exception**: when the political safeguards break down, though not clear when that will be (dissent hits on this)
+    * > It must be tailored to compensate for possible failings in the national political process rather than to dictate a “sacred province of state autonomy.”
+  * *Garcia* is still good law, means that that laws of general applicability can constitutionally apply to the states
+* *Gregory v. Ashcroft* (1991) - Rule of construction to avoid preemption conflicts
+  * If Congress wishes to regulate a core state function, it must make its intent "unmistakably clear" in the statutory text
+  * The Court did not use the Tenth Amendment to invalidate the federal law on its face or as applied. Instead, the Court used the Tenth Amendment and federalism considerations as a rule of construction
+  * Stressed significance of 10A as constitutional protector of state sovereignty
 
-  
+### Anti-Commandeering Principle
+
+* *New York v. United States* [New York II] (1992)
+  * Law requires states to pass laws regulating disposal/treatment of radioactive waste, those that failed to comply would take legal title to the waste
+  * Court held the Act was unconstitutional because it attempts to commandeer the States by imposing option to either properly dispose of or take title to waste. **Congress cannot command/compel States to enact or administer federal regulatory program**
+    * **Electoral accountability principle** - Basis for anti-commandeering principle. If state is effectuating congress' will, recourse for voters is not clear. Voting state legislators out of office will have little effect if congress is pulling the strings
+  * While central holding is that it is unconstitutional for Congress to compel state legislatures to adopt laws or state agencies to adopt regulations. The Court, however, indicated that Congress was not powerless
+    * Congress may set standards that state and local governments must meet and thereby preempt state and local actions
+    * Also, Congress may attach strings on grants to state and local governments and these conditions induce state and local actions that it cannot directly compel
+* *Printz v. United States* (1997)
+  *	Congress creates CLEOs (chief level enforcement officers) in each state to enforce gun background check system on people
+  * **Modalities of interpretation** - Both the majority and dissent in Printz agree that the proper interpretive modalities to resolve the question are:
+    1. Text - What constitutional provisions speak to the issue
+    1. History - Historical practice
+    1. Structure - Gesture towards framers intent for internal features and logic inherent to new government. What its like and must have in order to operate successfully
+    1. Precedent
+  * Majority - Unconstitutional to command state executive officials to enforce a federal regulation
+    * Text - No specific enumeration in text; Residual state sovereignty is implicit in text; Not proper under N&P
+    * Historical - Congress has not traditionally commanded the states and Federalist Papers do not support commandeering power
+    * Structural
+      * System of dual sovereignty and horizontal separation of powers. Experience under AoC persuaded them that using States as instruments of federal governance was ineffective. Explicitly chose constitution that confers power upon Congress to regulate citizens, not states. Its power would be augmented immeasurably if able to control police officers of the 50 states, increasing risk of tyranny
+      * Congress cannot bypass executive powers of enforcing laws, as this disrupts balance of powers. Constitution vests all executive power in executive branch and congress has impermissibly delegated it to states without meaningful presidential control
+    * Precedent - NYII establishes anti-commandeering; same electoral accountability issues exist in this case
+    * Rejects balancing test - wants to limit room for subjectivity and judicial will
+  * Dissent - Same modalities support upholding the law
+
+---
+
+## 11th Amendment Sovereign Immunity
+
+### Overview
+
+* 11th Amendment
+  * > The Judicial power of the United States shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the United States by Citizens of another State, or by Citizens or Subjects of any foreign state
+  * As interpreted, the Eleventh Amendment prohibits suits in federal courts against state governments in law, equity, or admiralty, by a state's own citizens, by citizens of another state, or by citizens of foreign countries
+  * Additionally, 1999 SCOTUS decision held sovereign immunity bars suits against state governments in state court without their consent
+  * The Court thus has ruled that there is a broad principle of sovereign immunity that applies in both federal and state courts; the Eleventh Amendment is a reflection and embodiment of part of that principle
+  * **Still no agreement on its proper scope**
+* Possible scopes of 11A - Modern court likely split between 2 and 3
+  1. Federal judicial power does not extend to suits against State A by citizen of State B (citizens can still sue own states)
+  1. Federal diversity jurisdiction does not cover suits against states (narrower restriction on subject matter jurisdiction)
+  1. Federal judicial power does not extend to suits against State A by ANY person (most expansive)
+* Expansive Reading
+  * Effectively immunizes the actions of state governments from federal court review, even when a state violates the most fundamental constitutional rights
+  * protects state autonomy by immunizing states fromm suits in federal court, but it provides this independence by risking the ability to enforce basic federal rights
+  * Virtually the entire class of modern civil rights litigation plausibly might be barred by an expansive reading of the immunity of the states from suit in federal court
+* Response to the limitations imposed by sovereign immunity
+  * Supreme Court has devised a number of ways to circumvent the broad prohibition of the Eleventh Amendment and to ensure federal court review of allegedly illegal state actions
+  * Three primary mechanisms for circumventing the Eleventh Amendment and allowing federal courts to ensure state compliance with federal law:
+    1. Allowing suits against state officers
+    1. Permitting states to waive their Eleventh Amendment immunity and consent to suit
+    1. Sanctioning litigation against the states pursuant to statutes adopted under the Fourteenth Amendment
+* Underlying policy issues
+  * Supporters of sovereign immunity argue it was a principle that predates the Constitution and is part of its very structure; Safeguarding state governments, and particularly their treasuries, is deeply embedded in the Constitution; There are other ways of holding state govts accountable, such as suits against state officers and suits by the federal govt
+  * Opponents argue that it is a principle not found in the text or intended by framers; It wrongly favors govt immunity over accountability and is inconsistent with notion of a govt under law; People can be deprived of rights but left with no remedy and thus no due process; States can violate the Constitution and nowhere be held accountable
+  * Kennedy addresses concerns in Alden v. Maine
+    * > The constitutional privilege of a State to assert its sovereign immunity in its own courts does not confer upon the State a concomitant right to disregard the Constitution...The States and their officers are bound by obligations imposed by the Constitution...We are unwilling to assume the States will refuse to honor the Constitution...The good faith of the States thus provides an important assurance [of constitutional supremacy]
+    * Opponents argue this trust into the good faith of state govts is misplaced and they must be held accountable when violating constitution
+
+### Cases
+
+* *Chisholm v. Georgia* (SCOTUS 1793)
+  * Overview:
+    * SC citizen held debt in GA from Revolutionary War and wants payment from GA. Sues state of GA directly in Supreme Court
+    * Court accepts jurisdiction, holding GA does not have sovereign immunity from the suit
+    * Interprets Article III as authorizing private citizen to sue another State w/o its consent
+  * Arguments
+    * Framers intent - No record of debate at Convention. Issue raised at ratification debates with several signers arguing states are suable
+    * Sovereignty - Immunity is inherent in nature of sovereignty (Hamilton in Fed Papers). Jay, CJ - In the US, people not states are sovereign
+    * Justice - Would harm principle of free/equal national government and its objective of ensuring justice for all
+    * History - No immunity in ancient Greece
+  * Response to decision
+    * GA legislators are outraged. Congress immediately proposes action
+    * 11th Amendment (ratified in 1794) enacted to overrule the holding in this case
+* *Hans v. Louisiana* (SCOTUS 1890)
+  * Holding
+    * **11A bars citizens from suing their own State under federal question jurisdiction**
+      * Endorses broadest of the three possible scopes proposed above
+    * Reasoning
+      * Interpretative modality is structural/non-textualism
+      * Implicit sovereign immunity is a necessary principle **separate from text of 11A**
+        * Sovereign immunity is a consitutional limitation placed on federal judicial power in Article III
+      * 11A only talks about “citizens of another state,” so Hans (P) would have won on purely textualist interpretation
+    * Inconsistent with "diversity only" interpretation of the scope, which states that sovereign immunity does not apply to federal question jurisdiction b/c *Chisolm* and 11A were only aimed at modifying diversity
+    * Has been reaffirmed over last century despite calls to overturn it. 
+* Limitations on *Hans* and Expansive Scope
+  * Suits by U.S. or by other states
+    * If sued by state, it must be doing so to protect own interests
+  * No immunities for municipalities or state political subdivisions
+    * Significant because much of the social service in our country are administered at this level
+  * **Suits for injunctive relief that name state officials**
+    * *Ex parte Young* is credited with establishing principles that 11A does not precluded suits against state officers for injunctive relief, even if the remedy will enjoin the implementation of an official state policy
+      * Court reasoned suits against state officers for injunctive relief are not against the state and hence not barred
+      * **Cannot be for money damages since that comes out of the State treasury**
+      * Need this necessary fiction to make Constitution and federal laws binding on the states
+    * *Edelman v. Jordan* (1974)
+      * Suit against IL State commissioner of DPW charging violation of federal standards for processing welfare applications
+      * Held: Injunction requiring future compliance okay; injunction requiring payment of illegally withheld sums barred
+      * Prospective/retrospective distinction
+        * **11A does not prohibit fed court from providing injunctive relief against state officer even though compliance with the injunction will cost state great deal of money in future (prospective relief)**
+        * Still prohibits awarding retroactive relief--damages to compensate for past injury--when those damages will come out of state treasury
+    * Has become primary way of ensuring state compliance with federal law
+  * **Abrogation**
+    * Argument that Congress should be able to override 11A and authorize suits against states in fed court because 11A is a limit on the federal judiciary's power, not on Congress. Federal statutes are supreme over the states
+    * By legislation enacted under 14A5
+      * *Fitzgerald v. Bitzer* (1976): **14A5 overrides 11A since enacted later in time and abrogates state sovereign immunity**
+        * When suing under Equal Protection Clause of 14A, Congress can allow damage suits against States for violations
+      * *Quern v. Jordan* (1979) - Intent to abrogate must be clear
+    * By legislation enacted under Art. I Powers
+      * *Pennsylvania v. Union Gas Co.* (1989): Congress can abrogate State sovereign immunity under Commerce Clause
+        * Congress can authorize suits against the State pursuant to any of its constitutional powers
+      * *Seminole Tribe of FL v. FL* (1996): **Congress may only abrogate States’ sovereign immunity when acting under 14A5 powers**
+        * Overrules *Union Gas Go.*
+      * *Central Virginia CC v. Katz* (2006) - **No state sovereign immunity in bankruptcy proceedings**
+        * Art. I §8 powers to create uniform bankruptcy rules override state sovereign immunity. It wasn't the Bankruptcy Act abrogating sovereign, but the fact that such proceedings arise under constitutional bankruptcy powers given to Congress
+  * **Waiver and Consent**
+    * States may always consent to suit
+      * No constructive waivers - must be explicit waiver of immunity from suit in federal court in order to be effective
+* *Alden v. Maine* (1999) - States cannot be sued in state court without their consent
+  * Background: Probation officers sue State of Maine for violating FLSA overtime provisions. Fed case dismissed, so file in Maine state courts. Provision in FLSA allowing private action for monetary damages against parties that violate
+  * Holding: - Congress cannot subject nonconsenting States to private suits for damages in state courts
+  * Kennedy Majority
+    * 11th Amendment is only evidentiary; reminds us of principle of state sovereignty
+      * "Sovereign immunity derives not from the 11A but from the structure of the original Constitution itself"
+      * *Chisenholm* was wrongly decided from the get-go, and 11A only stood to correct it
+    * States enjoyed sovereignty prior to ratification of Constitution and later amendments
+      * General sense in which Constitution preserves state sovereignty
+    * Text of Constitution nor precedent indicate Congress has power to subject the states to suits within their own courts  laws must be valid in order to be supreme at fed. level
+    * Silence in historical record shows Framers understood Congress to lack this power
+      * Unthinkable to suggest states would have ratified with understanding that they could be subjected suits in their own court system
+    * No early Congresses subjected states to suit in their own courts
+    * Many SCOTUS 11A cases implicitly relied on conception of sovereign immunity
+    * **Power would be inconsistent w/ constitutional structure b/c assault on state dignity**
+    * States cannot disregard federal law: (1) may consent to suit; (2) US may sue; (3) Bitzer is still good law; (4) sub-state entities not protected via sovereign immunity; (5) Ex Parte Young necessary fiction still exists
+
+---
+
+## Tax Power
+
+---
+
+## Spending Power
+
+---
