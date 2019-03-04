@@ -17,7 +17,7 @@
     * Basic rule: anything that the debtor has an ownership right in becomes part of the estate
     * Starts with everything and then has other provisions that either extend the estate or contract the estate
     * Provisions that expand the estate (add to the estate):
-      * **§544** – Trustee’s Strong Arm Provision (trustee has the power to avoid unperfected property interests –used to avoid a security interest, mortgage, unperfected judicial lien that is unperfected)
+      * **§544** – Trustee's Strong Arm Provision (trustee has the power to avoid unperfected property interests –used to avoid a security interest, mortgage, unperfected judicial lien that is unperfected)
         * Note: does NOT remove the claim, just the security interest
       * **§547** – Preference Provision (payments to creditors within **90 days** before filing for bankruptcy must be returned)
         * Expands the estate by avoiding preferential transfers
@@ -58,7 +58,7 @@
       * Enormous level of protection for debtors
       * When the debtor files for bankruptcy, there is an automatic stay. This says that creditors have to immediately cease and desist the moment debtor files for bankruptcy. Cannot go to state courts (prevents creditors from suing to collect judgments); call debtor; solicit payment in anyway
       * Furthers the goals of bankruptcy: (1) prevent a race to the courthouse; (2) allow for a collective solution to the problem that is better for all creditors
-    * Creditor’s bargain theory: (Douglas Baird; Thomas Jackson) core purpose of business bankruptcy is to provide a collective solution to financial distress. Key is the automatic stay
+    * Creditor's bargain theory: (Douglas Baird; Thomas Jackson) core purpose of business bankruptcy is to provide a collective solution to financial distress. Key is the automatic stay
     * §363 – Gives the trustee in a bankruptcy case the power to use, sell, dispose of property of the debtor outside of the ordinary course of business as long as there is notice, hearing, and court approval
       * This is the provision the court used in Chrysler to get through the bankruptcy process so quickly
       * Creditors have a chance to object to proposed 363 sales at a hearing
@@ -96,26 +96,28 @@
 
 ## Major Players in Bankruptcy Proceeding
 
-* Debtor
-* Creditor (+ Unsecured Creditor’s Committee)
-  * Unsecured Creditor’s Committee:
+* Creditor and Unsecured Creditor's Committee)
+  * Companies/individuals with claims on the DR's property
+  * Unsecured Creditor's Committee:
     * (Only committee in the statute)
     * Composed of the 7 largest unsecured creditors who are willing to serve
+      * Some might not want to serve because of the time commitment or fear of exposure to inside information that would bar future dealings with the DR
     * Serves as the “face” of the unsecured creditors
     * No committee for secured creditors because their interests are already protected and will likely get paid. They are typically fewer secured creditors, so less coordination problems
     * 3 Consensual Security devices that can be used to assure payment of a debt:
       1. Interest in property
       1. Personal guarantee
       1. Letters of credit
-
 * Trustee/Debtor-in-Possession
   * The principal duty of the trustee is to collect the property of the estate, sell it, and use the proceeds to pay expenses and CR claims
-  * In Chapter 7, the bankruptcy estate is administered by a trustee who can either be an individual or a corporation. § 701.
+    * Avoidance powers, recovering property transferred prior to commencement in order to exclude from estate, among most important in BR. In exercising it, trustee acts primarily for the benefit of unsecured creditors
+  * In Chapter 7, the bankruptcy estate is administered by a trustee who can either be an individual or a corporation (§701)
     * Trustee is assigned by the U.S. Trustee who keeps a list of possible private trustees (usually private professionals)
     * If CRs want a different trustee they can vote to put a specific trustee in place
-  * Under Ch. 11, management can ask for a trustee to be appointed but it is really uncommon – usually the managers continue to run the business.
+  * Under Ch. 11, management can ask for a trustee to be appointed but it is really uncommon – usually the managers continue to run the business
+    * Thus DR continues in possession as a "debtor-in-possession" that exercise powers of a trustee
     * Requirements:  Gross Mismanagement and Fraud
-    * Frequently most of the old managers are gone before they file for bankruptcy.  A bank may require new managers or that a “Chief Restructuring Officer” be put in place before giving the company a loan for the restructuring. 
+    * Frequently most of the old managers are gone before they file for bankruptcy.  A bank may require new managers or that a “Chief Restructuring Officer” be put in place before giving the company a loan for the restructuring
     * If nobody will agree to be the trustee, the U.S. Trustee itself can be the trustee
   * US Trustee (government watch dog)
     * If no one is appointed or willing to serve. Preference to have a private party be the trustee  

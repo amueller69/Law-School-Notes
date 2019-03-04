@@ -20,7 +20,7 @@
 * Usual bankruptcy length: 1-2 years
 * Types of Bankruptcy
   * Chapter 7 – Liquidation: all property of the debtor owned at the date of bankruptcy becomes part of the bankruptcy estate.  Individuals can exempt certain property.  Personal debtor discharged from personal liability
-  * Chapter 13 – Individual who owes unsecured less than $307,675 and secured of less than $922,975.  Debtor gets discharge without losing nonexempt property.  Must formulate plan over 5 years; doesn’t have to be approved by creditors, but by bankruptcy court.  Can’t be confirmed over creditor objections unless certain requirements are met
+  * Chapter 13 – Individual who owes unsecured less than $307,675 and secured of less than $922,975.  Debtor gets discharge without losing nonexempt property.  Must formulate plan over 5 years; doesn't have to be approved by creditors, but by bankruptcy court.  Can't be confirmed over creditor objections unless certain requirements are met
   * Chapter 11 – individuals and business orgs.  Debtor is normally allowed to keep assets and continue operation.  Proposes plan where creditors paid over time.  Confirmation of plan only after it has been voted on by various classes of creditors and shareholders.  Then confirmed by court.  Normally get discharge of all pre-confirmation debt
 
 ## Secured v. Unsecured Creditors
@@ -53,7 +53,7 @@
   * UCC Article 9 Security Interest applies to "a transaction, regardless of its form, that creates a security interest in personal property"
   * All security interests in personal property are guided governed by UCC Article 9
   * Creation of the security interest under Article 9 - 3 Requirements
-    * Uses the term “Attachment” to refer to creation (Note: can also be garnishing someone’s wages)
+    * Uses the term “Attachment” to refer to creation (Note: can also be garnishing someone's wages)
     * First requirement: Value has been given
       * That the secured creditor (bank for example) has either made a loan or committed to make a loan to the debtor
       * Does not need to actually give it yet, suffices to have a contractual obligation to give it in the future
@@ -63,14 +63,14 @@
       * Most recent revision of Article 9 said that you can make your collateral description be as broad as you want—“all current and after acquired property”—as long as the debtor agrees
     * Third requirement: Rights
       * The debtor has to have rights to the collateral
-      * Example: if the agreement purports to give security interest to neighbor’s car, the debtor clearly has no rights to this
+      * Example: if the agreement purports to give security interest to neighbor's car, the debtor clearly has no rights to this
         * Ambiguous in case of timeshares (the only thing you could give a security interest in is the two-weeks you get, not the value of the whole property)
     * These events can occur in any order
     * Attachment continues even if the collateral is transferred unless the creditor agrees; and has interest in money or property received in exchange; and any property acquired by the proceeds
     * Scope of Security Interest - Can be really broad
       * Article 9 allows creditor to take security interest in current personal property owned and future property (“after acquired personal property”)
         * **After-Acquired Property Clauses**:
-          * Creditors can include provisions in their credit agreements that say that the creditor has an interest in all of the debtor’s property, including property currently purchased and that purchased after the agreement is entered into
+          * Creditors can include provisions in their credit agreements that say that the creditor has an interest in all of the debtor's property, including property currently purchased and that purchased after the agreement is entered into
         * Can secure this loan as well as subsequent loans by this same creditor (future advances clause)
         * **Future Advances Clauses**:
           * Allows for subsequent loans by this same creditor to be secured
@@ -91,19 +91,19 @@
          * Automatically granted attachment to proceeds 20 days after collateral is sold. Depending on the case, you may have to re-file after those 20 days
     * Some instances where this happens automatically
       * No need to file; no need to take possession
-      * Purchase Money Security Interest (PMSI): Security interest is automatically given to a creditor if the creditor financed the debtor’s purchase of the item. Where the credit itself made it possible for the debtor to obtain the property. Get other special perks as well
+      * Purchase Money Security Interest (PMSI): Security interest is automatically given to a creditor if the creditor financed the debtor's purchase of the item. Where the credit itself made it possible for the debtor to obtain the property. Get other special perks as well
         * Consumer PMSI (for consumer goods) are deemed automatically perfected
           * Example: Go to Target and buy a microwave. Pay with a credit card (purchase on credit = loan). Target does not have to file a financing statement
           * Exception - Cars that must be perfected by compliance with state certificate of title laws (notice of security interest must be on certificate of title)
         * Theory is that everyone would know there is a security interest on a consumer good; it would be stupid to impose the expense of a filing statement on creditors. Downside is that not everyone actually knows there is a security interest on these goods
     * Priority goes to the **first filer** of the financing statement under UCC
       * Exceptions: PMSI & Ordinary Course of Business
-      * If the debtor sells the collateral in the ordinary course of business, then you do not retain a security interest in the collateral itself, but it attaches to the proceeds of the sale. A buyer who buys something in the ordinary course of business, then they can assume it is not subject to anyone else’s interest in the property.
+      * If the debtor sells the collateral in the ordinary course of business, then you do not retain a security interest in the collateral itself, but it attaches to the proceeds of the sale. A buyer who buys something in the ordinary course of business, then they can assume it is not subject to anyone else's interest in the property.
   * Default:
     * Unsecured creditor - Must sue for judgment; or may in some states sue for pre-judgment attachment (see below; not same as UCC attachment)
     * Secured creditor - No need for judgment; often gets paid w/o court intervention or summary procedure. UCC allows secured creditor to take possession of collateral w/o breach of the peace-this as a practical matter limits self help to voluntarily given possession or repossession of cars left in a public place where debtor is not there. Alternative is summary proceeding
     * Where creditor has possession, can sell or otherwise dispose of. If proceeds deficient, must sue for the deficiency
-    * Secured party’s remedies are cumulative-foreclosure, and/or judgment.
+    * Secured party's remedies are cumulative-foreclosure, and/or judgment.
 * Security Interests in Real Property
   * There are three types of prevalent real property security devices in the United States:
      1. **Mortgage**: Grants the mortgagee a security interest in the land
@@ -131,32 +131,38 @@
   * (1) Garnishment-go into accounts/payroll and take money
   * (2) Right of prejudgment attachment of property (if afraid debtor will move assets abroad).  This is not creation of a security interest
   * These remedies have been curbed by SCOTUS and now are usually limited to cases of fraud, basis to believe debtor will conceal assets, debtor not a resident of the state, contract claims where amount owed is ascertainable, etc
-  * Usually only if court decides on the probable validity of the creditor’s claim
+  * Usually only if court decides on the probable validity of the creditor's claim
   * Debtor can usually prevent with a surety bond
   * These are not constitutional unless the debtor is provided with a hearing and notice.
-* **Post-Judgment Liens**
-  * Arises after judgment is obtained in favor of the creditor
+* **Judgment Liens**
+  * A general lien which arises after judgment is obtained in favor of the creditor
+    * It applies to all of the property to which a judgement lien can apply
   * A judgment makes an unsecured creditor a judgment creditor
-    * The judgment creditor can go after property and assets (judicial lien)
+    * The judgment creditor can go after property and assets
   * Perfection - Sometimes perfection is automatic
     * Sometimes has to be docketed (up to creditor to make sure and notify debtor) and get a writ of execution (see below), but this usually only applies to real property
     * You need perfection to get priority
-  * Attaches to all real property of the judgment debtor in the county where the judgment is docketed.  Usually attaches to after-acquired property also.  Life of the judgment is usually around 10 years.  Can be renewed
+  * Attaches to all real property of the judgment debtor in the county where the judgment is docketed. Usually attaches to after-acquired property also. Life of the judgment is usually around 10 years. Can be renewed
   * In a few states it attaches to personal property also
   * Creditor can obtain sale of the property similar to judicial foreclosure
-* **Post-Judgment Execution Liens**
-  * Writs of execution - Usually apply to personal property
-    * You need to get a writ of execution to enforce a judicial lien
-  * Can only arise if a writ of execution in addition to the judgment has been obtained
-  * Judgment: Lienholder obtains sale by levying property pursuant to a writ of execution. Levying officer records the writ or notice of levy in the land records.  The execution lien arises when this recording occurs for real property. For tangible personal property, it occurs with physical seizure, or notice of levy (depending on state law. For intangible personal property, it is done by garnishment of accounts or wages
-  * Perfection:  for personal property, execution lien is inchoate until the levying officer levies the property in some states.  Not perfected until the actual levy. Often difficult because levying officers work slowly.  Until perfected, you are like an unsecured creditor if the debtor goes into bankruptcy.  Other states only require the writ of execution for perfection
+* **Execution Liens**
+  * A specific lien which attaches to the property on which levy is made under the writ of execution
+  * Writs of execution - Usually apply to personal property since judgement liens generally do not attach to this
+    * You need to get a writ of execution to enforce the lien **in addition to** the judgment being obtained
+  * Judgment: Lienholder obtains sale by levying property pursuant to a writ of execution. Levying officer records the writ or notice of levy in the land records. The execution lien arises when this recording occurs for real property (varies by state, might be additional sale procedures). For tangible personal property, it occurs with physical seizure, or notice of levy (depends on state). For intangible personal property, it is done by garnishment of accounts or wages
+  * Perfection: for personal property, execution lien is inchoate until the levying officer levies the property in some states. Not perfected until the actual levy. Often difficult because levying officers work slowly or reluctant to size property due to elected status. Until perfected, you are like an unsecured creditor if the debtor goes into bankruptcy. Other states only require the writ of execution for perfection
+  * CR could also seize the property themselves as long as there is no breach of peace
+    * Breach of peace used to mean threat of violence, but now there can't be a scene – basically, DR needs to either not know or allow CR to take
 
 ## Priority
 
 * General Rule: First to (1) file or (2) perfect gets priority
   * Exceptions:
     * Purchase Money Security Interest (PMSI) gets special priority above all
+      * The PMSI's priority attaches only to that specific piece of the DR's property (even if that CR has interests in other pieces of DR's property). This is justified because a special relationship is formed between the DR and CR as to this specific piece of property – the PMSI CR gets priority because of this
     * Buyer in the Ordinary Course of Business: if the debtor is in the business of selling something, the consumer is going to assume that the debtor can sell/perform his business free of liens. Thus, if the debtor sells the collateral and the sale is authorized, a buyer who buys takes it free of any existing security interests (ie later buyer has priority over the earlier lender)
+      * CR made it possible for DR to buy the item, or CR is selling the item
+      * Car dealership example: the bank might have security interests in all of the dealership's cars, but the buyer's interest in the car takes precedence over the bank's when the car is purchased (despite the first in time rule). The bank can seize the proceeds from the dealership
 * Basic Priorities **Outside** Bankruptcy:
   1. Perfected property interests
      * If more than one, first in time rule
@@ -171,15 +177,17 @@
 * Basic Priorities **Inside** Bankruptcy:
   1. Perfected property interests
   2. Administrative expenses /other special priorities
-     * I.e. attorney’s fees etc.; Domestic Support Expenses; Employees; IRS and other enumerated priorities in Bankruptcy Code
+     * I.e. attorney's fees etc.; Domestic Support Expenses; Employees; IRS and other enumerated priorities in Bankruptcy Code
   3. General unsecured creditors  
      * In bankruptcy, unperfected property interests are lumped in this category
   4. Equity
      * Remaining is distributed among debtor's shareholders or equity holders
 * Differences in priority inside/outside bankruptcy:
   * Inclusion of special priorities for administrative expenses second/right after perfected property interest holders
-  * Unperfected property interests get wiped out inside bankruptcy and turned into general unsecured claims. This does not mean that the claim disappears, only that the property interest does
-    * Trustee has power to ‘avoid’ unperfected security interest
+    * Attorney's fees, professionals, employees on paid wages
+    * Domestic support obligations trump these admin expenses
+  * Unperfected property interests get wiped out inside bankruptcy and turned into general unsecured claims. This does not mean that the claim disappears, only that the property interest does (The claim turns into an unsecured claim)
+    * Trustee has power to ‘avoid' unperfected security interest
   * **Pro Rata Rule**: All remaining assets divided equally among pool of unsecured creditors
 
 ---
