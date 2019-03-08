@@ -447,7 +447,7 @@
       * *Chisenholm* was wrongly decided from the get-go, and 11A only stood to correct it
     * States enjoyed sovereignty prior to ratification of Constitution and later amendments
       * General sense in which Constitution preserves state sovereignty
-    * Text of Constitution nor precedent indicate Congress has power to subject the states to suits within their own courts  laws must be valid in order to be supreme at fed. level
+    * Text of Constitution nor precedent indicate Congress has power to subject the states to suits within their own courts --> laws must be valid in order to be supreme at fed. level
     * Silence in historical record shows Framers understood Congress to lack this power
       * Unthinkable to suggest states would have ratified with understanding that they could be subjected suits in their own court system
     * No early Congresses subjected states to suit in their own courts
@@ -459,8 +459,95 @@
 
 ## Tax Power
 
+* General Rule: Tax upheld if reasonably related to revenue production or Congress has power to regulate the activity taxed
+  * Must either raise revenue or  regulate pursuant to enumerated power
+  * Cannot be a penalty
+* The use of Congress' tax power as a backdoor when commerce power is unavailable is arguably more important than the outright exercise of tax power itself
+* Historically there were distinctions between direct and indirect taxes as well as between revenue raising and regulatory taxes
+  * Constitution holds that direct tax (e.g. capitation, poll tax) must be apportioned among the states based on the census, thus it mattered
+    * Passage of 16th Amendment changes this, as apportionment no longer matters. Thus, court abandons this direct/indirect distinction
+    * Regulatory/revenue-raising distinction was judicially created
+      * Distinction is inherently arbitrary and a false dichotomy - it can be both at the same time
+      * Court in *McCrary* - If tax within lawful power, that power may not be judicially restrained because of results from its exercise
+        * Ancillary effects don't matter so long as it is an actual tax
+      * Court in *Sonzinsky* - Every tax is regulatory by some measure. Inquiry into the hidden motives behind Congress' enactment of a tax is "beyond the competency of the courts"
+        * Thus, the Court rejects a standard that would require a case-by-case pretextual analysis (as some would argue is necessary in light of *McCulloch*) on grounds that doing so is not judicially manageable
+  * **These distinctions are no longer significant in determining constitutionality of a tax imposed by Congress**
+
+### Constitutional Basis
+
+* **Art. I, §8 Cl. 1** – “Congress shall have Power To lay and collect Texas, Duties, Imposts and Excises…but all Duties, Imposts and Excises shall be uniform throughout the United States.”
+* **Art. I, §2**– direct taxes shall be apportioned among the several states which may be included within this Union, according to their respective number
+* **Art. I, §9**– no capitation, or other direct, tax shall be laid, unless in proportion to the census.
+
+### *United States v. Kahriger* (1953)
+
+* Facts
+  * Revenue Act of 1951 levies tax on gamblers by requiring persons who have engaged in accepting wagers to register IRS. This was a tax on private individuals
+  * Ps challenge the constitutionality of the tax, arguing it is an improper attempt to penalize intrastate activity under the pretense of exercising tax powers
+* Outcome - Valid tax b/c all provisions of excise are adapted to the collection of revenue
+* Rule - **Unless there are provisions extraneous to any tax need, courts are without authority to limit taxing power of Congress**. Nominal tax is a tax so long as it produces some revenue, unless penalty provisions extraneous to any tax need (not clear what this would look like)
+* Majority Reasoning
+  * Court recognizes few constraints on tax power. Power to tax is not questioned, nor is power to impose penalties for non-payment of taxes
+    * Court also recognizes *McCulloch* and its duty to prevent Congress from accomplishing an object outside of its constitutional authority under the pretext of executing its lawful powers
+    * However, in the regulation of commerce, Congress has long been able to effect matters that are ordinarily of state concern. Why should tax powers be more limited with respect to its effects on traditional state matters? Court says it shouldn't
+    * Here, all provisions of this excise were adapted to the collection of a valid tax. Other regulatory provisions (e.g. registering) are in aid of collection purpose, thus are also not extraneous to any tax need
+  * Regulatory effect of tax does not have a bearing on whether tax is legitimate; it produces revenue, which is consistent with other taxes the court has declared valid
+* Concurrence, Jackson, J. - Argues that he is concurring only because the dissent goes too far by proposing a standard that would impair the legitimate tax power of Congress
+  * Difficult to regard tax as rational revenue measure, despite deference due to Congress (pretext)
+  * It is dangerous to jeopardize public trust in the tax system by using it as an instrument to achieve unauthorized ends
+  * However, it is more dangerous to impair those tax powers that are legitimate though an excessively strict judicial standard
+  * The former can be corrected democratically ("the evil that can come from this statute will probably soon manifest itself to Congress"), but the latter is much more difficult ("[this] evil might not be transient"). Thus, the majority is the lesser of two evils
+* Dissent, Frankfurter - Courts can step in when legislation appears truly regulatory rather than revenue-seeking. Ulterior purpose cannot be stated in ways negating revenue words expressed on their face
+
+### NFIB v. Sebelius (2012 - Individual Mandate Tax)
+
+* Facts
+  * Affordable Care Act imposes an penalty on individuals whom do not purchase health insurance coverage. Earlier in the opinon, the court held that this individual mandate was an invalid exercise of Congress' commerce power. Thus, the Court moves on and considers whether it can be justified under Congress' tax power
+* Outcome - Individual mandate is within Congress’s taxing powers
+* Rule - **Irrelevant that this part of the legislation was not explicitly designated as a tax. Constitutionality of action by congress does not depend on recitals of power which it undertakes to exercise** When determined that Congress permits a tax, not role of courts to forbid tax or judge
+* Majority Reasoning (Roberts)
+  * References principle of construction articulated by Judge Story in which a court should avoid adopting interpretations that would make it unconstitutional in favor of one that would make it valid, regardless if unintentional
+  * Mandate looks like a tax in many respects. Is assessed and collected in same manner
+  * While lack of "tax" label may be fatal to enforcement of Anti-Injuction Act, this is not fatal in viewing it as an exercise of tax powers
+  * Functional analysis used in prior cases also support this conclusion
+    * Not a penalty because not an exceeding burden (never more than price of coverage), no scienter requirement, and IRS handles tax
+  * Not a punishment for criminal act or omission, failing to purchase coverage is not a crime; Taxes may be regulatory and seek to shape decisions (i.e. incentives)
+  * Taxing inaction is not troubling because constitution is clear you cannot avoid taxes thru inactivity (capitation is explicitly authorized; people are taxed merely for existing)
+  * Limit on taxing power of Congress is that it be non-penalizing in nature. Can't sanction or imprison under tax powers like with commerce powers
+* Joint Dissent (Scalia)
+  * No way to read the statute as a tax, but rather it is a mandate enforced via penalty
+    * The words shall and penalty denote a sanctioned prohibition or punishment
+  * There as a clear line between penalty and tax in Court's decisions; its either one or the other and Congress clearly framed it as a penalty
+    * To interpret the mandate as a tax goes beyond construction; it is to re-write it
+    * Case comes down to language of statute; if called tax rather than penalty, no issues
+  * Anti-Injunction Act not a problem because there is no tax
+    * Critical of Majority reasoning that holds the mandate is not a tax for purposes of AIA, but is a tax for Constitutional powers
+
 ---
 
 ## Spending Power
+
+* Art. I, §8, Cl. 1 – “Congress shall have Power…to pay the Debts and provide for the common Defense and general Welfare of the United States.”
+* Main Rule: **Congress possesses expansive power to spend in any way it believes would serve the general welfare so long as it does not violate another constitutional provision**
+  * This broad scope of Congress' spending powers was articulated in *Butler* reaffirmed in subsequent cases
+  * In *Sabri*, court upheld law prohibiting bribery of state/local officials officials that receive greater than $10k in federal funds, even if the bribery was unrelated to activities that the funding is for. Court argued that money is fungible and bribed officials are untrustworthy stewards of public funds and thus Congress has power to bear federal power on individuals who convert public funds for personal gain
+* Conditions on state grants
+  * General Rule: **Court has held that Congress may place conditions on such grants, so long as the conditions are expressly stated, have some relationship to the purpose of the spending program, and are not unduly coercive**
+  * While having no power to regulate state and local political activities, it does have power to fix the terms upon which its money allotments to states shall be disbursed
+  * In *Halderman*, court held that if Congress intends to impose a condition on federal grant money, it **must be unambiguous and expressly stated** so that states know the consequences of their choosing to take federal funds
+  * Court recognized that at some point, "the financial inducement offered by Congress might be so coercive as to pass the point at which pressure turns into compulsion"
+    * Court has recently continued to enforce this limitation on Congress' power to put conditions on grants: **They cannot be unduly coercive**
+* Anticoercion Principle: If a State really has no choice other than to accept the package, then the offer is coercive and cannot be sustained under the spending power. [Joint dissent in *NFIB*]
+  * Need this principle in case coercion is used to confer benefit getting State to waive a right
+    * Anticoercion = anticompulsion = magnitude of pressure (~Y) is too burdensome [NFIB] --> Compulsion
+    * Anticoercion = antiextortion = withholding benefit (~Y) is wrongful [Nollan] --> Coercion
+* Conditional Offer Problem: Federal government conditions a benefit that it is not constitutionally obligated to provide on the offeree’s relinquishment of some constitutionally protected interest or right
+  * Example: Plea bargaining
+  * Federal government provides some benefit X if and only if State does not exercise some right Y
+  * Tension:
+    1. Greater power not to off any benefit includes lesser power to confer some benefit by condition
+    1. Shouldn’t do indirectly through compulsion what government cannot do directly
+  * Duty holder cannot act to make exercise of my right more costly
 
 ---
