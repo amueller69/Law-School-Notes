@@ -600,3 +600,54 @@
   * Thus, **Ps do no more than speculate that the surveillance may occur in the future and that is not sufficient to meet the standing standard**. The argument that they have incurred costs due to fear of future surveillance also fails; **can't “manufacture standing” by spending money in anticipation of a harm that is not certainly impending**
 * Dissent (Breyer, J.):
   * The majority’s construction of the word “certainly” is too rigid; in actuality it should be construed as “reasonable probability” or “high probability.” Record shows that the possibility of interception under FISA is more than just speculative, but reasonably likely considering the nature of their communications. Thus, this standard for standing is met
+
+### ACLU v. Clapper (2d Cir. 2015)
+
+* Background:
+  * The NSA had a program that collected domestic telephone metadata in bulk and on a daily basis, including: (1) the caller’s and recipient’s numbers; (2) the date, the time, the user or device making or receiving the call, and the duration of the call; (3) limited location information; and (4) calling-card numbers. The metadata did not include the content of the telephone call. The NSA received authority for the program from FISC pursuant to § 501 of FISA, as amended by § 215 of the PATRIOT Act
+  * Plaintiffs challenge the legality of the bulk telephone metadata collection program, seeking a preliminary injunction to halt the program
+  * Court must decide if collection of telephone metadata exceeds the scope of § 215 of the USA PATRIOT Act as it was intended by Congress
+  * Federal district court dismissed complaint and plaintiffs appealed
+* Holding and Reasoning:
+  * **The NSA’s bulk collection of telephone metadata exceeds the scope of § 215 of the PATRIOT Act**
+  * Unlike in *Amnesty Intl*, Ps have standing here since it can be demonstrated that their call records were among those collected, thus the surveillance goes beyond impending but has already taken place. From a standing perspective, NSA's activity is most appropriately challenged as a seizure. However, there is also adequate standing to assert a 1A claim, through the direct effects and indirect "chilling effects" that this surveillance has
+  * Government concedes that the data collected by the bulk-collection program is not tied to any authorized investigation and is not relevant to a broader threat to national security. Records demanded are not of suspects or those thought to be associated with suspects in an investigation. Rather, the government contends that the data may allow the NSA at some point in the future to identify information relevant to an investigation. It argues that "relevance" is a broad and generous concept under which this activity is justified
+    * Court finds government's expansive concept of "relevance" to be both unprecedented and unwarranted
+    * > Such expansive development of government repositories of formerly private records would be an unprecedented contraction of the privacy expectations of all Americans
+    * This fails even the permissive "relevance" test
+  * This expansive interpretation of § 215 is not what Congress intended. If it had been, it would have been expressed unambiguously in the statute after being subject substantial debate
+  * The plaintiffs also argue that the bulk-collection program violates the First and Fourth Amendments. However, because the program is not authorized by § 215, there is no need to reach the constitutional issues
+* Notes: Re-authorization of bulk collection
+  * USA Freedom Act was signed in 2015; restrains some communications surveillance practices revealed to the media by Snowden
+  * FISC later re-authorized the bulk collection program for the transition period leading up to the USA Freedom Act taking effect
+  * FISC concluded that *ACLU v. Clapper* was not binding on itself and disagreed with the court's analysis. It interpreted USA Freedom act as congressional intent to permit such activity until statutory authorization was set to expire
+
+## All Writs Act
+
+* Provides that: “The Supreme Court and all courts established by Act of Congress may issue all writs necessary or appropriate in aid of their respective jurisdictions and agreeable to the usages and principles of law.”
+* As of 1977 Court had repeatedly recognized the power of a federal court to issue such commands under the All Writs Act as may be necessary or appropriate to effectuate and prevent the frustration of orders it has previously issued
+  * “This statute has served since its inclusion, in substance, in the original Judiciary Act as a ‘legislatively approved source of procedural instruments designed to achieve “the rational ends of law.”’
+
+### United States v. New York Telephone Company (1977)
+
+* Facts
+  * Federal Court in SDNY issues order authorizing FBI to install pen register on phone lines and directing D to furnish information and technical assistance necessary to install them unobtrusively (they would be compensated by FBI in return for assistance)
+  * FBI had PC that illegal gambling operation was being run out of a facility. D provided FBI information about lines necessary to install pen register, but declined to lease lines to FBI so it could install them unobtrusively. The only alternative would have alerted suspects as to the surveillance
+  * D moved to vacate the order that they provide technical assistance arguing that such direction was not authorized under All Writs Act
+  * D's motion was initially denied but overturned by CoA, who concluded that courts should not embark upon such a course without specific legislative authorization.
+* Issue - Whether a United States District Court may properly direct a telephone company to provide federal law enforcement officials the facilities and technical assistance necessary for the implementation of its order authorizing the use of pen registers1 to investigate offenses which there was probable cause to believe were being committed by means of the telephone
+* Holding and Reasoning:
+  * The Court recognized **the power conferred by the All Writs Act extends, under appropriate circumstances, to persons who, though not parties to the original action or engaged in wrongdoing, are in a position to frustrate the implementation of a court order or the proper administration of justice and encompasses even those who have not taken any affirmative action to hinder justice**
+    * Conforms with principles under which act had historically been applied, which provide that "a federal court may avail itself of all auxiliary writs as aids in the performance of its duties, when the use of such historic aids is calculated in its sound judgment to achieve the ends of justice entrusted to it"
+  * Court found that D was a third-party that was not so far removed from the underlying controversy that it could not be compelled, especially with PC that its facilities were being used to facilitate a criminal enterprise
+    * Request was not offensive to it and there is no overly-compelling interest in declining to assist
+    * No other conceivable means for FBI to accomplish this task
+  * Court concludes the **request was consistent with the All Writs Act** and this assistance from utilities is a necessary implication of congressional action authorizing pen registers. Prohibiting the order would unduly frustrate law enforcement and congress' intent in authorizing such surveillance measures
+* Dissent
+  * Even if order authorizing pen register is valid, dissent does not accept the Court’s conclusion that the District Court had the power under the All Writs Act requiring D to assist in its installation. This conclusion is unsupported by the history, the language, or previous judicial interpretations of the Act
+    * It has always been acknowledged that whatever assistance is authorized must be in aid of the court's duties and jurisdiction
+    * Governments interest in its investigation is entirely independent of court's interest in its jurisdiction
+    * "Plainly, the District Court’s jurisdiction does not ride on the Government’s shoulders until successful completion of an electronic surveillance"
+  * While the request at hand is inoffensive, the order is deeply troubling as a portent of the powers that future courts may find lurking in the arcane language of the All Writs Act.
+
+---

@@ -7,22 +7,35 @@
 * Rationale:
   * Making bankruptcy process a collective action problem - if all creditors race to the court house, they won’t be able to save a business which may actually be worth saving from being dismembered
   * If there are lots of creditors, they may not all be able to coordinate/get together, so each creditor has an incentive to grab payment in full first
+* Aims of the Automatic Stay:
+  * Debtor protection: Safeguard against dismembering the bankrupt’s estate by stopping collection efforts. Permits debtor to attempt repayment/reorganization plan. 
+  * Creditor protection: Provide orderly liquidation procedure under which creditors are treated equality (no race against debtor’s property, ratable distribution)
+* The automatic stay is backward looking and only applies to pre-petition debts, contracts, etc.  Any deal that is made after the petition is filed is not subject to bankruptcy restrictions
+  * Even new deals can violate the automatic stay in certain situations
+    * Example: The DR’s supplier (unsecured) says that he will only give the DR supplies if he pays pre-petition debt
+    * Even though this takes place post-petition, it is still a collection effort that is stayed under the bankruptcy proceedings.  This violates 362(a)(6), which forbids acts to collect claim against debtor that arose before commencement of the case
+* **Critical Vendor Doctrine**
+  * Permits repayment of vendors deemed to be critical to restructuring efforts
+  * If supplier will walk away unless debtor pays back post-petition debts, then Courts allow debtor to unilaterally pay the supplier its unsecured claims to save the relationship during the bankruptcy proceeding
+    * Normally, you are not allowed to as it would unfairly privilege one creditor
 
 ## Key Provisions
 
 ### §105: Discretionary Stay
 
+* "The court may issue any order, process or judgment that is necessary or appropriate to carry out the provisions of this title"
 * Provides additional authorization to the court to provide relief as appropriate to carry out the provisions of the Bankruptcy Code
   * Example can be used to enjoin actions against the debtor or third-parties (Robins)
 * This provision cannot be used to change/conflict with any other existing Code provisions
   * Ex: cannot stay the running of a statutory redemption period bc 108(b) covers this (Johnson)
 
-* Critical Vendor Doctrine
-  * Permits repayment of vendors deemed to be critical to restructuring efforts
-  * If supplier will walk away unless debtor pays back post-petition debts, then Courts allow debtor to unilaterally pay the supplier its unsecured claims to save the relationship during the bankruptcy proceeding
-
 ### §362(a): Proceedings that are Stayed
 
+* An injunction doesn’t need to be sought (it is automatic)
+  * Notice is not required – all CRs are subject to the stay whether they have notice or not
+  * When the DR files for bankruptcy she gives the court the names and addresses of her CRs and notice is sent to these addresses
+    * Since a lot of DRs have “lockbox” addresses that they send their monthly bills to, many CRs have filed a “notice of address” with a bankruptcy court – all bankruptcy courts must then use this address to notify the CR.  If a CR has filed an address with a court, notice will not be considered “effective” until it has been sent to this address.
+    * §342(g)(2) - No monetary penalty may be imposed on a CR for acts violating the stay committed before the CR is given effective notice
 * §362(a)(1)
   * Commencement or continuation of litigation intended to recover pre-petition claims or those that was/could’ve been commenced before filing
     * Note: Pre-petition claims may include causes of action that have resulted from pre-BK conduct and post-petition legal relationships
@@ -30,23 +43,33 @@
 * §362(a)(2) -- Enforcement of a pre-petition judgment
   * Creditor cannot enforce a judgment obtained before bankruptcy
 * §362(a)(3) -- Act to obtain possession of/exercise control of property of estate
-  * Creditor cannot take any action to re-possess the property of the estate
-    * Note: not limited to pre-petition obligations
-* §362(a)(4) -- Creating/perfecting/enforcing a lien against property of the estate
-  * Note: not limited to pre-petition obligations
+  * Creditor cannot take any action to re-possess the property of the estate (Not limited to pre-petition obligations)
+    * Example: D stops paying lease and files for BR. Landlord cannot terminate the lease and retake the property. It can only file for relief
+    * Example: Insurance company cannot cancel policy
+* §362(a)(4) -- Creating/perfecting/enforcing a lien against property of the estate (Not limited to pre-petition obligations)
+  * Foreclosure is stayed
+  * Acts of perfecting SC/mortgage are stayed
+    * Exception under §362(b)(3), which incorporates exceptions from 546(b) (cases of automatic perfection-PMSI’s) and 547(e)(2)(A) (30 day grace period to perfect after transfer, aka the transfer date is the perfection date if perfected within 30 days)
 * §362(a)(5) -- Creating/perfecting/enforcing a lien against property of the debtor (when such lien secures a claim that arose pre-petition)
   * Property of the debtor: inclusion of (5) and use of this term suggests that it involves property that is not part of the estate
-  * Examples: property acquired after bankruptcy (if in a chapter (Ch. 7) /jurisdiction does not include after-acquired assets in the estate) OR property that is exempted from the estate (sentimental value)
+  * Example: Property acquired after bankruptcy (if in a chapter (Ch. 7) /jurisdiction does not include after-acquired assets in the estate) OR property that is exempted from the estate (sentimental value)
 * §362(a)(6) -- Acts to collect, assess, or recover a claim against debtor that arose before commencement of case
   * Note: this can include irate phone calls harassing the debtor or even withholding future services because of a prior debt (Q5 (p. 163))
 * §362(a)(7) -- Setoff (of mutual debts)
-* §362(a)(8) --Commencement/continuation of Tax proceedings
+* §362(a)(8) -- Commencement/continuation of Tax proceedings
 
 ### §362(b): Exceptions to the Stay
 
 * **§362(b)(1)** -- Criminal suits (for true crimes, not ones that are simply seeking payment of a fine)
-* **§362(b)(4)** -- Government exercising police/regulatory power** (Penn Terra, see below)
+* **§362(b)(2)** -- Cannot interfere with the rights of spouses and children to receive domestic payment from debtor spouses
+* **§362(b)(4)** -- Government exercising police/regulatory power (Penn Terra, see below)
+  * Requirements: (1) Actions must protect public welfare, and (2) Must be a nonmonetary judgment (or be forward looking)
+  * But can’t enforce money judgment (exception to exception). Prevents gov’t units from using the police/regulatory power to gain preferential treatment over other creditors
+    * “Money judgments” do not have to be literal money judgments – an act that is analogous to a money judgment will also be stayed
+    * Rule: If the purpose is to remedy a backward-looking (past) harm, then it is a money judgment (not exempted). If the purpose is forward-looking (seeks to prevent future harm), then it falls under the regulatory power exception
+    * Key question: does the regulatory agency look like a CR in this situation?
 * **§362(b)(7/17/27) -- Exception for derivatives and other financial contracts**
+  * Favors Wall Street for dealings with financial instruments like swaps and derivatives
   * **§362(b)(7) -- Repurchase Agreements**
     * Like a secured loan
     * Debtor sells securities to a lender/buyer in connection with contract
@@ -54,19 +77,22 @@
     * Contract where you are swapping obligations
     * Ex: currency swap (at the end of the period, contract would be worth the difference in the two currencies); interest rate swap --one party promises to pay a fixed interest rate, other party promises to pay a variable interest rate (at the end of the period, contract would be worth the difference); credit default swap (key issue in 2008 financial crisis)?
     * **§362(27) -- Netting arrangements**
+    * The exercise by a master netting agreement participant of any contractual right (as defined in section 555, 556, 559, or 560) under any security agreement
     * Arguments for/against special treatment:
       * For Exception: this market can take care of itself (self-clearing market); domino effect failure; promotes liquidity in the system; protects hedges; otherwise would make these contracts undesirable
-      * Against Exception: worry about race to the courthouse (makes bankruptcy useless for DR bc there is nothing the DR can do to protect itself from posting collateral for these contracts)
-      * Skeel: The fact that these are volatile contracts, time-sensitive, and have the potential to leave non-debtors exposed are good reasons for the stay, but the stay should be very short
+      * Against Exception: Worry about race to the courthouse (makes bankruptcy useless for DR bc there is nothing the DR can do to protect itself from posting collateral for these contracts)
+    * Skeel: The fact that these are volatile contracts, time-sensitive, and have the potential to leave non-debtors exposed are good reasons for the stay, but the stay should be very short
 
 ### §362(c): Termination of the Stay in the event of repeated filings
 
+* Sections preventing abuse of repeated filings
 * §362(c)(3) - If debtor had a prior case dismissed in the preceding one-year period, the automatic stay in the second case terminates without respect to the debtor within 30 days after filing unless debtor rebuts heavy presumption that her case was not filed in good faith
 * §362(c)(4) - If D has two or more filings within the previous year, there is no stay at all unless bad faith presumption in preceding sentences is rebutted
 
 ### §362(d): Lifting the Stay
 
-* §362(d)(1)— Cause /reason to lift the stay (mainly lack of protection)
+* §362(d)(1) -- Cause/reason to lift the stay (mainly lack of adequate protection)
+  * Adequate protection means protection of value of a secured creditor’s collateral or mortgage holder’s collateral
   * Normally dealing with secured creditors whose collateral is deteriorating in value
 * §362(d)(2)— For property…if the debtor has no equity in the property and the property is not necessary vital to reorganization efforts
 
@@ -80,25 +106,34 @@
 * When there is a willful violation, the bankruptcy court is free to award the debtor actual damages (§362(k)(1))
 * Void v. Voidable:
   * Void: act itself is no good/invalid (and must be undone somehow)
+    * Void means it just doesn’t exist. It is impermissible, invalid from the get go
     * (Pro-debtor) likely to conclude the stay is violated bc the burden is on the creditor to validate the action
     * Court’s Definition: not permissible action. Strong presumption against the creditor
     * *Soares* court claims that actions in violation of the stay are presumptive void. The burden is on the creditor to show compelling reason for exception (lack of notice or debtor acted in bad faith). Bar is high
   * Voidable:
-    * (Pro-creditor) likely to conclude the stay is not violated bc the burden is on the debtor
+    * (Pro-creditor) likely to conclude the stay is not violated because the burden is on the debtor
+* What would it take for creditor to get the stay to be retroactively lifted?
+  * Showing of bad faith by debtor
+  * Showing lack of notice to creditor
 
 ### In Re Soares
 
 * Timeline:
-  * March 22, 1995 – creditor seeks order of default and judgment of foreclosure
-  * March 24, 1995 — debtor files for bankruptcy (automatic stay goes into effect)
-  * April 10, 1995 – state court issues a default order*
-    * Note: this is the key moment
-  * June 14, 1995 – creditor seeks relief from automatic stay
-  * November 29, 1995 — foreclosure
-* Holding: the default order violates the automatic stay because the actions after the bankruptcy filing were not “ministerial” (ex. signed without any sort of judgment made, no discretion involved) but were core to the judicial proceedings. This was a violation of  §362(a)(1) –bc it is a continuation of a judicial act
-  * Issuing a default order is pretty pro-forma, but it is not simply a ministerial function. It involves some discretion/involvement of the court, and therefore it is violation of the automatic stay because the decision was made after the stay was in place
+  * March 22, 1995 – Creditor seeks order of default and judgment of foreclosure
+  * March 24, 1995 — Debtor files for bankruptcy (automatic stay goes into effect)
+  * April 10, 1995 – State court issues a default order
+    * Note: This is the key moment
+  * June 14, 1995 – creditor seeks relief from automatic stay and debtor's lawyer fails to contest
+  * November 29, 1995 - foreclosure sale
+* Issue: Were default order and foreclosure sale a violation of automatic stay?
+  * Creditor's argument: the “real activity” (aka foreclosure) under state law, happened before debtor filed for bankruptcy, it happened on March 22 and the rest were ministerial actions (mistake of timing)
+* Holding: The default order **violates the automatic stay because the actions after the bankruptcy filing were not “ministerial”** (ex. signed without any sort of judgment made, no discretion involved, but merely carrying out) but were core to the judicial proceedings. This was a violation of §362(a)(1) because it is a continuation of a judicial act
+  * Issuing a default order is pretty pro-forma, but **it is not simply a ministerial function. It involves some discretion/involvement of the court**, and therefore it is violation of the automatic stay because the decision was made after the stay was in place
   * Court rejected the creditor’s §362(d) motion to lift the stay retroactively (although it established the fact that the court does have the power to do so when appropriate)
-* Take-Away: when a judgment has been obtained against the debtor pre-petition, ministerial acts done after the stay is in place (like entry on the docket, etc) will not violate the stay. Any act that carries out a core judicial function is not considered ministerial and thus will violate the stay
+  * “The dead tree gives no shelter” – If the automatic stay is not interpreted vigorously, it won’t provide the role it’s supposed to, ie facilitating collective proceedings
+    * Driving home importance of automatic stay. If not vigorously enforced, Bankruptcy will not be effective
+* Take-Away: when a judgment has been obtained against the debtor pre-petition, ministerial acts done after the stay is in place (like entry on the docket, etc) will not violate the stay. Any act that carries out a core judicial function, even if minimal, is not considered ministerial and thus will violate the stay
+
 
 ## Limits on the Automatic Stay
 
@@ -148,7 +183,7 @@
 
 ## Exceptions to the Automatic Stay (§362(b))
 
-* Limits the stay to enable favored creditors to proceed against debtors unhindered by the stay.
+* Limits the stay to enable favored creditors to proceed against debtors unhindered by the stay
 * Includes: spouses/children in domestic support scenarios; Wall street; landlords who can continue eviction proceedings obtained before filing; government regulation
 
 ### Penn Terra (govt police/regulatory exception)
@@ -159,8 +194,8 @@
   * Another award like building a museum would not fall into the police & regulatory power unless it directly protects public health/safety.
 * Rule: an exercise of police power that is forward looking is NOT subject to the automatic stay
   * Penn Terra makes a distinction between forward-looking and backward-looking remedies in order to define what constitutes a “money judgment”
-    * Fixing past harm …stayed
-    * Fixing future harm…NOT stayed
+    * Fixing past harm -> stayed
+    * Fixing future harm -> NOT stayed
 * Note: Nothing prevents a government agency from obtaining a money judgment, simply stays the process of enforcement when bankruptcy is filed. Yet, it is possible that an order which requires the expenditure of money is not in fact a money judgment and can still be valid while the stay is in effect
   * Definition of a “money judgment” = adjudication of liability for a sum of money (can payment satisfy request)
 
