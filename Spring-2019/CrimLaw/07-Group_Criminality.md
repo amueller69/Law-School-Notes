@@ -6,6 +6,11 @@
 
 ## Accomplice Liability
 
+* Mens Rea of Accomplice Liability
+  * The problem of mens rea for complicity is complicated by the presence of two levels of mens rea: (1) that required of the accomplice (the helper or encourager) and that required of the principle (the actual perpetrator). However, the mens rea of the accomplice is distinct
+  * A true purpose, often called a **specific intent**, is generally required to hold a person liable as an accomplice; that is, he must actually intend his action to further the criminal action or conduct of the principal”
+    * However, most courts agree that this specific intent is only required for the conduct he engages in, whereas the result only requires same mens rea needed to satisfy the substantive offense (i.e. must intend to aid in something reckless, but need not specifically intend to aid in crime of recklessness/negligence)
+    * As shown below, this specific intent requirement has been incorporated into the MPC and adopted in state statutes
 * MPC Approach - requires actor have "the purpose of promoting or facilitating" the commission of the crime
   * (1) A person is guilty of an offense if it is committed by his own conduct or by the conduct of another person for which he is legally accountable, or both.
   * (2) A person is legally accountable for the conduct of another person when:
@@ -17,20 +22,31 @@
       * (i) **solicits** such other person to commit it, or
       * (ii) **aids or agrees or attempts** to aid such other person in planning or committing it, or
       * (iii) having **a legal duty to prevent** the commission of the offense, **fails to make proper effort so to do**; or
+        * Example: Most courts agree that parents can be liable under an aiding and abetting theory for a crime committed by a third party when they fail to protect their children from abuse
     * (b) his conduct is expressly declared by law to establish his complicity
+  * (4) If a specific result is an element of the target crime, D acts with “**the kind of culpability, if any, with respect to that result that is sufficient for commission of the offense**”
+        * Example: Where 3rd degree murder is satisfied by gross recklessness, accomplice that aids with same level of recklessness with respect to the result needed can be held legally accountable as an accomplice
   * Recap:
     * Actus reus for acting as an accomplice
       * Aiding or soliciting is enough, omissions can sometimes be if based on legal duty
-        * Example: Most courts agree that parents can be liable under an aiding and abetting theory for a crime committed by a third party when they fail to protect their children from abuse
       * D’s mere presence is not sufficient to establish actus reus
     * Mens rea for accomplice liability
-      * D must act with the purpose of promoting/facilitating target crime
+      * D must act with the purpose of promoting/facilitating target crime OR
+      * D must act with same level of culpability with respect to result that is sufficient for commission of that offense
 * Substantive Crimes of Facilitation
   * Majority in *Rosemond* suggests that if the crime is already in progress when the defendant first becomes aware of the use of a gun, the defendant may not have sufficient notice to be held responsible for it. The Dissent argues that the defendant should be liable as long as he is aware of the gun and persists with the drug deal with that knowledge”
   * One possible way to mitigate in this regard is to just make criminal facilitation a stand-alone crime all the time and make it a lesser penalty than the crime aided
   * Often times, states have created special statutes making aiding and abetting certain crimes spelled out, including: Selling Guns to Juveniles, Material Support to Terrorism, Money Laundering
 * Accomplice Liability for Non-Specific Intent Crimes
   * There is a general rule that accomplice liability requires specific intent. But specific intent with respect to which elements. McVay and Roebuck make clear that there is a distinction between conduct elements and result elements. These cases recognize that **for accomplice liability, the accomplice must have specific intent to further the underlying conduct committed by the principle, but for the result, he need only have the mens rea required for the result element of the substantive offense**
+* Attempt v Complicity under MPC
+  * Result
+    * With attempt, MPC requires D have the purpose to produce the proscribed result or the belief that his conduct will cause the result, even when lesser mens rea (e.g. recklessness) would satisfy completed offense. However, for D charged with accomplice liability in an offense, the required mens rea for resulting harm is not purpose, but only the mens rea required for the commission of the charged offense
+  * Attendant Circumstances
+    * MPC is less demanding with attempt than with complicity when it comes to attendant circumstances. The mens rea for attendant circumstances in cases of attempt is not purpose, but only the mens rea required for the completed crime”. Thus, under MPC, attempted statutory rape can be satisfied without any suspicion that victim was underage
+* **Natural and Probable Causes Doctrine**
+  * Addresses the question of what happens if a different crime occurs than the one the accomplice intended to help with occurs
+  * Holds that if the result is a “natural and probable” consequence in the “ordinary course of things,” then the accomplice can be found liable. In other words, a “person encouraging or facilitating the commission of a crime [may] be held criminally liable not only for that crime, but for any other offense that was a natural or probably consequence of the crime aided and abetted
 * Relationship Between Liability of Parties
   * Feigned Principal Approach
     * It is frequently stated that, to be an accomplice, a person “must not only have the purpose that someone else engage in the conduct which constitutes the particular crime charged, but the accomplice musts also share in the same intent which is required for commission of the substantive offense.
@@ -40,6 +56,18 @@
     * Notice how this is different from Hayes. In Hayes there was also no underlying crime. However, *Hayes* court held that you can’t be an accomplice to a principal not committing a crime, regardless of mens rea
       * These could be reconciled. In *Hayes*, there was no actus reus in the underlying crime - no actual criminal act took place. However, argument can be made that crime took place in *Vaden*, but qualified immunity was simply an defense/justification which relieved principal of any liability
     * Most modern codes carve this out???
+* Acquittal on the Basis of a Defense
+  * If the principle is acquitted on a defense, does that transfer to the accomplice? We know that the Vaden Principle doesn’t transfer immunity, but what is the general rule?
+    * If the acquittal is a Justification:
+      * The defense passes to the accomplice. For example, recognition of self-defense for the principle implies that no crime has occurred, or even that positive good has resulted. In absence of wrongdoing by the principle, like in Hayes, the accomplice can’t be charged
+    * If only a partial justification (e.g. unreasonable self-defense)
+      * Accomplice can still be liable… see below hypo
+    * If the acquittal is an Excuse...
+      * When the primary party is acquitted on the basis of an excuse (e.g. insanity) his acquittal should not bar a successful prosecution of a secondary party to whom the excuse does not extend. An acquittal on the ground of an excuse means that the actions of the primary party were wrongful, but that he was not responsible because of a personal excusing condition
+  * Innocent Agent Doctrine
+    * There is no such thing as accomplice liability if a person forces another person to be the agent or instrument of the crime
+    * So if Z comes up to you and forces you to commit a crime or he kills you. If you commit the crime, you obviously have a duress defense
+      * The way the law treats this situation is to say: There is NO accomplice liability. Z’s guilt is not derivative from your actions. Rather, it is direct liability situation – your actions transfer to Z because you are simply a forced instrument of criminality
 
 ## Accomplice Liability - Cases
 
@@ -51,7 +79,7 @@
   * No. This phrase was not enough to infer mens rea. **Use of the words must be intended to encourage the act.** The jury instructions were defective insofar as they assumed intent to encourage could be inferred from the intentional use of certain words (regardless of how he intended to use the words and thus regardless of mens rea)
   * **While it is true that mere presence, but non-participation due to lack of necessity, can be interpreted as aiding in the crime, this only applies in instances such as where there is a previously discussed criminal conspiracy**. No evidence of such conspiracy here. Conviction reversed
 
-### *State v Gladstone* (1970 Wash.)
+### *State v Gladstone* (1970 WA)
 
 * Facts: Defendant Gladstone was approached by an undercover officer looking to nab him for selling marijuana. Gladstone said he could sell any to him at the time, but suggested he go and check out his friend Robert Kent. The undercover officer then went to Kent and bought marijuana. Kent was arrested, but then Gladstone was charged with abetting the sale of marijuana despite the fact there was no evidence of any communication between the parties
 * Rule: **In order to aid and abet, D must associate himself in some sort with the venture, participate in it as something he wishes to bring about, and that he seek by action to make it succeed**
@@ -74,7 +102,7 @@
   * Many states have adopted the advanced knowledge standard as qualifying for complicity
   * Does this mean that knowledge is the actual standard after all? Is purpose the same active participation knowing the consequences? Is there a clear line between incidental facilitation and active participation?
 
-### *State v McVay* (1926 R.I.)
+### *State v McVay* (1926 RI)
 
 * Facts: The captain and his crew were charged with manslaughter arising from criminal negligence resulting in the explosion of a boiler on a ship, which killed multiple passengers. Ds told steamboat captain to use boat despite knowing the engine was unsafe
 * Issue: Is it possible to hold someone as an accessory to a crime when they did something negligent before the fact (i.e. before the actual crime?)
@@ -84,69 +112,77 @@
     * The violation of the duty was intentional in the sense that it was a choice among possible courses of action. D is charged with full knowledge of that duty and of the fact that the boiler was unsafe, yet procured captain to act in a grossly negligent manner (i.e. **D knew of the duties yet purposefully got them to ignore it**)
   * “A jury might find that defendant Kelley, with full knowledge of the possible danger to human life, recklessly and willfully advised, counseled, and commanded the captain and engineer to take a chance by negligent action or failure to act”
 
-### Commonwealth v Roebuck (2011 PA)
+### **Commonwealth v Roebuck** (2011 PA)
 
 * Facts: D helped helped orchestrate the events, even though he didn't participate in the highly reckless murder. Helped lure the victim to the room. But had no intent that the victim be killed. D convicted as an accomplice to 3rd degree murder
 * Defense Argument: “There is no rational legal theory to support accomplice liability. Accomplice liability attaches only where the defendant intends to facilitate or promote an underlying offense; third-degree murder is an unintentional killing committed with malice; therefore, to adjudge a criminal defendant guilty of third degree murder as an accomplice would be to accept that the accused intended to aid an unintentional act, which is a logical impossibility”
 * Prosecution Argument: The accomplice liability readily pertains to third degree murder because it is the shared criminal intent motivating the underlying conduct (here, designing a reckless/dangerous alteration) which establishes the requisite criminal liability
-* Rule: As long as there is specific intent in the underlying conduct which lead to the result, intent component (and thus mens rea for AL) is satisfied
+* Rule: **As long as there is specific intent in the underlying conduct which lead to the result, intent component (and thus mens rea for AL) is satisfied**
 * Holding: Conviction on basis of accomplice liability is upheld
   * The court accepts the prosecution argument, pointing to §2.06(4) of MPC
     * "Indeed, an accomplice to third degree murder does not intend to aid an unintentional murder; he intends to aid a malicious act which results in killing"
 
-* *Wilcox v Jeffrey* (UK)
-  * Facts: Hawkins is a celebrated saxophone player. Mr. Curtis and Mr. Hughes, owners of a jazz club in Willesden, invited Hawkins to the United Kingdom to perform a concert. Although Mr. Curtis and Hawkins had applied for permission for Hawkins to land, their petition was refused. Wilcox was present when Hawkins landed at the airport. Despite the law, Hawkins came to the country anyway and a concert was arranged at the Princess Theatre in London. Wilcox purchased a ticket for the show and subsequently, wrote about that show for publication in his magazine.
-  * Issue: Wilcox never met Hawkins and simply benefited from his presence. Can he be convicted of encouraging the illegal performance of Hawkins simply by writing on that said performance?
-  * Rule: Not Much is Required for finding of encouragement. Knowledge of unlawful act of a third-party without intervention in order to serve some personal interest is sufficient.
-  * Holding: Wilcox's conduct was sufficient enough encouragement to sustain an accomplice liability. Wilcox knew he was here illegally (thus had the mens rea) and the court ruled the purchase of the ticket (not only the magazine article) was enough for accomplice liability. He was there for the purpose of reporting for his publication. Had he shown some evidence of protest, such as booing, then perhaps his conduct would not be viewed as aiding and abetting
-  * Notes
-    * Begs the Question – This Seems Too Low of a Threshold
-      * Could all the audience members be guilty of conspiracy
-      * There’s no but-for causation. The encouragement didn’t seem to assist
-    * Some offenses, such as dog fighting, hold spectators criminally liable for there mere presence at such events
-      * New Bedford rape case saw two people acquitted of involvement in gang rape despite verbal encouragement while crime was on going
-    * Speech has been criticized as basis for encouragement
-      * Hard to determine true mental state thus difficult to infer what was intended
+### *People v Russel* (1998 NY)
 
-* *State ex rel. Attorney General v Tally Judge* – Materiality of Aid – Does it Need to ACTUALLY Aid?
-  * Rule: Establishes and emphasizes that you don’t need to prove but-for causation. If an act MIGHT have encouraged or assisted, then that’s enough. Low threshold for encouragement.
-  * Quote: The assistance given, however, need not contribute to the criminal result in the sense that but for it the result would not have ensued. It is quite sufficient if it facilitated a result that would have transpired without it. It is quite enough if the aid merely renders it easier for the principle actor to accomplish the end intended by him and the aider and abettor, though in all human probability the end would have been attained without it”
-  * Notes:
-    * >As Tally and Wilcox make clear, it is not necessary to establish a but-for relation between the defendant’s action and the criminal conduct of another to establish accomplice liability. What is the justification for holding someone liable for a crime if it would have occurred anyway?
-      * Doesn’t this contradict the Bedford Rape Cases?
+* Facts: Ds got into a shoot-out with each other. One stray bullet killed a victim bystander. Ballistics could not determine who’s gun the stray bullet came from. However, each defendant was charged with second-degree depraved murder under a theory that “each of them ‘intentionally aided’ the defendant of the fatal shot”, regardless of whom was the principal offender and who was merely and accomplice
+* Holding - Court upholds the convictions; **multiple defendants can be charged with depraved indifference murder committed by only one defendant if each defendant intentionally aided the defendant who committed the murder**
+  * “The prosecution was not required to prove which defendant fired the fatal shot when the evidence was sufficient that each defendant acted with the metal culpability required for the commission of depraved indifference murder, and each defendant intentionally aided the defendant who fired the fatal shot, even if it is impossible to identify that particular defendant”
+  * Adequate proof that defendants acknowledged and accepted gunfight challenge prior to the shooting and thus acted with the required mental culpability
+* Notes:
+  * Causation not really an issue here because one of the Ds was clearly the but-for and proximate cause. The conviction of the other Ds derives not from causing the result, but by acting as accomplices of whoever caused the result
 
-* *State v. Hayes* (1891 MO)
-  * Facts: S proposed to P that P join S in the burglary of V’s store. S was unaware of the fact that P was a relative of V. With V’s approval, P agreed to the plan. S assisted P into the building, and took possession of property handed to him by P. Before they could leave the store, S got arrested for burglary and was convicted.
-  * Rule: **Where criminal liability derives from principal, regardless of intent, not an aider & abetter if principal doesn't satisfy elements of the underlying criminal act**
-  * Holding: The Court vacated the charge
-    * While S had the full intent, P was the primary party doing the stealing: P committed the acts that arguably constituted the burglary
-      * "Where overt acts going to make up the crime charged is personally done by D and with intent, his guilt is complete". However, D did not complete eery overt act. He never stepped foot into the store; he only assisted P. Thus, he did no crime regardless of his intent
-    * S’s liability therefore had to derive from P
-      * But P was not guilty of burglary because he entered the building with the express approval of the owner, his father, therefore he lacked the specific intent to commit a felony (theft, which requires specific intent to permanently deprive property)
-    * So because P was not guilty of crime, S cannot be charged with accomplice liability because it is a derivative offense
-      * To make D responsible for acts of P, they must have common motive and design. Clearly they did not
-      * But S can probably be charged with attempt
+### *People v Luparello* (1987 CA)
 
-* *Vaden v State* (1989 AK)
-  * Facts: Law enforcement received a tip that Douglas Vaden (defendant) was using illegal hunting methods while providing guiding services to hunters. John Snell, an undercover agent from the Alaska Department of Fish and Game, posed as a hunter, asking Vaden to act as a guide. During the hunt, Snell shot and killed four foxes from Vaden’s aircraft using a shotgun provided by Vaden. At the time, fox-hunting season was closed
-  * Rule: **A justification defense (e.g. qualified immunity) does not transfer from principal to accomplice. The fact that principal is not guilty of underlying crime does not absolve accomplice of aiding and abetting**
-  * Holding: The majority refused to follow Hayes and upheld the conviction. A justification defense that is available to an undercover agent for the commission of a crime is not transferable to the agent’s accomplice
-    * In cases involving accomplice liability, the principal actor does not need to be convicted or even prosecuted in order for the accomplice to be found guilty. Therefore, the accomplice’s intent is the central issue, and the defenses of entrapment and public authority justification, which focus on an undercover agent’s state of mind, may not be transferred to the accomplice.
-  * Dissent:
-    * It is improper for the police to personally engage in criminal conduct for the purpose of securing convictions of accomplices to crimes - "the act of a feigned accomplice may never be imputed to the targeted D for purposes of obtaining a conviction"
+* Facts: Defendant sought to get information on his former wife, who had left him for another man. Defendant sought the aid of several friends to try to get info from a good friend of the husband named Martin. The friends ended up killing Martin. Defendant was charged with first degree murder under the natural and probable consequences theory. Luparello argues that the trial court improperly imposed “mens rea” upon him in the killing of Martin, as he did not share the killer's intent
+  * One Plurality Opinion – "Jurisdiction requires a holding than aider and abettor or co-conspirer **is liable not only for those crimes committed by a co-felon which he intended or agreed to facilitate but also any additional crimes which are ‘reasonably foreseeable.’**"
+  * Another Plurality Opinion – Concurs, but law needs to be changed because it is logically indefensible. We need be concerned about the fact that the contemplated crime was far less serious than the one committed. The lack of regard for this violates a policy in the criminal law not to hold people responsible for things that they did not intend to do an to punish in proportion to one's mental state
 
-* Acquittal on the Basis of a Defense
-  * If the principle is acquitted on a defense, does that transfer to the accomplice? We know that the Vaden Principle doesn’t transfer immunity, but what is the general rule?
-    * If the acquittal is a Justification:
-      * The defense passes to the accomplice. For example, recognition of self-defense for the principle implies that no crime has occurred, or even that positive good has resulted. In absence of wrongdoing by the principle, like in Hayes, the accomplice can’t be charged
-    * If only a partial justification (e.g. unreasonable self-defense)
-      * Accomplice can still be liable… see below hypo
-    * If the acquittal is an Excuse...
-      * When the primary party is acquitted on the basis of an excuse (e.g. insanity) his acquittal should not bar a successful prosecution of a secondary party to whom the excuse does not extend. An acquittal on the ground of an excuse means that the actions of the primary party were wrongful, but that he was not responsible because of a personal excusing condition
-* Innocent Agent Doctrine
-  * There is no such thing as accomplice liability if a person forces another person to be the agent or instrument of the crime
-  * So if Z comes up to you and forces you to commit a crime or he kills you. If you commit the crime, you obviously have a duress defense
-    * The way the law treats this situation is to say: There is NO accomplice liability. Z’s guilt is not derivative from your actions. Rather, it is direct liability situation – your actions transfer to Z because you are simply a forced instrument of criminality
+### *Wilcox v Jeffrey* 1951 (UK)
+
+* Facts: Hawkins is a celebrated saxophone player. Mr. Curtis and Mr. Hughes, owners of a jazz club in Willesden, invited Hawkins to the United Kingdom to perform a concert. Although Mr. Curtis and Hawkins had applied for permission for Hawkins to land, their petition was refused. Wilcox was present when Hawkins landed at the airport. Despite the law, Hawkins came to the country anyway and a concert was arranged at the Princess Theatre in London. Wilcox purchased a ticket for the show and subsequently, wrote about that show for publication in his magazine.
+* Issue: Wilcox never met Hawkins and simply benefited from his presence. Can he be convicted of encouraging the illegal performance of Hawkins simply by writing on that said performance?
+* Rule: **Not Much is Required for finding of encouragement. Knowledge of unlawful act of a third-party without intervention in order to serve some personal interest is sufficient**.
+* Holding: Wilcox's conduct was sufficient enough encouragement to sustain an accomplice liability. Wilcox knew he was here illegally (thus had the mens rea) and the court ruled the purchase of the ticket (not only the magazine article) was enough for accomplice liability. He was there for the purpose of reporting for his publication. Had he shown some evidence of protest, such as booing, then perhaps his conduct would not be viewed as aiding and abetting
+* Notes
+  * Begs the Question – This Seems Too Low of a Threshold
+    * Could all the audience members be guilty of conspiracy
+    * There’s no but-for causation. The encouragement didn’t seem to assist
+  * Some offenses, such as dog fighting, hold spectators criminally liable for there mere presence at such events
+    * New Bedford rape case saw two people acquitted of involvement in gang rape despite verbal encouragement while crime was on going
+  * Speech has been criticized as basis for encouragement
+    * Hard to determine true mental state thus difficult to infer what was intended
+
+### *State ex rel. Attorney General v Tally Judge* (1894 AL)
+
+* Facts: V seduces D's sister in law. D's brother in law go out to find and kill him. D goes to telegraph office and prevents message warning V of danger from getting through.
+* Rule: Establishes and emphasizes that you don’t need to prove but-for causation. If an act MIGHT have encouraged or assisted, then that’s enough. Low threshold for encouragement.
+* Quote: The assistance given, however, need not contribute to the criminal result in the sense that but for it the result would not have ensued. **It is quite sufficient if it facilitated a result that would have transpired without it. It is quite enough if the aid merely renders it easier for the principle actor to accomplish the end intended by him and the aider and abettor, though in all human probability the end would have been attained without it**”
+* Notes:
+  * >As Tally and Wilcox make clear, it is not necessary to establish a but-for relation between the defendant’s action and the criminal conduct of another to establish accomplice liability. What is the justification for holding someone liable for a crime if it would have occurred anyway?
+    * Doesn’t this contradict the Bedford Rape Cases?
+
+### *State v. Hayes* (1891 MO)
+
+* Facts: S proposed to P that P join S in the burglary of V’s store. S was unaware of the fact that P was a relative of V. With V’s approval, P agreed to the plan. S assisted P into the building, and took possession of property handed to him by P. Before they could leave the store, S got arrested for burglary and was convicted.
+* Rule: **Where criminal liability derives from principal, regardless of intent, not an aider & abetter if principal doesn't satisfy elements of the underlying criminal act**
+* Holding: The Court vacated the charge
+  * While S had the full intent, P was the primary party doing the stealing: P committed the acts that arguably constituted the burglary
+    * "Where overt acts going to make up the crime charged is personally done by D and with intent, his guilt is complete". However, D did not complete eery overt act. He never stepped foot into the store; he only assisted P. Thus, he did no crime regardless of his intent
+  * S’s liability therefore had to derive from P
+    * But P was not guilty of burglary because he entered the building with the express approval of the owner, his father, therefore he lacked the specific intent to commit a felony (theft, which requires specific intent to permanently deprive property)
+  * So because P was not guilty of crime, S cannot be charged with accomplice liability because it is a derivative offense
+    * To make D responsible for acts of P, they must have common motive and design. Clearly they did not
+    * But S can probably be charged with attempt
+
+### *Vaden v State* (1989 AK)
+  
+* Facts: Law enforcement received a tip that Douglas Vaden (defendant) was using illegal hunting methods while providing guiding services to hunters. John Snell, an undercover agent from the Alaska Department of Fish and Game, posed as a hunter, asking Vaden to act as a guide. During the hunt, Snell shot and killed four foxes from Vaden’s aircraft using a shotgun provided by Vaden. At the time, fox-hunting season was closed
+* Rule: **A justification defense (e.g. qualified immunity) does not transfer from principal to accomplice. The fact that principal is not guilty of underlying crime does not absolve accomplice of aiding and abetting**
+* Holding: The majority refused to follow Hayes and upheld the conviction. A justification defense that is available to an undercover agent for the commission of a crime is not transferable to the agent’s accomplice
+  * In cases involving accomplice liability, the principal actor does not need to be convicted or even prosecuted in order for the accomplice to be found guilty. Therefore, the accomplice’s intent is the central issue, and the defenses of entrapment and public authority justification, which focus on an undercover agent’s state of mind, may not be transferred to the accomplice.
+* Dissent:
+  * It is improper for the police to personally engage in criminal conduct for the purpose of securing convictions of accomplices to crimes - "the act of a feigned accomplice may never be imputed to the targeted D for purposes of obtaining a conviction"
+
 Some final, challenging hypos:
 
 * Modern code anticipates defense like the one in *Hayes*
@@ -154,19 +190,22 @@ Some final, challenging hypos:
 
 ### Acquittal Hypotheticals
 
-* Principle is acquitted, but Accomplice is Not
+* Hypothetical #1 - Principle is acquitted, but Accomplice is Not
   * Setup: Principle is acquitted. Accomplice argues that as a matter of law, if the principle is not guilty than the accomplice can’t be guilty
   * SCOTUS says that it’s up to jury discretion. It can be tried again, the fact that one jury found the principle not guilty doesn’t mean that the accomplice doesn’t necessarily benefit from the verdict if the prosecution can convince another jury that the principle is guilty AND so to the accomplice
     * There might be a collateral estoppel if this was a civil case. But like with Vaden, you can’t
-
-<!-- 
-Can the Victim be an Accomplice to His Own Injury???
-Hypo: Principle is charged with statutory rape. Defense is that the victim told me she was 18, but it turned out she was under 16. Doesn’t matter, it’s strict liability crime. BUT can the girl be prosecuted that she was an accomplice for telling her that she was 18? Generally the law says a victim cannot be viewed that she’s an accomplice. But why does this matter – the D may not have committed the crime if she didn’t say. Most courts kick this to the legislature – if they want to create an immunity for the victim, then that’s their prerogative
-Hypo: Can the accomplice be found guilty of a crime more serious than the principle? NO. Straight forward application of derivative liability. Even if the accomplice has a higher level of mens rea the most they can be punished for is the level of crime the principle commits.
-
-What if the Principle on has a Partial Justification???
-Hypo: If a principle kills in an unreasonable belief of self-defense (in most states if your killing is unreasonable self- defense, but self-defense nonetheless, you get manslaughter instead of murder). What can an accomplice get in this situation? The accomplice can get MURDER not MANSLAUGHTER because it’s not a full justification. Impartial Self-Defense mitigation cannot benefit the accomplice. It’s hard to square with the above hypo.
-**Again, with justifications – they don’t transfer to -->
+* Hypothetical #2 - Can the Victim be an Accomplice to His Own Injury?
+  * Setup: Principal is charged with statutory rape. Defense is that the victim told me she was 18, but it turned out she was under 16. Principal is clearly liable, since it’s strict liability crime
+  * Question: Can the girl be prosecuted that she was an accomplice for telling her that she was 18?
+  * Generally the law says a victim cannot be viewed that she’s an accomplice. But why does this matter – the D may not have committed the crime if she didn’t say. Most courts kick this to the legislature – if they want to create an immunity for the victim, then that’s their prerogative
+* Hypothetical #3 - Severity of Accomplice's Crime
+  * Question: Can the accomplice be found guilty of a crime more serious than the principle?
+  * Answer: No
+    * Straight forward application of derivative liability. Even if the accomplice has a higher level of mens rea the most they can be punished for is the level of crime the principle commits
+* Hypothetical #4 - What if the Principle on has a Partial Justification?
+  * Setup: If a principle kills in an unreasonable belief of self-defense (in most states if your killing is unreasonable self- defense, but self-defense nonetheless, you get manslaughter instead of murder)
+  * Question: What can an accomplice get in this situation?
+  * Answer: The accomplice can get MURDER not MANSLAUGHTER because it’s not a full justification. Impartial Self-Defense mitigation cannot benefit the accomplice. It’s hard to square with the above hypo.
 
 ---
 
