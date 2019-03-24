@@ -8,7 +8,7 @@
   * Making bankruptcy process a collective action problem - if all creditors race to the court house, they won’t be able to save a business which may actually be worth saving from being dismembered
   * If there are lots of creditors, they may not all be able to coordinate/get together, so each creditor has an incentive to grab payment in full first
 * Aims of the Automatic Stay:
-  * Debtor protection: Safeguard against dismembering the bankrupt’s estate by stopping collection efforts. Permits debtor to attempt repayment/reorganization plan. 
+  * Debtor protection: Safeguard against dismembering the bankrupt’s estate by stopping collection efforts. Permits debtor to attempt repayment/reorganization plan
   * Creditor protection: Provide orderly liquidation procedure under which creditors are treated equality (no race against debtor’s property, ratable distribution)
 * The automatic stay is backward looking and only applies to pre-petition debts, contracts, etc.  Any deal that is made after the petition is filed is not subject to bankruptcy restrictions
   * Even new deals can violate the automatic stay in certain situations
@@ -133,7 +133,6 @@
   * “The dead tree gives no shelter” – If the automatic stay is not interpreted vigorously, it won’t provide the role it’s supposed to, ie facilitating collective proceedings
     * Driving home importance of automatic stay. If not vigorously enforced, Bankruptcy will not be effective
 * Take-Away: when a judgment has been obtained against the debtor pre-petition, ministerial acts done after the stay is in place (like entry on the docket, etc) will not violate the stay. Any act that carries out a core judicial function, even if minimal, is not considered ministerial and thus will violate the stay
-
 
 ## Limits on the Automatic Stay
 

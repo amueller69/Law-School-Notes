@@ -102,7 +102,7 @@
   
 * Background
   * Fulton and Livingston given monopoly to operate steamboats in NY waters, who license Ogden to operate ferry boat between NYC and NJ
-  * Gibbons maintains he has right to operate his ferry b/c he had a federal license under federal law ("vessels in the coasting trade")
+  * Gibbons maintains he has right to operate his ferry because he had a federal license under federal law ("vessels in the coasting trade")
 * Outcome
   1. Federal law preempts state law
   1. NY monopoly unconstitutional restriction on interstate commerce
@@ -152,7 +152,7 @@
       * Has been reluctance by courts to consider motive as long as activity falls within definition of commerce (i.e. moral end instead of economic end), though this appears to conflict with *McCulloch*
       * When contrasted with *Hammer*, it becomes clear that there is an arbitrariness in how the court applied this doctrine
   * *Hoke v. U.S.* (1913): upholds Mann Act prohibiting interstate transportation of women for immoral purposes
-  * *Hammer v. Dagenhart* (1918): Act banning interstate shipment of goods produced by child labor is unconstitutional b/c controls production rather than commerce
+  * *Hammer v. Dagenhart* (1918): Act banning interstate shipment of goods produced by child labor is unconstitutional because controls production rather than commerce
     * Necessary effect of ban is to regulate hours of child labor in manufacturing and mining occurring intrastate
     * Court concludes that 10th Amendment reserves control of activities such as mining and manufacturing, so federal laws regulating interstate commerce were unconstitutional if they sought to control mining
     * Court argue that if upheld, there would be far reaching effects of allowing to control matters reserved for local authorities simply by prohibiting the movement of commodities out of state would effectively end state control over the matters
@@ -266,13 +266,13 @@
   * Ginsburg
     * Recites formulation of the rule. Congress has power to regulate economic activities that substantially affect interstate commerce. When appraising this legislation, ask only whether there is rational basis for concluding substantial effects AND whether there is reasonable connection between regulatory means and asserted ends.
       * Only invalidate laws upon plain showing that Congress acted irrationally
-    * The word regulate can mean to “direct,” which is to tell people what to do [precedent is in *Seven-Sky*]. Also, this is regulation of activity b/c everyone actively involved in healthcare market or engages in self-insurance when not purchasing from company
+    * The word regulate can mean to “direct,” which is to tell people what to do [precedent is in *Seven-Sky*]. Also, this is regulation of activity because everyone actively involved in healthcare market or engages in self-insurance when not purchasing from company
       * We got rid of formulas and line-drawing because of their limitations, but Roberts bringing back activity/inactivity distinction
     * Fundamental precept: Congress has sufficient regulatory authority to meet the economic needs of the nation in all cases where uniform measures are necessary (see Madison)
       * Majority decision does not allow Congress to adopt the practical solution it devised for the health care problem
   * Scalia
     * Cannot regulate or “direct” commerce that does not exist by compelling its existence
-    * Distinguishes Raich b/c here there are multiple ways of achieving regulatory goals
+    * Distinguishes Raich because here there are multiple ways of achieving regulatory goals
     * Fundamental precept: Federal government cannot do everything; enumerated powers
 
 ---
@@ -330,7 +330,7 @@
     * Congress may set standards that state and local governments must meet and thereby preempt state and local actions
     * Also, Congress may attach strings on grants to state and local governments and these conditions induce state and local actions that it cannot directly compel
 * *Printz v. United States* (1997)
-  *	Congress creates CLEOs (chief level enforcement officers) in each state to enforce gun background check system on people
+  * Congress creates CLEOs (chief level enforcement officers) in each state to enforce gun background check system on people
   * **Modalities of interpretation** - Both the majority and dissent in Printz agree that the proper interpretive modalities to resolve the question are:
     1. Text - What constitutional provisions speak to the issue
     1. History - Historical practice
@@ -403,7 +403,7 @@
       * Implicit sovereign immunity is a necessary principle **separate from text of 11A**
         * Sovereign immunity is a consitutional limitation placed on federal judicial power in Article III
       * 11A only talks about “citizens of another state,” so Hans (P) would have won on purely textualist interpretation
-    * Inconsistent with "diversity only" interpretation of the scope, which states that sovereign immunity does not apply to federal question jurisdiction b/c *Chisolm* and 11A were only aimed at modifying diversity
+    * Inconsistent with "diversity only" interpretation of the scope, which states that sovereign immunity does not apply to federal question jurisdiction because *Chisolm* and 11A were only aimed at modifying diversity
     * Has been reaffirmed over last century despite calls to overturn it. 
 * Limitations on *Hans* and Expansive Scope
   * Suits by U.S. or by other states
@@ -452,7 +452,7 @@
       * Unthinkable to suggest states would have ratified with understanding that they could be subjected suits in their own court system
     * No early Congresses subjected states to suit in their own courts
     * Many SCOTUS 11A cases implicitly relied on conception of sovereign immunity
-    * **Power would be inconsistent w/ constitutional structure b/c assault on state dignity**
+    * **Power would be inconsistent w/ constitutional structure because assault on state dignity**
     * States cannot disregard federal law: (1) may consent to suit; (2) US may sue; (3) Bitzer is still good law; (4) sub-state entities not protected via sovereign immunity; (5) Ex Parte Young necessary fiction still exists
 
 ---
@@ -485,7 +485,7 @@
 * Facts
   * Revenue Act of 1951 levies tax on gamblers by requiring persons who have engaged in accepting wagers to register IRS. This was a tax on private individuals
   * Ps challenge the constitutionality of the tax, arguing it is an improper attempt to penalize intrastate activity under the pretense of exercising tax powers
-* Outcome - Valid tax b/c all provisions of excise are adapted to the collection of revenue
+* Outcome - Valid tax because all provisions of excise are adapted to the collection of revenue
 * Rule - **Unless there are provisions extraneous to any tax need, courts are without authority to limit taxing power of Congress**. Nominal tax is a tax so long as it produces some revenue, unless penalty provisions extraneous to any tax need (not clear what this would look like)
 * Majority Reasoning
   * Court recognizes few constraints on tax power. Power to tax is not questioned, nor is power to impose penalties for non-payment of taxes
@@ -549,5 +549,130 @@
     1. Greater power not to off any benefit includes lesser power to confer some benefit by condition
     1. Shouldn’t do indirectly through compulsion what government cannot do directly
   * Duty holder cannot act to make exercise of my right more costly
+* Realatedness Requirement
+  *"Germaneness of the condition to the federal purpose" - *Dole*
+  * **To satisfy relatedness test, the conditioned imposed must not be unrelated to the purpose behind which the funds are expended**
+  * Example: The purpose of highway funding is safe interstate travel, a purpose that can be frustrated by the drinking age if a state has set it too low. Thus, the condition that states increase drinking age is related to the purpose federal highway funding
+  * Court in *Dole* declines to define outer limits of germaneness and hold that conditions on federal funds is legitimate only if it relates **directly** to the purpose of the expenditure to which it is attached
+
+## *United States v. Butler* (1936)
+
+* Facts
+  * Agricultural Adjustment Act of 1933 regulated production and consumption of agricultural commodities using tax on processors and subsidies to farmers
+* Holding
+  * Unconstitutional because it used legitimate means to an unconstitutional end.
+* Rule
+  * Substantive power to spend is broad, and only limited in that it shall be used to provide for the general welfare of the United States
+* Majority Reasoning (Roberts)
+  * Court endorses Hamiltonian view, asserting that Congressional spending power is not limited by direct grants of power in Constitution
+    * Proceeds to directly contradict itself by accepting Madisonian reasoning to conclude that such exercise of powers is used to achieve unconstitutional end (that reserved by states) and thus violates 10A
+      * That right is the ability of the State to regulate production (*Carter Coal* is still good law at this point in history)
+  * Rejects government's contention that regulation was voluntary. Instead, holds that it was coercive by economic pressure
+    * Cost of refusal would is the loss of benefits, would be financially ruinous -> those who do accept subsidies would be able to undersell him
+    * Coercion = pressure where power to confer or withhold benefit is power to destroy
+  * While Government has clear right to appropriate money through contracts with individuals, expenditures for proper governmental purpose (i.e. for general welfare) can't be used to justify contracts not within federal power. Contracts **for** the reduction of acreage are outside the range of that power
+    * There is obvious difference between statute stating conditions upon which money shall be expended and one that requires individual to submit to otherwise impermissible regulation in order for it to have effect (actually doing vs. agreeing to do)
+    * Hamilton himself would not have even suggested that power granted in Constitution could be used for destruction of local/state power
+    * Government's interpretation effectively argues that, after all the effort framers took to limit and delineate federal powers, they intended to wipe it all away with clause, that granting tax and spending powers, that would allow federal gov to ignore those barriers
+* Dissent
+  * No support for the idea that the spending program is coercive
+    * Essence of economic coercion is  threat of loss rather than hope of gain
+    * This looks more like inducement
+  * The legitimate ends in the case is the promotion of national general welfare thorough spending. This is an enumerated power, so it shouldn't be a problem
+* Notes
+  * Madisonian view: Tax and spending power confined to enumerated powers committed to Congress. Can only be used to achieve regulatory ends otherwise available as an enumerated legislative power
+  * Hamiltonian: Tax and spending power distinct from others enumerated; only limit is that it must provide for the general welfare of the United States
+
+### *Steward Machine Co. v. Davis* (1937)
+
+* Facts: Title IX of Social Security Act taxes total wages payable to employer; allows 90% credit for contributions to a state unemployment fund created under state law
+* Outcome: Act upheld as within Congress’s broad spending power
+* Rule: Spending power broad, but cannot be coercive (point at which pressure turns into compulsion, and ceases to be inducement)
+Majority (Cardozo):
+  * No coercion because states choosing to enact legislation at their own will w/o compulsion
+  * Distinguishes Butler:
+    1. Funds not earmarked for a special group [i.e. Butler was for farmers]
+    1. States enact their own legislation;
+    1. Condition not aimed at unlawful end;
+    1. States may repeal laws
+  * Congress can use spending power to achieve ends it could not otherwise achieve directly
+* Dissent (McReynolds)
+  * States should be free to exercise sovereignty w/o interference from federal government
+  * Decision here is practical annihilation of vertical separation of powers; allows anything
+* Dissent (Sutherland)
+  * Tax is within powers and not coercive
+  * 10A infringed because conditional agreement with states asks them to surrender power over lawmaking
+* Notes
+  * Coercion as a wrong is a normative principle not explicitly in Constitution
+
+### *South Dakota v. Dole* (1987)
+
+* Facts: Conditional grant says enact min. drinking age of 21 or 5% highway funds withheld.
+  * South Dakota allows 19 year olds to purchase beer containing up to 3.2% alcohol.
+* Outcome: Statute making conditional offer is constitutional.
+* Rule: Spending Power Test
+  1. **Must be for general welfare w/ substantial deference to Congressional judgment**
+  1. **Unambiguous conditions allow States to exercise choice**
+  1. **Conditions must be related to federal interest in particular national program**
+  1. **May not violate other constitutional provisions [activity of States constitutional]**
+  1. **Coercion - Not so coercive as to pass point at which pressure turns into compulsion**
+* Majority (Rhenquist)
+  * First 3 easily satisfied: Clearly in pursuit of general welfare because prevents young drunks driving across borders; Conditions clearly stated in unambiguous terms; Conditions related to federal interest in highway safety by withholding funds
+  * Is 21A an independent constitutional bar?
+    * Recognizes that post-*Butler*, court has held that 10A limitation on regulating state affairs did not concomitantly limit range of conditions legitimately placed on federal grants
+      * No violation of State sovereignty where state could adopt the "simple expedient" of not yielding to what it urges is federal coercion
+    * "Independent constitutional bar limitation...is not a prohibition on the indirect achievement of objects which Congress is not empowered to achieve directly. **Instead, power may not be used to induce the States to engage in activities that would themselves be unconstitutional**
+      * So such thing is occurring here
+  * Is the conditional grant coercive?
+    * No because relatively small percentage of funds withheld; this is merely “mild encouragement”
+* Dissent (O’Connor)
+  * Issue with related purpose – drinking age is not related to road construction
+  * Conditional grants should only specify how money should be spent, but nothing else
+  * If not a condition, then a regulation, which is valid only if falls within delegated powers
+* Dissent (Brennan)
+  * Statute infringes on 21A and the State constitutional power to regulate in this area
+* Notes:
+  * Relatedness requirement of conditional spending does the most work; bi-conditional offer
+  * Would have been lawful under Commerce Clause, but 21A might prevent this
+  * Spending power can get around the *Lopez* and *Printz* laws
+
+### *NFIB v. Sebelius* (2012) - Spending Portion
+
+* Facts: Medicaid expansion making States cover all under 65 w/ incomes below 133% of federal poverty; condition is withholding all of the States’ Medicaid funding
+* Outcome: Medicaid expansion program unconstitutional under spending power
+* Rule:
+  * **State must voluntarily and knowingly accept terms of to be constitutional spending use**
+  * **Pressure so great that there is no meaningful choice --> Coercion**
+* Majority (Roberts)
+  * Too coercive; more than mild encouragement, it is a “gun to the head” - accounts for 20% of State's budget
+    * Rejects dissent's contention that this is merely expanding the existing program; Holds that this is essentially an entirely new program - unforeseeable expansion to States
+      * This is highly disputable - Medicaid has always been means tested
+    * No real choice for the States in participating in the program
+      * Similar to *New York II*, where condition to participate in federal regulatory program was viewed as an illusory choice
+    * No need to fix a line because wherever it is, this is clearly beyond it
+    * Do not need to invalidate all of ACA b/c of the severability clause
+* Dissent (Ginsburg)
+  * States have no entitlement to receive Medicaid funding and Congress can set limits
+  * Medicaid Act has been amended 50+ times increasing coverage; this is no different
+  * Coercion is not a part of the Dole test; was merely dicta
+  * Just a way for political judgments defying judicial calculation to enter the test
+* Joint Dissent: Need to limit broad spending power with coercion because can’t blur political accountability
+  * Coercive: If States really have no choice other than to accept the package
+  * Should not be severable b/c it is critical to the overall goal of universal coverage
+* Notes: Legal rationale for the anti-coercion principle
+  * Political accountability [idea from New York II]
+    * Problem is that accountability calculations harder w/ hard choice vs. no choice
+    * Biggest political accountability issue arises when the choice is actually okay
+  * Contract principles require voluntariness
+    * Magnitude of the pressure cannot be used to void a contract via unvoluntariness
+    * To void contract, would need a real big pressure and wrongful threat
+  * Dole precedent: Coercive when pressure becomes compulsion
+    * Not good law b/c coercion was not used in Dole as a factor to reach holding
+  * Structure of Conditional Grants
+    * If C, then B = Offer
+    * If ~C, then ~B = Threat
+    * If ~B is too burdensome, then exceeds spending power
+  * In this case, ~C is the right. Gov cannot compel C because *Printz* says cannot commandeer
+  * Berman: issue not with too much pressure, but wrong to withhold the benefit without legitimate reason
 
 ---
