@@ -84,7 +84,7 @@
   * CA law says this issue turns on whether the recording artist is a celebrity at the time of entering into the contract.
     * If celebrity…CANNOT reject
     * If NOT celebrity…Can reject
-  * Why? If you are a celebrity, debtor is irreplaceable and contract can be specifically enforced. IF you are not a celebrity, you are a dime a dozen and monetary damages can be adequate
+  * Why? If you are a celebrity, debtor is irreplaceable and contract can be specifically enforced. If you are not a celebrity, you are a dime a dozen and monetary damages can be adequate
   * Court determined Kurupt was NOT a celebrity at the time he entered into the contract. So, he was able to reject the contract.
   * Skeel: this is somewhat backwards logic because the economic model of the music/recording industry takes a huge risk with no-name artists and gets a major payout on the one-in-a-million case where the artist is a success
 
@@ -210,7 +210,7 @@
 * Setup: PA state law says “assignment is not allowed, without the consent of the debtor”
 * How would this play out under the three different approaches?
   * Under Pioneer, this law would NOT be overridden (§365(c) would apply) because in this instance the state has taken an anti-assignment stance
-  * Under Catapult, this law would be overridden under §365(f) because it is a general anti-assignment law that is not particular/tied to the debtor’s indentity being important
+  * Under Catapult, this law would be overridden under §365(f) because it is a general anti-assignment law that is not particular/tied to the debtor’s indemnity being important
   * Under Bussel, this law would most likely be absolute/not assignable
 
 ## Skeel’s Four Test To Determine Whether DR Can Assume A Contract

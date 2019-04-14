@@ -131,6 +131,14 @@
 * Notes:
   * Causation not really an issue here because one of the Ds was clearly the but-for and proximate cause. The conviction of the other Ds derives not from causing the result, but by acting as accomplices of whoever caused the result
 
+### Rudovsky Email
+
+Where an offense has more than “conduct” elements, the issue is what level of mens rea will be required beyond the intent or purpose to engage in that conduct. With respect to results, both McVay and Roebuck are good examples of how courts (and the MPC) address this issue in homicide cases, where of course, the result is an element of the crime. In both cases the alleged accomplice could be found to have engaged in the underlying conduct (encouraging or ordering use of the boiler; luring victim to a certain location) but in both, at worst, the defendant risked the death of the victim, and had no intent to help kill or harm the victim. If specific intent or purpose to harm or kill was required, there could be no accomplice liability. These courts and MPC find that as long as the accomplice acted with the level of culpability required for the principal (e.g., recklessness) that is sufficient.
+
+So how is the analysis different where the other element is not the “result” but an attendant circumstance?  Perhaps the best example is Bowman (p. 718) where the defendant was charged as an accessory to statutory rape., which in NC is a strict liability crime, at least for the person who engages sexual contact with the underage person. Age is an attendant circumstance (not a “result”), and now the issue is whether someone who assists or the principal in having sex, but does not know that the other person was below the statutory age, is an accessory. This issue has divided the courts and the MPC took a pass on the question. I think Bowman is correct, as I don’t think it fair to hold one liable in effect on vicarious liability basis where he has no knowledge of this attendant circumstance. Of course, one could say the same for the principal. The same analysis is provided by the Gardner court (p. 718) where the issue was whether the accomplice had knowledge that the person to whom he helped to provide a firearm was a former felon.
+
+Russell is not a clear case of conduct, result, or attendant circumstance, and I read it as another court following the division between intentional conduct (firing shots) and a mens rea of gross recklessness or malice given the huge risks that were created. And see the comment regarding Rosemond (p. 718) on the issue of whether the “knowledge” standard applies to the central conduct of the defendant or an attendant circumstance. I think it is better understood as a case on conduct mens rea (modified from strict purpose, given the context of the conduct and results).
+
 ### *People v Luparello* (1987 CA)
 
 * Facts: Defendant sought to get information on his former wife, who had left him for another man. Defendant sought the aid of several friends to try to get info from a good friend of the husband named Martin. The friends ended up killing Martin. Defendant was charged with first degree murder under the natural and probable consequences theory. Luparello argues that the trial court improperly imposed “mens rea” upon him in the killing of Martin, as he did not share the killer's intent
@@ -246,6 +254,9 @@ Some final, challenging hypos:
   * Contrasting *Pinkerton* with Accomplice Liability in *Luparello*
     * Traditional accomplice liability requires proof of intent to promote/facilitate the action, thus theory in *Pinkerton* (and *Bridges* to an even greater extent) may represent significant expansion of liability
     * However, we saw a similar such expansion of accomplice liability in *Luperello*
+* MPC approach to defining scope of conspiracy
+  * D liable for conspiracy with another person if he knows that his co-conspirator has conspired with other persons, even if D does not know other person’s identity
+  * D liable for one conspiracy involving a string of multiple crimes so long as they are the object of the same agreement or continuous conspiratorial relationship
 
 ### *Perry v State* (2014 FL) – Conspiracy & Parallel Action
 
@@ -351,3 +362,168 @@ Some final, challenging hypos:
 * Are B & C both responsible for D’s theft?
   * Under *Pinkerton* – it’s easy if B, C, and D meet together – then everything’s in furtherance. If it’s not that clean, then the argument would have to be that B and C are responsible because it’s foreseeable that bank robbers might need a car and someone in the conspiracy is actually doing this
   * Under accomplice theory, question becomes whether B or C had done anything to encourage and assist D to steal the car. It probably wasn’t B’s purpose that D steal the car. The question is whether B and C encouraged D to do it. Probably a stretch, you’d have to argue – but for the bank robbery plans, D wouldn’t steal the car
+
+### *Kotteakos v United States* (1946)
+
+* Facts: Brown organizing people to apply for false credit in a housing program and get some false money
+  * Wheel and Spoke Conspiracy - Brown enlists a bunch of people to fake false credit
+* Question: Is this five separate conspiracy or just one conspiracy?
+  * This is important because if there is one conspiracy, then all the individuals under Pinkerton are responsible for each others’ acts. Brown wants it this way so that he doesn’t get multiple conspiracy charges
+  * Government’s theory is that Brown organized this venture, gets five people to assist him in doing the same acts
+  * Individual Ds argue that they have a relationship only with Brown, but not the others
+    * Individuals just want multiple conspiracy because they don’t want to be one the hook for each others’s substantive crimes
+* Holding: SCOTUS find that the notion of the **hub and spoke consists of multiple conspiracies**. If the venture can’t happen unless they all participate – given the nature of the criminal activities.
+  * **A single conspiracy cannot exist when two or more persons have no contact or transactions with each other**, even though each person may transact with the same, single individual
+* Notes case: *Anderson v Superior Court* (1947 CA)
+  * How do other jurisdiction deal with this? Persons are referring patients to a doctor to perform illegal abortions. Obvious conspiracy here. But in Anderson, the several people who allegedly refer women for abortions are charged with a single conspiracy
+    * Court agrees that it’s a single conspiracy. But it’s a hub and spoke conspiracy where the individuals don’t know they’re part of a larger conspiracy – for this scheme to work all the individuals don’t have to agree
+    * Completely counter to *Kotteakos*
+* Conclusion: *Kotteakos* is probably right
+
+### *United States v Bruno* (1939)
+
+* Facts: There’s a narcotics conspiracy. Importer, Seller provides the drugs and passes them to a NYC middle-manager and a LA middle-manger. They distribute them to people on the street
+* Rule: **A single conspiracy exists when the success of the part with which the defendant was immediately concerned, was dependent upon the success of the whole scheme**
+* Issue: Whether this is a single or multiple conspiracy?
+* Holding: Single conspiracy. In order for the parties’ drug scheme to succeed each group had to do its illegal part in furthering the conspiracy. Thus, the conspirators at each end of the drug chain knew that the unlawful business could not stop with the buyers. A single conspiracy existed because each participant knew that he was a necessary link in the chain of the drug distribution scheme. The judgments of conviction are affirmed
+* Notes
+  * Chain Relationship - one large conspiracy if series of sub-agreements (links) form part of a single larger agreement (chain) that all parties are interest
+  * One of the low-level drug dealers is likely in competition with each. One argument is that the more we sell, the more the Seller will give us product. So how can it be a conspiracy with each other when they’re in competition which each other
+    * So maybe it’s a mischaracterization
+
+### *United States v. McDermott* (2001 2nd CC)
+
+* Facts - D1 had affair with woman who also had affair with D2; D1 gave woman stock tips which she passed onto D2. D1 and D2 convicted of insider trading only circumstantial evidence that D1 knew of D2’s involvement
+* Rule - **A conspiracy does not exist if there is no agreement to commit a crime between the defendant and at least one other person**
+* Outcome - Court reverses conspiracy conviction
+* Holding - A conspiracy to commit securities insider trading requires the essential element of an agreement among all members of the conspiracy. Government must show that each member agreed to participate in a criminal plan to reach an overall common goal. The individuals involved do not necessarily need to agree on the details. There is no evidence that the stock information D1 supplied to D2 encompassed a broader scope or common goal outside of the two of them. To support D1's conspiracy conviction, D2 must agree with D1 to pass the insider information to another person, even if that person is unknown to D1
+
+---
+
+## Conspiracy within Parties and Enterprises
+
+* **Gebardi Liability** - A person with protected status cannot be convicted of conspiracy
+* **Wharton Rule** - A conspiracy requires more parties participate in the agreement than are required for the crime; affects crimes requiring two or more people (e.g. selling drugs). Courts are split on this:
+  * Majority - Wharton rule always precludes conspiracy conviction
+  * Minority - Wharton rule enacts the merger doctrine for conspiracies (i.e.) conspiracy conviction is viable if the crime is NOT completed)
+    * NOTE: Wharton Rule does NOT apply in certain situations:
+      * If statute about crimes requiring two or more parties only imposes liability on one party (ex: drug selling statute only puts liability on the seller; this negates the Wharton Rule so both buyer and seller could be conspiracy)
+      * If a conspiracy member is part of protected class (ex: statute prohibiting transport of prostitutes
+* **Racketeer Influenced and Corrupt Organizations Act (RICO)**: An organization violates RICO if it conducts racketeering enterprises such as murder, kidnapping, illegal gambling, bribery, extortion, etc; D liable for violating any section of RICO, but two independent and unrelated conspiracies may not form the basis for prosecuting a single conspiracy
+
+### *Gebardi v. United States* (1932)
+
+* Facts - D (unmarried) convicted for violating the Mann Act when he brought an unmarried woman across state lines for sexual intercourse. The trial court found Gebardi and the woman guilty and their convictions were affirmed by the court of appeals
+* Outcome - SCOTUS reverses convictions
+* Rule: Person who cannot be convicted of crime (e.g. due to rule of justice or policy) cannot be liable for conspiracy to commit the substantive crime
+* Holding
+  * Mann Act doesn't make it make it illegal for women to consent to this. It is evidence of Congress’ intent to leave her acquiescence unpunished. Since D did not conspire with anyone else and the woman didn't violate the man act, there was no conspiracy to do so. D did it unilaterally
+
+### *Garcia v. State* (1979 IN)
+
+* Facts: D discussed marital problems with neighbor. Expressed desire to kill husband in these discussions multiple times. Neighbor went to police and all future discussions were recorded. D asks neighbor for help planning to kill husband. Neighbor introduces D to undercover detective and made payment, agreeing to pay rest when job was done. D is subsequently arrested and convicted of conspiracy to commit murder. She appealed, arguing that she could not be convicted of such an offense when the only person with whom she allegedly conspired (the neighbor) feigned acquiescence in the scheme
+* Rule: **Under the “unilateral” concept of conspiracy, an individual may be convicted of conspiracy even if the other persons involved in the scheme feigned acquiescence in the plan**
+* Holding - Conviction of conspiracy is affirmed
+  * Traditional bilateral view of conspiracy comes from CL - each person agrees to commit a crime with intent to do so. This left major gap for instances like the present case where one party only feigned acquiescence
+  * MPC responded by introducing unilateral concept of conspiracy, which has been adopted in at least 26 states, where the culpable party’s guilt would not be affected by the fact that another participant feigned acquiescence in the scheme
+  * Indiana statute - No defense that person with whom D is alleged to have conspired with is not or cannot be prosecuted for any reason is not convicted/is acquitted
+* Notes
+  * Argument for traditional rule and against unilateral conception: Conspiracy is separate crime because view that collective action towards antisocial end risks greater harm to society and increases chances of success. These dangers are not present when person "conspires" with another person (e.g. government agent) who has no intent to carry out the crime. Also the issue of entrapment
+
+---
+
+## Liability within the Corporate Framework
+
+* Pro Corporate Liability
+  * Criminal law most powerful tool for expressing conduct outside the bounds of acceptable corporate behavior and for expressing expectations of how corporations should conduct affairs (i.e. sends societal message). Failure to prosecute egregious violations blurs line between acceptable and unacceptable conduct.
+  * Provides incentives for managers to patrol lower ranking employees and incentivizes employers to create law-abiding corporate culture
+  * If corporations are provided constitutional rights and protections that individuals, why wouldn't we hold them liable for misconduct like we do with individuals?
+* Anti Corporate Liability
+  * Questions the effectiveness of the expressive/instrumental view
+  * Questions the level of deterrence it actually provides, especially in light of the cost of monitoring and litigating
+* Prosecutorial Discretion
+  * Despite breadth of principles of respondeat superior, there is no fixed rule of law for imputing corporations for acts of there employees. Prosecutors can exercise discretion in deciding whether to forgo corporate prosecution. However, absent any countervailing policy justification, the interest in incentivizing corporations monitoring and preventing illegal employee conduct is strong enough to justify holding corporations liable
+    * This is especially true where the employee is acting with intent to further the interests of his employer
+    * Corporation's willingness to cooperate with investigation can be a factor in prosecutorial discretion
+    * There are also alternatives to charging corporations in th eform of deferred prosecution agreements (DPAs) and non-prosecution agreements (NPAs). In NPA, there charges are filed by government retains right to prosecute if terms of agreement are not met. In DPA, charges are filed but are later dismissed if terms of agreement are met
+  * Also a collective knowledge problem with respondeat superior - several individuals were acting together, but no single individual has the mens rea sufficient to prosecute. In this case, corporation seems culpable, but no single person to impute
+* MPC's Trifurcated Approach to Corporate Liability
+  * First rule - **§2.07(1)(a)**
+    * Adopts broad respondeat superior theory. Corporation may incur liability for minor infractions and for non-Code offenses when a legislative purpose to impose liability on corporations **plainly appears**, assuming agent was acting within scope of employment and on behalf of corporate interests
+      * Limited by a defense of due diligence that managerial agent can show it exercise to prevent crime
+  * Second rule - **§2.07(1)(b)**
+    * Corporation is accountable for failure to discharge specific duties imposed on corporations by law
+  * Third rule - **§2.07(1)(c)**
+    * Corporation incurs liability for true crimes (i.e. those defined in MPC) only if the offense is authorized/commanded/solicited/performed/toleratd by high managerial agents whose acquiescence may be regarded as reflecting corporate policy due to their authority
+
+* Liability of Corporate Agents
+  * MPC §2.07(6)
+    * A person is legally accountable for any conduct he performs or causes to be performed in the name of the corporation or on its behalf to the same extent as if it were performed in is own name or behalf
+    * Whenever a duty is imposed on corporation by law, any agent having primary responsibility for the discharge of that duty is legally accountable for reckless omission to perform the required duty to the same extent as if it were imposed upon himself
+  * Bureaucratic structure makes it difficult to impose liability on upper level employees for aiding where accomplice liability standards for aiding/encouraging require intent. Imposing vicarious liability runs the risk of unfairness
+
+### *NY Central RR v. United States* (1909)
+
+* Facts: New York Central (D) was an entity bound by the federal Elkins Act which prohibited common carriers (e.g. railroads) from charging rates less than their posted rate. D and employee of D convicted for paying rebates to certain companies who shipped their products, thereby lowering their shipping rate in violation of the Act. D appealed, arguing that Congress lacked authority to impute to a corporation the commission of criminal offenses or to subject a corporation to criminal prosecution
+Issue
+* Issue: May a corporation be held criminally culpable for the acts of its employee agents when committed within the scope of their employment?
+* Rule: **A corporation may be held criminally culpable for the acts of its employee agents**
+* Holding: Conviction is affirmed
+  * Since a corporation acts by its officers and agents their purposes, motives, and intent are just as much those of the corporation as are the things done
+    * This principle is present in the law of torts, where corporations are liable for damages caused by employees acting within the scope of their employment
+    * Justice requires that the corporation be held responsible for damages to the individual who has suffered by such conduct
+    * No reasonable justification as to why the corporation, which acts through its employee agents and which profits by the transaction, should not be held punishable by fine because of the knowledge and intent of its agents to whom the corporation has entrusted authority
+
+### *U.S. V. Hilton Hotels Corp* (1972 9th Cir.)
+
+* Facts: Tourism trade association in Portland, OR that is funded by monetary contributions by its members. To aid the associations, Hilton (D) agreed to show preference towards those members who contributed and boycott those that didn't. It was the hotel’s policy to purchase supplies solely on the basis of price, quality, and service, though purchasing agent ignored orders not to participate in the boycott and proceeded to coerce a supplier into contributing to the association. Charged with violating the Sherman Act by restricting trade. District court found D responsible for the acts and statements of the agent despite disregarding official instructions or the corporation’s policies
+* Issue: Is a corporation liable under the Sherman Act for the acts of its employee agents committed within the scope of their employment even though the acts are done contrary to general corporate policy and official instructions?
+* Rule: **A corporation is liable under the Sherman Act for the acts of its employee agents committed within the scope of their employment even though the acts are done contrary to general corporate policy**
+* Holding: Criminal conviction of the corporation affirmed
+  * The intent and construction of the Act suggests that a corporation is criminally liable for acts of its employee agents committed within the scope of their employment even if those acts are done against corporate policy
+    * Many legislators believe that such liability is necessary to effectuate regulatory policy - such exposure to potential convictions may provide substantial spurt to corporate action preventing violations of employees
+    * This is especially true with Sherman Act. These violations are commercial and almost always arise out of desire to enhance profits. Additionally, highly-positioned corporate officers are likely to be aware of, if not fully responsible for, many of the corporation’s policy decisions underlying Sherman Act violations (i.e. not inconspicuous ones by low-level employees). Profit-maximizing motive trickles down to lower-levels through pressure exerted by management - it is the corporation, not the individual agents, that reap the benefits of these violations
+  * The purchasing agent was authorized to purchase supplies for the hotel and was in a unique position to add the corporation’s purchasing power to the force of the boycott
+
+### *US v. Guidant LLC* (2010 MN)
+
+* Facts: D sells implantable defibrillators to treat heart disorders. D identified and fixed defects with devices, but did not notify FDA as required by law. D plead guilty to making materially false and misleading statements on FDA filings and failing to promptly notify the FDA of the corrections. Agreement included criminal forfeiture of over $42 million, but did not include a provision that ordered restitution or probation. The victims and several physicians urge the court to reject the plea agreement because of this.
+* Question: Can/should D be made to pay restitution of sentenced to term probation?
+* Rule: **Manufacturers are held liable for the safety and effectiveness of their products and may be fined, sentenced to a term of probation, or required to pay restitution**
+* Holding: The plea agreement was rejected. Court holds the interests of justice are not served by allowing a company such as D to avoid probation simply by changing its corporate form. Manufacturers control quality of the devices and know of any potential dangers, thus safety of future generation of patients is at stake. To allow repeat offender to get off with fine doesn't hold D accountable and undermines patient safety
+
+### *Gordon v. United States* (1953 10 Cir.)
+
+* Facts: D is manufacturer knowingly selling equipment on unlawful credit terms in violation of Defense Production Act.. The case was tried and submitted to the jury on the theory that knowledge of one partner regarding the transactions was “imputable, attributable, and chargeable” to the other partners and that knowledge of lower-level employees who made the sales and kept the records, while acting in the course of their employment, were imputable and chargeable to the employing partners. D and the others were convicted and they appealed
+* Rule: **In cases involving “public welfare” offenses, an employer may be held criminally liable for the knowledge and acts of its employees**
+* Holding - Convictions upheld
+  * Deeply rooted principle of criminal law: Criminal guilt is personal to the accused and that willfulness or a guilty mind is an essential ingredient of a punishable offense. A person cannot intend an act in which he did not consciously participate, acquiesce, or have guilty knowledge. Thus courts have been reluctant to hold employers responsible for acts he did not authorize, counsel, approve or ratify
+    * However, in “public welfare” offenses—those involving regulations of food, drink, or drugs—that courts have relaxed the necessary showing of willful intent
+    * Court placed a duty upon the employer that he has knowledge of the records he is required to keep and knowledge of the acts or omissions performed by his agents and employees. Here knowledge is constructive
+    * **In these situations, it is permissible proof to show “willfulness” as being more than mere negligence but less than a bad purpose or motive**
+
+### *United States v. Park* (1975)
+
+* D was CEO of Acme Markets, Inc. D is charged in federal district court with violating the FDCA. The Government alleged that Park and Acme had received food at its warehouses that had been shipped in interstate commerce and allowed the food to be accessed by rodents and exposed to contamination. Acme pleaded guilty, but Park proceeded to trial. Email correspondence showing D was aware of violations was introduced a evidence. D admitted in cross-examination that he was largely responsible for ensuring the provision of sanitary conditions in his position as CEO
+* Issue: Can D be criminally liable for the FDA violations based on his knowing failure to prevent or remedy the violations?
+* Rule: **A corporate officer may be held criminally liable for the illegal acts of a corporation under federal law which the officer had the ability to prevent before the occurrence or had the ability to correct after the fact**
+* Holding:
+  * Conviction affirmed. Case law reveals not only a positive duty on the part of corporate officers to seek out and remedy violations when they occur, but also to implement measures that will ensure that violations do not occur. The FDCA does not make criminal liability turn on “awareness of some wrongdoing” or “conscious fraud.” If a defendant claims that he was “powerless” to prevent or correct the violation, he has the burden of showing that evidence. D failed to satisfy this burden
+* Dissent:
+  * Majority described a negligence standard, which is not the one the jury was instructed to apply by the trial court. Before D could be convicted of a criminal violation of the FDCA, the jury should have first been instructed that it was required to find evidence beyond a reasonable doubt that he engaged in wrongful conduct amounting to at least to common-law negligence. There were no such instructions and thus no finding in this case
+* Notes
+  * The Responsible Corporate Officer doctrine, which holds officer can be convicted of a misdemeanor without traditional showing of awareness of wrongdoing. However, it is clear that this is not merely by reason of the officer's position in the organization's hierarchy. While this is certainly an important consideration, it must be shown that D had, by reason of his position, responsibility and authority either to prevent or promptly correct the violation complained of
+    * While responsible officer may assert impossibility defense that they were powerless to prevent the violation, courts have made it clear that this defense does not extend to the corporation as a whole
+
+### *United States v. MacDonald & Watson Waste Oil Co.* (1991 1st Cir.)
+
+* Facts: D was president, and a “hands on” manager, of hazardous material disposal company. Operated facility without permit to dispose of hazardous material. D was warned by consultant multiple times, but proceeded to bring contaminated material into the disposal facility. He was subsequently convicted of knowingly transporting hazardous material to facility without a permit. Judge instructed jury that actual knowledge can be established if defendant was what is called a responsible officer of the corporation committing the act (an officer of the company having direct responsibility over the activities). D appealed, arguing that the district judge incorrectly instructed the jury regarding the element of knowledge in the case of a corporate officer
+* Rule: **In a crime having knowledge as an express element, a mere showing of official responsibility by a corporate officer is not an adequate substitute for direct or circumstantial proof of knowledge**
+* Holding: Conviction reversed
+  * At trial, prosecution conceded that the government had no evidence that D had actual knowledge that the waste shipments were being transported to the facility, though it did show that he was a “hands-on” manager who was in a position to ensure compliance and had failed to do so even after being warned by the consultant
+  * The district court's instructions suggest that proof D was a responsible corporate officer would conclusively prove the element of his knowledge shipment
+    * Court says *Park* doesn't apply here because it involved misdemeanor crime that dispensed of intent/knowledge requirement. The instant case contains a much more serious charge
+    * A mere showing of official responsibility is not an adequate substitute for direct or circumstantial proof of knowledge where crime requires this element
+    * Since no evidence that D had actual knowledge of the hazardous waste shipments, conviction is reversed
+
+---

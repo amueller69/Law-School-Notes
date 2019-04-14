@@ -404,7 +404,7 @@
         * Sovereign immunity is a consitutional limitation placed on federal judicial power in Article III
       * 11A only talks about “citizens of another state,” so Hans (P) would have won on purely textualist interpretation
     * Inconsistent with "diversity only" interpretation of the scope, which states that sovereign immunity does not apply to federal question jurisdiction because *Chisolm* and 11A were only aimed at modifying diversity
-    * Has been reaffirmed over last century despite calls to overturn it. 
+    * Has been reaffirmed over last century despite calls to overturn it
 * Limitations on *Hans* and Expansive Scope
   * Suits by U.S. or by other states
     * If sued by state, it must be doing so to protect own interests

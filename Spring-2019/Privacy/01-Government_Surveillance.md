@@ -192,8 +192,10 @@
     * Attempted to establish strong privacy safeguards, recognizing also legitimate circumstances that may require use of surveillance
     * Regulated both face-to-face communications and telephone calls
     * Supplanted by the Electronic Communications Privacy Act
+  
 * **Foreign Intelligence Surveillance Act of 1978** – passed to address special demands of national security and foreign espionage left open by *Katz*
   * Established a procedure through which government agencies could obtain expedited, top-secret approval for national security-related surveillance
+  
 * **Electronic Communications Privacy Act of 1986**
   * Addressed major developments in technology, such as the growth of email
   * Sought to overturn decision in *Smith v. Maryland* (third-party doctrine)
@@ -209,17 +211,21 @@
   * **Title III of ECPA – Pen Register Act**
     * Regulates use of pen registers and capture of non-content portions of wire and electronic communications
     * Regulates called ID equipment and other “trap and trace” devices that capture outgoing/incoming phone numbers
+  
 * Digital Telephony Act of 1994 (“Communications Assistance for Law Enforcement Act,” “CALEA”)
   * Amended ECPA - Reflected concerns that emerging technologies would frustrate law enforcement surveillance
   * Requires telecommunication providers to modify their equipment, facilities, and services to ensure they have the necessary surveillance capabilities
   * Extended ECPA Title I to cordless phones (which were previously excluded based on their radio technology)
+  
 * **USA PATRIOT Act** - a.k.a Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001
   * Aimed at facilitating the global war on terrorism, including domestic terrorism
   * Temporarily shifted stored wired communications from Wiretap Act to SCA, which has lower standard of approval and no exclusionary rule
   * Authorizes SCA warrants to be nationwide. Court can delay notice of search warrants if it concludes that there is reasonable cause that immediate notice will create an adverse result
+  
 * Cyber Security Enhancement Act of Homeland Security Act of 2002
   * Amended ECPA Title II to battle computer crimes and release ISP from liability for good faith disclosures to government of customer info in electronic storage
   * ECPA does not regulate video-only surveillance nor provide clear guidance on GPS or cell phone tower-based positioning data gathering
+  
 * USA Freedom Act
   * Ended bulk collection of telephone toll records
 
@@ -248,6 +254,7 @@
   1. Wire communication – aural transfer made by wire
   1. Oral communication – utterance by a person
   1. Electronic communication – transfer of signals by wire or spectrum that is not wire or oral communications
+  
 * **18 U.S. Code § 2510 - Definitions**
   * **Electronic communication** - any transfer of signs, signals…of any nature by a wire, radio, electromagnetic…system that affects interstate or foreign commerce, but does not include:
     * Any wire/oral communication
@@ -260,6 +267,7 @@
     * “**Intercept**” means the aural or other acquisition of the contents of any wire, electronic, or oral communication through the use of any electronic, mechanical, or other device
     * “**Electronic, mechanical, or other device**” means any device or apparatus which can be used to intercept a wire, oral, or electronic communication other than—(a) any telephone or telegraph instrument, equipment or facility, or any component thereof, (i) furnished to the subscriber or user by a provider of wire or electronic communication service in the ordinary course of its business and being used by the subscriber or user in the ordinary course of its business
     * "**Readily Accessible to the General Public**” - means, with respect to a radio communication, that such communication is not—(A) scrambled or encrypted; (B) transmitted using modulation techniques that preserve the privacy of such communication;(C) carried on a subcarrier or other signal subsidiary to a radio transmission; (D) transmitted over a communication system provided by a common carrier, unless a tone only paging system
+  
 * **18 U.S.C §2511 - Interception and disclosure of wire, oral, or electronic communications prohibited**
   * §2511(1)
     * Except as otherwise specifically provided in this chapter any person who
@@ -270,6 +278,7 @@
     * (g) It shall not be unlawful under this chapter or chapter 121 of this title for any person-
       * (i) to intercept or access an electronic communication made through an electronic communication system that is configured so that such electronic communication is readily accessible to the general public
     * (ii) to intercept any radio communication transmitted: (I) for the use of the general public or relates to ships, aircraft, vehicles, or persons in distress, (II) governmental, law enforcement, civil defense, private land mobile, or public safety readily accessible to the public, (III) ham or CB, (IV) marine or aeronautical
+  
 * Wiretap Act has highest standard and strongest privacy protection of the 3 main ECPA provisions
   * Not only requires law enforcement **have probable cause to believe intercepting phone calls will lead to evidence of specific, enumerated crimes** (i.e. those listed in §2516), but also requires law enforcement to demonstrate:
     * **(1)** Probable cause that communications regarding the crime will be obtained by the wiretap (§2518(3)(b))
@@ -278,10 +287,12 @@
   * Also imposes requirements to ensure surveillance does not exceed that which is reasonably necessary (§2518(5)):
     * > No order entered under this section may authorize or approve the interception...for any period longer than is necessary to achieve the objective of the authorization, nor in any event longer than thirty days
     * > Every order and extension thereof shall contain a provision that the authorization to intercept shall be executed as soon as practicable, shall be conducted in such a way as to minimize the interception of communications not otherwise subject to interception under this chapter, and must terminate upon attainment of the authorized objective, or in any event in thirty days
+  
 * Application of Wiretap Act to Email
   * Electronic communications includes communications in transient storage intrinsic to communications process
   * Email not yet read is subject to the Wiretap Act
   * Email in pre- and post-transmission storage is governed by the SCA
+  
 * Application of Wiretap Act to Wi-Fi
   * Capturing payload data violates Wiretap Act
   * “Readily accessible the general public” applies only to “radio communication” like traditional radio (i.e. auditory broadcasted communications)
@@ -331,12 +342,14 @@
       * (1) by the person or entity providing a wire or electronic communications service;
       * (2) by a user of that service with respect to a communication of or intended for that user; or
       * (3) in section 2703, 2704 or 2518 of this title
+  
 * **§2702 - Voluntary Disclosure of Customer Communications or Records**
   * **§2702(a) - Prohibitions**
     * Except as provided in (b) or (c)—
       * (1) a person providing an electronic communication service shall not knowingly divulge the contents of a communication while in electronic storage by that service; and
       * (2) a person providing remote computing service (storage or computer processing) shall not knowingly divulge the contents of any communication which is carried on that service from and for those subscribe for the sole purpose of storage and processing services
       * (3) a provider of remote computing service or electronic communication service shall not knowingly divulge a record pertaining to a subscriber to or customer of such service
+  
 * **§2703 - Required Disclosure of Customer Communications or Records**
   * **§2703(a) - Contents of Wire or Electronic Communications in Electronic Storage**
     * A governmental entity may require the disclosure by a provider of electronic communication service of the contents of a wire or electronic communication, that is in electronic storage in an electronic communications system for one hundred and eighty days or less, only pursuant to a warrant issued using the procedures described. A governmental entity may require the disclosure by a provider of electronic communications services of the contents of a wire or electronic communication that has been in electronic storage in an electronic communications system for more than one hundred and eighty days by the means available under subsection (b) of this section
@@ -346,11 +359,14 @@
     * (B) with prior notice to the subscriber if the governmental entity
       * (i) uses an administrative subpoena authorized by statute [no judicial oversight] or
       * (ii) obtains a court order for such disclosure under subsection (d)
+  
 * **§2510(17) - Definition of "Electronic Storage":**
   * (A) any temporary, intermediate storage of a wire or electronic communication incidental to the electronic transmission thereof; and
   * (B) any storage of such communication by an electronic communication service for purposes of backup protection of such communication
+  
 * **§2510(15) – Definition of “Electronic Communications Service”**
   * Any service which provides to users thereof the ability to send or receive wire or electronic communications
+  
 * **§2711(2) – Definition of “Remote Computing Service”**
   * The provision to the public of computer storage or processing services by means of an electronic communications system
 
@@ -409,6 +425,7 @@
 * *Dyer v. Northwest Airlines Corp.* (D.N.D. – 2004)
   * Facts: Post-9/11, NASA requested system-wide passenger data from Northwest airlines for a 3-month period, and Northwest complied. This triggered a wave of litigation
   * Holding: “Electronic communication service” encompasses ISPs and telecommunication companies – but does not encompass businesses selling products online – so, Northwest is not an ISP and outside the scope of §2702 and the ECPA as a matter of law
+  
 * *In re JetBlue Airways Corp. Privacy Litigation* (E.D.N.Y. – 2005)
   * Facts: JetBlue maintains “Passenger Name Records” on each of its passengers, In creating the PNRs, JetBlue’s privacy policy said it would not share customer financial data with 3rd parties. Post-9/11, TSA got involved and requested the data from JetBlue, who agreed to cooperate. In 2003, JetBlue CEO disclosed this, leading to a series of suits under ECPA, among other statutes. JetBlue filed Rule 12(b)(6) motion
   * Holding: JetBlue is **not an electronic communication service provider as a matter of law within the meaning of ECPA nor a remote computing service, thus it is not liable under §2702 of ECPA**
@@ -448,8 +465,10 @@
       * Violates Fourth Amendment by not requiring a couple to find individualized suspicion before issuing the order and by not providing for notice to the target, even after the fact
       * Violates First Amendment, as allows gathering info about individual’s reading habits, internet activities, religious practices, etc.
     * Government responds by arguing section 215 provides more process than constitutionally required (e.g., targets have no Fourth Amendment rights)
+  
   * *Muslim Community Association of Ann Arbor v. Ashcroft*
     * Ps believed they had been targeted under a 215 search. This potential misuse affected the behavior of community members, who became afraid to practice religion or make political expressions. However, because of the secrecy surrounding implementation of Section 215, the government has a considerable advantage in the litigation (as the Attorney General could control when and what info was divulged). Lead to difficulty establishing standing and ripeness. Proceedings took place ex parte without equal access to the facts
+  
 * Section 505: National Security Letters
   * Goes even further than 215 in circumventing judicial oversight of government collection of info from 3rd party custodians by allowing the government to obtain records from a communications provider by issuing its own administrative subpoena, called a “National Security Letter”
   * Similar to 215, no requirement for individualized suspicion and includes a broad gag rule – but criticism is even more fervent as no judicial role is contemplated at all
@@ -457,15 +476,17 @@
     * One brought by ISP who was served with an NSL and claimed 505 violated 1st, 4th, and 5th Amendments
     * Government argued 505 constitutional by construing it to allow the NSL to consult with counsel and bring judicial proceeding contesting constitutionality – court rejected this argument
     * Holding: did not address whether violated 4th Amendment; held 505 could be used in a manner that infringed on 1st Amendment
+  
 * Section 218: Foreign Intelligence Surveillance (FISA)
   * Expands government’s power to use Foreign Intelligence Surveillance Act (FISA) warrants to conduct electronic surveillance by only requiring FISA court approval (rather than “normal” court) (so lower standard than “probable cause”)
     * Advocates argue FISA has many safeguards similar to those required for when electronic surveillance is used in a criminal investigation  (e.g., some element of a minimization requirement)
   * SCOTUS has never ruled on constitutionality of FISA, however constitutionality of 218 has been the subject of a judicial opinion (handed down in a “highly unusual ex parte proceeding”)
   * Because of the statutory scheme and constitutional law involved with 218 are so complex, its unrealistic to expect meaningful public assessment of the changes effected by 218
+  
 * Section 213: Sneak and Peek
   * Applies in cases where the government has honored the 4th Amendment norm by obtaining a search warrant based on probable cause (allows the government to ask a court for permission to defer notifying the target that a search or a seizure has taken place)
     * Critics say 4th Amendment requires notice prior to search and that failure to notify is a denial of due process
-  * There appears to have been no litigation over constitutionality of 213 
+  * There appears to have been no litigation over constitutionality of 213
   * A Gallup poll indicated strong disapproval for 213 – which led Congress during the “sunset debates” (e.g., renewal period) to add in some time limits (although these also were quite elastic)
 
 ## ECPA Title III - Pen Register Act
@@ -520,15 +541,18 @@
   * FISA prescribes procedures for requesting judicial authorization for electronic surveillance and physical search of persons engaged in espionage or international terrorism against the US on behalf of a foreign power
   * FISA Court (FISC) incudes 7-11 judges, of whom “no fewer than 3 shall reside within 20 miles of DC”
   * FISA Court of Review created to review applications denied by FISC
+  
 * **§1805(a) - Necessary Findings**
   * Upon an application made pursuant to section 1804, the judge shall enter an ex parte order as requested...approving the electronic surveillance if he finds that:
     * (2) On the basis of the facts submitted by the applicant there is probable cause to believe that:
       * (A) The target of the electronic surveillance is a foreign power or an agent of a foreign power: Provided, That no United States person may be considered a foreign power or an agent of a foreign power solely upon the basis of activities protected by the first amendment
       * (B) Each of the facilities at which the electronic surveillance is directed is being used by a foreign power or an agent of a foreign power;
+  
 * **§1804(a) - Approval (Significant Purpose)**
   * Each application for an order approving electronic surveillance under this subchapter…shall include:
     * (6) a certification by an executive branch official designated by the President:
       * (B) that a significant purpose of the surveillance is to obtain foreign intelligence information
+  
 * **§1801(a) - Definition of "Foreign Power"**
   * Foreign government or any component thereof, whether or not recognized by the United States;
   * A faction of a foreign nation or nations, not substantially composed of United States persons;
@@ -537,6 +561,7 @@
   * A foreign-based political organization, not substantially composed of United States persons;
   * An entity that is directed and controlled by a foreign government or governments; or
   * An entity not substantially composed of United States persons that is engaged in the international proliferation of weapons of mass destruction
+  
 * **§1801(b) - Definition of "Agent of a Foreign Power"**
   * Any non-US person:
     * Who acts as an officer or employee of a foreign power
@@ -547,6 +572,7 @@
     * Engages in clandestine intelligence gathering for a foreign power that may involve criminal violations
     * Knowingly engages in sabotage or intl. terrorism
     * Knowingly enters U.S. under a false or fraudulent identity on behalf of a foreign power
+  
 * **§1801(e) - Definition of "Foreign Intelligence Information"**
   * Information that relates to the ability of the United States to protect against:
     * Actual or potential attack or other grave hostile acts of a foreign power or an agent of a foreign power;
@@ -555,6 +581,7 @@
   * Information with respect to a foreign power or foreign territory that relates to, and if concerning a United States person is necessary to:
     * The national defense or the security of the U.S.; or
     * The conduct of the foreign affairs of the U.S.
+  
 * **Lone-wolf Amendment to FISA (2004)**:
   * Definition of “agent of a foreign power” now includes any non-U.S. person who “engages in terrorism or activities in preparation therefor.” Person doesn’t need to be tied to a foreign power
   * International terrorism involves activities that occur totally outside of the U.S., or transcend national boundaries in terms of the means by which they are accomplished, the person they appear intended to coerce or intimidate, or the locale in which their perpetrators operate or seek asylum
@@ -570,6 +597,7 @@
     * FISA only requires an official designate the type of intel info being sought and to certify that the information being sought is indeed foreign intelligence information, where as Title III requires PC to believe that information related to crime will be obtained through the interception
     * Title III requires government showing nexus between facilities and communications regarding the criminal offense. FISA only requires PC that facilities have been or will be used by foreign power/agent
   * With respect to notice, Title III requires notice to target once surveillance order expires. FISA only requires notices to persons whose communications were intercepted and are planned to be entered as evidence in proceedings
+  
 * Annual FISA report from office of Attorney General
   * In 2014, government made 1,416 applications to FISA, of which 1,379 included requests for electronic surveillance; none of these were denied either in whole or part (nor did they deny any of 170 requests for business records)
 
