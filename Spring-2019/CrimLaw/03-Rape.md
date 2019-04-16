@@ -22,6 +22,7 @@
     * Courts have increasingly criticized notion of force being analogous to a fight, arguing this gives men right to intimidate and exploit fear of victims. They have also pointed out need for statutory reform in order to make room for cases where the element of physical force is lacking
     * Many states have adopted this reasoning by extending the definition of force to cases where consent is obtained by duress, coercion, extortion, or using a position of authority
     * Pennsylvania adopted statute defining "forcible compulsion" as "compulsion by use of physical, intellectual, moral, emotional or psychological force either express or applied"
+  
 * Resistance requirement
   * While sometimes formally required in statute, resistance requirement is more often implicit in the elements of force and non-consent
     * Traditionally, a showing of physical resistance "to the utmost" was required to establish required element of force
@@ -29,9 +30,11 @@
     * Resistance can be physically dangerous to the victim. Victims of rape also frequently freeze during sexual assaults
   * Half states still require reasonable resistance, though even here there are exceptions
   * Reasonable apprehension - Requirement that, where lack of resistance out of fear, this fear be reasonably grounded. Potential justification: D should reasonably know that victim is submitting out of fear
+  
 * *State v. Rusk* (1981) (MD CoLR)
   * Facts - D met victim at bar, victim gave D a ride home and D asked her to come upstairs.  Victim declined, but D took her keys.  Victim claimed she felt scared by D’s look so she agreed to go upstairs.  Victim entered D’s apartment and did not attempt to leave before they had sex.  D denied victim’s story.  D convicted of rape, but D argued insufficient evidence of lack of consent
   * Holding - In a charge of rape, the lack of consent may be established by proof of resistance or by proof that the victim failed to resist due to a genuine and reasonably grounded fear (including, but not limited to, a fear of death or serious bodily harm, or a fear so extreme as to preclude resistance, or a fear which would render her incapable of continuing to resist, or a fear that so overpowers her that she does not dare resist). The reasonableness of P's apprehension of fear was solely a question of fact for the jury to determine. There was also the physical element of choking and the response, which might otherwise satisfy the resistance requirement
+  
 * *State v. DiPetrillo* (2007)(R.I.)
   * Facts - First degree sexual assault case in the context of an employer-employee relationship. Clear physical resistance. Trial judge found that between the physical actions and implied threats based on D's authority over P, all elements of the offense were satisfied.
   * Holding - Court declines to extend analysis of implied threats used in *Burke* (psychological-pressure-on-vulnerable-victim analysis in police officer case) to the context of an employment relationship. Since trial decision didn't make clear whether physical actions alone were enough to constitute force, case was remanded
@@ -42,11 +45,13 @@
   * Shift in social perspective of rape might be partially responsible for this. Rape no longer viewed exclusively as a crime of violence, but as a violation of autonomy and privacy. Invades personal inner space and abridges right to determine with whom and when to have sexual intimacy. Also viewed as degrading act of sexual domination
 * Potential Concerns
   * Does this leave room for a MoF defense? If the attendant circumstances would lead a reasonable person to believe that they had consent, despite no verbal affirmative "yes", should they be culpable?
+  
 * *State in the Interests of MTS* (1992) (NJ CoLR)
   * Facts - D in victim’s bed and began having sex before victim told D to stop. Victim claimed that she was asleep when D went into her bed. D denied victim’s story. D convicted of rape, and CoA reversed on finding of no physical force
   * Holding - **A rape charge may be sustained if the victim does not affirmatively express consent verbally or physically based on a reasonable person standard even without evidence of threat or use of force**. A reasonable person would not assume that victim had given affirmative permission to D, thus trial jury finding should be upheld
   * Significance: This case is a demonstration of courts departing from the traditional rape standard requiring resistance by victim (i.e. it isn't rape unless victim fights back). Focus should be on D's behavior and courts must avoid defining “force” in such a way as to make the establishment of a crime turn on the victim’s behavior. Under this type of definition, “force” can exist if the defendant performs sexual penetration without freely-given consent. **Even the force inherent in the sexual act itself, justifies a forcible sexual assault prosecution.**
     * Under this standard, consent is the only factual issue (aside from mens rea) that would distinguish lawful conduct from ahe criminal offense
+  
 * *M.C. v. Bulgaria* (1998)(ECHR)
   * Facts - Victim (14yo girl) forced to have sex with D’s (two 20yo boys) and victim did not physically resist because she was too weak but verbally told them to stop several times. Bulgaria prosecutor dropped charges because insufficient evidence of physical resistance
   * Holding - Under the European Convention on Human Rights, a member state must effectively investigate and prosecute any non-consensual sexual act involving the absence of physical resistance by the victim
@@ -57,16 +62,19 @@
 ### Absence of Consent
 
 * Modern rape law states that force is implied by non-consent. This is consistent with the shift that took place above in which that inherent in the sexual act itself constitutes as force. Thus consent becomes the critical piece
+  
 * Is consent a state of mind (something person feels) or an action (something someone does or says)?
   * Subjective Consent – A female, in her mind, may want intercourse or not want it, but she may fail to manifest her wishes outwardly. There’s no need to manifest it outwardly
   * Objective Consent – Consent may be an expressive or external concept – it exists when permission is given verbally. Consent is absent without an external affirmative ‘yes’
   * Law traditionally required non-consent in both forms (subjective willingness and physical acts of refusal)
   * Nobody defends strict insistence on requirement for physical (as opposed to verbal) resistance anymore, however there still remains questions about what needs to be proved?
     * Affirmative no? Absence of a yes? Body language?
+  
 * Issues with Consent
   * Miscalculation - If purely subjective consent approach, potential of miscalculation by the other party arises given rise to mens rea issue
   * Involuntary Objective Consent - A person may say “yes” to sex but the degree to which this is voluntary is debateable in some instances. There may be other forces at work. Should this "yes" be enough notwithstanding the full circumstances?
   * Withdrawn Consent - Most jurisdictions hold post-penetration withdrawal of consent does not convert continuing intercourse into rape – even if threats of force are clear. This presents a clear issue
+
 * Defective consent
   * Maturity - Statutes draw bright line by setting specific age of consent on of concerns for young person's capacity to make a mature decision (Statutory Rape)
     * Reflects social goal of deterring teen pregnancy and the risk of implicit coercion
@@ -81,17 +89,19 @@
     * BUT, a female’s consent to engage in sexual intercourse is invalid if, as a result of fraud she, is unaware that she has consented to the act of sexual intercourse itself. This is called **fraud-in-factum**
       * Ex: D, a physician, is guilty of rape if he obtains permission from his patient to “insert an instrument” in her vagina while she is under anaesthesia, if the ‘instrument’ used is his penis
 
-## Mens Rea
+## Mens Rea of Rape
 
 ### Mistake of Fact
 
 * *Commonwealth v. Sherry* (1982) (MA CoLR)
   * Facts - Victim at party with D’s (co-physicians). D’s took victim by car to one of D’s houses and had sex after the victim had asked to be taken home, but otherwise D didn’t resist. D claims she felt numb and didn’t physically resist. Ds argue that jury should have been instructed to find without a reasonable doubt that they possessed actual knowledge of victim's lack of consent
   * Holding - A rape victim is not required to use physical force to resist and any resistance which demonstrates that her lack of consent is honest and real shall suffice. There is no recognized defense related to honest mistake of fact without considering the reasonableness of the mistake
+  
 * *Commonwealth v. Fischer* (1998) (PA CoLR)
   * Facts - On the night of alleged sexual misconduct, D and victim had previous consensual sex. Later, D and victim met again.  Victim claims D held her down and attempted to initiate. D claims he stopped when victim said to stop and that victim left after D tried to initiate again; D claims he mistakenly thought victim consented
   * Holding - Mistake of facts on grounds that a victim previously consented to a defendant’s sexual conduct is not enough to deviate from precedent (stating that defense based on reasonable belief of consent must be established by legislature)
-* Strict Liability
+
+* Rape as a Strict Liability Offense
   * Mass. App. Ct. case in which court refused to acknowledge this defense even where belief that victim consented were reasonable. This holding was based on analogy to age based statutory rape cases
   * This may have harmful consequences. If a D genuinely and reasonably believes there is consent, then he is acting without moral culpability. The effect of dispensing with the reasonable mistake of fact doctrine is, effectively, to covert rape – a felony carrying very serious penalty – into a strict liability offense
   * This is the case in states like MA, whereas Alaska's rule is the reverse – prosecution must prove that the defendant KNEW there was no consent
@@ -108,7 +118,8 @@
   * Lack of resistance does not establish consent, though may be considered in light of circumstances
   * Consent is revocable at any time
   * NOTE: original version wanted strict “yes” requirement, but voted as too strict and revised
-* §213.1 - Forcible Rape
+  
+* **§213.1 - Forcible Rape**
   1. Actor is guilty of Aggravated Forcible rape if violates forcible rape statue and in doing so recklessly or knowingly does the following in order to cause the victim to engage in the act:
      * Uses deadly weapon
      * Acts with active participation or assistance of others
@@ -116,9 +127,11 @@
   1. Guilty of forcible rape if knowingly or recklessly does the following in order to cause the victim to engage in the act:
      * Uses physical force, physical restraint, or implied/express threat of physical force, bodily injury, or physical restraint
      * Threatens to inflict bodily injury on someone else or commit any other crime of violence
-* §213.2 - Penetration Without Consent
+
+* **§213.2 - Penetration Without Consent**
   * 4th degree felony to engage in act of sexual penetration where knowingly or recklessly disregards other persons lack of consent
-* §213.3 - Rape or Penetration of Vulnerable Person
+  
+* **§213.3 - Rape or Penetration of Vulnerable Person**
   * Second degree rape of vulnerable person if engages in act of sexual penetration and knowingly/recklessly disregards that the person is:
     * Sleeping, unconscious, or physically unable to communicate
     * Unable to refuse due to mental disorder/disability
@@ -126,7 +139,8 @@
   * Third degree sexual penetration of vulnerable person if knowingly/recklessly disregards:
     * Mentally/developmentally disabled or otherwise mentally incapacitated so as not to understand nature of act
     * Disabled to extent that victim posses capacity person no more than 12 years old and that of actor is greater than 16
-* §213.4 Sexual Penetration by Coercion or Exploitation
+  
+* **§213.4 Sexual Penetration by Coercion or Exploitation**
   1. By Coercion (third-degree felony)
      * Knowingly/Recklessly obtains consent by threatening to
        * Accuse of crime or get deported
@@ -156,9 +170,11 @@
     * *State v. DeLawder* (1975)
       * Court denies admission of evidence purporting to show victim had engaged in acts with other men and that victim fabricated story out of fear of telling her mother
       * Holding: A defendant has a Sixth Amendment constitutional right to engage in cross-examination of an accuser and to introduce evidence so as to establish bias, prejudice, or ulterior motive in an attempt to diminish the accuser’s credibility.
+  
 * Shield Laws:
   * Just about every state has rape shield laws to limit the admissibility of evidence related to the plaintiff’s prior sexual behavior
   * **The exception is that “some state statutes admit evidence of sexual history only when it involves prior incidents with the defendant.”**
+  
 * Rule of Evidence 412. Any evidence of plaintiff’s sexual behavior is not allowed, EXCEPT:
   * To allow evidence to show someone other than the defendant raped the victim
   * Evidence of prior sexual behavior of the victim with the defendant to prove consent
@@ -168,3 +184,5 @@
       * Prosecutor says this is inadmissible…previous sex acts of plaintiff are not allowed
       * Defendant would probably argue that while this is prejudicial, it’s so relevant that not to include would be mean D doesn’t get a fair trial
 * Rule of Evidence 413. A defendants (but not plaintiffs) prior sexual misconduct can be admitted.
+
+---

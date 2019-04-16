@@ -931,3 +931,21 @@
   * Industry writes and enforces rules and guidelines
 
 ---
+
+## Drones
+
+---
+
+## Cloud and IoT
+
+* IoT ("Internet of Things") refers to the ability of evereday objects to connect to the internet and to send and receive data
+  * Experts estimate that there will be 50 billion such connected devices by the year 2020
+  * Real time monitoring of information collected by these devices offers tremendous benefits (e.g. health care, energy use, road safety)
+  * However, presents great security risks including:
+    1. Enabling unauthroized access and misuse of personal information collected by these devices
+    1. Facilitating attacks on other systems (e.g. botnets)
+    1. Creating risks to safety by altering the physical behavior of these connected devices
+  * Also unique privacy risks, including:
+    1. Sensitive personal information (e.g. precise geolocation, health vitals, and financial account numbers) is being directly collected, often without consumer awareness or meaningful consent
+    1. Infrences that can be made about personal habits and physical conditions (e.g. health and mental condtion, lifetyle, mood) based on the sheer volume and nature of information collected. The amount and granularity of data allows analyses to be performed that wouldn't otherwise be possible. This runs the risk of this information being used in unauthorized ways and having real-world consequences (e.g. employment, credit access, health insurace costs)
+       * FCRA imposes obligations on CRAs, but excludes most "first parties" that collect consumer information and would not cover device manufacturers that perform the collection/analytics themselves. Thus, would not cover companies that collect data directly and use them to make in-house credit/insurance eligibility decisions

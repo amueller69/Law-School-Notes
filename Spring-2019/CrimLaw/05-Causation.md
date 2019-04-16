@@ -6,13 +6,16 @@
   * It links the “voluntary act” of the actus reus and the resulting social harm
   * Actus reus thus has 3 components that must be satisfied: Voluntary Act, Causation, Social Harm
 * Issue of causation appears primarily in homicide cases. Occasionally appears in non-homicide cases, but almost always related to homicide
+  
 * Causation is Mainly a Retributive Concept
   * There’s no reason why D should not be responsible for V’s death if we can prove that, had X not intervened, D’s bullet surely would have killed V. The act seems just as culpable. From an deterrence/incentive side, it doesn’t make sense to under charge to 'attempted murder'
   * Role of causation finds it primary moral justification in retributive just deserts. Given the stakes of criminal convictions, the principle of causation is an instrument society employs to ensure that criminal responsibility is personal
+  
 * As in tort law, causation has two constituent parts that must be satisfied: **But-for causation** and **proximate causation**
   * Criminal law causation is in no way linked to Tort law and its underlying doctrines and standards related causation
     * Different aims. Tort law causation attempts to place liability on the party who's conduct is most culpable for P's harm (apportionment). Criminal law is concerned with the level of culpability necessary to justify punishment (deterrence and retribution)
     * The severe consequences that follow from criminal liability provide a strong argument for a stricter standard of causation than that in tort law
+  
 * Most state codes include no explicit rules for determining causation. In these jurisdictions, courts are left to decide based on evolving common law principles
   * MPC §2.03 seeks to articulate an appropriate standard and roughly a dozen states have adopted it
 
@@ -20,6 +23,7 @@
 
 * But-For Causation - There can be no criminal responsibility for resulting social harm unless it can be shown that the defendant’s conduct was a cause-in-fact of the prohibited result
   * Ask: But for D’s voluntary acts, would the social harm have occurred when it did?
+  
 * But-For Causation Actus Reus Problems
   * In order to convict, you need the full actus reus (act, harm), causation (but for AND proximate cause), and mens rea. Without any component, you can’t convict
   * Causation without Mens Rea – D has an argument with husband V. V is upset and storms out of the house. He walks across the street in a fury and in the process is stroked and killed by X’s car. Did D cause the harm?
@@ -48,6 +52,7 @@
 * There are two situations where proximate cause is present:
   1. Direct Proximate Cause – When D shoots V and V dies instantly or soon after, it’s pretty clear that the shooting was a direct cause of death. An act that is a direct cause of social harm is also a proximate cause of it (easy and straightforward)
   1. Proximate Intervening Causes – Notwithstanding an intervening cause – an independent force that is another but-for cause – that operates in producing the social harm after the defendant’s voluntary act has been committed, the initial voluntary act is still such that it is sufficiently culpable
+  
 * The purpose of the but-for test of causation is to identify the candidates for responsibility for an event. From this pool, which may include other human actors and non-human forces stemming over an extended period of time, the “proximate” cause of the social harm must be selected
   * Examples of these problems: Intervening causes of nature, third parties, etc.
   * When these problems aries, the proximate cause analysis is concerned with two primary questions:
@@ -59,6 +64,7 @@
     * The babysitter's omission was indeed a necessary condition and was thus a but-for cause
     * Does it follow that all bystanders causally contributed? Are these omissions non-culpable in the absence of some duty to act?
   * Courts are uniformly willing to treat an omission as the legal cause of a result in situations where there is a duty to act
+  
 * Transferred Intent  
   * D shoots at V1 intended to kill him, but bullet misses and ricochets. It strikes and kills V2. Is D guilty of murder regardless of foreseeability?
     * All jurisdictions say D is guilty, reasoning that the intent to kill V1 transfers to his action that ultimately harmed V2
@@ -67,6 +73,7 @@
   * Problems
     * If D succeeds in inflicting harm on intended person while harming another person in the process, is the intent still transferred or is it "used up"
     * If D shoots at V1 intending to kill and V2 kills pedestrian with car while trying to escape, is the intent transferred to this scenario?
+
 * Assisted Suicide
   * Prevailing American law: One who successfully urges or assists another to commit suicide is not guilty of murder at least so long as the V was mentally responsible and was not forced or deceived
   * Most states also reject possibility of negligent homicide or manslaughter, provided that V's action were indeed voluntary
@@ -77,6 +84,7 @@
     * Distinction between human action in physical events is embodied in the principles of causation. Human action caused by initial actor's conduct is not treated the same as physical events which are subject to laws of nature. In the former, the "resultant" human action is chosen by the second person alone
     * The principle of autonomy teaches that the individual's will is the prime cause of behavior
     * Qualification on this special treatment: **Subsequent human actions are only independent when they are freely and voluntarily chosen**
+  
 * Subsequent Action Problems
   * Subsequent victim actions - Somewhat similar to assisted suicide; where subsequent action of the victim, in response to D's initial action, causally contributes to their harm. Is D's initial act such that he is culpable for harm that results from the choices of the victim (autonomy problem)?
   * Subsequent third party actions - Exposing the victim to homicidal third-parties. Does this make D blameworthy for the actions of others? Does it matter that the third-party actions were foreseeable?
@@ -150,3 +158,5 @@
 
 * Facts - D’s and a friend played Russian roulette. Friend dies during game. D’s convicted of manslaughter, but D’s argued not sufficient cause of friend’s death
 * Holding - D’s encouraging victim to engage in reckless activity may provide sufficient cause for victim’s death. Court upholds the conviction while following the MPC. The case can be distinguished from *Root* in that drag ricing required a degree of skill and independent action – Russian roulette is much more about luck. Much more foreseeable that the this could happen such that the complicit boys are responsible
+
+---

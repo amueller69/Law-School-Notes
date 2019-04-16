@@ -22,6 +22,7 @@
     * (9) Debtor insolvent or rendered insolvent
     * (10) The transfer occurred shortly before or shortly after a substantial debt was incurred
     * (11) Debtor transferred essential assets to creditor who transferred assets to an inside
+  
 * Two Key Differences:
   * UFTA has a longer statute of limitation (4 years), compared to the 2 years allowed in §548
   * UFTA §8 provides for a complete defense (good faith buyer of fraudulently transferred good does not have to give back the property) for a case that deals with actual fraud, whereas §548(c) and §550(b) offer a partial defense
@@ -42,6 +43,7 @@
   * (2) Engaged in a transfer that wasn’t for a reasonably equivalent value while insolvent – **constructive** fraud
     * Instead of insolvency, can also be satisfied if would leave DR's business with unreasonably small amount of capital or intended to to incur debts beyond ability to pay
   * Note: Trustee must prove insolvency or one of the others (no presumption like in voidable preferences section)
+  
 * §548(a)(1) – Actual Fraud
   * Trustee must show that the transfer was made with actual intent to hinder, delay, or defraud an entity to which DR became indebted to
   * “Badges of Fraud” (Indicators of Intent to Defraud)
@@ -53,6 +55,7 @@
     6. General chronology of events
     7. An attempt by DR to keep the transfer a secret
   * Classic example: D deeds interest in residence to her mom for no consideration after causing a car accident. D continues to live in the residence
+  
 * §548(a)(2) – Constructive Fraud
   * Trustee must show:
     * (1) DR received less than reasonable equivalent value in exchange for the transfer of obligation
@@ -63,6 +66,7 @@
       * (1) Contribution does not exceed 15% of debtor’s gross annual income in the year the transfer was made OR
       * (2) If it is greater than 15%, the contribution is consistent with past practices
     * But payment of a “pledge” within 90 days may be avoided as a preference
+  
 * §548(c) – Defenses available to recipients of fraudulent conveyances for good faith purchaser
   * A transferee that takes for value and in good faith may retain any interest transferred to the extent that such transferee gave value to DR in exchange for such transfer
   * Applicable for constructive and actual fraud
@@ -111,36 +115,40 @@
     * No real business to invest in, fake profits are reported and paid to early investors, inducing more investment from both new and old investors until the scheme collapses
     * Question becomes the extent to which those who received distributions pre-bankruptcy can be forced to give them back to the bankruptcy trustee. Issue arises with innocent victim/good faith recipients
   * Rule: All distributions to investors in such debtors are made with actual intent to hinder, delay, and defraud other creditors
-D.	Fraudulent Conveyance HYPOS
 
-HYPO1: Skeel owns a painting worth 500k. Skeel does not want CR to have it because they do not appreciate it. Goes to Vegas with the painting and casino will make him a loan on the spot in the back. Skeel gets 500k worth of chips. Plays and loses it all. Files for bankruptcy.
+## Fraudulent Conveyance Hypotheticals
 
-Is this a fraudulent conveyance?
+### Hypothetical #1
+
+* Setup: Skeel owns a painting worth 500k. Skeel does not want CR to have it because they do not appreciate it. Goes to Vegas with the painting and casino will make him a loan on the spot in the back. Skeel gets 500k worth of chips. Plays and loses it all. Files for bankruptcy.
+* Question: Is this a fraudulent conveyance?
 * UFTA 4(a)(1) or §548(a)(1) argument for actual fraud
   * Skeel could counter by saying that he didn’t act intentionally with the purpose of stiffing the CRs, really thought he would win. Was not planning to not pay the CRs
 * Argument for constructive fraud
   * This would apply if Skeel didn’t get reasonably equivalent value for it. Argument would be that the House has the odds in its favor in all games on the floor, which means that 500k worth of chips are actually worth less than the present value of the painting
     * House does not have the odds in its favor for games like poker, blackjack
   * Argument that it was reasonably equivalent value bc theoretically Skeel could just take the chips and cash out for the $500k value in full without playing at all. Also could argue that 80-90% of the value is reasonably equivalent. Skeel thinks this would be reasonably equivalent value
+* Suppose this really was a fraudulent conveyance (constructive fraud), would the casino have a defense?
+  * §548(c) — Good Faith Purchaser Defense
+    * Constructive fraud doesn’t necessarily get fully protected if acting in good faith – gets a lien on the value of what purchaser transferred
+    * Casino would either (1) have a lien for the value of the painting or (2) keep the art but have to give the difference in value presuming it went up
+  * Note: UFTA gives a complete defense to a buyer that is acting in good faith (difference between UFTA and §548)
 
-Suppose this really was a fraudulent conveyance (constructive fraud), would the casino have a defense?
-* §548(c)—Good Faith Purchaser Defense.
-  * Constructive fraud doesn’t necessarily get fully protected if acting in good faith – gets a lien on the value of what purchaser transferred
-  * Casino would either (1) have a lien for the value of the painting or (2) keep the art but have to give the difference in value presuming it went up
-* Note: UFTA gives a complete defense to a buyer that is acting in good faith (difference between UFTA and §548)
+### Hypothetical #2
 
-HYPO2 (p. 341-2):
-DR is in financial trouble, gives property to good faith buyer for 80k bc he is willing to pay right away. Good faith buyer then sold this property to good faith purchaser for 120k.
-
-DR files for bankruptcy and trustee wants to avoid this sale as a fraudulent conveyance. Can he?
+* Facts: DR is in financial trouble, gives property to good faith buyer for 80k bc he is willing to pay right away. Good faith buyer then sold this property to good faith purchaser for 120k. DR files for bankruptcy and trustee wants to avoid this sale as a fraudulent conveyance
+* Question: Can trustee avoid this sale as a fraudulent conveyance?
 * Under BFP could argue this was a distressed sale (like a foreclosure sale). The low price is not indicative of fraud based on the circumstances. But note that BFP is about foreclosure sales and this is not a true forced sale
+* If we determine that 80k is indicative of constructive fraud. What would happen?
+  * If the buyer acted in good faith, then the buyer would have a lien of 80k and would have to give back the difference in value between the price he paid (80k) and the true/appropriate value of the property
+    * Note: if the court valued the property at 120k, the buyer would have to give back 40k. Would have an 80k lien.  (lien for purchase price, give back difference in value and purchase price OR painting itself)
+* Could trustee go after good faith purchaser (who got property from the good faith buyer who bought it from DR)?
+  * **No**, good faith purchaser is fully protected under §550(b)(2)
 
-If we determine that 80k is indicative of constructive fraud. What would happen?
-* If the buyer acted in good faith, then the buyer would have a lien of 80k and would have to give back the difference in value between the price he paid (80k) and the true/appropriate value of the property
-  * Note: if the court valued the property at 120k, the buyer would have to give back 40k. Would have an 80k lien.  (lien for purchase price, give back difference in value and purchase price OR painting itself)
+### Hypothetical #3
 
-Could trustee go after good faith purchaser (who got property from the good faith buyer who bought it from DR)? NO good faith purchaser is fully protected under §550(b)(2)
+* Prior to BR, DR has an extravagant dinner for $10k. Can this be seen as a fraudulent conveyance?
+  * If trustee can show that the DR had intent to defraud, restaurant would have to return 10k and would then have a claim against the DR for 10k
+  * However, §548(c) would provide the restaurant with a defense so long as it acted in good faith
 
-HYPO 3(not discussed in class):
-Prior to BR, DR has an extravagant dinner for $10k. Can this be seen as a fraudulent conveyance?
-* If trustee can show that the DR had intent to defraud, restaurant would have to return 10k and would then have a claim against the DR for 10k. BUT, 548(c) would provide the restaurant with a defense so long as it acted in good faith
+---

@@ -13,18 +13,18 @@
 
 ### Modified PA Statute
 
-* §2502 - Criminal Homicide
+* **§2502 - Criminal Homicide**
   * Person is guilty if he intentionally, knowingly, recklessly, or negligently causes the death of another human being
   * Shall be classified as murder, voluntary manslaughter, or involuntary manslaughter
-* §2502 - Murder  
+* **§2502 - Murder**
   * Murder of the first degree - A criminal homicide constitutes murder of the first degree when it is committed by an intentional killing
   * Murder of the second degree - A criminal homicide constitutes murder of the second degree when it is committed while defendant was engaged as a principal or an accomplice in the perpetration of a felony. The felony’s that count:
     * The act of the defendant in engaging in or being an accomplice in the commission of, or an attempt to commit, or flight after committing, or attempting to commit robbery, rape, or deviate sexual intercourse by force or threat of force, arson, burglary or kidnapping.
   * Murder of the third degree - All other kinds of murder shall be murder of the third degree. Murder of the third degree is a felony of the first degree
-* §2503 - Voluntary manslaughter
+* **§2503 - Voluntary manslaughter**
   * A person who kills an individual without lawful justification commits voluntary manslaughter if at the time of the killing he is acting under a sudden and intense passion resulting from serious provocation by the individual killed or that he intended to kill
     * Unreasonable Belief Killing Justifiable: A person who intentionally or knowingly kills an individual commits voluntary manslaughter if at the time of the killing he believes the circumstances to be such that, if they existed, would justify the killing under Chapter 5 of this title (relating to general principles of justification), but his belief is unreasonable.
-* §2504 - Involuntary Manslaughter
+* **§2504 - Involuntary Manslaughter**
   * A person is guilty of involuntary manslaughter when as a direct result of the doing of an unlawful act in a reckless or grossly negligent manner, or the doing of a lawful act in a reckless or grossly negligent manner, he causes the death of another person.
 
 ## Intended Killings
@@ -42,6 +42,7 @@
   * *Anderson* case in which an extremely gruesome child murder was committed in an enraged and violent outburst (i.e. without premeditation) is intuitively more culpable that dispassionate planned killing
   * Mercy killings would also likely fall into category of most serious killings under this standard
   * As a response, MPC along with some states have rejected premeditation as basis for identifying most serious murders
+
 * *Commonwealth v Carroll* (Pa. 1963) - Instantaneous Premeditation
   * Facts: Appeal of a felony murder conviction in the first degree, the argument is that murder was a crime a passion – not enough premeditation here. 1st degree murder, arguing it’s 3rd degree. D argues that his mental disorders, as well as the previous context of the relationship, got him to the point where he didn’t think – he just acted instinctively
   * Issue: How much premeditation is required for 1st degree murder? What evidence is needed to show that element of premeditation was or was not present?
@@ -50,6 +51,7 @@
     * Court appears to be suggesting that an act that is deliberate is necessarily premeditated. However, premeditation refers quantity of time required to deliberate (the quality of that thinking ahead). Court suggests that the quantity of time can be close to instantaneous before a crime is committed if attendant circumstances indication deliberation
     * “The specific intent to kill which is necessary to constitute in a nonfelony murder, murder in the first degree, may be found from a defendant’s words or conduct or from the attendant circumstances together with all reasonable inference therefrom”… it can happen in an instant"
     * “Society would be almost completely unprotected from criminals if the law permitted a bling or irresistible impulse or inability control one’s self to excuse or justify a murder or to reduce it from first degree to second degree”
+  
 * *State v Guthrie* (W. Va. 1995) - Period of Reflection
   * Facts: At issue is a jury instruction for first degree murder and whether the instruction that “it is not necessary that the intention to kill should exist for any particular length of time prior to the actual killing” was a correct interpretation of premeditation
   * Rule: In conflict with *Carrol*, **premeditation can’t be instantaneous or near instantaneous**. Otherwise, if the State prove premeditation by only showing that intention came into existence for the first time at the time of killing, then it effectively eliminates the distinction between the degrees. Thus, there must be some evidence that D considered and weighed his decision to kill in order to establish premeditation
@@ -62,6 +64,7 @@
 * Approaches to provocation as a mitigating factor
   * Predominate common law position that there are only a few specific circumstances that can serve as adequate provocation and mitigate from first degree murder downward. If you take the *Giroard* approach, it seems counter-intuitive that words alone can’t provoke people sufficiently, after all people can say truly horrible things. However, it might be the case that there’s a concern this doctrine might be abused and present a pretext for people to justify killings
   * *Mather* holds that provoking circumstances need not conform to any pre-established categories - it’s a jury question based on the facts. While this remains minority view, a number of American jurisdictions follow it
+  
 * Excuses, Justifications, and Cooling Off Period as Basis for Provocation Defense
   * Justification
     * Focuses on the wrongfulness of the act in light of the circumstances. Actor is treated as fully responsible agent, but what the actor did is treated as, at a minimum, not entirely wrong
@@ -75,6 +78,7 @@
   * Cooling Off Period - Often courts are forced in these mitigation contexts to determining if there was so-called cooling off. If D kills right when he is provoked, that’s one thing. But if D had time to cool off and recollect himself, then provocation can’t properly mitigate. But how much cooling off time disqualifies?
     * If you view provocation as a partial justification, you look at the conduct of the victim, not the killer. Cooling off doesn’t matter, the victim child abuser did something wrong
     * If you view provocation as an excuse, then cooling off period matters. Acting in the heat of the moment counts as excuse only if it’s in the heat of the moment
+  
 * *Girouard v. State* (Md. 1991) - Strict, categorical approach
   * Facts: D kills W after being thrown into a mad frenzy based on her means words during an argument. D was convicted of second-degree murder, but argues that it should be mitigated to manslaughter despite not falling out of the enumerated categories because it lacks the malice essential for a murder conviction
   * Issue: Should the circumstances mitigate murder to manslaughter? Most states only allow mitigation for provoking circumstances like assault, mutual combat, injury/abuse of a close relative, sudden discovery of adultery
@@ -83,6 +87,7 @@
     * Court takes a categorically strict approach, there’s a dividing line between conduct and words
     * Court says that other jurisdictions overwhelmingly agree with holding that words are not provocation
     * Standard is one of reasonableness, should not focus on peculiar frailties of D
+  
 * *Mather v People* (1862) – Broad view
   * Facts: Old case. Does hearing of a spouse’s infidelity mitigate the passionate rage that could result leading to homicide? How far does it mitigate?
   * Rule: Hearing of spousal infidelity is a reasonable reason to mitigate. Prefers to kick whether something can mitigate to a jury rather than make it a determination of law. Determining sufficiency of provocation should assume the disposition of a reasonable person of ordinary temperment
@@ -92,9 +97,11 @@
 * In order to mitigate from homicide to manslaughter under the MPC, you therefore need two things:
   1. Extreme Mental or Emotional Disturbance
   1. There is a Reasonable Explanation as to why the defendant acted as he did
+
 * Altogether, around 20 states employ some version of the EED test
   * States vary in the formulation of this test, with some still requiring act of provocation
   * Empirical evidence suggest these defenses are rarely successful under strict adoptions of the MPC approach
+
 * Given that the MPC lays out a subjective and objective element of the doctrine, the question is how and to what degree should we condition on the individual characteristics of the defendant?
   * First Ask – Is a Person in a State of Extreme Emotional Disturbance?
     * Purely subjective, a jury can consider all the personal characteristics that might predispose them to such a state. The jury will have to consider whether they believe the psychiatrist or expert with regard to their state
@@ -104,9 +111,11 @@
       1. Social factors (like religion, homophobia) DO NOT COUNT, having a particular emotional belief does not make an action sufficient
     * The question becomes:
       1. What is something looks like an immutable OR social factor
+
 * Limitations
   * Does not recognize moral, ethnic or political beliefs as part of "actor's situation"
   * How do both CL and MPC approaches deal with cultural norms, trauma, mental disorder, age/sex based factors, etc? (pg 486-88)
+
 * *People v. Casassa* (N.Y. 1980)
   * Facts: Victim’s rejection of D cause him prolonged emotional distress (i.e. intense heartbreak) leading him to murder the victim. D argues that at time of offense, he was under influence of extreme emotional disturbance which should mitigate the charge
   * Rule: New York adopts the MPC on this issue and the two part test for mitigation. The court decides that:
@@ -127,7 +136,8 @@
   * Notes
     * Wanton or reckless conduct amounts to what has been variously described as indifference to or disregard of probable consequences to others
     * These terms express a difference in the degree of risk in the voluntary undertaking - substantial departure from behavior of ordinary man
-* MPC Approach
+  
+* **MPC Approach**
   * Creates two crimes - manslaughter and lesser crime of negligent homicide - which are distinguished by awareness of unwarranted risk
   * Manslaughter if actor was "reckless", meaning he "**consciously** disregarded substantial and unjusifiable risk of conduct causing death to another"
   * Killing is negligent only where he **should** have been aware of such risks
@@ -137,9 +147,11 @@
 * Definitions of Unintended Killings as Murder
   * Common law formulations for which unintentional killings constituted murder have been incorporated into statutes or by reference to terms like malice (See *Malone*), which rely on epithets such as "the dictate of a wicked, depraved, and malignant heart"
   * Many other state statutes use formulations inspired by the MPC approach, in which unintended killings are murder when committed recklessly and under circumstances manifesting extreme indifference to the value of human life. This omits the common-law language of how wicked or depraved the killing is
+  
 * *Commonweatlth v. Malone* (Pa. 1946)
   * Facts: Person dies playing Russian Roulette. The man organizing the game thought it was completely safe – he put one bullet in the chamber and in way that would not go off until five shots. But it happened anyway
   * Rule: Common law's grand criterion for distinguishing murder from other killing was malice on the part of the killer. Malice defined as "any evil design in general; the dictate of a wicked...heart". Court holds that when an individual commits acts of gross recklessness which they must reasonably anticipate the death of another is likely, they exhibit this disposition of wickedness. A specific motive isn't always necessary. This case clearly shows a high level of recklessness for which malice is evidenced
+  
 * *United States v. Fleming*
   * Facts: Heavily drunk driving D swerving into oncoming traffic to avoid congestion and strikes/kills driver of another vehicle
   * Rule: Malice is distinguishing feature distinguishing murder from manslaughter. To sustain murder conviction, **must simply prove that D intended to operate car with a heart that was without regard for life and safety of others**. Difference between malice and gross negligence is one of degree. Facts of this case show deviation from ordinary standards of regard for human life/safety than that of ordinary vehicular homicides. Thus, murder conviction sustained
@@ -155,12 +167,14 @@
   * Many current murder statutes provide that death that results from the commission of specifically listed felony – such as arson, rape, robbery, or burglary – constitutes first-degree murder for which the maximum penalty is death or life imprisonment
     * If a death results from the commission of an unspecified felony, it is a second degree murder
   * The rule is heavily criticized and even banned in many continental countries
+
 * *Reginia v Serne* (England 1887) – **Felony Murder Narrow Rule**
   * Facts: Old case in which a man allegedly sets fire to his house to collect insurance money and accidentally kills his son
   * Rule: The court approaches the rule narrowly. “I think that that, instead of saying that any act done with intent to commit a felony and which causes death amounts to murder, it would be reasonable to say that **any act known to be dangerous to life and likely in itself to cause death, done for the purpose of committing a felony which causes death should be murder**”
   * Notes:
     * Malice is proven by the commission of the felony itself. However, no clear proof in this case that D actually set fire, so not-guilty verdict
     * Became dominant standard of English common law
+
 * *People v. Stamp* (Cal. 1969) - **Broad Felony Murder Rule**
   * Facts: In the process of D robbing a store, one of the clerks dies of a heart attack due to the stress of the situation. The man was 60 years old, obese, and had a history of heart disease. The question is whether the man’s death was too attenuated to sustain a conviction given his background
   * Rule: Doctrine is not limited to instances where deaths are foreseeable. **Ds are held strictly liable for all killings committed by him or accomplices in the course of a felony as long as the homicide is the direct causal result of the felony and regardless if it were foreseeable or the natural/ordinary result of it**
@@ -203,8 +217,10 @@
 * What is the problem with the inherently dangerous felony rule?
   * The concerns is that the limitation brings felony murder close to the depraved-heart or extreme-recklessness concept of malice. A felony the commission of which is likely to result in death is a crime the commission of which is apt to demonstrate overlap with the mens rea of recklessness/negligence
   * Now, it is theoretically possible to not consciously take a risk as the reckless standard demands and fall under felony murder, but this seems few and far between
+
 * *People v Phillips* (Cal. 1966) - Abstract approach
   * A doctor was convicted of second degree murder for advising homeopathic remedy to a cancer rather than treatment which led to a little girl’s death. He (falsely) represented he could cure her and took money for this treatment. The court reversed because this theft by deception wasn’t inherently dangerous to life. **It held that only those felonies which are (abstractly) inherently dangerous to human life can support a felony murder charge**
+
 * *Hines v. State* (Ga. 2003) - Circumstantial approach
   * Man accidentally shot a friend dead during a hunting accident and was charged with second degree murder because he had committed a felony possession of a firearm as a former convict. **Court rules that a felony is inherently dangerous when it is dangerous "per se" or "by its circumstances create a foreseeable risk of death"**. Court upheld conviction because the charge of illegal felony possession of a firearm was sufficiently dangerous, as it created foreseeable risk of death
 
@@ -218,13 +234,16 @@
     * Effect of failing to merge would mean that all intentional killings accomplished by means of a deadly weapon could NEVER be mitigated to manslaughter, as killing was committed in commission of felonious assault
 * Many grade homicides by stating that if a death occurs during commission of a specifically listed felony, then the death constitutes first-degree felony- murder, whereas a death resulting during the commission of any other felony – not specifically enumerated – constitutes second-degree felony murder
   * For example, aggravated child abuse is specifically listed in Florida’s first degree felony murder statute. Therefore, although the abuse involves assaultive conduct, the merger rule does not apply to this offense in Florida.
+
 * *People v Burton* (Cal. 1971) – Merger Doctrine Independent Purpose
   * Facts: Armed robbery that leads to a conviction for first degree murder. Argument is that it has to be reduced to a second degree murder because the underlying felonious conduct was an armed assault that went bad, not the type of malice available under 1st Degree. Essentially the prosecutor argues that the purpose of robbery is theft, not assault. And therefore they merge
   * Rule: The court agrees, the two crimes don’t merge into one and D can be charged with robbery and with felony-murder. **Deaths resulting from felonies undertaken for a purpose independent of the homicide support a charge of felony murder**. The purpose of the felony murder is to deter felons from killing negligently or accidentally by holding them strictly responsible for killings they commit in execution of an underlying, independent felony. Allowing robbery charge to merge would allow D to escape legislatively intended grading
   * Cases Distinguished:
     * *Wilson* - Underlying felony supporting felony murder instruction was burglary with intent to assault. Court in this case held because the object of burglary was assault with a deadly weapon, there was no independent felonious purpose thus the underlying felony merges with the killing and prosecution must show malice/deliberation associated with 1st degree murder. However, in *Burton* object of robbery is not assault, but to obtain money/valuables. Thus, there is an independent purpose and felony murder instruction appropriate
+
 * *People v Robertson* (Notes): V tries to steal D’s hubcaps, D shoots attempting to scare him, but accidentally kills him. Can there be felony murder?
   * Ironically arguing defense that killing wasn't intentional, only intended to scare, D establishes there was an independent purpose and avoids merger, opening himself to felony murder. Dissenting judges here recognize that this is clearly a problem as more culpable actors have better legal standing under this doctrine
+
 * *People v. Chun* - Similar facts as *Robertson* where killings were committed with intent to scare. Court overturns *Robertson*, holding that wherever the offense is assaultive in nature (involves immediate threat of injury), it merges with killing and is not basis for felony murder instruction. However, the recklessness in this case was so clear as to establish elements required for traditional murder
 
 ### Killing Not in Furtherance of the Felony
@@ -240,13 +259,16 @@
     * **In other words, the felony-murder rule does not apply if an adversary to the crime, rather than the felon, personally commits the homicidal act**
     * Rationale: A person should not be responsible for the actions of others not associated with the conspiracy. A felon who does not shoot anyone (F2) is not responsible for the actions a non-shooter (X)
     * However, if X was the accomplice of F1 and F2, then F2 could get felony murder for F1 and V
+  
 * *People v Gillis*: Man is robbing house, is caught, and fleas. 15 minutes later, as the man is fleeing, a trooper spots the car and begins pursuit. In pursuit the man hits another car, killing two people
   * Felony Murder? Yes. **If necessary to complete the commission of a crime, then it is "in furtherance" of the felony**
     * Still raises questions - suppose D had lost the police and stopped to grab something to eat before resuming his drive?
+  
 * *People v Cabatero*: A gang is committing robbery. A lookout panics at an approaching car and shoots at it. Angered by the lookouts stupidity, the gang leader shoots the lookout. The gang leader can be charged with murder, but the other robbers?
   * Felony Murder? Yes, **because this act was a part of protecting the underlying illegal operation in which the other members were involved in**. If the victim had killed a police officer approaching, then felony murder would apply because it was in furtherance of the crime (i.e. prevent getting caught)
     * But if a felon does something not related to the furthering the crime, then felony murder doesn’t apply to others
     * Note: This also relies on accomplice liability, which is another issue altogether
+  
 * *State v. Canola* (N.J. 1977)
   * Facts - D and others robbed a jewelry store, and one of D’s co-felons and the store owner killed by another of D’s co-felons. D convicted of first-degree murder under FMR, but D argued “agency” theory precluded felony-murder rule
   * Holding - Felony murder rule does not apply to the death of a co-felon under agency approach
@@ -266,6 +288,7 @@
   * Subject to little regional variation, but extent to which penalty is carried out widely differ
 * Number of states recently moved away
   * 7 states made it illegal, 21 more have proposed its repeal, others have undertaken reviews of the process
+  
 * **Primary considerations are related to the animating principles of criminal law and theories of punishment**
   * Deterrence
     * As long as people believe that death penalty is worse than life sentence, it should have a deterrent effect (in theory)
@@ -276,6 +299,7 @@
     * Kantian defense rests on the principle of equality, the basis for the biblical principle of lex talonis ("an eye for an eye")
       * This is compelled by, and according to Kant is consistent with, the CI
     * Expressive function, though this seems to have an end that falls outside pure retribution
+  
 * Error and Bias
   * Is risk of error inherently less acceptable in capital sentencing due to the significance of its implications?
     * Can't simply correct it after innocent person has been executed
@@ -283,15 +307,18 @@
     * Counterargument that concerns about protecting the innocent are given too much weight and the risk must be accepted in order to achieve benefits of the death penalty
   * Argument that disproportionate racial or economic bias that is systemic in the administration of capital punishment
     * Consider poor defendants who can't afford adequate legal representation or black defendants subject to discrimination
+  
 * Constitutional Limitations
   * Procedural Due Process under 5th and 14th Amendments
     * SCOTUS, in *McGautha*, rejects argument that life-or-death sentencing decisions needs to follow some explicit criteria in order to comport with due process. Instead, due process is consistent with leaving these decisions to the unguided discretion of judges and juries
   * 8th Amendment protections against cruel and unusual punishment
     * SCOTUS ruled shortly after in *Furman* that capital punishment is it was administered then (1972) was a violation of protection against cruel and unusual punishment. Forced states to quickly adopt new legislation clarifying sentencing criteria (either by re-writing laws to (1) make death penalty mandatory for certain crimes OR (2) standardize guidelines for jury sentencing)
+  
 * Guided discretion and mandatory sentencing
   * New statutory schemes adopted in TX, GA, and FL post *Furman* were upheld. These required sentencing authority weigh certain factors, yet did not impose mandatory imposition of death sentence, ultimately leaving decision to jury
   * Court later held mandatory capital sentencing were inconsistent with standards of decency and thus remained unconstitutional. They argued this schemes fail to address concerns from *Furman* of unchecked and unguided jury, especially when they felt sentence was inappropriate. Individualized sentencing, where all possible mitigating factors are considered, is necessary (*Woodson* and *Locket*)
   * *Woodson* and *Lockett* decisions, where mitigating factors to be considered cannot be limited to those specifically enumerated in the statute, seems to conflict with *Furman* decision arguing the need for structure and less arbitrariness in sentencing guidelines. Also concerns about the excessive time needed for this detailed procedural review and how the time it forces D to spend on death row are irreconcilable with goals of punishment
+  
 * Limitations
   * Declared unconstitutional under 8th Amendment where disproportional to the offense, such as rape (*Coker*)
   * Capital sentencing for the mentally disabled ruled to be unconstitutional in *Atkins*

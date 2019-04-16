@@ -2,27 +2,29 @@
 
 ## Breakdown of MPC 5.01 - Criminal Attempt
 
-* (1) Definition of Attempt - A person is guilty of an attempt to commit a crime if, acting with the kind of culpability otherwise required for commission of the crime, he:
+* **(1) Definition of Attempt** - A person is guilty of an attempt to commit a crime if, acting with the kind of culpability otherwise required for commission of the crime, he:
   * (a) Purposely engages in conduct which would constitute the crime if the attendant circumstances were as he believes them to be; or
     * *Suggests that reverse mistake of fact may still constitute an attempt.The MPC make clear here that the person’s mens rea is important for establishing attempt, maybe not objectively*
   * (b) When causing a particular result is an element of the crime, does or omits to do anything with the purpose of causing or with the belief that it will cause such result without further conduct on his part; or
     * *This captures the traditional "last act" doctrines. If I take all the steps and just miss or fail to carry it out. If the person has done everything needed to commit the crime -- completed actus reus -- they can be found guilty of attempt*
   * (c) Purposely does or omits to do anything which, under the circumstances as he believes them to be, is an act or omission constituting a substantial step in a course of conduct planned to culminate in his commission of the crime
     * *The MPC here incorporates the notion that when something intervenes that prevents the final actus reus, there needs to be a substantial step*
-* (2) Conduct Which May Be Held Substantial Step Under Subsection (1)(c) - Conduct shall not be held to constitute a substantial step under Subsection (1)(c) of this Section unless it is strongly corroborative of the actor's criminal purpose. Without negativing the sufficiency of other conduct, the following, if strongly corroborative of the actor's criminal purpose, shall not be held insufficient as a matter of law:
+  
+* **(2) Conduct Which May Be Held Substantial Step** Under Subsection (1)(c) - Conduct shall not be held to constitute a substantial step under Subsection (1)(c) of this Section unless it is strongly corroborative of the actor's criminal purpose. Without negativing the sufficiency of other conduct, the following, if strongly corroborative of the actor's criminal purpose, shall not be held insufficient as a matter of law:
   * (a) Lying in wait, searching for or following the contemplated victim of the crime;
   * (b) Enticing or seeking to entice the contemplated victim of the crime to go to the place contemplated for its commission;
   * (c) Reconnoitering the place contemplated for the commission of the crime;
   * (d) Unlawful entry of a structure, vehicle or enclosure in which it is contemplated that the crime will be committed;
   * (e) Possession of materials to be employed in the commission of the crime, which are specially designed for such unlawful use or which can serve no lawful purpose of the actor under the circumstances;
   * (f) Possession, collection or fabrication of materials to be employed in the commission of the crime, at or near the place contemplated for its commission, where such possession, collection or fabrication serves no lawful purpose of the actor under the circumstances;
-  * (g) Soliciting an innocent agent to engage in conduct constituting an element of the crime.
+  * (g) Soliciting an innocent agent to engage in conduct constituting an element of the crime
 
 ## Attempt and Mens Rea
 
 * Statutory definitions of the crime of "attempt"
   * "A person is guilty of an attempt to commit a crime when, with intent to commit a crime, he engages in conduct which tends to effect the commission of such a crime" - NY Penal Law
   * "A person commits the offense of attempt when, with intent to commit a specific offense, he does any act which constitutes a substantial step towards the commission of that offense" - IL Comp. Stat
+  
 * Punishment
   * Traditionally, an actor who intentionally seeks harm is less punished much less severely if his attempt proves unsuccessful
   * Today, usual punishment for attempt is a reduced factor of the punishment for the completed crime
@@ -33,6 +35,7 @@
   * This might be a problem, considering the the level of culpability an attempt carries is nearly identical to that of successful completion
     * "In one sense, each has committed an offense, but the one has had the bad luck to cause a horrible misfortune..Both certainly deserve punishment, but it gratifies a natural public feeling to choose out for punishment the one who actually has caused great harm"
   * "The principle of proportionality does not decree that the degree of punishment be proportionate to the offender's good or bad luck, but rather to his...blameworthiness"
+  
 * Specific Intent
   * General common law rule and most American statutes hold that an attempt requires **a purpose or specific intent** to produce the proscribed result, even when recklessness or some lesser mens rea would suffice for conviction of the completed offense
   * What does specific intent mean? Under MPC, it exists only when it is the actors "conscious object...to cause such a result"
@@ -80,6 +83,7 @@
     * If D abandoned criminal plan and is subsequently arrested, we would be holding them guilty even if they took every effort to prevent causing any harm (See Abandonment section below for how some jurisdictions address this problem)
   * Punishment of thought crimes
     * Don't want to punish people for merely thinking about committing crime
+  
 * Abandonment - Once a D has moved from mere preparation to attempt, can he abandon his attempt and escape liability? No. Although there is disagreement on the matter, most scholars believe that abandonment is not a common law defense to attempt.
   * To the extent that a defense of abandonment is recognized today, however, it applies **only if the defendant voluntary and completely renounces her criminal purpose**. It has to be a genuine change of heart – can’t just abandon your attempt because the plan is falling apart or because the risk of capture is higher or you’re afraid of the police
   * The MPC recognizes this approach of voluntary and complete renunciation, even if a substantial step is taken to make an act an attempt. But it too has to be genuine
@@ -161,6 +165,7 @@
 * Solicitation = Inchoate offense of requesting another person commit a target crime
   * Courts differ over question whether solicitation itself constitutes an attempt by the person making it
     * Some states hold solicitor cannot be convicted of attempt because it is not his purpose to commit the offense personally
+  
 * **MPC 5.02**
   * (1) D requests, commands, encourages a person to attempt or commit a crime
   * (2) Failed communication is still sufficient for solicitation

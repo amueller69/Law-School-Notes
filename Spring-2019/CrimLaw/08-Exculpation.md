@@ -258,7 +258,36 @@
   * The right to P.A.S. is distinguishable from the right of competent persons to remove unwanted life-sustaining treatment recognized in *Cruzan*: the right to be free from unwanted medical procedures, at issue in *Cruzan*, is long established in national traditions upholding bodily integrity and protecting against battery, even by physicians
   * Thus, Washington legislature acted rationally in banning assisted suicide in furtherance of these legitimate objectives
 
-## Excuse - Duress
+<!-- ## Excuse - Duress
 
 * Unlike justification, which asserts that what the excused did was appropriate or utility-maximizing, **excuse seeks to show that although the acts were harmful, they could not have been expected to do otherwise**
 * Three most important forms of excuse: duress, intoxication, and mental disorder
+
+* Duress = affirmative defense that D coerced into criminal conduct b/c (see Toscano, Contreras-Pinchon)
+* MPC 2.09 and CL Duress
+  * (1) person made “specific and imminent” threats of “serious bodily injury or death” against D or D’s family member if should D refuse to commit a crime
+    * NOTE: MPC and some jurisdictions apply it to property too (if property value outweighs harm)
+  * (2) D reasonably believed the other person would carry out the threat
+  * (3) D had no reasonable opportunity to prevent the threatened harm by,
+    * (a) fleeing
+    * (b) informing law enforcement
+  * (4) D did NOT recklessly or negligently expose himself to the threat
+    * NOTE: this element often arises if D part of criminal enterprise where threats are reasonably expected
+* (split jurisdiction) defense to homicide
+  * CL: NO defense to homicide
+  * MPC: defense to homicide
+* Duress distinguished from Necessity in that:
+  * (1) Duress is excuse (ie. condoned BUT not encouraged) v. necessity is justification (ie. right thing to do)
+  * (2) Duress ALWAYS involves a human threat v. necessity MAY or MAY NOT involve human threat
+  * (3) Duress D’s free will impaired v. necessity D’s free will intact
+  * (4) Duress futhers evil v. necessity intended to avoid a greater evil to general welfare
+
+*State v. Toscano* (1977 NJ)
+
+* Facts - D (doctor) convicted of making false medical reports for another person, but D claimed that he only did so b/c of threats against him by the other person
+* Holding - Duress is a defense (to a non-homicide crime) and question for the jury if (1) D coerced into conduct by use or threat of unlawful force and (2) a “person of reasonable firmness in D’s situation” would have been unable to resist (jury question)
+
+*Contreras-Pinchon* (1984 9th Cir.)
+
+* Facts - D (Colombian cab driver) convicted of drug trafficking, but D claimed he only did so b/c person threatened to kill him and his family if he didn’t transport the drugs, and D couldn’t tell police who were corrupt
+* Holding - D excused from liability if commits crime under duress -->
