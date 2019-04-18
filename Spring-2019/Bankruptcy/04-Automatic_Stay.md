@@ -4,16 +4,20 @@
 
 * The automatic stay is a statutory injunction that takes effect when a BR petition is filed, regardless of whether it is voluntary or involuntary
 * When debtor files for bankruptcy, all collection activities have to stop: aka creditors must stop seeking payments, suing debtor, etc
+  
 * Rationale:
   * Making bankruptcy process a collective action problem - if all creditors race to the court house, they won’t be able to save a business which may actually be worth saving from being dismembered
   * If there are lots of creditors, they may not all be able to coordinate/get together, so each creditor has an incentive to grab payment in full first
+  
 * Aims of the Automatic Stay:
   * Debtor protection: Safeguard against dismembering the bankrupt’s estate by stopping collection efforts. Permits debtor to attempt repayment/reorganization plan
   * Creditor protection: Provide orderly liquidation procedure under which creditors are treated equality (no race against debtor’s property, ratable distribution)
+  
 * The automatic stay is backward looking and only applies to pre-petition debts, contracts, etc.  Any deal that is made after the petition is filed is not subject to bankruptcy restrictions
   * Even new deals can violate the automatic stay in certain situations
     * Example: The DR’s supplier (unsecured) says that he will only give the DR supplies if he pays pre-petition debt
     * Even though this takes place post-petition, it is still a collection effort that is stayed under the bankruptcy proceedings.  This violates 362(a)(6), which forbids acts to collect claim against debtor that arose before commencement of the case
+  
 * **Critical Vendor Doctrine**
   * Permits repayment of vendors deemed to be critical to restructuring efforts
   * If supplier will walk away unless debtor pays back post-petition debts, then Courts allow debtor to unilaterally pay the supplier its unsecured claims to save the relationship during the bankruptcy proceeding
@@ -36,38 +40,48 @@
   * When the DR files for bankruptcy she gives the court the names and addresses of her CRs and notice is sent to these addresses
     * Since a lot of DRs have “lockbox” addresses that they send their monthly bills to, many CRs have filed a “notice of address” with a bankruptcy court – all bankruptcy courts must then use this address to notify the CR.  If a CR has filed an address with a court, notice will not be considered “effective” until it has been sent to this address.
     * §342(g)(2) - No monetary penalty may be imposed on a CR for acts violating the stay committed before the CR is given effective notice
+  
 * §362(a)(1)
   * Commencement or continuation of litigation intended to recover pre-petition claims or those that was/could’ve been commenced before filing
     * Note: Pre-petition claims may include causes of action that have resulted from pre-BK conduct and post-petition legal relationships
     * Note: aimed at staying judicial or administrative proceedings
+  
 * §362(a)(2) -- Enforcement of a pre-petition judgment
   * Creditor cannot enforce a judgment obtained before bankruptcy
 * §362(a)(3) -- Act to obtain possession of/exercise control of property of estate
   * Creditor cannot take any action to re-possess the property of the estate (Not limited to pre-petition obligations)
     * Example: D stops paying lease and files for BR. Landlord cannot terminate the lease and retake the property. It can only file for relief
     * Example: Insurance company cannot cancel policy
+  
 * §362(a)(4) -- Creating/perfecting/enforcing a lien against property of the estate (Not limited to pre-petition obligations)
   * Foreclosure is stayed
   * Acts of perfecting SC/mortgage are stayed
     * Exception under §362(b)(3), which incorporates exceptions from 546(b) (cases of automatic perfection-PMSI’s) and 547(e)(2)(A) (30 day grace period to perfect after transfer, aka the transfer date is the perfection date if perfected within 30 days)
+  
 * §362(a)(5) -- Creating/perfecting/enforcing a lien against property of the debtor (when such lien secures a claim that arose pre-petition)
   * Property of the debtor: inclusion of (5) and use of this term suggests that it involves property that is not part of the estate
   * Example: Property acquired after bankruptcy (if in a chapter (Ch. 7) /jurisdiction does not include after-acquired assets in the estate) OR property that is exempted from the estate (sentimental value)
+  
 * §362(a)(6) -- Acts to collect, assess, or recover a claim against debtor that arose before commencement of case
   * Note: this can include irate phone calls harassing the debtor or even withholding future services because of a prior debt (Q5 (p. 163))
+  
 * §362(a)(7) -- Setoff (of mutual debts)
+  
 * §362(a)(8) -- Commencement/continuation of Tax proceedings
 
 ### §362(b): Exceptions to the Stay
 
 * **§362(b)(1)** -- Criminal suits (for true crimes, not ones that are simply seeking payment of a fine)
+  
 * **§362(b)(2)** -- Cannot interfere with the rights of spouses and children to receive domestic payment from debtor spouses
+  
 * **§362(b)(4)** -- Government exercising police/regulatory power (Penn Terra, see below)
   * Requirements: (1) Actions must protect public welfare, and (2) Must be a nonmonetary judgment (or be forward looking)
   * But can’t enforce money judgment (exception to exception). Prevents gov’t units from using the police/regulatory power to gain preferential treatment over other creditors
     * “Money judgments” do not have to be literal money judgments – an act that is analogous to a money judgment will also be stayed
     * Rule: If the purpose is to remedy a backward-looking (past) harm, then it is a money judgment (not exempted). If the purpose is forward-looking (seeks to prevent future harm), then it falls under the regulatory power exception
     * Key question: does the regulatory agency look like a CR in this situation?
+  
 * **§362(b)(7/17/27) -- Exception for derivatives and other financial contracts**
   * Favors Wall Street for dealings with financial instruments like swaps and derivatives
   * **§362(b)(7) -- Repurchase Agreements**
@@ -86,7 +100,9 @@
 ### §362(c): Termination of the Stay in the event of repeated filings
 
 * Sections preventing abuse of repeated filings
+  
 * §362(c)(3) - If debtor had a prior case dismissed in the preceding one-year period, the automatic stay in the second case terminates without respect to the debtor within 30 days after filing unless debtor rebuts heavy presumption that her case was not filed in good faith
+  
 * §362(c)(4) - If D has two or more filings within the previous year, there is no stay at all unless bad faith presumption in preceding sentences is rebutted
 
 ### §362(d): Lifting the Stay
@@ -94,6 +110,7 @@
 * §362(d)(1) -- Cause/reason to lift the stay (mainly lack of adequate protection)
   * Adequate protection means protection of value of a secured creditor’s collateral or mortgage holder’s collateral
   * Normally dealing with secured creditors whose collateral is deteriorating in value
+  
 * §362(d)(2)— For property…if the debtor has no equity in the property and the property is not necessary vital to reorganization efforts
 
 ### §362(k)(1): Willful Violation
@@ -112,11 +129,12 @@
     * *Soares* court claims that actions in violation of the stay are presumptive void. The burden is on the creditor to show compelling reason for exception (lack of notice or debtor acted in bad faith). Bar is high
   * Voidable:
     * (Pro-creditor) likely to conclude the stay is not violated because the burden is on the debtor
+  
 * What would it take for creditor to get the stay to be retroactively lifted?
   * Showing of bad faith by debtor
   * Showing lack of notice to creditor
 
-### In Re Soares
+### *In Re Soares*
 
 * Timeline:
   * March 22, 1995 – Creditor seeks order of default and judgment of foreclosure
@@ -137,11 +155,14 @@
 ## Limits on the Automatic Stay
 
 * **§108(b)**: provides for automatic extension of deadlines for property rights of the estate and the like (60 day extension of timeline to cure default)
+  
 * **§362(a)**: Only stays affirmative actions, no matter how trivial. It CANNOT stay an automatic expiration (such as an automatically expiring equity period of redemption)
   * If any action were needed, even filing with real estate office, § 362 would presumably apply
   * Note: if there was a guarantor to this transaction, the stay would presumably not reach an action against the guarantor, the stay only reaches the debtor and the guarantor is in place precisely as an alternative means of repayment should the debtor be unable to repay
+  
 * **§105**: Powers can be used to filling in the gaps to afford the debtor maximum protection, but cannot be used to conflict/change an existing provisions
   * Ex: Since §108(b) provision extended the debtor’s time with respect to the equity period of redemption already, §105 powers could not be invoked to include the running of the statutory period in the automatic stay (Johnson)
+
 * **Equity Periods of Redemption** - Buyback periods after foreclosure where DRs can redeem the property that they defaulted on.
   * §108(b): DR can redeem property until the end of the statutory period, or 60 days after the BR order of relief, whichever is longer. As long as the period had not already run
   * §105 can’t be used to expand the period (Johnson: When a provision of the Code provides clear guidance on how to handle a situation, bankruptcy courts cannot use their broad § 105 powers to contradict or undermine the Code)
@@ -151,7 +172,7 @@
     * When the automatic stay is in place, the CR cannot take the additional step without violating the stay.  So, even though the statutory period ran, the CR cannot actually effectuate the transfer until the stay has been lifted
       * This is relevant because the property would then be subject to the bankruptcy process (for example, the DR could keep it and pay the CR the value of its lien in a Chapter 11 reorganization)
 
-### Johnson v. First National Bank (equity periods of redemption)
+### *Johnson v. First National Bank* (equity periods of redemption)
 
 * Equity of redemption period - Statutory moratorium puts a certain time period in which the sale/foreclosure is uncertain. Allows the debtor to redeem property that they defaulted on
   * Here, the debtor has one year to pay up after the foreclosure sale to regain possession. Otherwise, ownership transfers
@@ -171,6 +192,7 @@
   1. Automatic running of the equity period of redemption (Johnson)
   2. Require the creditor/mortgagee to take some affirmative action in order to complete the transaction and effectuate the transfer
      *Note: in this case, the creditor cannot take the additional step required without violating the stay
+  
 * Hypothetical: same situation as *Johnson*, except different timeline
   * Timeline:
     * December 1: Bankruptcy
@@ -200,68 +222,81 @@
 
 ## Application of Stay To Non-Debtor Entities
 
-* Co-Defendants in Lawsuits
-  * Rules:
-    * §362(a) is applicable only to proceedings against the debtor, but §105(a) gives BK court broad authority to issue an order process … as necessary to carry out the provisions of the title
-    * When a company that is defending litigation files for bankruptcy, the ongoing litigation is stayed.  Courts generally refuse to use their §105 power to stay litigation against the debtor’s solvent co-Ds.  See Lynch v. Johns-Mansville (asbestos litigation)
-    * Litigation against non-debtors has been stayed in Chapter 11 cases to preserve D’s reorganization options
-      * This exception normally occurs when there is an “unusual situations” in which the relationship of the debtor/third-party makes the debtor the “real” defendant (i.e., when a judgment against a third-party would effectively be a judgment against the debtor/the estate).  A.H. Robins v. Piccinin
-  * *A.H. Robins Co. v. Piccinin*
-    * Facts: The debtor was the subject of numerous suits for product liability.  The debtor filed bankruptcy and brought a motion for a declaratory judgment that the debtor’s product liability policy was an asset of the estate and that injunctive relief restraining actions against co-defendant.
-    * Holding: whole litigation has to stop bc the parries are so clearly tied. Cannot go forward on suits against third parties (doctors; directors/officers)
-    * Key Arguments for Extension of the Stay:
-      1. Insurance policy is structured in a way that is zero-sum*
-         * There is a fixed amount (ceiling) and anything that was paid out would reduce the amount available for creditors of Robins.
-         * Skeel: this is a very strong argument for the application of the stay. This fits squarely in §362
-            * Direct line into §362: §362(a)(3) applies directly because the insurance policy is for the company and the third parties. If you sue the third parties, you will be affecting the insurance policies, which will be affecting property of the estate. The actions against the third parties will so diminish the estate
-      1. Indemnification Obligation – if the guarantor can turn around and sue the debtor in the event that the guarantor has to pay for debtor’s default. Robins had an obligation under state law to pay back any payouts from the doctors/directors
-         * Question: does indemnification take property from the estate? §362 is really about the assets of the estate, rather the number of claims/assets per creditors
-         * Skeel: indemnification argument seems dubious by itself. This is bc the claim is really the same, just the identity of the party being paid is different
-      1. Managers are essential to the reorganization process and the litigation would be a distraction from the reorganization effort
-         * Impact of letting the litigation go forward on the reorganization process (many of the key defendants were members of Robins and would not be able to focus on reorganization efforts)
-         * Skeel: weak argument as well (esp. in light of Otero Mills)
-  * *In re Minoco Group of Companies, Ltd.*
-    * Facts: D owned insurance policies that covered claims by D&O for indemnification of legal expenses and judgments arising from their activities. 2 months after filing Ch. 11, insurers canceled the policies.
-    * Holding: a violation of the automatic stay
-    * Relying on *AH Piccinin*, Court held that there was no significant distinction b/w a liability policy that insures the D against claims by consumers and one that insures the D against claims by officers and directors. Both policies protect diminution of the value of the estate.
-  * *Matter of Edgeworth*
-    * Holding: insurance proceeds were not property of the estate b/c they were entirely payable to a P. Distinguished from Piccinin in which liability insurance proceeds would be exhausted by the claims of the many P if the proceeds were not marshaled in a BK proceeding.
+### Co-Defendants in Lawsuits
+  
+* Rules:
+  * §362(a) is applicable only to proceedings against the debtor, but §105(a) gives BK court broad authority to issue an order process … as necessary to carry out the provisions of the title
+  * When a company that is defending litigation files for bankruptcy, the ongoing litigation is stayed.  Courts generally refuse to use their §105 power to stay litigation against the debtor’s solvent co-Ds.  See Lynch v. Johns-Mansville (asbestos litigation)
+  * Litigation against non-debtors has been stayed in Chapter 11 cases to preserve D’s reorganization options
+    * This exception normally occurs when there is an “unusual situations” in which the relationship of the debtor/third-party makes the debtor the “real” defendant (i.e., when a judgment against a third-party would effectively be a judgment against the debtor/the estate).  A.H. Robins v. Piccinin
+  
+* *A.H. Robins Co. v. Piccinin*
+  * Facts: The debtor was the subject of numerous suits for product liability.  The debtor filed bankruptcy and brought a motion for a declaratory judgment that the debtor’s product liability policy was an asset of the estate and that injunctive relief restraining actions against co-defendant.
+  * Holding: whole litigation has to stop bc the parries are so clearly tied. Cannot go forward on suits against third parties (doctors; directors/officers)
+  * Key Arguments for Extension of the Stay:
+    1. Insurance policy is structured in a way that is zero-sum*
+        * There is a fixed amount (ceiling) and anything that was paid out would reduce the amount available for creditors of Robins.
+        * Skeel: this is a very strong argument for the application of the stay. This fits squarely in §362
+          * Direct line into §362: §362(a)(3) applies directly because the insurance policy is for the company and the third parties. If you sue the third parties, you will be affecting the insurance policies, which will be affecting property of the estate. The actions against the third parties will so diminish the estate
+    1. Indemnification Obligation – if the guarantor can turn around and sue the debtor in the event that the guarantor has to pay for debtor’s default. Robins had an obligation under state law to pay back any payouts from the doctors/directors
+        * Question: does indemnification take property from the estate? §362 is really about the assets of the estate, rather the number of claims/assets per creditors
+        * Skeel: indemnification argument seems dubious by itself. This is bc the claim is really the same, just the identity of the party being paid is different
+    1. Managers are essential to the reorganization process and the litigation would be a distraction from the reorganization effort
+        * Impact of letting the litigation go forward on the reorganization process (many of the key defendants were members of Robins and would not be able to focus on reorganization efforts)
+        * Skeel: weak argument as well (esp. in light of Otero Mills)
+  
+* *In re Minoco Group of Companies, Ltd.*
+  * Facts: D owned insurance policies that covered claims by D&O for indemnification of legal expenses and judgments arising from their activities. 2 months after filing Ch. 11, insurers canceled the policies.
+  * Holding: a violation of the automatic stay
+  * Relying on *AH Piccinin*, Court held that there was no significant distinction b/w a liability policy that insures the D against claims by consumers and one that insures the D against claims by officers and directors. Both policies protect diminution of the value of the estate.
+  
+* *Matter of Edgeworth*
+  * Holding: insurance proceeds were not property of the estate b/c they were entirely payable to a P. Distinguished from Piccinin in which liability insurance proceeds would be exhausted by the claims of the many P if the proceeds were not marshaled in a BK proceeding.
+  
 * Third Parties Liable to Pay the Debtor’s Obligations
   * There are three consensual security devices that can be used to assure payment of a debt.
     1. The debtor can grant the creditor a security interest in property of the debtor.
     2. A third party can guarantee payment of the debt by either a personal guaranty or by providing collateral to secure payment of the debt
     3. The debtor can obtain a standby letter of credit from a bank for the benefit of the creditor
-* Guarantors
-  * Rules:
-    * Creditors CAN go after guarantors when the automatic stay is in effect.  This is the entire point of guarantors/guaranteeing a loan!  By guaranteeing a loan, we are giving the creditor a place to go if the debtor can’t fulfill his obligations.  Credit Alliance Corp. v. Williams
-      * After a guarantor pays the creditor, the guarantor has a claim against the debtor – so allowing personal guarantors doesn’t change the playing field all that much.  Now, instead of Creditor A (the bank) having a claim against the estate secured by a guarantee, Creditor B (guarantor) has an unsecured claim for the same amount against the debtor.
-    * Exceptions:  Courts have extended the automatic stay to guarantors in certain unique, exceptional situations.
-      * If enforcement of the judgment against the guarantor would irreparably harm the bankruptcy estate the automatic stay may extend to a guarantor (In re Otero Mills)
-      * OR
-      * If enforcement of the judgment against the guarantor would have a detrimental effect on the debtor’s reorganization plan (In the Matter of Supermercado Gamboa, Inc)
-  * *Credit Alliance Corp. v. Williams*
-    * Facts: CA holds a note issued by Penn Hook and guaranteed by Gary and Malcolm Williams.  CA sued PH and the guarantors.
-    * Holding: § 362 only applies to debtor and property of the estate.  Guarantors of debtors in bankruptcy are not protected by the automatic stay. Only rarely is a proceeding stayed for a guarantor (“unusual circumstances”)
-      * A guaranty does not provide an usual circumstance under Robins v. Piccinin.
-  * *In re Otero Mills, Inc.*
-    * Holding: The bank was enjoined from obtaining judgment from the guarantor of the debtor, its principal stockholder.
-    * The court reasoned that it could enjoin such action under § 105(a) because the principal stockholder provides required assets for the reorganization.
-    * Argument to be made: under certain circumstances where the third-party (owner/manager) is essential to the reorganization plan, the action against the third party may be stayed
-      * Either they are putting up some of the money OR they will be distracted from the reorganization effort by the litigation
-    * Note: this is a very controversial case that is not absolutely followed
-  * *Matter of Supermercado Gamboa, Inc.*
-    * The court stated that it would not follow the rationale of Otero unless there was a clear showing that the non-debtor guarantor would have detrimental impact on the debtor’s reorganization
-  * Note: There is a debate as the extent injunctions are permissible to maintain a debtor’s ability to formulate a reorganization plan
-* Letters of Credit Lender
-  * Letter of credit
-    * This obligates a bank to pay the creditor if certain conditions are met. This will give rise to a claim of the bank against the debtor.
-    * Does an automatic stay prevent an action to collect from such a letter?  In re Page, the court on appeal answered no because although it creates indemnification claim it does not create, perfect, or enforce a lien in the property of the estate.
-  * Rules:
-    * The automatic stay does NOT extend to letters of credit
-      * If the debtor has defaulted and is in bankruptcy, the creditor can enforce the letter of credit since the letter of credit is not property of the estate and it will not divest the estate of property.  (In re Page)
-    * Note: Letters of credit are not subject to the automatic stay even if they are secured by property/collateral of the debtor. This is because the security interest was voluntarily provided pre-filing and thus there is no creation of a new claim (simply activation of a contingent claim). Any attempt to actually take the property of the debtor would be stayed, however
-  * Note: there really is no difference between a letter of credit and a guarantor.
-    * Skeel: a letter of credit is effectively a form of guarantee
+  
+### Guarantors
+  
+* Rules:
+  * Creditors CAN go after guarantors when the automatic stay is in effect.  This is the entire point of guarantors/guaranteeing a loan!  By guaranteeing a loan, we are giving the creditor a place to go if the debtor can’t fulfill his obligations (*Credit Alliance Corp. v. Williams*)
+    * After a guarantor pays the creditor, the guarantor has a claim against the debtor – so allowing personal guarantors doesn’t change the playing field all that much.  Now, instead of Creditor A (the bank) having a claim against the estate secured by a guarantee, Creditor B (guarantor) has an unsecured claim for the same amount against the debtor.
+  * Exceptions:  Courts have extended the automatic stay to guarantors in certain unique, exceptional situations.
+    * If enforcement of the judgment against the guarantor would irreparably harm the bankruptcy estate the automatic stay may extend to a guarantor (*In re Otero Mills*)
+    * OR
+    * If enforcement of the judgment against the guarantor would have a detrimental effect on the debtor’s reorganization plan (*In the Matter of Supermercado Gamboa, Inc*)
+  
+* *Credit Alliance Corp. v. Williams*
+  * Facts: CA holds a note issued by Penn Hook and guaranteed by Gary and Malcolm Williams.  CA sued PH and the guarantors.
+  * Holding: § 362 only applies to debtor and property of the estate.  Guarantors of debtors in bankruptcy are not protected by the automatic stay. Only rarely is a proceeding stayed for a guarantor (“unusual circumstances”)
+    * A guaranty does not provide an usual circumstance under Robins v. Piccinin.
+  
+* *In re Otero Mills, Inc.*
+  * Holding: The bank was enjoined from obtaining judgment from the guarantor of the debtor, its principal stockholder.
+  * The court reasoned that it could enjoin such action under § 105(a) because the principal stockholder provides required assets for the reorganization.
+  * Argument to be made: under certain circumstances where the third-party (owner/manager) is essential to the reorganization plan, the action against the third party may be stayed
+    * Either they are putting up some of the money OR they will be distracted from the reorganization effort by the litigation
+  * Note: this is a very controversial case that is not absolutely followed
+  
+* *Matter of Supermercado Gamboa, Inc.*
+  * The court stated that it would not follow the rationale of Otero unless there was a clear showing that the non-debtor guarantor would have detrimental impact on the debtor’s reorganization
+* Note: There is a debate as the extent injunctions are permissible to maintain a debtor’s ability to formulate a reorganization plan
+  
+### Letters of Credit Lender and Insurance Contracts
+
+* Letter of credit
+  * This obligates a bank to pay the creditor if certain conditions are met. This will give rise to a claim of the bank against the debtor.
+  * Does an automatic stay prevent an action to collect from such a letter?  In re Page, the court on appeal answered no because although it creates indemnification claim it does not create, perfect, or enforce a lien in the property of the estate.
+* Rules:
+  * The automatic stay does NOT extend to letters of credit
+    * If the debtor has defaulted and is in bankruptcy, the creditor can enforce the letter of credit since the letter of credit is not property of the estate and it will not divest the estate of property.  (In re Page)
+  * Note: Letters of credit are not subject to the automatic stay even if they are secured by property/collateral of the debtor. This is because the security interest was voluntarily provided pre-filing and thus there is no creation of a new claim (simply activation of a contingent claim). Any attempt to actually take the property of the debtor would be stayed, however
+* Note: there really is no difference between a letter of credit and a guarantor.
+  * Skeel: a letter of credit is effectively a form of guarantee
+
 * Insurance Contracts
   * ARE subject to the automatic stay
   * Insurance policies are assets/are part of the estate
@@ -317,12 +352,12 @@
 
 ### Hypothetical 3 - Energy Holdings Company
 
-* Energy holding company with subsidiaries in electricity, natural gas, and nuclear energy. For purposes of bankruptcy, treated as independent. Electric subsidiary borrows $500M from bank. Bank requires as part of loan:
+* Setup: Energy holding company with subsidiaries in electricity, natural gas, and nuclear energy. For purposes of bankruptcy, treated as independent. Electric subsidiary borrows $500M from bank. Bank requires as part of loan:
   1. Electric Co must get insurance policy for top managers
   2. Loan must be guaranteed by the Holding Company
   3. Required to get a letter of credit, which will pay Bank if Electric Co fails to pay. Letter of Credit to be secured by assets of Electric Co.
      * (Letter of Credit = a promise by a 3rd party to pay a lender in the event debtor is unable to pay. Functions like a secured loan, except the one paying is not Debtor, but Letter of Credit Lender)
-* If Electric Co files for Bankruptcy, are each of these 3 things subject to the stay? (Electric Co is in Bankruptcy; Holding Co and Gas Estate Co are NOT)
+* Question: If Electric Co files for Bankruptcy, are each of these 3 things subject to the stay? (Electric Co is in Bankruptcy; Holding Co and Gas Estate Co are NOT)
   1. Insurance policy
      * Cannot terminate because this would be taking equity away from estate
      * If the insurance policy had a clause that said either party can terminate at any time with 30 days notice, can the insurance company terminate?
@@ -351,6 +386,8 @@
 * Setup: Bank made an unsecured loan to debtor (500k) and the bank requires that the debtor do its banking with the Bank as a condition (unsecured loan agreement). Debtor has 100k in working capital in a savings account with the Bank. Debtor owes the bank 500k.
 * Can the Bank take money from the debtor’s bank account (exercise its set-off right under state law)? NO! violation of the automatic stay
   * §362(a)(7)-- Setoff (of mutual debts)
-* Can the Bank freeze the debtor’s account? Technically, YES!! (Scalia’s decision in Strumpf)
+* Can the Bank freeze the debtor’s account? Technically, YES!! (Scalia’s decision in *Strumpf*)
   * Argument that freezing the account is a shield rather than a sword. Actions that are a sword (affirmatively doing something) would be a violation of the automatic stay
   * Note: Skeel does not necessarily think this view is a good reading. Could use §362(a)(7) because freezing the account is simply a backhanded way at achieving a set-off OR §362(a)(3) because it is an attempt to exercise control over property of the estate
+
+---

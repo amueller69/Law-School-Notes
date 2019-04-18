@@ -16,6 +16,7 @@
 ### §522(b) State Exemptions & Domiciliary Requirement
 
 * **§522(b)(2)** - Provides debtor with the ability to choose between the federal and state exemptions (unless their state opts out of the choice)
+  
 * **§522(b)(3)(A) - Domiciliary Requirement**: Provides which state a debtor can use for state exemptions
   * Rule: Debtor must have lived in state for 730 days (2 years) immediately before filing in order to claim that state’s exemptions
     * If debtor hasn’t lived in a single state for 2 years, look where he lived for the 180 days immediately before the 2-year period or for where debtor lived for the majority of the 180-day period
@@ -25,9 +26,13 @@
 ### §522(d) - Federal Exemptions
 
 * **§522(d)(1) – Homestead Exemption** (Not to exceed $23,675 in property used as residence)
+  
 * **§522(d)(2) – Motor Vehicle Exemption** (Not to exceed $3,775 in one motor vehicle)
+  
 * **§522(d)(3) – Household Goods Exemption** (Not to exceed $600 in any particular item or $12,625 in aggregate)
+  
 * **§522(d)(4) – Jewelry Exemption** ($1,600)
+  
 * **§522(d)(5) – Wildcard** (Not to exceed $1,250 plus up to $11,850 of any unused amount in homestead exemption)
   * A debtor may use this for anything; additional homestead exemptions if the homestead exemption in (d)(1) is not completely used
   * Note: Sometimes an item is only partially exempt under a particular category but can be fully exempted with the help of the wildcard exemption
@@ -40,8 +45,10 @@
 ### §522(f) - Avoidance of Liens that Impair Exemptions
 
 * Presents the ability for the debtor to avoid some liens that would otherwise impair an exemption the debtor is otherwise entitled to
+  
 * **§522(f)(1)(A): Debtor may avoid the fixing of a lien to the extent that such lien impairs an exemption to which the debtor is entitled**
   * Does not apply to consensual liens (e.g. mortgage). Can only avoid judicial liens OR non-possessory, non-purchase money security interest in certain types of property (e.g. household furnishings/goods, animals, tools of trade, health prescriptions, etc.) - definitions of these types of property are included in §522(f)(4)
+  
 * **§522(f)(2)(A): Amount of lien that impairs exemption = (all liens on the property (judicial, mortgages, security interest, personal property) + the amount of the exemption that the debtor could claim) – debtor’s interest in the property**
 * Requirements:
   1. Is this type of lien avoidable?
@@ -106,13 +113,16 @@
   * Interest did not arise until after the divorce judgement at which time the the lien was simultaneously attached
     * During marriage, husband and wife jointly own 100% of the interest in the property. There is a change in ownership interest at time of divorce. Divorce decree is what created husbands property interest while simultaneously creating lien on the property, thus he never had the this property interest in a state where no judicial lien was attached
     * If the husband had owned the property alone before the settlement, the fixing of the judicial lien would occur after the debtor’s property interest was already in place and then the husband could avoid this judicial lien
+  
 * What is potential problem with this reading of §522f?
   * It does not solve all the domestic law implications (Courts don’t want husbands to be relieved of responsibilities to ex-wife)
   * Unintended Consequence of this decision: Anytime the lien arises at the same time as the property interest… this can happen if there is a judicial lien on someone (usually good for 5-10 years), and debtor acquires other property
-* Skeel:
+
+* Lecture Commentary:
   * Even though this is an extremely technical reading of the statute, Court is probably correct here
   * There are other ways to fix this problem, such as framing this judicial lien as a consensual lien as opposed to a judicial lien
     * Could have argued that this is not a judicial lien, but essentially a mortgage, thus not what §522(f) intended to protect. This alternative approach to the case would have lead to the same result without the technical interpretation
+  
 * Note: After *Farrey*, Congress changed §522(f) to include a qualification on avoiding judicial liens. Judicial liens are avoidable except those specified in 523(a)(5) – obligations that look like alimony, maintenance, support problems
   * Congress protected alimony and support obligations by adding it to §522(f), but did not protect property settlement arrangements that are not alimony/support, thus this change would not have directly fixed issue in *Farrey*
 
@@ -135,11 +145,13 @@
       * Drafters wanted to facilitate lending and other agreements that protect creditors from BR - allowing the avoidance of consensual leans would discourage this
   * Here, can remove the full $40k judicial lien. This means that the property interest is now removed, but the $40k judicial lien does not disappear. It simply becomes a $40k unsecured claim. Still owed 40k but now there is no property interest securing that amount
   * Note: assume for our purposes that §522(f) is dealing with avoiding judicial liens only
+  
 * Hypothetical #2
   * Same facts as the first except that instead of a mortgage, there is actually a second judicial lien of $70k. What would happen?
   * Could avoid the first $40k judicial lien. Still have $20k in which we could avoid from the second judicial lien. Therefore making this second judicial lien a $50k
   * **Not eliminating the liens, but simply turning them into an unsecured claim (i.e. they lose property interest)**
   * Note: this re-writes the second judicial lien. Instead of a full $70k lien, now have a $50k lien. Doesn’t remove the remaining $20k claim, it is now a $20k unsecured claim
+  
 * In-Class Hypothetical #3 (Same as #2 but with slightly different facts)
   * Assets: House - $110k
   * Liens:
@@ -156,6 +168,7 @@
   1. Restriction Based On When Debtor Bought the Land/House - §522(p)
   1. Restriction Based On Debtor Violating/Being Sued For Violation of Securities Law - §522(q)
 * Note: Remember that homestead exemptions are subject to consensual liens (exemptions are subject to any mortgage you might have on the house)
+  
 * Homestead Analysis Flow
   1. Has debtor lived in his current State for 2 years?
      * Yes --> Go to Step 3
@@ -181,6 +194,7 @@
 
 * Rule: **Debtor must have lived in state for 730 days (2 years) immediately before filing in order to claim that state’s exemptions**
   * If debtor hasn’t lived in a single state for 2 years, look where he lived for the 180 days immediately before the 2-year period or for where debtor lived for the majority of the 180-day period
+  
 * Hypothetical
   * Setup: Debtor lived in State A for 30 years and moves to State B on Jan 2, 2012, where he buys a new house in State B. Files for bankruptcy on Jan 1, 2013
     * State A = $25k exemption
@@ -197,6 +211,7 @@
 ### Restriction Based On When Debtor Bought the Land/House - §522(p)
 
 * Rule: If debtor has not owned land/house for at least 3 years and four months, homestead exemption is capped at ~ $160k
+  
 * Hypothetical
   * Setup: Debtor moves to TX (state of unlimited homestead exemption)
     * 1/1/02: Debtor moves to TX
@@ -212,6 +227,7 @@
 ### Restriction Based On Debtor Violating/Being Sued For Violation of Securities Law - §522(q)
   
 * Rule: Debtor’s homestead exemption is capped at ~160k if debtor (1) has been convicted of a felony that demonstrates abusive filing or (2) owes a debt arising from violation of securities law, or fraud related to securities
+  
 * Hypothetical
   * Setup: PG&E violates securities law and case is still pending (litigation filed). CEO purchases house in state with unlimited Homestead exemption for $5 million in cash. Files for BR. Notwithstanding domicility exceptions, how much could CEO claim as exemption?
     * Note: Rich people buy homes with cash partially because mortgages are immune from Homestead exemption

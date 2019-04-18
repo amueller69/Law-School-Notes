@@ -268,6 +268,6 @@
   * 10k is administrative expense here
     * Logic: §365(g) – when the breach is treated as having occurred. Here, at the time of actual rejection (post-petition)
     * Note: If the debtor just rejects the contract, the 10k would be an unsecured claim
-  * RULE: Everything post petition gets administrative expense status (needs to be paid in full in cash before confirmation)
+  * Rule: Everything post petition gets administrative expense status (needs to be paid in full in cash before confirmation)
 
 ---

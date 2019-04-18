@@ -341,7 +341,7 @@
 
 ### Two-Point Net Improvement Test (§547(c)(5))
   
-* Rule: W**hen the collateral is inventory or accounts receivable, there wont be a preference as long as the CR is not better off in BR than it was in the preference period (i.e. not a preference unless CR is less under-collateralized in BR than they were 90 days before BR)**
+* Rule: **When the collateral is inventory or accounts receivable, there wont be a preference as long as the CR is not better off in BR than it was in the preference period (i.e. not a preference unless CR is less under-collateralized in BR than they were 90 days before BR)**
 * Designed for inventory, accounts receivable loans (not equipment) that is constantly turned over
   * Example: Laser printers or other supplies at Staples. When current inventory is sold, Staples will buy a new one replacing the original one and the creditor’s security interest will transfer to the new replacement collateral. Old security interest in laser printer that was sold will transfer to the new printer that is attained. The transfer of the security interest looks like a preferential transfer, but not treated as such because of this safe harbor
 * Assumes there is an after-acquired property clause in their contract

@@ -10,18 +10,26 @@
 
 ### §727(a) - Denials of Discharge
 
-* §727(a) - Complete denial of discharge (all discharge is denied). States that debtor should be granted discharge unless one of the conditions in the subsections is met
-  * **§727(a)(1) - The debtor is not an individual**
-    * Note: Only an individual is provided a discharge; not a corporation/other entity that can be dissolved after liquidation
-  * **§727(a)(2) - Actual fraud occurs with property of estate** - Transferred/concealed/removed/destroyed property within one year of filing with the intent to hinder, delay, or defraud creditors or trustee
-    * Note: Some pre-bankruptcy planning is allowed (consistent with the idea of a “fresh start”), so must be careful when seeking to invoke this provision that the conduct was truly meant to defraud
-  * **§727(a)(3) - Fraudulent or failure to provide financial records**. Debtor intentionally concealed, destroyed, or failed to keep records from which debtor’s financial condition could be ascertained
-  * **§727(a)(4)(A)/(B) - False oaths and claims**. Failure to disclose transfer or makes false statements or knowingly provided false claims
-  * **§727(a)(5) - Failure to explain satisfactorily any losses of assets**
-  * **§727(a)(6) - Failure to co-operate**. Refusal to obey lawful court order or respond to material question (including invoking 5th after immunity has been given)
-  * **§727(a)(8) - Chapter 7 Time Limitation**. Denies discharge to debtor who has previously received a discharge under Chapter 7 within 8 years of this case
-  * **§727(a)(9) - Chapter 13 Time Limitation**. Denies discharge to debtor who has previously received a discharge under Chapter 13 within 6 years of this case
-    * Exception: If debtor paid all unsecured claims or 70% of such claims were paid and debtor made good faith, best effort
+* Complete denial of discharge (all discharge is denied). States that debtor should be granted discharge unless one of the conditions in the subsections is met
+  
+* **§727(a)(1) - The debtor is not an individual**
+  * Note: Only an individual is provided a discharge; not a corporation/other entity that can be dissolved after liquidation
+  
+* **§727(a)(2) - Actual fraud occurs with property of estate** - Transferred/concealed/removed/destroyed property within one year of filing with the intent to hinder, delay, or defraud creditors or trustee
+  * Note: Some pre-bankruptcy planning is allowed (consistent with the idea of a “fresh start”), so must be careful when seeking to invoke this provision that the conduct was truly meant to defraud
+  
+* **§727(a)(3) - Fraudulent or failure to provide financial records**. Debtor intentionally concealed, destroyed, or failed to keep records from which debtor’s financial condition could be ascertained
+  
+* **§727(a)(4)(A)/(B) - False oaths and claims**. Failure to disclose transfer or makes false statements or knowingly provided false claims
+  
+* **§727(a)(5) - Failure to explain satisfactorily any losses of assets**
+  
+* **§727(a)(6) - Failure to co-operate**. Refusal to obey lawful court order or respond to material question (including invoking 5th after immunity has been given)
+  
+* **§727(a)(8) - Chapter 7 Time Limitation**. Denies discharge to debtor who has previously received a discharge under Chapter 7 within 8 years of this case
+  
+* **§727(a)(9) - Chapter 13 Time Limitation**. Denies discharge to debtor who has previously received a discharge under Chapter 13 within 6 years of this case
+  * Exception: If debtor paid all unsecured claims or 70% of such claims were paid and debtor made good faith, best effort
 
 ### §523(a) – Non-Dischargeable Debts
 
@@ -36,11 +44,17 @@
     * Luxury Goods: Consumer debts to a single creditor used for purchasing luxury goods within 90 days of filing that exceed $650 creates a presumption of fraud (excludes goods/services reasonably necessary for support/maintenance of debtor)
     * Cash Advance: Cash advances totaling more than $925 within 70 days of filing are presumed non-dischargeable
   * Note: All of §523(a)(2) debts are also non-dischargeable in a Chapter 13 case
+  
 * **§523(a)(4) – Fraud or defalcation** - Includes embezzlement and larceny when acting in fiduciary capacity
+  
 * **§523(a)(5) – Domestic support obligations** - Alimony, child support, etc
+  
 * **§523(a)(6) – Willful & malicious injury** - Caused by debtor to another person or their property
+  
 * **§523(a)(8) – Educational loans** - Only if it would not create undue hardship. Very narrow/strict interpretation of undue hardship which makes this difficult to prove
+  
 * **§523(a)(9) – DUI debt** - Arising out of harm done while operating under influence
+  
 * **§523(a)(15) – Other debts incurred in divorce** - Separate from (5), this is related to property settlements
 
 ### §1328 – Deals with discharge in a Chapter 13 situation
@@ -57,9 +71,11 @@
   * §1328(a)(3) - Restitution, criminal fine imposed on debtor for conviction of a crime
   * §1328(a)(4) - Restitution, damages awarded in a civil action against the debtor as a result of willful or malicious injury caused by debtor that resulted in personal injury
     * Note: this is only half of the §523(a)(6) – Willful or malicious injury to person/property non-dischargeable debt. Therefore, injury to property will be dischargeable in Chapter 13 cases
+  
 * §1328(b) – Hardship discharge in non-completed Ch. 13 plan
   * Applies in a situation where the debtor fails to complete a Ch. 13 plan, but tried really hard to comply. Hardship discharge (non-completed Ch. 13 plan)
   * Get a discharge for everything except your §523(a) non-dischargeable debts
+  
 * §1328(h)(2) – Cannot get discharge until after court can determine whether debtor will be found guilty of a felony
   * Essentially stops everything if it looks like debtor might be found guilty of a felony
 
@@ -68,11 +84,14 @@
 * Chapter 7 Discharge:
   * Only allow a discharge for an individual. Corporation/other entities do NOT get a discharge if liquidating
   * §727(b) – Discharge frees debtor from all debts arising before bankruptcy
+  
 * Chapter 11 Discharge:
   * A corporation that is reorganizing DOES get a discharge
   * Carve-out for non-individuals in the context of liquidation, do NOT get a discharge.
+  
 * Chapter 13:
   * Uncertain. Majority of debtors are individuals, but it is possible for a business to file for Chapter 13
+
 * Chapter 7 v. Chapter 13 Discharges:
   * There are some debts that are non-dischargeable in Chapter 7 (under §523) that are dischargeable in Chapter 13 cases
     * Example: willful or malicious injury to property (e.g. trashing hotel room)
@@ -81,7 +100,7 @@
     * Get discharge immediately
     * Quick/straightforward especially if individual does not have any property
 
-<!-- ## Complete Denial of Discharge - Actual Fraud §727(a)(2)
+## Complete Denial of Discharge - Actual Fraud §727(a)(2)
 
 * What factors would Court consider in deciding whether debtor’s pre-bankruptcy planning behavior should lead to §727(a)(2) discharge to be disallowed?
   * (1) Intentional misconduct - Whether debtor incurred debt as part of his plan to buy the $1M life insurance?
@@ -101,7 +120,7 @@
     * If the exemption is unlimited or more than debtor will actually need for a fresh start -> no discharge allowed
     * If exemption is limited to what debtor will need for a fresh start -> discharge allowed
 
-### Insurance Policy Hypothetical
+### Insurance Policy Hypothetical (Not Discussed in Class)
 
 * Setup: PA allows debtor to exempt up to $500k of any whole life insurance policy. Debtor, whose only main asset is Matisse painting, sells Matisse to her sister for $500k; buys $500k worth of PA life insurance, and then files for Ch. 7
 * Trustee's response in this situation depends on question of how much Matisse is worth
@@ -112,14 +131,16 @@
     * Trustee would undo the transaction as a fraudulent conveyance. Estate entitled to the painting
       * Requirements for constructed fraudulent conveyance: debtor did not receive reasonably equivalent consideration, and debtor was insolvent
       * If family member acted in good faith, would probably be protected for the $500k she paid, but painting would come back into the estate
-      * Trustee can also object to the discharge 
-  * The trustee’s two options: 1) go after it as a fraudulent conveyance; 2) object to the discharge -->
+      * Trustee can also object to the discharge
+  * The trustee’s two options: 1) go after it as a fraudulent conveyance; 2) object to the discharge
 
 ## Non-Dischargeable Debts - Domestic Support Obligation (§523(a)(5))
 
 * §523(a)(5) – A domestic support obligation is not dischargeable
+  
 * Domestic support obligation: §101(14A)
   * “Debts owing to a spouse, former spouse or child of the debtor or governmental unit that is in the nature of alimony, maintenance, or support and that is established by separation agreement, divorce decree, or property settlement agreement, a court order, or a determination made under non-bankruptcy law by a governmental unit”
+  
 * 6 Factors to Determine Whether Spousal Debt is DSO and thus non-dischargeable:
   1. Debt’s label
   2. If spouse/child has strong need for support
@@ -127,6 +148,7 @@
   4. If term is for a fixed time (factor AGAINST)
   5. If obligation subject to modification by the court
   6. If tax law treats the payments as alimony
+  
 * §523(a)(15) – Other debts a spouse/child incurred during divorce/separation (separate from (a)(5))
   * Note: While both (a)(5) and (a)(15) are both non-dischargeable debts in a chapter 7 case, only (a)(5) is non-dischargeable in chapter 13 case. This means that (a)(15) is dischargeable in a chapter 13 case, which is why classification of settlement arrangements under the two categories is so important.
 
@@ -171,6 +193,7 @@
       * *Kawaauhau v. Geiger* - Plaintiff sought medical care of debtor. DR made wrong diagnosis that led to P’s food being amputated. P sued DR and obtained 300k judgment in medical malpractice case. Dr then filed for bankruptcy. Court held that this was NOT willful or malicious injury under §523(a)(6) and thus was dischargeable in Chapter 7 bankruptcy
   * (2) Conversion of Property
     * Note: Non-dischargeable so long as the debtor did not truly believe actions were lawful
+  
 * Hypothetical: Rockstar trashing hotel room and discharge under Chapters 7 and 13
   * Setup - Rockstar trashes hotel room doing $250k worth of damage to the property. He subsequently filed for bankruptcy
   * Chapter 7?:
@@ -181,13 +204,16 @@
 ## Non-Dischargeable Debts — Fraudulently Incurred Debts (§523(a)(2))
 
 * Reminder: A debtor who has obtained debts fraudulently (concealing assets, hiding info) may also be denied a discharge completely under §727(a)(2)
+  
 * §523(a)(2)(A)) - Debts obtained by “false pretenses, a false misrepresentation, or actual fraud” are non-dischargeable
   * Fraud = contracting debt intending not to pay
   * **Creditor can establish non-dischargeability by showing: the debtor knowingly made false representations for the purpose of deceiving and the creditor reasonably relied on such representations and sustained loss as a result**
   * Intent to defraud credit card company can be inferred by: Intervals/frequency/number/amount of charges, financial/employment status at time of charges, spending habits, etc.
+  
 * §523(a)(2)(B) – False statements
   * In the credit card context, false statements would be intentional mistakes on an application form
   * This is not a heavily used provision as it would be difficult to establish the requisite reliance because it is pretty common knowledge that no one uses these forms. Credit card companies will do just about anything to sign people up for new cards
+  
 * §523(a)(2)(C) – Presumption for luxury goods and cash advances
   * Debts to a single CR for luxury goods/services incurred on/within 90 days of BR aggregating more than $675 is presumed non-dischargeable
   * Cash advances aggregating more than $950 obtained on or within 70 days of filing for bankruptcy are presumed non-dischargeable

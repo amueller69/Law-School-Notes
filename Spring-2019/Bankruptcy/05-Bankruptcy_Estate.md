@@ -12,9 +12,12 @@
     * This comes into the estate, but there is no value there for the trustee/creditors because someone else has the valuable rights in the property
     * Example: Grandson has a joint banking account with grandmother. It is solely grandmother’s money and used solely for grandmother’s benefit
   * Note: Court can compel a secured creditor to return repossessed property PROVIDED THAT the creditor’s interest in the collateral is adequately protected AND the debtor has more than a minor interest in the property
+  
 * §541(a)(2): Community property (Doesn't concern us)
+  
 * **§541(a)(3)** – Any interest in property that the trustee recovers
   * Mechanism for trustee to use avoidance powers to bring property into estate. If the trustee uses the preference powers, that property comes into the interest of estate. Fraudulent conveyances and wiped on non-perfected interests also return to estate
+  
 * **§541(a)(5)** -- Property of the estate includes any property that the debtor had interest in at time of filing petition OR interests will acquire within 180 days of filing if that property is acquired by:
   * Bequest, devise, inheritance
   * Result of property settlement agreement with spouse or divorce decree
@@ -25,6 +28,7 @@
       * Example: Debtor files for bankruptcy when their relative is about to die, but debtor has not yet received interest in the inheritance
     * Why 180 days specifically?
       * Chapter 7 case could end in less than 180 days, in which case the inheritance, life insurance, etc. would still enter into estate and be distributed among creditors retroactively
+  
 * **§541(a)(6)** – Any proceeds of the estate that arise after filing come in
   * Includes profits a company makes after filing; if DR owns equipment and sells it then the money would be labeled proceeds; rents (if DR = apartment complex)
   * **EXCEPTION: Earnings from services performed by individual debtor post-petition**
@@ -33,6 +37,7 @@
       1. Discharge pre-bankruptcy obligations
       1. Future earnings are not available for creditors (§541(a)(6))
       1. Exemptions that creditors do not have access to (§522)
+  
 * **§541(a)(7)** – Property interests other than individual earnings acquired while the case is ongoing becomes property of the estate
 
 ### §541(b) -- What is NOT property of the estate
@@ -61,9 +66,11 @@
 * §544: Trustee can void unperfected security interest
   * Frees up property; gives debtor full legal interest in property debtor had given to a creditor
   * Does not make claim go away – just no longer a property right securing the claim
+  
 * §547: Preference provision
   * Transfers made to creditor within 90 days of Bankruptcy are preferential
   * Idea here is that if one creditor getting paid right before Bankruptcy, seems suspicious
+
 * §548: Fraudulent conveyances
   * Fraudulent conveyance: Debtor transfers property to someone, because debtor would rather they have property than the debtor’s creditors
   * If trustee can prove you were trying to defraud creditors – actual fraud
@@ -75,10 +82,12 @@
 * Property of Estate - Pool of assets available to satisfy creditors’ claims
   * Ch. 7: Trustee liquidates property of estate and distributes proceeds
   * Ch. 11 & 13: Debtor may retain assets during reorganization (Ch. 11) or rehabilitation (Ch. 13), but debtor’s plan must give creditors as much value as they would have received under Ch. 7
+  
 * General Rule:
   * (1) Property described in §541(a);
   * (2) Certain kinds of property acquired by the debtor within 180 days after filing;
   * (3) Property the trustee brings into the estate by exercising his avoidance powers  
+  
 * Property of the debtor wherever located and by whomever held
 * Sometimes property of the estate is not in the possession of the debtor. 541(a) may allow trustee to recover possession
 * To a limited extent, property of the estate can also include some property of the debtor transferred before the start of bankruptcy (§541(a)(3)-(7))
@@ -90,9 +99,10 @@
     * When they filed for bankruptcy, there was a ton of cash in the NY headquarters that had been routed from subsidiaries
     * The stay applied to the cash, but ultimately Lehman did not have any right to the cash and it was not part of the estate. Why?
       * Lehman only had a **managerial interest** (power to manage the cash, not to have the cash itself), as opposed to an ownership interest and **only property that debtor has an ownership interest in comes into estate**
+  
 * Remember: The bankruptcy estate is expanded by trustee preference powers, fraudulent conveyance powers, etc and reduced by debtor’s exemptions
   * Some or all of property in the estate may lose its status as property of the estate
-    * Can be claimed by a debtor as exempt property (§522)
+    * Can be claimed by a debtor as exempt property §522
     * Can be abandoned or released to debtor under §554
     * Note: if debtor receives property thru §522 or §554, it is now considered property of the debtor rather than property of the estate
 
@@ -127,6 +137,7 @@
 ### Other Hypotheticals
 
 * §541(a)(5) – Any inheritance, insurance policy that debtor gets interest in within 180 days of filing becomes property of the estate
+  
 * Hypothetical #1
   * Setup - 2 children of Duke Family are nearing age 21, at which point they will get a big inheritance. They are in financial distress and file for bankruptcy. Is the inheritance property of the estate?
     * If they turn 21 within 180 days, inheritance will become part of the estate
@@ -134,16 +145,19 @@
       * If inheritance is guaranteed, then kids already have interest on it, just conditional on them turning 21, so it’s already property of the estate
       * If there’s uncertainty as to inheritance terms (ex: relative can change their will at will)…
   * If it is not guaranteed, it may not come into estate. Unresolved issue
+  
 * Hypothetical #2
   * Setup - At age 11, Kid’s parents promise to pay him 100K if he doesn’t drink or swear until he’s 21. Kid has 6 months to go and files for bankruptcy. 6 months later, he gets the 100K. What part of that $100K is property of the estate?
     * None of it is property of the estate because kid has no interest in the money until he “performs” until he’s 21 - he could technically swear or drink moments before he turns 21
     * A counter would be that a pro-rata portion of it is part of the estate. Every portion of year from age 11 to age 21 that kid goes without drinking or swearing becomes part of estate. What would be the rational for this argument?
       * §541(a)(6) because it’s earning-like property
+  
 * Hypothetical #3
   * Setup - Parents give $100K to their 11 yr old in return for promise not to drink until 21 (pre-payment). Kid files for bankruptcy at age 18. Is the 100K property of estate?
     * It becomes a 100K contingent claim that parents now have against their debtor-child in the bankruptcy process
     * If kid drinks before bankruptcy is over, he’s violated the contract and parents would have an unsecured 100K claim against their kid
     * 100K contingent claim would be discharged by bankruptcy
+  
 * Pre-packaged Bankruptcy Hypo - Revel Casino in Atlantic City is not doing well and have hired Kirkland and Ellis to advise them. Pre-packaged bankruptcy is a possibility
   * Pre-packaged bankruptcy – bankruptcy where debtor negotiate the terms of reorganization before they ever file for bankruptcy. 
   * To do this, debtor must divide creditors into different classes, classes then vote

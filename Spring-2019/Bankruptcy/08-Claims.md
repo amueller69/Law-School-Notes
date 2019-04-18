@@ -523,3 +523,5 @@
 * Alternative Interpretation
   * Lien doesn't "slide" through bankruptcy. Value of home is permanently fixed at $100k at time of valuation and at that time, the extent to which lienholder is undercollateralized converts to an unsecured claim. Fact that property sells above this value doesn't matter because lien on everything in excess of $100k has been voided (i.e. lien is stripped down)
     * Seems like a more natural reading of §506
+
+---

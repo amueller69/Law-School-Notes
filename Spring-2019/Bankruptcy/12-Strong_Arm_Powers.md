@@ -55,3 +55,5 @@
 * Parishioners argue that it is their property. Could point to 541(d) and say that even if the property is part of DR’s estate, it is limited to the legal interest (not beneficial interest)
 * Trustee will argue that even if the parish/parishioners are have a beneficial interest in the property, §544(a)(3) grants the trustee the status of a bona fide purchaser of real property, which has the power to obtain this property free and clear of the unrecorded beneficial interests of the parishioners. Since the parish/parishioners’ name is not on the deed, their interests are unrecorded/unperfected
 * Plunkett: A constructive trust/beneficial interest of the parish/parishioners could be overridden by §544(a)(3) because as the legal title owner, the Diocese would have been able to sell the property free and clear of any interests to third parties
+
+---
