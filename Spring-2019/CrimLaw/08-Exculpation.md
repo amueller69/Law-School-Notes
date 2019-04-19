@@ -13,7 +13,7 @@
   * If it turns out that force wasn't truly necessary and reasonable belief was false, then it is more precise to say that the actor is excused; the action was not right, but the mistake was reasonable. Regardless of the label (usually labeled as a justification), one who satisfies the self-defense requirement is entitled to acquittal
 
 * **MPC 3.04**
-  * (1) Force justifiable if D subjectively believes it is “immediately necessary for purpose of protecting himself against the use of unlawful force”
+  * (1) Force justifiable if D subjectively believes it is "immediately necessary for purpose of protecting himself against the use of unlawful force"
   * (2)
     * (a) Force is NOT justifiable if:
       * (i) D knowingly resists lawful arrest
@@ -178,7 +178,7 @@
       * Constitutional standard is similar to MPC. In order **to justify use of deadly force to prevent felon's escape, it must be necessary measure taken where probable cause exists as to the belief that suspect poses a threat of serious physical harm to the officers or others**
     * Use of taser is generally not considered deadly force
 
-## Justification - Necessity Defense (“Choice of Evils”)
+## Justification - Necessity Defense ("Choice of Evils")
 
 * Necessity = Defense that otherwise criminal conduct is justifiable as it was necessary to avoid more serious harm
 * MPC 3.02
@@ -215,7 +215,7 @@
 * Rule: **The necessity defense requires a defendant to show that he was faced with a choice between two related evils, that he acted to prevent imminent harm, and there was no legal alternative to violating the law. It is unavailable in indirect civil disobedience cases**
 * Holding - Court holds that necessity defense was properly rejected in the trial court
   * To properly invoke the necessity defense, the defendants must have shown that (1) they were faced with a choice of evils and chose the lesser evil; (2) they acted to prevent imminent harm; (3) they reasonably anticipated a direct causal relationship between their conduct and the harm to be averted; and (4) they had no legal alternatives to violating the law
-  * “Civil disobedience” is the willful violation of a law, undertaken for the purpose of social or political protest. Indirect civil disobedience involves violating a law or interfering with a government policy that is not, itself, the object of protest
+  * "Civil disobedience" is the willful violation of a law, undertaken for the purpose of social or political protest. Indirect civil disobedience involves violating a law or interfering with a government policy that is not, itself, the object of protest
   * The mere existence of a constitutional law or governmental policy cannot constitute a legally cognizable harm. Thus, no greater harm to avert. Court must also take into consideration the likelihood that an alleged harm will be abated by the criminal action. Here, the protest alone is unlikely to change the policy towards El Salvador precisely because the act is indirect. Finally, possibility that congress could change its mind is sufficient to make lawful political action a reasonable alternative to the unlawful conduct
 
 ### *Regina v. Dudley and Stephens* (1884 UK)
@@ -231,9 +231,9 @@
 ### *Public Committee Against Torture v. Israel* (1999 Israeli Supreme Court)
 
 * Facts: Israeli government (D) authorized one if its national security agencies to employ physical means against those undergoing interrogation. Included sleep deprivation, shaking, forcing subjects to stay in painful positions for long amounts of time. Agency was instructed to consider urgency/severity of potential attacks and to seek alternative measures if possible. Agency argued these methods help thwart imminent terrorist attacks
-* Issue: Were torture methods acceptable under the defense of “necessity” as codified in Penal Law Article 34(1), which states, "A person will not bear criminal liability for committing any act immediately necessary for the purpose of saving the life, liberty, body or property, of either himself or his fellow person, from substantial danger of serious harm, imminent from the particular circumstances, at the requisite time, and absent alternative means for avoiding the harm"?
+* Issue: Were torture methods acceptable under the defense of "necessity" as codified in Penal Law Article 34(1), which states, "A person will not bear criminal liability for committing any act immediately necessary for the purpose of saving the life, liberty, body or property, of either himself or his fellow person, from substantial danger of serious harm, imminent from the particular circumstances, at the requisite time, and absent alternative means for avoiding the harm"?
 * Holding: Methods of torture are categorically prohibited and thus unauthorized for use even under necessity exception
-  * The interrogation of a suspect must “absolutely” be free of torture, free of cruel and inhuman treatment, and free of dignity-taking methods. Methods employed by the agency violated the subjects' dignity
+  * The interrogation of a suspect must "absolutely" be free of torture, free of cruel and inhuman treatment, and free of dignity-taking methods. Methods employed by the agency violated the subjects' dignity
   * While necessity exception would definitely arise in "ticking time bomb situation" where physical methods used to obtain information about imminent attack and spare innocent lives. However, question is whether the use of such physical means were authorized. The order prohibiting physical means of interrogation is made absolute and can't be justified by necessity
 
 ## Justification - Euthanasia
@@ -258,36 +258,212 @@
   * The right to P.A.S. is distinguishable from the right of competent persons to remove unwanted life-sustaining treatment recognized in *Cruzan*: the right to be free from unwanted medical procedures, at issue in *Cruzan*, is long established in national traditions upholding bodily integrity and protecting against battery, even by physicians
   * Thus, Washington legislature acted rationally in banning assisted suicide in furtherance of these legitimate objectives
 
-<!-- ## Excuse - Duress
+## Excuse - In General
 
 * Unlike justification, which asserts that what the excused did was appropriate or utility-maximizing, **excuse seeks to show that although the acts were harmful, they could not have been expected to do otherwise**
+
+* We can thus characterize excuse as a defense the law allows to a wrongful action because the actor has displayed some disability or deprivation in capacity to know or choose, which renders the person either free of blame or subject to less blame
+  * The disabilities that ground excuse in our law seem to fall into one of three groups:
+    * Those disabilities that produce involuntary actions
+      * As discussed in actus reus section, involuntary action not viewed as a culpable act at all (i.e. nothing to excuse)
+    * Those that produce deficient but reasonable actions
+      * There is a power to choose in a literal sense, but the choice is constrained either due to cognitive deficiency (e.g. mistake) or a volitional one (e.g. duress)
+    * Those that render all actions irresponsible
+      * This person could not act otherwise because they were simply not responsible moral agents at the time (e.g. insanity, infancy)
+
 * Three most important forms of excuse: duress, intoxication, and mental disorder
 
+## Excuse - Duress
+
 * Duress = affirmative defense that D coerced into criminal conduct b/c (see Toscano, Contreras-Pinchon)
-* MPC 2.09 and CL Duress
-  * (1) person made “specific and imminent” threats of “serious bodily injury or death” against D or D’s family member if should D refuse to commit a crime
-    * NOTE: MPC and some jurisdictions apply it to property too (if property value outweighs harm)
+
+* MPC §2.09 – Duress
+  * (1) Defense if coerced to do so by unlawful force or threat against him or another to which a person of reasonable firmness in the actor’s situation would be unable to resist
+    * Threat does not necessarily have to be against the actor; could be against a relative. However, language here omits property
+  * (2) Unavailable for crimes of recklessness/ negligence if actor recklessly/negligently brought about the situation
+  * Remarks:
+    * Possible limitations on the defense **not** in MPC
+      * Requirement of imminence
+      * Disallow it for murder
+      * Treat it as a mitigation factor, not a total defense
+
+* As a defense to homicide (split jurisdiction)
+  * CL: No defense to homicide
+  * MPC: Available in cases of homicide
+  
+* CL Duress
+  * (1) person made "specific and imminent" threats of "serious bodily injury or death" against D or D’s family member if should D refuse to commit a crime
+    * NOTE: Some jurisdictions apply it to property too (if property value outweighs harm)
   * (2) D reasonably believed the other person would carry out the threat
-  * (3) D had no reasonable opportunity to prevent the threatened harm by,
-    * (a) fleeing
-    * (b) informing law enforcement
+  * (3) D had no reasonable opportunity to prevent the threatened harm by:
+    * (a) Fleeing
+    * (b) Informing law enforcement
   * (4) D did NOT recklessly or negligently expose himself to the threat
     * NOTE: this element often arises if D part of criminal enterprise where threats are reasonably expected
-* (split jurisdiction) defense to homicide
-  * CL: NO defense to homicide
-  * MPC: defense to homicide
+  * (5) Crime was not homicide
+
 * Duress distinguished from Necessity in that:
-  * (1) Duress is excuse (ie. condoned BUT not encouraged) v. necessity is justification (ie. right thing to do)
-  * (2) Duress ALWAYS involves a human threat v. necessity MAY or MAY NOT involve human threat
-  * (3) Duress D’s free will impaired v. necessity D’s free will intact
-  * (4) Duress futhers evil v. necessity intended to avoid a greater evil to general welfare
+  * (1) Duress is excuse (not right, but circumstances were such that reasonable law abider might have done so) while necessity is justification (under circumstances, D took the right course of action; to do so was the lesser evil)
+  * (2) Duress always involves a human threat while necessity may or may not involve human threat (e.g. could be natural condition)
+  * (3) Duress D’s free will impaired while necessity D’s free will intact
+  * (4) Duress furthers evil while necessity intended to avoid a greater evil to general welfare
 
-*State v. Toscano* (1977 NJ)
+### *State v. Toscano* (1977 NJ)
 
-* Facts - D (doctor) convicted of making false medical reports for another person, but D claimed that he only did so b/c of threats against him by the other person
-* Holding - Duress is a defense (to a non-homicide crime) and question for the jury if (1) D coerced into conduct by use or threat of unlawful force and (2) a “person of reasonable firmness in D’s situation” would have been unable to resist (jury question)
+* Facts: Defendant was charged with conspiring to obtain money on false pretenses from insurance company. He agreed to do so because he owed money to a guy for gambling debts. The guy made vague threats against him and his wife. Said he filed because of fear of his life
+* Rule: **Duress is defense to a crime (other than murder) if the defendant committed the crime:**
+  * **(1) Because he was coerced to do so by threat or use of force**
+  * **(2) Which a person or reasonable firmness in his position would have been unable to resist**
+* Holding - Conviction reversed and matter remanded
+  * At common law duress was recognized only when involving a use or threat of harm which is "present, imminent, and pending," and "of such a nature as to induce a well grounded  apprehension of death or serious bodily harm is the act is not done" in a man of ordinary fortitude
+  * Drafters of the MPC focused on whether the standard imposed upon the accused was one with which normal members of the community will be able to comply
+  * Thus under both MPC and New Jersey Penal Code, D should have had question of duress submitted to jury since his testimony that the act was committed out of fear was a factual basis for finding of duress if it could be determined that a person of reasonable firmness would have done so
+* Notes:
+  * Inquiry here would focus on the weaknesses and strengths of a particular defendant and his subjective reaction to unlawful demands
+  * Taking into account expectations based on the defendant’s character and situation makes this approach more subjective than the reasonable person standard at common law
+  * Imminence of the threat:
+    * Both *Toscano* and the Model Penal Code treat the imminence of the threatened harm as one factor to be weighed by the jury in determining whether the defendant’s conduct was that of a person of reasonable firmness in his situation
+    * Many common law decisions treated imminence as an absolute pre-requisite to the availability of a duress defense and some statutes expressly limited the defense to situations involving threats of instant death
+    * Great majority of the recent statutory revisions have rejected the Model Penal Code’s flexible approach and preserved some requirement that the threatened harm be immediate and imminent, or instant
+
+### *United States v. Fleming* (1957)
+
+* Facts: POW was told to create propaganda to promote dissatisfaction among troops or be forced to march to some far away camp in the winter. Charged with aiding the enemy
+* Holding: Court affirms conviction
+  * Duress not available; D cooperated on mere threats of the march
+  * Other soldiers had refused in similar situations, thus it doesn’t meet prong 2 (persons of reasonable firmness had resisted)
+* Notes:
+  * Potentially problematic application of the standard: instead of ordinary reasonable person in his situation, they seem to be using a much higher standard for soldiers
+    * Would require everyone to be like John McCain
 
 *Contreras-Pinchon* (1984 9th Cir.)
 
-* Facts - D (Colombian cab driver) convicted of drug trafficking, but D claimed he only did so b/c person threatened to kill him and his family if he didn’t transport the drugs, and D couldn’t tell police who were corrupt
-* Holding - D excused from liability if commits crime under duress -->
+* Facts: Taxi driver from Columbia made to swallow balloons of cocaine and travel to America. He and his family were threatened in Colombia. D claimed he only did so because someone threatened to kill him and his family if he didn’t transport the drugs
+* Rule: **Threat must be immediate, act must be grounded on fear of threat being realized, and there must be no reasonable opportunity for escape**
+* Holding: Conviction is reversed
+  * Duress is allowed because threats were serious (dealing with Colombian drug lords) and there was little rescue in Colombia (police are corrupt)
+    * D was constrained by belief that police help was futile. Should be up to jury to determine whether the belief renders police help an unreasonable means of escape
+* Dissent:
+  * Failed to present evidence to support elements of inescapability
+    * Illustrates problems for prosecutor – how can they disprove this beyond a reasonable doubt if burden is on them?
+
+## Excuse - Intoxication
+
+* MPC §2.08 - Intoxication
+  * (1) except as in (4), intoxication not a defense unless it negatives an element of the offense
+  * (2) when recklessness is mens rea, if intoxication causes actor to not be aware of a risk he would have been sober, intoxication not a defense
+  * (3) intoxication not a mental disease within 4.01
+  * (4) intoxication that is either (a) no self-induced or (b) pathological is a defense if by reason of intoxication the actor lacks substantial capacity to appreciate the wrongfulness/ criminality or to conform his conduct to the requirements of law
+    * “Pathological” means intoxication much more than actor expected given the amount of the intoxicant
+  * Remarks:
+
+* Common Law - Voluntary Intoxication
+  * In some jurisdictions, is not recognized at all
+  * However, more common for intoxication to be relevant for determining a specific intent, but not a general intent
+    * Specific intent – crime includes that actor desired some additional consequence or do some further act (e.g. assault with intent to rob)
+      * You did not act with the required intent, such as, if your actions had been part of a harmless prank, then you cannot be convicted of a specific crime
+      * When it does negate specific intent, you have to be more than just “disinhibited”
+    * General intent – only intent in crime is with respect to the immediate act; you only need to intend your actions, not any particular result
+      * Is not necessary for the prosecution to prove that you intend to cause a specific harm or end result. Must only show that intended to commit some act that the law prohibits
+  * Also jurisdictions where defense only to reduce murder charge (PA statute)
+
+* Common Law Involuntary Intoxication
+  * D took substance (i) without knowledge of its intoxicating nature, (ii) under duress, or (iii) based on medical advice but unaware of intoxicating effect
+    * Availability of defense (split jurisdiction):
+      * (1) Treated as mental illness defense (depends on jurisdiction definition)
+      * (2) Defense for culpability
+      * (3) No defense for culpability (*Kingston*)
+
+### *People v. Hood* (CA 1969)
+
+* Facts: Heavily drunken man was resisting arrest. Grab the officers gun and shot him in the leg. Is convicted of assault with deadly weapon
+* Rule: **In crimes of general intent evidence of the accused’s intoxication shall not be considered in determining guilt or innocence**
+* Holding: Jury improperly instructed to consider intoxication
+  * Evidence of intoxication should not relieve one of blame for simple assault or assault with a deadly weapon, crimes which frequently are committed rashly or in anger
+  * In both CA and NY assault with a deadly weapon is a general intent crime
+
+### Roberts v. People
+
+* Facts: Man shoots another while drunk, charged with attempted murder.Allowed to include intoxication evidence to negate mens rea
+* Holding:
+  * **If renders him incapable of knowing what he was doing (required intent) -> not guilty**
+  * If he did have the intent prior to intoxication, subsequent drunkenness is not a defense -> still responsible
+  * Likewise, if held to have purposely blinded his moral perceptions and committed act intentionally without knowing it was wrong -> then still guilty
+
+### *State v. Stasio* (NJ 1979)
+
+* Facts: Defendant was charged with assault with attempt to rob (specific intent crime). Asserts intoxication as a defense
+* Holding: NJ choses to go in a different direction -> **no admissibility of intoxication regardless of specific or general intent**, except to demonstrate premeditation and deliberation
+  * Court doesn't want intoxication to be considered in a specific intent crime either because:
+    * Leads to inconsistent results
+    * General intent v specific intent distinction is just a guide for admitting intoxication evidence
+* Dissent: an intoxicated D can’t form the necessary specific intent, so shouldn’t be held to same standard as others
+* Note: States are completely non-uniform on their application of intoxication defense
+
+### *Montana v. Egelhoff* (1996)
+
+* Facts: D intoxicated and found with friends killed in a car. D claimed too intoxicated to remember. Montana statute for deliberate homicide required “purposely” or “knowingly” but did not allow for intoxication defense. Montana Supreme court held it unconstitutional. SCOTUS reversed (5-4, Ginsburg concurrence was the deciding vote)
+* Majority (Scalia): While DPC gives right to present relevant evidence, that right is not absolute. All evidentiary rulings can have the effect of reducing the evidentiary burden of the state; doesn’t violate the principle of fairness so its not unconstitutional
+  * Refusing to allow a defense of voluntary intoxication deters drunkenness, ensures people who commit crimes while intoxicated go to prison, and fits with society’s moral determination that voluntary intoxication does not excuse criminal conduct
+  * Evidence of voluntary intoxication could mislead a jury
+
+### *Regina v. Kingston* (1994 UK)
+
+* Facts: D lures a 15-year-old boy to D's flat and then invited the defendant over to abuse the boy sexually. Person blackmailing D drugged him, then videotaped the incident to use in extortion
+* Rule: **Involuntary intoxication does not negate the mens rea necessary from criminal liability**
+* Holding:
+  * Equates the desire with intent -> When he was engaged in the conduct he knew the boy was underage; he was not in an unconscious state but just disinhibited
+    * The essential evil mental state exists; the drug only allows it to be acted upon
+  * To recognize this as a complete defense would make assessing guilt in any manner involving intoxication exceedingly complex and raise a host of evidentiary problems
+    * Preferable approach to involuntary intoxication is to continue to use the concept of diminished capacity, rather than create a complete defense
+    * Only exception if intoxicated to the extent as to be considered insane
+
+## Excuse - Insanity
+
+* Two types of behavior insanity covers
+  * Cognitive defect – D didn’t understand the significance of his actions
+  * behavioral defect – D couldn’t control himself
+
+* Procedural impacts of the insanity defense
+  * May not be competent to stand trial
+  * Normally can’t sentence to death
+
+* Insanity can arise at three points in the criminal process
+  * (1) Mental state at the time of the commission of the criminal offense
+  * (2) Incompetence to stand trial -> lacks the capacity to understand the proceedings or to assist in his own defense
+  * (3) Sentencing -> can not execute the criminally insane
+
+* Approaches for after acquittal
+  * (1) Civil Commitment
+    * (a) Some jurisdictions require civil commitment; others have make ad-hoc determinations -> juries in the verdict are not to be made aware of whether it is mandatory or not
+    * (b) Duration -> may be released when the patient has recovered and is not longer dangerous
+  * (2) Guilty but mentally ill -> court retains the same sentencing authority as in guilty verdicts, but if sentenced to prison he is to be given treatment for the illness
+
+* Burden of Proof
+  * (1) There is a presumption of legal sanity at the trial
+  * (2) Level of evidence required before the presumption disappears
+    * (a) Some states require only “some evidence” of legal insanity
+    * (b) Others require that the evidence raise a reasonable doubt about the sanity
+  * (3) Most States and the federal system require to the defendant to prove by clear and convincing evidence that he is insane. 
+
+### Different Rules and Formulations of Insanity
+
+* Empirically speaking, formulations shown to not make much of a difference
+* Should the formulation be medical or moral?
+  * Criminal law about social approbation, so  latter makes more sense – also shouldn’t hinge on changing defs of medical profession
+  * If it’s moral, doesn’t a phase of the trial dominated by psychiatrists just muck everything up?
+
+* **MPC §4.01** - D meets defense burden if D establishes:
+  * (1) Mental disease or defect (severity and type ambiguous, though excludes abnormality manifested only by repeated criminal/anti-social conduct)
+  * (2) D lacked “substantial capacity” at time of crime to either:
+    * (a) Appreciate his conduct’s criminality (i.e. M’Naghten “wrongfulness” prong; but MPC leave open to moral or legal wrongfulness) OR
+    * (b) Conform his conduct to the law’s requirements (i.e. volitional prong)
+
+* **M’Naghten Rule** - "[D acted] under such a defect of reason so as to not know the nature and quality of the act he was doing, or if he did know it, he did not know what he was doing was wrong"
+  * Requires:
+    * Mental disease of defect
+    * Lack of Knowledge of
+      * The nature of quality of the act
+      * OR the wrongness of the act (legally/morally)
+    * Causation
+  * Rudovsky example: D (Vietnam veteran) has PTSD and shoots at fireman who come to his house; D fails *M’Naghten* because knew the “wrongfulness” of shooting and “nature and quality” of shooting
