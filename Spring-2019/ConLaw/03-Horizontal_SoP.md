@@ -33,3 +33,5 @@
 1. Judiciary takes a decided back seat on these issues
    * Has become increasingly inclined to issue decisions that are under-enforcing/deferential to other branches
    * Using standing or political question doctrine to decline adjudicating these issues and allowing other branches to hash it out
+
+---

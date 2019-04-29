@@ -8,22 +8,27 @@
   * Legal Premise: You have a legal right to commission once it has been signed and becomes valid
   * Factual Premise: John Marshall (Sec. of State) signed the commission, thereby rendering it valid
   * Conclusion: Marbury has a right
+  
 * Issue 2: If there is a right, is there also a remedy?
   * There is no question that every legal right necessarily has a legal remedy, as a matter of civil liberty. However, specific issue is whether court could give remedy against executive branch
   * Court draws distinction between when judiciary can and cannot provide remedy: Where there is a specific duty to a particular person but not where it is a political matter left to executive discretion
+  
 * Issue 3: Can Supreme Court issue this remedy? Is writ of mandamus appropriate?
   * Judicial review and writ of mandamus are only appropriate in the first category described in the distinction above
   * Those executive exercises of power within discretion of president cannot be judicially removed
+  
 * Issue of Original Jurisdiction
   * Marbury argues that §13 of 1789 Judiciary Act gives Supreme Court original jurisdiction to hear suit for mandamus. Court agrees
     * Is this correct interpretation of the statute? Perhaps it is more plausible that this section refers to appellate jurisdiction since it was the only type explicitly referenced in the preceding text
     * It could also be referring to court's authority to issue writs for cases that it already has original jurisdiction over
     * In these alternative interpretations, Marbury would have lost and court would have lost chance to declare statutes unconstitutional. Perhaps the court's interpretation was strategic?
+  
 * Does this violate Article III of the Constitution
   * Court holds that Art. 3 enumerates jurisdiction, which can't be enlarged by congress. This includes original jurisdiction for suits involving foreign ministers. Allowing congress to expand beyond that enumerated would be "mere surplusage...entirely without meaning"
     * Congressional power to expand is disputable. Article III might just set a floor rather than a ceiling
     * However, this remains law today
   * Thus, Court says congress could not add mandamus cases to the list enumerated in Art 3., meaning Judiciary Act of 1789 violates Constitution
+
 * Can Supreme Court declare laws unconstitutional?
   * Having found statute violates constitutional, question asked is "whether an act, repugnant to the Constitution, can become the law of the land", one that Marshall states is deeply interesting to the US.
   * **“It is emphatically the province and duty of the judicial department to say what the law is.”**
@@ -62,6 +67,7 @@
   * Marshall outlines several reasons that seem to advocate for 
   * However, the decision can be read as ambiguous and as not resolving the question of whose interpretation controls
     * Says nothing about whether other branches are bound to follow the Court's interpretation
+  
 * Hamilton also makes argument in Federalist No. 78
   * Points out that judges are insulated from political pressures and the judiciary has the function/duty of interpreting the laws
     * Least dangerous and offensive to political rights of the constitution due to a smaller capacity to annoy them. It has no influence over the sword or purse. It has neither force nor will, but merely judgement
@@ -74,16 +80,19 @@
     * Exercise judgment (objective/reason) over will (subjective/desire)
     * Must declare the sense of the law and act as a safeguard against partial/unjust laws that threaten the rights of particular classes of citizens
       * Operates as a check against legislature, who in perceiving expected obstacles from the scruples of the court, become compelled to qualify their attempts
-* Will vs. Judgment – why judges are better suited to exercise judgment over will:
+  
+* **Will vs. Judgment** – why judges are better suited to exercise judgment over will:
   * Permanent judicial tenure insulates from political pressures
   * Training and expertise necessary for a judicial role aid in constitutional interpretation
   * Status and prestige comes with doing a good job as opposed to popularity among constituents
   * Courts have a different temporal posture and look at things later on; not “in the moment”
   * Judicial craft = manner of reaching and defending its views. However, legal realism allows for manifestation of the will
-* Counter-majoritarian difficulty
+
+* **Counter-majoritarian difficulty**
   * Undemocratic to have unelected judges overturn popularly adopted laws
   * However, this is an **objection to constitutionalism**, not judicial review itself. The constitution is always counter-majoritarian anytime popular will diverges from the constitution
   * Courts are still responsive to this concern, which undergirds both the constitutional avoidance cannon and the justiciability doctrines
+  
 * Limits on Judicial Tyranny
   * Constitutional amendment process via Article V
   * Threat of impeachment via Art. III, §1 and political control of appointment process via Art. II, §2, Cl. 2
@@ -113,7 +122,8 @@
   * Prudential limits can be overruled by statute
   * Justifications: Separation of powers, conservation of judicial resources, improve judicial decision making, promote fairness
   * Goal is to strike balance between restraint an review, don't want courts to abdicate parts of their essential function
-* Advisory Opinions Banned
+
+* **Advisory Opinions**
   * Federal courts will not opine on pending or proposed government action or legislation
   * Based on “cases or controversies” text in Article III, §2; questions are not cases or controversies
     * Counter: text may just represent a minimum; doesn’t say judiciary should “only” exercise judicial power
@@ -124,7 +134,8 @@
     * Follows separation of powers by keeping courts out of the legislative process
   * Not an advisory opinion when (1) actual dispute between adverse parties and (2) substantial likelihood of decision favoring claimant will bring about some change or effect
     * This means declaratory judgements are not categorically prohibited under this doctrine
-* Standing
+  
+* **Standing**
   * Determines whether a person is the proper party to bring a matter before the court for adjudication
   * Rules
     * Constitutional
@@ -148,12 +159,14 @@
     * Causation and redressability - improper determination based on pleadings, unprincipled because dependent on court's characterization of the injury, and that court manipulates these factors based on its view of the merits
     * Generalized grievances can be view as an abdication of judicial role in upholding Constitution
     * Some of the tests have been criticized as unnecessary in light of the others
-* Ripeness
+  
+* **Ripeness**
   * Requires the injury to have already occurred; matter cannot be premature for review. This is factored into hardship determination
     * However, may be unfairness in requiring someone to wait and endure harm in order to challenge it
   * Values: (1) separation of powers; (2) judicial economy; (3) decision enhancement (adequate record)
   * Requirements: (1) substantial hardship (harm in denying review); (2) fitness of the issues (legal issues independent of factual context are more likely to be found for ripeness)
-* Mootness
+  
+* **Mootness**
   * An actual controversy must exist at all stages of the federal court proceeding; live and ongoing dispute
   * Rooted in prohibition against advisory opinions: if nothing stands to be resolved
   * Causes: death of a party, settlement, challenged law repealed or expires, or changes in facts
@@ -162,13 +175,14 @@
     * Wrongs capable of repetition yet evading review (i.e. abortion prohibition)
     * Defendant voluntarily ceases alleged improper behavior, but is free to return to it at any time
     * Properly certified class action may continue even after named P’s claims are rendered moot
-* Political Questions Doctrine
+  
+* **Political Questions Doctrine**
   * Subject matter deemed inappropriate for judicial review; unconstitutional government conduct best left to politically accountable branches of government
   * Baker v. Carr Disjunctive Test (only need one)
     * Textually demonstrable commitment of issue to coordinate political department; power to interpret scope
     * Lack of judicially discoverable and manageable standards to resolve issue (i.e. partisan gerrymandering)
-    * Impossibility of deciding case w/o initial policy determination of kind clearly for non-judicial discretion
-    * Impossibility of court’s undertaking independent resolution w/o expressing lack of respect for coordinate branches of government
+    * Impossibility of deciding case without initial policy determination of kind clearly for non-judicial discretion
+    * Impossibility of court’s undertaking independent resolution without expressing lack of respect for coordinate branches of government
     * Unusual need for unquestioning adherence to a political decision already made
     * Potentiality of embarrassment for multifarious pronouncements by various departments on one question
   * Justifications
@@ -177,3 +191,5 @@
   * Criticism
     * Inappropriate to leave constitutional questions to political branches of government
     * Deference need not mean abdication
+  
+---

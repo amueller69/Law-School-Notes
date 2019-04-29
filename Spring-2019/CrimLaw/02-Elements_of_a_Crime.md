@@ -311,12 +311,12 @@
 ### Mistake of Fact
 
 * MPC Approach
-  * Mistake of fact is inseparable from mens rea analysis. Thus, it must be determined whether the mistake of fact negates required negates the required level of culpability for the material elements of the offense
+  * Mistake of fact is inseparable from mens rea analysis. Thus, it must be determined whether the mistake of fact negates required level of culpability for the material elements of the offense
 
 * Current Law
   * MPC has had a major impact, yet some elements of the traditional approach from *Prince* continue to dominate
     * Lesser-crime principle - When D knowingly commits smaller crime, he runs risk of committing even greater crime. Thus, MoF not a valid defense in these situations
-    * Moral-wrong principle - where committing an act that is morally questionable/wrong, person runs risk of committing crime crime
+    * Moral-wrong principle - where committing an act that is morally questionable/wrong, person runs risk of committing crime
   
 * *Prince* (1875) (England)
   * Facts - D convicted of taking unmarried girl under 16yo, but D argued MoF b/c reasonably believed the girl was over 16yo b/c she was 18 and she looked much older than 16
@@ -366,11 +366,11 @@
   
 * *Regina v. Smith* (1974) (England)
   * Facts - D (tenant) convicted of theft for removed wiring he had installed in the wall in violation of statute saying items installed in wall become landlord property, but D argued MoL (thought property was his) so lacked culpability
-  * Holding - MoL is defense to civil law, not criminal law, because demonstrates lack of culpability
+  * Holding - While MoL is NOT a defense to civil law (i.e. still liable for damage), it is a defense in criminal law because demonstrates lack of culpability
 
 * *Cheek v. United States* (1991) (SCOTUS)
   * Facts - D convicted of failing to file federal income taxes, but D argued MoL b/c he believed taxes were illegal
-  * Holding - Whether a good-faith MoL is sufficient to negate intent requirement of willfulness is (i) a question of fact for the jury (ii) and not subject to an objective reasonableness standard
+  * Holding - Whether a good-faith MoL is sufficient to negate intent requirement of willfulness is (i) a question of fact for the jury (ii) and not subject to an objective reasonableness standard. Tax law is complicated and there must be a specific intent to violate that law. The term “willfulness” makes an exception to the rule that mistake of law is not a defense
   * Reasoning - A defendant will satisfy the willfulness requirement if she made a “voluntary, intentional violation of a known legal duty.” This means that the defendant must (1) know about the duty and (2) purposely violate it. Here it is clear there was no innocent mistake and that a known duty was simply ignored out of disagreement
   
 * *Lambert v. California* (1957) (SCOTUS)

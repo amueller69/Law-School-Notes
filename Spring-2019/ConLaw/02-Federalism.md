@@ -24,6 +24,7 @@
   * Method by which Marshall got to the conclusion in first holding is unique
     * *Marbury* uses express language and points directly at Constitution [restrictive]
     * *McCulloch* adds on to what it says in Constitution [expansive]
+  
 * Key discussion points
   * Rejection of notion of compact federalism
     * Compact federalism views states as supreme and retaining ultimate sovereignty, as they are the ones that ratified constitution in the first place and delegated powers to federal government. Under this view, federal power must be exercised in subordination to the states.
@@ -124,26 +125,32 @@
   1. Narrow definition of commerce so as to leave a zone of power to the states. Commerce was viewed as a stage of business distinct from resource extraction, production, etc. These were left to state regulation
   1. Restrictive definition of "among the states", allowing congress to regulate only when there was a **substantial effect** on interstate commerce
   1. 10th Amendment interpreted as reserving zone of activities to the states so that even federal laws consistent with commerce clause were unconstitutional by invading that zone
+  
 * Narrow Definition of Commerce
   * *U.S. v. E.C. Knight* (1895): commerce does not include manufacturing; effect of manufacturing monopoly on interstate commerce is indirect
     * Application of Sherman Antitrust Act preventing 98% market share via acquisition unconstitutional
     * Direct/indirect distinction - it would be too far reaching to allow Congress to act wherever commerce may be affected
     * Manufacturing is not commerce ("commerce succeeds manufacturing and is not part of it")
+  
   * *Carter v. Carter Coal* (1936): Bituminous Coal Conservation Act of 1935 regulating wages and hours unconstitutional
     * Act regulates production rather than trade; can’t set up coal boards to set min. wages and hours
     * Mining is not commerce (consistent with *EC Knight*)
     * Outside stream of commerce and indirect effect on interstate commerce (consistent with *Schecter Poultry*)
     * Dissent
       * Cardozo says should focus on substantiality rather than directness; need to draw lines
+  
 * Restrictive Definition of “Among the States”
   * *Swift v. U.S.* (1905): Congress may regulate meat packing under Sherman Act because it is “within the stream of interstate commerce"
+  
   * *Shreveport Rate Case* (1914): Can regulate intrastate railroad because of direct impact on interstate railroad activity, even if intrastate transaction of interstate carriers are also affected
     * Regulation of intrastate commerce is permissible if “close and substantial” relationship to interstate commerce
     * Need to prevent price discrimination against Louisiana railroad activity into the state
+  
   * *Schecter Poultry Corp. v. U.S.* (1935): regulation of chicken sales and work conditions in NYC unconstitutional because it affects intrastate business operations more than interstate transactions
     * NIRA wage and hour regulations applied to wholesale chicken industry
     * Stream of commerce concept has come to an end w/ this case; indirect effect not close and substantial
     * Congress only has authority to regulate where there are direct affects on interstate transactions
+  
 * 10th Amendment Limitations
   * *Champion v. Ames* (1903): federal law prohibiting interstate shipment of lottery tickets constitutional because it limits what may be sold in interstate commerce
     * Motivated to protect public morals, not to protect commerce; harm has yet to come at time of regulation
@@ -151,21 +158,25 @@
     * Dissent = Fuller quotes pretext passage in *McCulloch*; concerned w/ motivations behind this federal law
       * Has been reluctance by courts to consider motive as long as activity falls within definition of commerce (i.e. moral end instead of economic end), though this appears to conflict with *McCulloch*
       * When contrasted with *Hammer*, it becomes clear that there is an arbitrariness in how the court applied this doctrine
+  
   * *Hoke v. U.S.* (1913): upholds Mann Act prohibiting interstate transportation of women for immoral purposes
+  
   * *Hammer v. Dagenhart* (1918): Act banning interstate shipment of goods produced by child labor is unconstitutional because controls production rather than commerce
     * Necessary effect of ban is to regulate hours of child labor in manufacturing and mining occurring intrastate
     * Court concludes that 10th Amendment reserves control of activities such as mining and manufacturing, so federal laws regulating interstate commerce were unconstitutional if they sought to control mining
     * Court argue that if upheld, there would be far reaching effects of allowing to control matters reserved for local authorities simply by prohibiting the movement of commodities out of state would effectively end state control over the matters
     * Court claims it is not inquiring into congressional purpose or motive
     * Champion and Hoke, harm was yet to come; here harm complete prior to start of interstate comm.
+  
 * At end of this period, there was significant pressure for a change in doctrine, as the court's interpretation limited congressional commerce power, overturning important pieces of new deal legislation. The doctrines were also intellectually vulnerable because the decisions appeared to have rested on arbitrary distinctions and reasoning
 
-### Post New Deal Relaxation of Limitations
+### Post New Deal Relaxation of Limitations (*Wickard* and *Darby*)
 
 * *NLRB v. Jones & Laughlin Steel* (1937) - NLRA challenged by Steel Industry, Court reverses direction:
   1. Rejects categorical approach to commerce (e.g. *Knight*); steel “production” is no bar: "...that the employees were engaged in production is not prohibitive"
   1. Cardozo is avenged. Directness based approach is rejected. Power under the commerce clause is "necessarily one of degree"
   1. Court speaks broadly about Congress' commerce power: The power to regulate is plenary and may be exerted to protect interstate commerce no mater what the source of the dangers which threaten it. Not as clear at the time, but signals the major shift captured in *Darby* and *Wickard*
+  
 * *U.S. v. Darby* (1941) - FLSA prevents good failing to meet labor standard from being shipped or produced for purpose of interstate commerce
   1. Power to regulate w/in the bounds of ICC is plenary, courts will not inquire into motives to determine constitutionality (*Hammer* and seems to conflict with *McCulloch*)
      * Rejects view that activities such as production reserved exclusively to the states
@@ -173,11 +184,13 @@
      * Failing to pay minimum wage in one state would drive down wages in nearby states to compete -> interstate effects
      * Power over interstate commerce extends to intrastate commerce so affecting interstate commerce as to make regulation an appropriate means to a legitimate end
   1. 10A is not an independent external constraint on the commerce power, it merely “states a truism.” We already know that powers not granted to congress are reserved to the states.
+  
 * *Wickard v. Fillburn* (1942) - Quota on wheat production challenged subsistence farmer
   1. Cannonizes rule that would control until 1995: Regulation constitutional so long as Congress could rationally conclude the activity, in the aggregate, had a substantial effect on interstate commerce
      * Substantial Effects is the first prong, which looks at economic measures in the aggregate. Though P's own homegrown wheat didn't have any direct affect on interstate commerce, this activity collectively has effects on wheat market demand and thus interstate commerce
      * Rational Basis
   1. Rejects the formalistic distinctions from the former era such as commerce vs. production or indirect vs. direct effects. These are irrelevant if the substantial affects, measured in economic terms, support the reach of power
+
 * Other Cases and Developments
   * Elimination of the word substantial in *Hodel*, where court could only invalidate if there is no rational basis that the regulated activity affects interstate commerce. Hard to imagine anything could not be regulated under this broad interpretation of the clause
   * Implications of the trilogy above:
@@ -189,91 +202,97 @@
     * *Perez* upheld Consumer Credit Protection Act because there is no need for proof of effects on interstate commerce, just belief that it is affected. Thus, loan-sharking activities, which often occur interstate, can be regulated under commerce clause powers
     * Question about motive/desired end had constitutional implications
 
-### Modern Interpretation Takes Shape
+### *US v. Lopez* (1995)
 
-* *US v. Lopez*
-  * Majority Opinion
-    * Three categories of activity that can be regulated:
-      1. Use of the channels of interstate commerce (i.e. sales directly interstate)
-      1. Instrumentalities of interstate commerce (e.g. highways, railroads, things used to conduct commerce across state lines)
-      1. Intrastate activities that have a “substantial relation” to interstate commerce
-    * Proper test for the third category requires an analysis of whether the regulated activity "substantially affects" interstate commerce
-    * Possessing a gun near a school did not substantially affect interstate commerce and thus law was unconstitutional
-      * The "soup" of considerations that the majority cites in decision (e.g. concerns about federalism, directness, substantial affects, economic in nature, etc) **leave us with a pretty incoherent framework**
-      * **Ultimately concludes that the statute has nothing to do with commerce and lacks jurisdictional element that would ensure its relation to interstate commerce**. It can't be sustained that the activities related here substantially affect interstate commerce in the aggregate
-        * Purpose of the jurisdictional element requirement seems to preventing law from upsetting the balance of federalism
-        * While no formal burden to show the effects, majority contends there are no findings that support a basis for the belief
-        * Those arguments government presents to show a reasonable basis are dismissed because of there implications for federalism
-  * Thomas Concurrence
-    * Rejects the third category and argues for a far more narrow view of congressional power. This would look something like a return to pre-New Deal doctrine
-    * Substantially affects standard swallows up all powers in Art. I §8
-  * Kennedy/O'Connor Concurrence
-    * Stress principles of limited federalism and importance of preserving intended relationship between congress and state authority
-    * Emphasizes that the government had gone too far in that specific instance, but disclaims a formalist test that gives too little weight to the Congressional interest in regulating for the economic well-being in the modern economy
-  * Souter Dissent
-    * Majority is saying that the economic character question bears on whether courts defer to Congress (i.e. If non-economic character in question, the no rationality deference to Congress)
-      * Rehnquist is wrong in reviewing the Court’s rationale; need to give deference
-      * Distinction between what is commercial and non-commercial is return to formalistic jurisprudence from 60 years ago
-  * Breyer Dissent
-    * Criticizes majority for judicial activism and abandoning precedent of last 60 years. Appeals to the rational basis principle that an activity affect interstate commerce and that guns are inherently part of interstate commerce and have economic impact that justifies the regulation
-* *US v. Morrison*
-  * Background: Violence Against Women Act provided a federal cause of action for violent crimes against women (purely intrastate activity). Congress made extensive legislative findings about the substantial effects of such violence on interstate activity
-  * Outcome: 3 part test as articulated in *Lopez* is affirmed. Court struck down VAWA, because there was no “substantial relation” to interstate commerce under category 3
-  * Majority:
-    * This is a regulation of non-economic activity and non-economic activity has traditionally been dealt with by state laws
-    * Gender-motivated crimes are in no sense economic. There has been no precedent by which aggregate effects of intrastate non-economic activity have been considered and used to uphold regulation of this activity
-    * Congress' findings related to the impact on the economy are not sufficient by itself, as allowing Congress to rely on the attenuated effects of a long causal chain would allow them to regulate just about anything
-      * Looks a lot like the directness test from Pre-1937
-      * Concerns about limits and federalism
-  * Dissent:
-    * Souther stresses deference to congress. Congress has conducted voluminous hearings and found significant effects on the economy.
-* New limitations following *Lopez* and *Morrison* - Congress cannot regulate non-economic activity based on aggregate substantial effects on interstate commerce in areas that have traditionally been regulated by the states (i.e. intrastate activity)
-* *Gonzales v. Raich* (2005)
-  * Facts:
-    * California’s Compassionate Use Act of 1996 allows for the possession and cultivation of marijuana for medicinal purposes upon physician recommendation
-    * Under Controlled Substances Act, manufacture and possession of marijuana is illegal
-    * Raich prescribed marijuana for medical purposes; relies on home-grown marijuana; challenges constitutionality of CSA
-  * Stevens (Majority)
-    * Within congressional commerce power if congress has a rational basis to conclude that the activity:
-      1. Is part of an economic class of activities that cumulatively has a substantial effect on interstate commerce OR
-      1. Even if non-commercial, failure to regulate would undercut the regulation of a greater overall economic activity
-    * They find that the greater overall activity that is being regulated (interstate marijuana sales) is of a commercial quality and even if possession is assumed to be non-economic, there is rational basis for believing that not regulating intrastate possession would frustrate (i.e. undercut) the federal interest in regulating the interstate market
-    * This distinguishes the case at hand from *Morrison* and *Lopez*
-  * Scalia (Concurrence)
-    * Within congressional commerce power if congress has a rational basis to conclude that the activity:
-      1. Activity cumulatively has a substantial effect on interstate commerce and doesn't rely on remote chain of inferences (unless activity is economic) OR
-      1. Congress reasonably concludes that activity, if unregulated, could undercut a larger reign of economic activity
-    * Determines that this satisfies 2, relying on N&P Clause in addition to the Commerce Clause
-  * O'Connor (Dissent)
-    * Presents a conjunctive test:
-      1. Must belong to a class of economic activities AND
-      1. Must substantially affect interstate commerce
-    * Attacks second prong, though is skeptical about the first as well. Argues that there is an empirical gap in the effects on interstate commerce
-* *NFIB v. Sebelius* (2012)
-  * Facts:
-    * Affordable Care Act requires individuals to purchase health insurance as part of a “three-legged stool” solution: (1) insurer reform; (2) individual mandate; (3) Medicaid expansion
-    * Government argues that individual mandate is necessary to prevent cost-shifting by healthy and death spirals caused by adverse selection problem
-  * Outcome - Individual mandate is an unconstitutional use of Congress’s Commerce Clause powers. Congress may only regulate pre-existing activity and may not compel activity
-  * Roberts Opinion
-    * Must be an activity to be reachable under Commerce Clause, and this individual mandate is not regulating an activity but rather inactivity. Improper for Congress to draw into regulatory sphere those who would be outside it
-      * Activity/Inactivity distinction comes from the meaning of "regulate", as you cannot regulate activity that is not taking place
-      * Government's logic would allow use of commerce power to compel individuals to act, which would be of significant consequence
-    * N&P Clause involves authority derivative of a granted/existing power, where as the individual mandate is the exercise of a "great substantive and independent power"
-    * Primary distinction with cases like *Raich* is one of regulating classes of individuals rather than classes of activities:
-      * *Raich* dealt with an individual instantiation of a class of activity (i.e. in-state growing and possessing marijuana), however it did not specifically regulate individuals themselves (statute prohibits an activity)
-      * *NFIB* is not aimed at any activity in the affirmative sense, but is directed at a class of individuals (i.e. the uninsured). The object of this regulation falls outside of the three categories, as those who haven't purchased health insurance are not "persons involved in interstate commerce"
-        * "The individual mandate's regulation of the uninsured as a class is, in fact, particularly divorced from any link to existing commercial activity"
-  * Ginsburg
-    * Recites formulation of the rule. Congress has power to regulate economic activities that substantially affect interstate commerce. When appraising this legislation, ask only whether there is rational basis for concluding substantial effects AND whether there is reasonable connection between regulatory means and asserted ends.
-      * Only invalidate laws upon plain showing that Congress acted irrationally
-    * The word regulate can mean to “direct,” which is to tell people what to do [precedent is in *Seven-Sky*]. Also, this is regulation of activity because everyone actively involved in healthcare market or engages in self-insurance when not purchasing from company
-      * We got rid of formulas and line-drawing because of their limitations, but Roberts bringing back activity/inactivity distinction
-    * Fundamental precept: Congress has sufficient regulatory authority to meet the economic needs of the nation in all cases where uniform measures are necessary (see Madison)
-      * Majority decision does not allow Congress to adopt the practical solution it devised for the health care problem
-  * Scalia
-    * Cannot regulate or “direct” commerce that does not exist by compelling its existence
-    * Distinguishes Raich because here there are multiple ways of achieving regulatory goals
-    * Fundamental precept: Federal government cannot do everything; enumerated powers
+* Majority (Rhenquist)
+  * Three categories of activity that can be regulated:
+    1. Use of the channels of interstate commerce (i.e. sales directly interstate)
+    1. Instrumentalities of interstate commerce (e.g. highways, railroads, things used to conduct commerce across state lines)
+    1. Intrastate activities that have a “substantial relation” to interstate commerce
+  * Proper test for the third category requires an analysis of whether the regulated activity "substantially affects" interstate commerce
+  * Possessing a gun near a school did not substantially affect interstate commerce and thus law was unconstitutional
+    * The "soup" of considerations that the majority cites in decision (e.g. concerns about federalism, directness, substantial affects, economic in nature, etc) **leave us with a pretty incoherent framework**
+    * **Ultimately concludes that the statute has nothing to do with commerce and lacks jurisdictional element that would ensure its relation to interstate commerce**. It can't be sustained that the activities related here substantially affect interstate commerce in the aggregate
+      * Purpose of the jurisdictional element requirement seems to preventing law from upsetting the balance of federalism
+      * While no formal burden to show the effects, majority contends there are no findings that support a basis for the belief
+      * Those arguments government presents to show a reasonable basis are dismissed because of there implications for federalism
+* Concurrence (Thomas)
+  * Rejects the third category and argues for a far more narrow view of congressional power. This would look something like a return to pre-New Deal doctrine
+  * Substantially affects standard swallows up all powers in Art. I §8
+* Concurrence (Kennedy/O'Connor)
+  * Stress principles of limited federalism and importance of preserving intended relationship between congress and state authority
+  * Emphasizes that the government had gone too far in that specific instance, but disclaims a formalist test that gives too little weight to the Congressional interest in regulating for the economic well-being in the modern economy
+* Dissent (Souter)
+  * Majority is saying that the economic character question bears on whether courts defer to Congress (i.e. If non-economic character in question, the no rationality deference to Congress)
+    * Rehnquist is wrong in reviewing the Court’s rationale; need to give deference
+    * Distinction between what is commercial and non-commercial is return to formalistic jurisprudence from 60 years ago
+* Dissent (Breyer) 
+  * Criticizes majority for judicial activism and abandoning precedent of last 60 years. Appeals to the rational basis principle that an activity affect interstate commerce and that guns are inherently part of interstate commerce and have economic impact that justifies the regulation
+
+### *US v. Morrison* (2000)
+
+* Background: Violence Against Women Act provided a federal cause of action for violent crimes against women (purely intrastate activity). Congress made extensive legislative findings about the substantial effects of such violence on interstate activity
+* Outcome: 3 part test as articulated in *Lopez* is affirmed. Court struck down VAWA, because there was no “substantial relation” to interstate commerce under category 3
+* Majority:
+  * This is a regulation of non-economic activity and non-economic activity has traditionally been dealt with by state laws
+  * Gender-motivated crimes are in no sense economic. There has been no precedent by which aggregate effects of intrastate non-economic activity have been considered and used to uphold regulation of this activity
+  * Congress' findings related to the impact on the economy are not sufficient by itself, as allowing Congress to rely on the attenuated effects of a long causal chain would allow them to regulate just about anything
+    * Looks a lot like the directness test from Pre-1937
+    * Concerns about limits and federalism
+* Dissent:
+  * Souther stresses deference to congress. Congress has conducted voluminous hearings and found significant effects on the economy.
+  
+* New limitations following *Lopez* and *Morrison* - Congress cannot regulate **non-economic activity** based on aggregate substantial effects on interstate commerce in areas that have **traditionally been regulated by the states** (i.e. intrastate activity)
+
+### *Gonzales v. Raich* (2005)
+
+* Facts:
+  * California’s Compassionate Use Act of 1996 allows for the possession and cultivation of marijuana for medicinal purposes upon physician recommendation
+  * Under Controlled Substances Act, manufacture and possession of marijuana is illegal
+  * Raich prescribed marijuana for medical purposes; relies on home-grown marijuana; challenges constitutionality of CSA
+* Majority (Stevens)
+  * Within congressional commerce power if congress has a rational basis to conclude that the activity:
+    1. Is part of an economic class of activities that cumulatively has a substantial effect on interstate commerce OR
+    1. Even if non-commercial, failure to regulate would undercut the regulation of a greater overall economic activity
+  * They find that the greater overall activity that is being regulated (interstate marijuana sales) is of a commercial quality and even if possession is assumed to be non-economic, there is rational basis for believing that not regulating intrastate possession would frustrate (i.e. undercut) the federal interest in regulating the interstate market
+  * This distinguishes the case at hand from *Morrison* and *Lopez*
+* Concurrence (Scalia)
+  * Within congressional commerce power if congress has a rational basis to conclude that the activity:
+    1. Activity cumulatively has a substantial effect on interstate commerce and doesn't rely on remote chain of inferences (unless activity is economic) OR
+    1. Congress reasonably concludes that activity, if unregulated, could undercut a larger reign of economic activity
+  * Determines that this satisfies 2, relying on N&P Clause in addition to the Commerce Clause
+* O'Connor (Dissent)
+  * Presents a conjunctive test:
+    1. Must belong to a class of economic activities AND
+    1. Must substantially affect interstate commerce
+  * Attacks second prong, though is skeptical about the first as well. Argues that there is an empirical gap in the effects on interstate commerce
+
+### *NFIB v. Sebelius* (2012) - Commerce Clause Portion
+
+* Facts:
+  * Affordable Care Act requires individuals to purchase health insurance as part of a “three-legged stool” solution: (1) insurer reform; (2) individual mandate; (3) Medicaid expansion
+  * Government argues that individual mandate is necessary to prevent cost-shifting by healthy and death spirals caused by adverse selection problem
+* Outcome - Individual mandate is an unconstitutional use of Congress’s Commerce Clause powers. Congress may only regulate pre-existing activity and may not compel activity
+* Roberts Opinion
+  * Must be an activity to be reachable under Commerce Clause, and this individual mandate is not regulating an activity but rather inactivity. Improper for Congress to draw into regulatory sphere those who would be outside it
+    * Activity/Inactivity distinction comes from the meaning of "regulate", as you cannot regulate activity that is not taking place
+    * Government's logic would allow use of commerce power to compel individuals to act, which would be of significant consequence
+  * N&P Clause involves authority derivative of a granted/existing power, where as the individual mandate is the exercise of a "great substantive and independent power"
+  * Primary distinction with cases like *Raich* is one of regulating classes of individuals rather than classes of activities:
+    * *Raich* dealt with an individual instantiation of a class of activity (i.e. in-state growing and possessing marijuana), however it did not specifically regulate individuals themselves (statute prohibits an activity)
+    * *NFIB* is not aimed at any activity in the affirmative sense, but is directed at a class of individuals (i.e. the uninsured). The object of this regulation falls outside of the three categories, as those who haven't purchased health insurance are not "persons involved in interstate commerce"
+      * "The individual mandate's regulation of the uninsured as a class is, in fact, particularly divorced from any link to existing commercial activity"
+* Ginsburg
+  * Recites formulation of the rule. Congress has power to regulate economic activities that substantially affect interstate commerce. When appraising this legislation, ask only whether there is rational basis for concluding substantial effects AND whether there is reasonable connection between regulatory means and asserted ends.
+    * Only invalidate laws upon plain showing that Congress acted irrationally
+  * The word regulate can mean to “direct,” which is to tell people what to do [precedent is in *Seven-Sky*]. Also, this is regulation of activity because everyone actively involved in healthcare market or engages in self-insurance when not purchasing from company
+    * We got rid of formulas and line-drawing because of their limitations, but Roberts bringing back activity/inactivity distinction
+  * Fundamental precept: Congress has sufficient regulatory authority to meet the economic needs of the nation in all cases where uniform measures are necessary (see Madison)
+    * Majority decision does not allow Congress to adopt the practical solution it devised for the health care problem
+* Scalia
+  * Cannot regulate or “direct” commerce that does not exist by compelling its existence
+  * Distinguishes Raich because here there are multiple ways of achieving regulatory goals
+  * Fundamental precept: Federal government cannot do everything; enumerated powers
 
 ---
 
@@ -295,6 +314,7 @@
   * Holding: - The State of New York is not immune from this federal tax since it is operating a mineral spring in a conservation effort
     * “No restriction upon Congress to include the States in levying a tax exacted equally from private persons upon the same subject matter.”
   * **Non-discriminatory rule**: can’t tax State activities while leaving the same activities by private parties untaxed; cannot treat the States worse than private parties
+  
 * *National League of Cities v. Usery* (1976)
   * Background:
     * The only case between 1937 and the 1990s to deviate and find that a law violated the 10th Amendment
@@ -306,6 +326,7 @@
   * Cases following *Usery* provided clarification and narrowed the scope of this ruling
     * *Hodel* made it clear that it applied only when Congress was regulating state governments, not private conduct. Must regulate states as states an not directly impair ability to perform essential functions
     * *United Transportation* further narrowed this application so that only violates 10A when would be likely to hamper the state government's ability to fulfill its role in the Union
+  
 * *Garcia v. SAMTA* (1985) - *Usery* expressly overturned in
   * FLSA imposed min wage and max hours on county public mass transit system in Texas
   * > We therefore now reject, as unsound in principle and unworkable in practice, a rule of state immunity from federal regulation that turns on a judicial appraisal of whether a particular government function is 'traditional' or 'integral'.
@@ -315,12 +336,13 @@
   * **Exception**: when the political safeguards break down, though not clear when that will be (dissent hits on this)
     * > It must be tailored to compensate for possible failings in the national political process rather than to dictate a “sacred province of state autonomy.”
   * *Garcia* is still good law, means that that laws of general applicability can constitutionally apply to the states
+  
 * *Gregory v. Ashcroft* (1991) - Rule of construction to avoid preemption conflicts
   * If Congress wishes to regulate a core state function, it must make its intent "unmistakably clear" in the statutory text
   * The Court did not use the Tenth Amendment to invalidate the federal law on its face or as applied. Instead, the Court used the Tenth Amendment and federalism considerations as a rule of construction
   * Stressed significance of 10A as constitutional protector of state sovereignty
 
-### Anti-Commandeering Principle
+### Anti-Commandeering Principle (*New York* and *Printz*)
 
 * *New York v. United States* [New York II] (1992)
   * Law requires states to pass laws regulating disposal/treatment of radioactive waste, those that failed to comply would take legal title to the waste
@@ -329,6 +351,7 @@
   * While central holding is that it is unconstitutional for Congress to compel state legislatures to adopt laws or state agencies to adopt regulations. The Court, however, indicated that Congress was not powerless
     * Congress may set standards that state and local governments must meet and thereby preempt state and local actions
     * Also, Congress may attach strings on grants to state and local governments and these conditions induce state and local actions that it cannot directly compel
+  
 * *Printz v. United States* (1997)
   * Congress creates CLEOs (chief level enforcement officers) in each state to enforce gun background check system on people
   * **Modalities of interpretation** - Both the majority and dissent in Printz agree that the proper interpretive modalities to resolve the question are:
@@ -358,20 +381,24 @@
   * Additionally, 1999 SCOTUS decision held sovereign immunity bars suits against state governments in state court without their consent
   * The Court thus has ruled that there is a broad principle of sovereign immunity that applies in both federal and state courts; the Eleventh Amendment is a reflection and embodiment of part of that principle
   * **Still no agreement on its proper scope**
+  
 * Possible scopes of 11A - Modern court likely split between 2 and 3
   1. Federal judicial power does not extend to suits against State A by citizen of State B (citizens can still sue own states)
   1. Federal diversity jurisdiction does not cover suits against states (narrower restriction on subject matter jurisdiction)
   1. Federal judicial power does not extend to suits against State A by ANY person (most expansive)
+  
 * Expansive Reading
   * Effectively immunizes the actions of state governments from federal court review, even when a state violates the most fundamental constitutional rights
   * protects state autonomy by immunizing states fromm suits in federal court, but it provides this independence by risking the ability to enforce basic federal rights
   * Virtually the entire class of modern civil rights litigation plausibly might be barred by an expansive reading of the immunity of the states from suit in federal court
+  
 * Response to the limitations imposed by sovereign immunity
   * Supreme Court has devised a number of ways to circumvent the broad prohibition of the Eleventh Amendment and to ensure federal court review of allegedly illegal state actions
   * Three primary mechanisms for circumventing the Eleventh Amendment and allowing federal courts to ensure state compliance with federal law:
     1. Allowing suits against state officers
     1. Permitting states to waive their Eleventh Amendment immunity and consent to suit
     1. Sanctioning litigation against the states pursuant to statutes adopted under the Fourteenth Amendment
+  
 * Underlying policy issues
   * Supporters of sovereign immunity argue it was a principle that predates the Constitution and is part of its very structure; Safeguarding state governments, and particularly their treasuries, is deeply embedded in the Constitution; There are other ways of holding state govts accountable, such as suits against state officers and suits by the federal govt
   * Opponents argue that it is a principle not found in the text or intended by framers; It wrongly favors govt immunity over accountability and is inconsistent with notion of a govt under law; People can be deprived of rights but left with no remedy and thus no due process; States can violate the Constitution and nowhere be held accountable
@@ -379,7 +406,7 @@
     * > The constitutional privilege of a State to assert its sovereign immunity in its own courts does not confer upon the State a concomitant right to disregard the Constitution...The States and their officers are bound by obligations imposed by the Constitution...We are unwilling to assume the States will refuse to honor the Constitution...The good faith of the States thus provides an important assurance [of constitutional supremacy]
     * Opponents argue this trust into the good faith of state govts is misplaced and they must be held accountable when violating constitution
 
-### Cases
+### Cases (*Chisolm*, *Hans*, and *Alden v. Maine*)
 
 * *Chisholm v. Georgia* (SCOTUS 1793)
   * Overview:
@@ -394,8 +421,9 @@
   * Response to decision
     * GA legislators are outraged. Congress immediately proposes action
     * 11th Amendment (ratified in 1794) enacted to overrule the holding in this case
+  
 * *Hans v. Louisiana* (SCOTUS 1890)
-  * Holding
+  * Holding:
     * **11A bars citizens from suing their own State under federal question jurisdiction**
       * Endorses broadest of the three possible scopes proposed above
     * Reasoning
@@ -405,11 +433,13 @@
       * 11A only talks about “citizens of another state,” so Hans (P) would have won on purely textualist interpretation
     * Inconsistent with "diversity only" interpretation of the scope, which states that sovereign immunity does not apply to federal question jurisdiction because *Chisolm* and 11A were only aimed at modifying diversity
     * Has been reaffirmed over last century despite calls to overturn it
+  
 * Limitations on *Hans* and Expansive Scope
   * Suits by U.S. or by other states
     * If sued by state, it must be doing so to protect own interests
   * No immunities for municipalities or state political subdivisions
     * Significant because much of the social service in our country are administered at this level
+  
   * **Suits for injunctive relief that name state officials**
     * *Ex parte Young* is credited with establishing principles that 11A does not precluded suits against state officers for injunctive relief, even if the remedy will enjoin the implementation of an official state policy
       * Court reasoned suits against state officers for injunctive relief are not against the state and hence not barred
@@ -422,6 +452,7 @@
         * **11A does not prohibit fed court from providing injunctive relief against state officer even though compliance with the injunction will cost state great deal of money in future (prospective relief)**
         * Still prohibits awarding retroactive relief--damages to compensate for past injury--when those damages will come out of state treasury
     * Has become primary way of ensuring state compliance with federal law
+  
   * **Abrogation**
     * Argument that Congress should be able to override 11A and authorize suits against states in fed court because 11A is a limit on the federal judiciary's power, not on Congress. Federal statutes are supreme over the states
     * By legislation enacted under 14A5
@@ -435,9 +466,11 @@
         * Overrules *Union Gas Go.*
       * *Central Virginia CC v. Katz* (2006) - **No state sovereign immunity in bankruptcy proceedings**
         * Art. I §8 powers to create uniform bankruptcy rules override state sovereign immunity. It wasn't the Bankruptcy Act abrogating sovereign, but the fact that such proceedings arise under constitutional bankruptcy powers given to Congress
+  
   * **Waiver and Consent**
     * States may always consent to suit
       * No constructive waivers - must be explicit waiver of immunity from suit in federal court in order to be effective
+  
 * *Alden v. Maine* (1999) - States cannot be sued in state court without their consent
   * Background: Probation officers sue State of Maine for violating FLSA overtime provisions. Fed case dismissed, so file in Maine state courts. Provision in FLSA allowing private action for monetary damages against parties that violate
   * Holding: - Congress cannot subject nonconsenting States to private suits for damages in state courts
@@ -482,7 +515,7 @@
 
 ### *United States v. Kahriger* (1953)
 
-* Facts
+* Facts:
   * Revenue Act of 1951 levies tax on gamblers by requiring persons who have engaged in accepting wagers to register IRS. This was a tax on private individuals
   * Ps challenge the constitutionality of the tax, arguing it is an improper attempt to penalize intrastate activity under the pretense of exercising tax powers
 * Outcome - Valid tax because all provisions of excise are adapted to the collection of revenue
@@ -493,20 +526,20 @@
     * However, in the regulation of commerce, Congress has long been able to effect matters that are ordinarily of state concern. Why should tax powers be more limited with respect to its effects on traditional state matters? Court says it shouldn't
     * Here, all provisions of this excise were adapted to the collection of a valid tax. Other regulatory provisions (e.g. registering) are in aid of collection purpose, thus are also not extraneous to any tax need
   * Regulatory effect of tax does not have a bearing on whether tax is legitimate; it produces revenue, which is consistent with other taxes the court has declared valid
-* Concurrence, Jackson, J. - Argues that he is concurring only because the dissent goes too far by proposing a standard that would impair the legitimate tax power of Congress
+* Concurrence (Jackson) - Argues that he is concurring only because the dissent goes too far by proposing a standard that would impair the legitimate tax power of Congress
   * Difficult to regard tax as rational revenue measure, despite deference due to Congress (pretext)
   * It is dangerous to jeopardize public trust in the tax system by using it as an instrument to achieve unauthorized ends
   * However, it is more dangerous to impair those tax powers that are legitimate though an excessively strict judicial standard
-  * The former can be corrected democratically ("the evil that can come from this statute will probably soon manifest itself to Congress"), but the latter is much more difficult ("[this] evil might not be transient"). Thus, the majority is the lesser of two evils
-* Dissent, Frankfurter - Courts can step in when legislation appears truly regulatory rather than revenue-seeking. Ulterior purpose cannot be stated in ways negating revenue words expressed on their face
+  * The former can be corrected democratically ("the evil that can come from this statute will probably soon manifest itself to Congress"), but the latter is much more difficult this evil might not be transient"). Thus, the majority is the lesser of two evils
+* Dissent (Frankfurter) - Courts can step in when legislation appears truly regulatory rather than revenue-seeking. Ulterior purpose cannot be stated in ways negating revenue words expressed on their face
 
-### NFIB v. Sebelius (2012 - Individual Mandate Tax)
+### NFIB v. Sebelius (2012) - Individual Mandate Tax Portion
 
-* Facts
+* Facts:
   * Affordable Care Act imposes an penalty on individuals whom do not purchase health insurance coverage. Earlier in the opinon, the court held that this individual mandate was an invalid exercise of Congress' commerce power. Thus, the Court moves on and considers whether it can be justified under Congress' tax power
 * Outcome - Individual mandate is within Congress’s taxing powers
 * Rule - **Irrelevant that this part of the legislation was not explicitly designated as a tax. Constitutionality of action by congress does not depend on recitals of power which it undertakes to exercise** When determined that Congress permits a tax, not role of courts to forbid tax or judge
-* Majority Reasoning (Roberts)
+* Majority (Roberts)
   * References principle of construction articulated by Judge Story in which a court should avoid adopting interpretations that would make it unconstitutional in favor of one that would make it valid, regardless if unintentional
   * Mandate looks like a tax in many respects. Is assessed and collected in same manner
   * While lack of "tax" label may be fatal to enforcement of Anti-Injuction Act, this is not fatal in viewing it as an exercise of tax powers
@@ -515,7 +548,7 @@
   * Not a punishment for criminal act or omission, failing to purchase coverage is not a crime; Taxes may be regulatory and seek to shape decisions (i.e. incentives)
   * Taxing inaction is not troubling because constitution is clear you cannot avoid taxes thru inactivity (capitation is explicitly authorized; people are taxed merely for existing)
   * Limit on taxing power of Congress is that it be non-penalizing in nature. Can't sanction or imprison under tax powers like with commerce powers
-* Joint Dissent (Scalia)
+* Dissent (Scalia)
   * No way to read the statute as a tax, but rather it is a mandate enforced via penalty
     * The words shall and penalty denote a sanctioned prohibition or punishment
   * There as a clear line between penalty and tax in Court's decisions; its either one or the other and Congress clearly framed it as a penalty
@@ -529,19 +562,22 @@
 ## Spending Power
 
 * Art. I, §8, Cl. 1 – “Congress shall have Power…to pay the Debts and provide for the common Defense and general Welfare of the United States.”
+  
 * Main Rule: **Congress possesses expansive power to spend in any way it believes would serve the general welfare so long as it does not violate another constitutional provision**
   * This broad scope of Congress' spending powers was articulated in *Butler* reaffirmed in subsequent cases
   * In *Sabri*, court upheld law prohibiting bribery of state/local officials officials that receive greater than $10k in federal funds, even if the bribery was unrelated to activities that the funding is for. Court argued that money is fungible and bribed officials are untrustworthy stewards of public funds and thus Congress has power to bear federal power on individuals who convert public funds for personal gain
+  
 * Conditions on state grants
   * General Rule: **Court has held that Congress may place conditions on such grants, so long as the conditions are expressly stated, have some relationship to the purpose of the spending program, and are not unduly coercive**
   * While having no power to regulate state and local political activities, it does have power to fix the terms upon which its money allotments to states shall be disbursed
   * In *Halderman*, court held that if Congress intends to impose a condition on federal grant money, it **must be unambiguous and expressly stated** so that states know the consequences of their choosing to take federal funds
   * Court recognized that at some point, "the financial inducement offered by Congress might be so coercive as to pass the point at which pressure turns into compulsion"
     * Court has recently continued to enforce this limitation on Congress' power to put conditions on grants: **They cannot be unduly coercive**
+  
 * Anticoercion Principle: If a State really has no choice other than to accept the package, then the offer is coercive and cannot be sustained under the spending power. [Joint dissent in *NFIB*]
   * Need this principle in case coercion is used to confer benefit getting State to waive a right
-    * Anticoercion = anticompulsion = magnitude of pressure (~Y) is too burdensome [NFIB] --> Compulsion
-    * Anticoercion = antiextortion = withholding benefit (~Y) is wrongful [Nollan] --> Coercion
+    * Anticoercion = anticompulsion = magnitude of pressure (~Y) is too burdensome (NFIB) --> Compulsion
+    * Anticoercion = antiextortion = withholding benefit (~Y) is wrongful (Nollan) --> Coercion
 * Conditional Offer Problem: Federal government conditions a benefit that it is not constitutionally obligated to provide on the offeree’s relinquishment of some constitutionally protected interest or right
   * Example: Plea bargaining
   * Federal government provides some benefit X if and only if State does not exercise some right Y
@@ -549,21 +585,22 @@
     1. Greater power not to off any benefit includes lesser power to confer some benefit by condition
     1. Shouldn’t do indirectly through compulsion what government cannot do directly
   * Duty holder cannot act to make exercise of my right more costly
-* Realatedness Requirement
-  *"Germaneness of the condition to the federal purpose" - *Dole*
+
+* Relatedness Requirement
+  * > "Germaneness of the condition to the federal purpose" - *Dole*
   * **To satisfy relatedness test, the conditioned imposed must not be unrelated to the purpose behind which the funds are expended**
   * Example: The purpose of highway funding is safe interstate travel, a purpose that can be frustrated by the drinking age if a state has set it too low. Thus, the condition that states increase drinking age is related to the purpose federal highway funding
   * Court in *Dole* declines to define outer limits of germaneness and hold that conditions on federal funds is legitimate only if it relates **directly** to the purpose of the expenditure to which it is attached
 
 ## *United States v. Butler* (1936)
 
-* Facts
+* Facts:
   * Agricultural Adjustment Act of 1933 regulated production and consumption of agricultural commodities using tax on processors and subsidies to farmers
-* Holding
+* Holding:
   * Unconstitutional because it used legitimate means to an unconstitutional end.
-* Rule
+* Rule:
   * Substantive power to spend is broad, and only limited in that it shall be used to provide for the general welfare of the United States
-* Majority Reasoning (Roberts)
+* Majority (Roberts)
   * Court endorses Hamiltonian view, asserting that Congressional spending power is not limited by direct grants of power in Constitution
     * Proceeds to directly contradict itself by accepting Madisonian reasoning to conclude that such exercise of powers is used to achieve unconstitutional end (that reserved by states) and thus violates 10A
       * That right is the ability of the State to regulate production (*Carter Coal* is still good law at this point in history)
@@ -574,7 +611,7 @@
     * There is obvious difference between statute stating conditions upon which money shall be expended and one that requires individual to submit to otherwise impermissible regulation in order for it to have effect (actually doing vs. agreeing to do)
     * Hamilton himself would not have even suggested that power granted in Constitution could be used for destruction of local/state power
     * Government's interpretation effectively argues that, after all the effort framers took to limit and delineate federal powers, they intended to wipe it all away with clause, that granting tax and spending powers, that would allow federal gov to ignore those barriers
-* Dissent
+* Dissent:
   * No support for the idea that the spending program is coercive
     * Essence of economic coercion is  threat of loss rather than hope of gain
     * This looks more like inducement
@@ -673,6 +710,6 @@ Majority (Cardozo):
     * If ~C, then ~B = Threat
     * If ~B is too burdensome, then exceeds spending power
   * In this case, ~C is the right. Gov cannot compel C because *Printz* says cannot commandeer
-  * Berman: issue not with too much pressure, but wrong to withhold the benefit without legitimate reason
+  * Berman: Issue not with too much pressure, but wrong to withhold the benefit without legitimate reason
 
 ---

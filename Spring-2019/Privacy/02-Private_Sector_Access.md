@@ -932,10 +932,6 @@
 
 ---
 
-## Drones
-
----
-
 ## Cloud and IoT
 
 * IoT ("Internet of Things") refers to the ability of evereday objects to connect to the internet and to send and receive data
@@ -949,3 +945,5 @@
     1. Sensitive personal information (e.g. precise geolocation, health vitals, and financial account numbers) is being directly collected, often without consumer awareness or meaningful consent
     1. Infrences that can be made about personal habits and physical conditions (e.g. health and mental condtion, lifetyle, mood) based on the sheer volume and nature of information collected. The amount and granularity of data allows analyses to be performed that wouldn't otherwise be possible. This runs the risk of this information being used in unauthorized ways and having real-world consequences (e.g. employment, credit access, health insurace costs)
        * FCRA imposes obligations on CRAs, but excludes most "first parties" that collect consumer information and would not cover device manufacturers that perform the collection/analytics themselves. Thus, would not cover companies that collect data directly and use them to make in-house credit/insurance eligibility decisions
+
+---

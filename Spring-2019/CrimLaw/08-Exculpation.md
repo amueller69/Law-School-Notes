@@ -420,9 +420,21 @@
 
 ## Excuse - Insanity
 
-* Two types of behavior insanity covers
-  * Cognitive defect – D didn’t understand the significance of his actions
-  * behavioral defect – D couldn’t control himself
+* **Insanity** - A defense negating mens rea or affirmative defense that D committed criminal act while suffering a legally recognized abnormal mental condition
+  * Two types of behavior insanity covers
+    * Cognitive defect – D didn’t understand the significance of his actions
+    * Behavioral defect – D couldn’t control himself
+  * *Ford v. Wainwright*: Supreme Court declares that the Eighth Amendment bars execution of the insane. Court stated that the defendant must have a rational understanding rather than mere awareness of the nexus between his crime and the punishment
+  * *Atkins v. Virginia*: Eighth Amendment forbids execution of people with mental retardation
+
+* Important terms:
+  * Mental Illness - Medical term referring to D’s diagnosed mental disorder, which ranges in severity and type (personality, psychotic, depression, etc)
+  * Insanity - Legal term referring to D’s mental state at time of the crime that may preclude culpability
+  * Incompetence - Legal term referring to D’s mental state at time of legal proceedings preventing “rational” and “factual” understanding of the proceedings against him, which may preclude ability to stand trial, undertake a responsibility, or get executed (including mentally disabled)
+    * **MPC §4.04** - Competence to be Tried and Sentence: No person who as a result of mental disease or defect lacks capacity to understand the proceedings against him or to assist in his own defense shall be tried, convicted or sentenced for the commission of an offense so long as such incapacity endures
+    * **Dusky Test**: “The test must be whether the defendant has sufficient present ability to consult with his lawyer with a reasonable degree of rational understanding – and whether he has a rational as well as factual understanding of the proceedings against him.”
+    * Note: Mental Illness broader than Insanity and Incompetence, so D can have mental illness and NOT be considered insane or incompetent
+    * Note: D could get Insanity but not Incompetent, or vice versa
 
 * Procedural impacts of the insanity defense
   * May not be competent to stand trial
@@ -453,17 +465,99 @@
   * Criminal law about social approbation, so  latter makes more sense – also shouldn’t hinge on changing defs of medical profession
   * If it’s moral, doesn’t a phase of the trial dominated by psychiatrists just muck everything up?
 
-* **MPC §4.01** - D meets defense burden if D establishes:
-  * (1) Mental disease or defect (severity and type ambiguous, though excludes abnormality manifested only by repeated criminal/anti-social conduct)
-  * (2) D lacked “substantial capacity” at time of crime to either:
-    * (a) Appreciate his conduct’s criminality (i.e. M’Naghten “wrongfulness” prong; but MPC leave open to moral or legal wrongfulness) OR
-    * (b) Conform his conduct to the law’s requirements (i.e. volitional prong)
-
-* **M’Naghten Rule** - "[D acted] under such a defect of reason so as to not know the nature and quality of the act he was doing, or if he did know it, he did not know what he was doing was wrong"
-  * Requires:
+* **M’Naghten Rule** - "[D acted] under such a defect of reason so as to not know the nature and quality of the act he was doing, or if he did know it, he did not know what he was doing was wrong". Regarded as most restrictive standard
+  * In order to meet the burden, must show:
     * Mental disease of defect
-    * Lack of Knowledge of
+    * Causation
+    * Lacked knowledge of
       * The nature of quality of the act
       * OR the wrongness of the act (legally/morally)
-    * Causation
   * Rudovsky example: D (Vietnam veteran) has PTSD and shoots at fireman who come to his house; D fails *M’Naghten* because knew the “wrongfulness” of shooting and “nature and quality” of shooting
+  * A little under half of all jurisdictions still employ some rule similar to this
+
+* **MPC §4.01** - ~40% of jurisdictions have adopted this instead, a more permissive test regarding insanity
+  * D meets defense burden if D establishes:
+    * (1) Mental disease or defect (severity and type ambiguous, though excludes abnormality manifested only by repeated criminal/anti-social conduct)
+    * (2) D lacked “substantial capacity” at time of crime to either:
+      * (a) Appreciate his conduct’s criminality (i.e. M’Naghten “wrongfulness” prong; but MPC leave open to moral or legal wrongfulness) OR
+      * (b) Conform his conduct to the law’s requirements (i.e. volitional prong)
+  * Distinguished from M'Naghten:
+    * Loosens cognitive impairment (needs to appreciate right/wrong, not just know the difference)
+    * Loosens volitional impairment (lack substantial capacity to conform his conduct to requirements of the law)
+    * Began to fall out of favor after *Hinckley*
+
+* **Durham Test** - First standard to question M’Naghten, but considered too broad
+  * D meets burden if D establishes:
+    * (1) Mental disease (NOTE: severity and type is ambiguous)
+    * (2) Caused a defect of reason
+    * (3) D’s crime would not have been committed but-for the abnormal mental condition (this is very broad; nothing related to knowledge of wrongfulness or the act itself)
+  
+* **Irresistible Impulse Test** - Question of impaired volitional ability, less restrictive than M’Naghten
+  * D meets defense burden if D establishes:
+    * (1) Mental disease
+    * (2) Caused a defect of reason
+    * (3) D unable to control his actions and follow the law
+
+### *M'Naghten* (1843 UK)
+
+* Facts: Defendant suffered delusions and killed a secretary to the Prime Minister. There was considerable evidence that the defendant was insane
+* Question: What is the proper instruction for the jury in a case where the insanity defense is used?
+* Rule: **It must be proven that at the time of the act, the accused was under such a defect of reason from disease of the mind that he did not know the nature and quality of the act he was committing; or if he did know, he did not know what he was doing was wrong**
+* Holding: Jurors should be instructed that every man is presumed sane and to posses a sufficient degree of reason to be responsible for his crimes. Therefore, in order to establish an insanity defense, it must be clearly proven that at the time of the act, the accused as under such a defect of reason from disease of the mind that he did not know the nature and quality of the act he was committing; or if he did know, he did not know what he was doing was wrong
+* Notes Case - The King v. Porter
+  * The court instructed the jury that the first thing they must do is only focus on the condition of mind at the time the act complained of was done. The next thing the jury must do is determine if the defendant’s state of mind was one of disease, disturbance, disorder. Then. Then the jury must decide that if the defendant’s state of mind was that of disease, they must decide if it was such a character to prevent him from knowing the physical nature of the act he was doing or of knowing that what he was doing was wrong
+
+### *Blake V United States* (1969 5th Circuit)
+
+* Background - Case where court Adopts the MPC test for insanity
+* Facts: Defendant was charged with robbery. He told people he was about to rob the bank and had a history of mental illness and electro-shock therapy. The evidence overwhelmingly proved his guilt, but he offered the defense of insanity. He was convicted, but appealed by stating that the insanity definition he was convicted on did not meet the standard for was outdated. Defendant had a history of violence and erratic behavior and may have been suffering from schizophrenia at the time of the robbery. The court instructed the jury that the defendant was insane if he completely lacks capacity to know right from wrong. The jury convicted and the defendant appealed.
+* Question: Was the jury instruction on insanity correct?
+* Holding: No, the original insanity charge to the jury was “the term insanity as used in this defense means such a perverted and deranged condition of the mental and moral faculties as to render a person incapable of distinguishing between right and wrong, or unconscious at the time of the nature of the act he is committing, or where, though conscious of it and able to distinguish between right and wrong and know the act is wrong, yet his will, by which I mean the governing power of his mind has been otherwise than voluntarily so completely destroyed that his actions are to subject to it but are beyond his control.” By contrast, the MPC test for insanity which the defendant urged the court to adopt states, “A person is not responsible for criminal conduct if at the time of such conduct as a result of mental disease or defect he lacks substantial capacity either to appreciate the criminality (wrongfulness) of his conduct or to conform his conduct to the requirements of the law.” The MPC definition is slightly less rigid in that lack of capacity must be substantial rather complete. This is the better formula according to the court, so the conviction was overturned.
+
+### *United States V Lyons* (1984 5th Cir.)
+
+* Background: Court rejects MPC requirement, reasoning that it allows too many people to plead insanity
+* Facts: Lyon was convicted of twelve counts of knowingly and intentionally securing controlled narcotics. During trial, Lyons claimed his drug addiction was a mental disease within the definition proscribed in the insanity defense. He offered evidence that in 1978 he became addicted to several prescription drugs given to him for pain relief. In addition, Lyons sought to present expert witnesses who would testify that has drug addiction changed the physiology and psychology of his brain resulting an incapacity to conform his conduct to the requirements of the law. The trial court, however, excluded the proffered evidence.
+* Question: Does the existing insanity defense standard of a “lack of capacity to conform one’s conduct to the requirements of the law” coincide with current medical and scientific knowledge?
+* Holding: No, although addiction is not a mental disease, the addiction itself may cause actual physical damage to the brain resulting in a mental disease or defect in the brain. Defendant rightfully sought to offer such evidence to the jury. Although the court no longer recognizes the volitional prong under the insanity defense, defendant should be afforded the opportunity to offer such evidence in an attempt to satisfy the cognitive prong. A defendant in a criminal case is not guilty by reason of insanity if at the time of the conduct, as a result of mental disease or defect, he us unable to appreciate the wrongfulness of his conduct.
+* Dissent: An adjudication of guilt is not only a factual determination but a moral judgment that an individual is to blame. The court’s decision rests on its desire to redefine insanity and narrow the defense on policy considerations. Pleas of insanity and are rarely successful and do not go to trial
+* Notes:
+  * After the Hinckley case (guy who tried to assassinate president Reagan), many courts got rid of the MPC insanity rule because it allowed too many people to plead insanity (Only 14 states still have MPC requirement)
+  * It is generally unconstitutional for a state to try and abolish the insanity defense
+
+### *State v. Crenshaw* (1983 WA)
+
+* Facts: While the defendant and his wife were on their honeymoon in Canada, the defendant was deported to the US.
+The defendant believed that his wife was unfaithful in the few days it took for her to meet up with him back in the
+112
+US. Defendant brutally murdered his wife because he believed that under his religious beliefs he had to kill her if
+she committed adultery. The jury found the defendant guilty of first-degree murder. The defendant contended that
+the trial court erred in defining “right and wrong” as legal and wrong rather than in a moral sense.
+* Question: Did the trial court err in defining “right and wrong” as a legal right and wrong instead of the moral sense?
+* Holding: It is society’s morals and not an individuals morals that are the standard for judging moral wrong under M’Naghten. If moral wrong were judged by an individual’s conscience, the criminal law would be seriously undermined because it would allow a person in violation of the law to be excused from criminal responsibility merely because in his own conscience, his act was not morally wrong. There is evidence on the record that the defendant knew his actions were wrong according to societies standards.
+* Notes:
+  * Defendants who act out of a deific decree will generally have an insanity defense, although this is hotly debated because many people find this is outdated
+
+### *State v. Guido* (1963 New Jersey)
+
+* Facts: The victim in this case was the defendant’s husband. Her husband was a professional fighter who married her at a young age. The defendant was intimidated by her husband and felt as though she were under a constant threat of injury. There was evidence of a few instances of actual injury. The victim had an extra-marital affair and as a result the defendant wanted a divorce. The defendant called the police on several occasions prior to the incident to express her fear of her husband. On the night in question, her husband was asleep on the couch and the defendant took a gun from the living room into the bedroom in order to commit suicide. Once in the bedroom she changed her mind and decided to put the gun away. When the defendant saw her husband lying on the couch she opened fire until there were no bullets left. Defense counsel hired expert witnesses in order to put together the insanity defense. The psychiatrists initial report stated that the defendant was legally sane at the time of the incident. After debate with defense counsel, the psychiatrist agreed to change their opinion as to the legal sanity issue. However, their underlying medical findings remained the same. The psychiatrist thought that only psychosis was what qualified as a disease of the mind.
+* Question: What constitutes “a disease of the mind” under the concept of legal insanity?
+* Holding: There is widespread reluctance to define what is meant by “disease” under the M’Naghten rule. Because there is no concrete definition, the definition of what constitutes legal insanity is up for discussion. In this case, the defendant emotional insanity met the definition of disease of the mind.
+* Notes:
+  * Courts define “disease of the mind” differently, some give a broad standard that includes many types of insanity (i.e. emotional) and others give more limited definitions
+  * It must be a disease however, and this requirement has defeated insanity claims for battered woman syndrome, compulsive gambling disorder, postpartum disorders, alcohol and drug addictions, and others
+
+### *Clark v. Arizona* (2006)
+
+* Facts: During a traffic stop, defendant shot and killed a police officer, and was prosecuted for first-degree murder. Clark admitted the shooting but brought his paranoid schizophrenia at the time of the incident as a defense, to prove that he did not have the specific intent to shoot an officer of the law the knowledge that he was committing the specific crime. The trial court ruled that the defendant could not use evidence showing that he was insane to rebut the presence of mens rea. Thus psychiatric evidence could not be admitted to prove the absence of specific intent, or of mens rea, defendant was convicted. Defendant pleaded a violation of his due process of law
+* Question: Does a state violate a due process of law by preventing the introduction of evidence showing diminished capacity by a criminal defendant?
+* Holding: No, a state’s prohibition of the introduction of diminished mental capacity by the defendant in a criminal case does not violate due process. A defendant is presumed sane until he proves otherwise, but allowing a defendant to use evidence of insanity to show that he could not form the necessary criminal intent would enable him to get around that presumption. “Clark presses no objection to Arizona’s decision to require persuasion to clear and convincing degree before the presumption of sanity. And normal responsibility.” But if a state is to have authority in practice as well in theory, it must be able to deny a defendant the opportunity to displace the presumption of sanity more easily when addressing a different issue in the course of the criminal trial
+* Dissent: Defendant should be allowed to introduce evidence of his lack of awareness or intent to commit the specific crime he is charged with, provided it is reliable and thought-through, so that that he can prove he cannot be convicted of either knowingly or voluntarily killing a police officer. The final placing of the burden of proof on the defendant as to his intent or knowledge of the crime he was committing is unconstitutional as the state has the responsibility of proving these elements of the crime beyond a reasonable doubt
+* Notes:
+  * *United States v. Brawner*: Establishes the Brawner Approach, evidence about D’s mental condition at the time of the crime is admissible to negate a required specific intent but not a general intent
+  * Many states impose no special restrictions on the use of mental-health evidence to rebut a required mens rea
+    * 16 state bar evidence of mental illness to negate culpability elements of any kind, 13 states permit mental illness to negate only specific intent, and 23 jurisdictions allow mental-illness evidence to negate any element (this is the MPC Approach)
+    * MPC Approach: Evidence that the defendant suffered from a mental disease or defect is admissible whenever it is relevant to prove that the defendant did or did not have a state of mind which is an element of the offense
+    * The MPC approach permits the use of mental health evidence to rebut a required mens rea, but for cases when the elements of an offense are proved, the MPC rejects a statutory reduction of punishment for reduced mental capacity
+  
+---

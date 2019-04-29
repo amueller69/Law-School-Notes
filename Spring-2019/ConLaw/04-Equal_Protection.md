@@ -8,7 +8,7 @@
 * Question: (1) Does Constitution afford every citizen right of trial by jury selected without discrimination against his race or color and on the basis of race or color; and (2) if he has such a right and it is denied, may he remove case to federal court?
 * Outcome - Right to have a jury not discriminating against ones’ race or color is affirmed, as is right of removal because of the clear constitutional conflicts
 * Rule - **Object of 14A EPC is absolute equality of two races before the law, which includes necessary right of colored race for freedom from legal discriminations**
-* Majority Reasoning:
+* Majority:
   * Pervading Purpose - Spirit and meaning of 14A is to give blacks equal civil rights
     * 14A was "designed to ensure to the colored race the enjoyment of all the civil rights that under the law are enjoyed by white persons, and to give to that race the protection of the general government whenever that enjoyment should be denied by the states"
     * Note that Courts' construction of 14A only applies to races; can discriminate against women
@@ -16,11 +16,11 @@
     * The fact that blacks are singled out and expressly denied participation in the administration of the law despite their citizenship is an assertion of their inferiority and stimulant to prejudice which impedes the equal justice the law is intended to secure
     * White men are entitled to jury selected without discrimination against his race, yet colored men are not. This is inequality
   * Even if political rights not within scope of EPC, civil rights are implicated with this law
-Dissent - Not a denial of equal protection because 14A only protects civil rights
+* Dissent - Not a denial of equal protection because 14A only protects civil rights
   * Political – Jury service, voting
   * Civil – Rules of evidence, Right to contract, property, standing to sue
   * Social – Ordinary social interaction or intercourse of the people (e.g. being treated in proper station)
-Notes - Are political rights outside EPC [interpretive modalities], and if so, what are these rights?
+* Notes - Are political rights outside EPC [interpretive modalities], and if so, what are these rights?
   * If right to vote is indeed protected by 14A, then big surplusage problem because 15A not needed then
     * Can’t just be right to vote, but this leads to inference that all political rights would be removed from 14A
   * Promotes the interest of blacks; broad language includes other groups like Irish & Chinese
@@ -525,3 +525,5 @@ Notes - Are political rights outside EPC [interpretive modalities], and if so, w
     * What rational basis requires is not what the EPC requires. It is a judicial doctrine which often underenforces
     * Using constitutional precept instead of judicial doctrine, then the law looks much more congruent and proportional
     * Precept = there should be no purposeless discrimination against the disabled
+
+---
