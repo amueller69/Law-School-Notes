@@ -246,8 +246,7 @@
     * Bakke - Strict scrutiny because degree of scrutiny is not contingent on being in a discrete and insular minority. Personal rights are being deprived on the basis of racial classification. Admissions program is a quota
 * Outcome:
   * Admissions program violated Title VI (5-4): Powell (arguing it failed strict scrutiny) and conservative plurality (statutory grounds only)
-  * Race can be considered as factor in admissions (5-4): Powell and liberal plurality
-  SCOUTS holds the admissions scheme violates Title VI of the Civil Rights Act. Court also rules that race may be used as a factor more generally in the application process
+  * Race can be considered as factor in admissions (5-4): Powell and liberal plurality conclude that race may be used as a factor more generally in the application process
 * Rule - **There may be no quota, but race may be used as a factor more generally in application**
 * Powell Opinion
   * Title VI extends to limit of EPC and the EPC calls for strict scrutiny
@@ -510,6 +509,8 @@
       * Substantive requirements imposed on state and local governments were disproportionate to any conceivable unconstitutional conduct targeted by the act. Also, lack of widespread evidence of constitutional violations by States
       * Only rational basis review for age discrimination because no historical basis and not discrete and insular minority. Age is also often a legitimate criteria for employers
         * Judged against backdrop of EPC jurisprudence, ADEA is **so out of proportion to supposed preventative object that it can't be understood as responsive to unconstitutional behavior**. No reason for Congress to believe such broad prophylactic legislation was necessary in this field
+
+### *University of Alabama v. Garrett* (2001)
 
 * Facts: ADA prevents discrimination against disabled; must make reasonable accommodations. P diagnosed with breast cancer and had to take substantial leave from job at public university in order to seek treatment; she was told that she would have to give up her Director position and take a job paying much less. She brought suit under the ADA
 * Holding: State governments may not be sued for violating Title I of the ADA - Congress lacked authority to abrogate State 11A immunity under 14A5

@@ -509,7 +509,7 @@
 
 ### Constitutional Basis
 
-* **Art. I, §8 Cl. 1** – “Congress shall have Power To lay and collect Texas, Duties, Imposts and Excises…but all Duties, Imposts and Excises shall be uniform throughout the United States.”
+* **Art. I, §8 Cl. 1** – “Congress shall have Power To lay and collect Taxes, Duties, Imposts and Excises…but all Duties, Imposts and Excises shall be uniform throughout the United States.”
 * **Art. I, §2**– direct taxes shall be apportioned among the several states which may be included within this Union, according to their respective number
 * **Art. I, §9**– no capitation, or other direct, tax shall be laid, unless in proportion to the census.
 
@@ -530,7 +530,7 @@
   * Difficult to regard tax as rational revenue measure, despite deference due to Congress (pretext)
   * It is dangerous to jeopardize public trust in the tax system by using it as an instrument to achieve unauthorized ends
   * However, it is more dangerous to impair those tax powers that are legitimate though an excessively strict judicial standard
-  * The former can be corrected democratically ("the evil that can come from this statute will probably soon manifest itself to Congress"), but the latter is much more difficult this evil might not be transient"). Thus, the majority is the lesser of two evils
+  * The former can be corrected democratically ("the evil that can come from this statute will probably soon manifest itself to Congress"), but the latter is much more difficult ("this evil might not be transient"). Thus, the majority is the lesser of two evils
 * Dissent (Frankfurter) - Courts can step in when legislation appears truly regulatory rather than revenue-seeking. Ulterior purpose cannot be stated in ways negating revenue words expressed on their face
 
 ### NFIB v. Sebelius (2012) - Individual Mandate Tax Portion
@@ -592,7 +592,7 @@
   * Example: The purpose of highway funding is safe interstate travel, a purpose that can be frustrated by the drinking age if a state has set it too low. Thus, the condition that states increase drinking age is related to the purpose federal highway funding
   * Court in *Dole* declines to define outer limits of germaneness and hold that conditions on federal funds is legitimate only if it relates **directly** to the purpose of the expenditure to which it is attached
 
-## *United States v. Butler* (1936)
+### *United States v. Butler* (1936)
 
 * Facts:
   * Agricultural Adjustment Act of 1933 regulated production and consumption of agricultural commodities using tax on processors and subsidies to farmers

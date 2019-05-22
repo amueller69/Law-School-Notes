@@ -201,7 +201,7 @@
   * Test for fundamental rights is whether it is implicit in the concept of ordered liberty
   * Can use the 14A DPC directly to invalidate this state law
 * Concurrence (White) - Scope of law too broad because infringes rights of married persons; no compelling reason
-Dissent (Black) - There must be specific text in the Constitution to find a fundamental right
+* Dissent (Black) - There must be specific text in the Constitution to find a fundamental right
   * 9A does not create any new rights; DPC and 9A cannot be used to strike down state laws
 * Dissent (Stewart) - DPC inapplicable because law not vague and doesn’t deny procedural due process
   
@@ -279,7 +279,8 @@ Dissent (Black) - There must be specific text in the Constitution to find a fund
     * What's the difference: standard calls for a certain amount of evaluative judgement in its application while a rule doesn't rely on such
   * Apply rational basis test and uphold the statute in its entirety; no fundamental right here
   * Cannot overrule trimester framework, but reaffirm Roe, because that is central to holding
-Notes - Stare decisis is given less weight in constitutional cases given tough amendment process
+* Notes -
+  * Stare decisis is given less weight in constitutional cases given tough amendment process
   * Majority never calls abortion a "fundamental" liberty; related to autonomy, personhood
   * Undue burden standard prior to viability, but rational basis applies post-viability
 

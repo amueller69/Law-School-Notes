@@ -1,6 +1,6 @@
 # Group Criminality
 
-* Two bases of complicity fore acts committed by others are to be considered
+* Two bases of complicity for acts committed by others are to be considered
   1. A person may be held accountable for the conduct of another person if he assists the other in committing an offense. This is called **accessory or accomplice liability**
   1. In the great majority of jurisdictions, a person who has conspired with another may be held accountable for the conduct of his-co conspirator who commits a crime in furtherance of their agreement. In this case, the mere existence of a **conspiracy** is sufficient to justify liability for the other’s conduct; assistance in commission of the crime is not required.
 
