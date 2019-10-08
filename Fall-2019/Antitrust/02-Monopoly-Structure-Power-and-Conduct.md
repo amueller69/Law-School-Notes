@@ -6,8 +6,6 @@
     * Alcoa firmly rejects the concept of no-fault monopolies, which would establish liability on the basis of size or dominance alone
   * If these are both established, the government in an enforcement action has done enough. However, a private plaintiff (under the Clayton Act) must still show harm, causation, and damages/entitlement to an injunction
 
-* Structuralism: Sturcture-conduct-performance paradigm
-
 ## Defining Relevant Markets
 
 * **Relevant market** - a grouping of sales such that the that a firm which controls that grouping could exact a small but significant increase in price without loosing enough sales to make the increase unprofitable
@@ -15,51 +13,12 @@
   * Elasticity of demand - Ability of customers to find adequate substitutes easily in response to price change
   * The price increase need not be large but it must be more than trivial and also durable-meaning it won't be immediately dissipated by customer defections or new entry
   * This hypothetical price change has acquired the name SSNIP - **S**mall but **S**ignificant **N**on-transitory **I**ncrease in **P**rice
+  * We should never group do things into the same market simply because the same customers buy both
+    * Example: dish washers vs dish cloths. The fact that they are used for the same purpose and that the same customers buy both does not establish a relevant "dish washer/dish cloth" market
+    * Products that do not compete in the eyes of consumers should not be regarded as in the same market on the basis of demand analysis
 * In antitrust cases which depend on proof of market power, the court usually determines whether some "relevant market" exists in which the legally necessary power requirement can be inferred
   * In order to do this, the court usually determines a relevant product market and a relevant geographic market
   * Geographic market definition is often a function of transportation cost where as product market definition is more of a function of customer tastes and product substitutability
-
-## Measuring Market Power
-
-* Market power, technically defined, is a firm's ability to deviate profitably from marginal cost pricing. The question we are then asking is the extent to which a firm can profit by selling above the competitive price
-  * Notion of market power is much more technical than when cases like *Alcoa* were decided
-* **Market share** - All other things being equal, a firm with a large market share has a greater ability to increase price profitably than a firm with a smaller share
-  * This correlation of market power and market share has permitted courts to use market share as a qualified proxy for market power in antitrust cases.
-  * However, market share is an incomplete proxy for market power, as its translation to power depends on market elasticities which vary from market to market
-  * In *Alcoa*, Judge Hand used market share to identify monopoly power. However, large market share is not the evil the Sherman Act condemns. Instead, the evil is that a firm is able to charge more than the competitive price because of that large market share
-* Concentration = a measure of the number of firms in a market and their relative strength
-  * CRx (sum of market shares of x largest firms)
-  * Herfindahl-Hirschman Index (HHI): Sum of squared market shares
-    * ```H = Σ sᵢ²```
-* Lerner Index - The ratio of the difference between price and marginal cost to the price
-  * ```(p - MC) / p```
-  * Index ranges from 0 to 1 for a profit-maximizing firm. Under perfect competition p = MC, so the index reads 0. If p is extremely high and marginal cost is extremely low, the index approaches 1
-  * Estimating a firm's marginal cost is extraordinarily difficult to do, so the simplicity of the Lerner Index is a bit misleading. Likewise, calculating the elasticity of demand at the firm level, which would also yield a simple reading of the firm's market power, is equally difficult
-
-## Product Differentiation
-
-* Most monopoly activity does not occur un markets for fungibles (i.e. commodities), but rather markets where products are distinguishable
-* Forms
-  * Trademarks with trivial physical differences (e.g. Del Monte banana sticker)
-  * Trademark plus minor or rapidly re-engineered product differences (e.g. knockoff cereal brands)
-  * More extensive product differences
-    * Different technologies of manufacture or operation (e.g. film vs. digital cameras)
-    * Different inputs (e.g. flexible packaging materials)
-    * Different and substantial IP protection (e.g. software)
-* Market definitions in differentiated markets
-  * Market definition is binary - something is either in or out, and as a result, it is **always wrong**
-    * Example: Passenger automobile have several brands and types. Are we including vans? Pickup trucks? Motorcycles?
-    * Including them in the product market treats them all as perfect competitors, whereas excluding them treats the two groupings as if they do not compete at all
-    * In reality, degrees of substitution between products are rarely absolute
-  * **There has been decreasing reliance on "market definition" and "market share" in modern antitrust law, with more of an emphasis on direct measurement**
-    * Today, we have a much better set of economic tools in place of categorical market definitions (e.g. econometric methods to measure responses to price changes)
-
-* Celephane fallacy - assuming from a large number of casual observations that customers switch back and forth, that these two things must be part of the same market
-  * Question we shouldn't ask is whether consumers are switching different things, but whether the strength of substitutions are sufficient to force monopolist to keep prices down around level of costs
-  
-* We should never group do things into the same market simply because the same customers buy both
-  * Example: dish washers vs dish cloths. The fact that they are used for the same purpose and that the same customers buy both does not establish a relevant "dish washer/dish cloth" market
-  * Products that do not compete in the eyes of consumers should not be regarded as in the same market on the basis of demand analysis
 
 ### *United States v. Aluminum Co. of America* (1945)
 
@@ -83,27 +42,91 @@
   * Few courts today would agree that this expansion in anticipation of increased demand would constitute illegal monopolization. Modern courts are much more likely to look at the effects on consumers rather than competitors. While Alcoa may have made it more difficult for competitors, its activities actually **benefited consumers**
   * When dealing with vertically integrated firms (2 market levels), we look at those internal firm transfers as part of the market. Hand's reasoning still applies today - units that go through internal channels reach consumers no differently than units that go through external channels
 
+## Measuring Market Power
+
+* Market power, technically defined, is a firm's ability to deviate profitably from marginal cost pricing. The question we are then asking is the extent to which a firm can profit by selling above the competitive price
+  * Notion of market power is much more technical than when cases like *Alcoa* were decided
+* **Market share** - All other things being equal, a firm with a large market share has a greater ability to increase price profitably than a firm with a smaller share
+  * This correlation of market power and market share has permitted courts to use market share as a qualified proxy for market power in antitrust cases.
+  * However, market share is an incomplete proxy for market power, as its translation to power depends on market elasticities which vary from market to market
+  * In *Alcoa*, Judge Hand used market share to identify monopoly power. However, large market share is not the evil the Sherman Act condemns. Instead, the evil is that a firm is able to charge more than the competitive price because of that large market share
+* Structuralism: A way of looking at the microeconomy centered around the structure-conduct-performance paradigm. This focuses on the structure of an industry, namely the number of firms in the market, their relative sizes, and how they compete with each other
+  * Central to structuralism was the view that one could determine economic performance by looking at the structural factors. These factors are what (necessarily) determine the conduct of a firm, and thus evidence of exclusionary/anti-competitive practices wasn't as important
+* Concentration = a measure of the number of firms in a market and their relative strength
+  * CRx (sum of market shares of x largest firms)
+  * Herfindahl-Hirschman Index (HHI): Sum of squared market shares
+    * ```H = Σ sᵢ²```
+* Lerner Index - The ratio of the difference between price and marginal cost to the price
+  * ```(p - MC) / p```
+  * Index ranges from 0 to 1 for a profit-maximizing firm. Under perfect competition p = MC, so the index reads 0. If p is extremely high and marginal cost is extremely low, the index approaches 1
+  * Estimating a firm's marginal cost is extraordinarily difficult to do, so the simplicity of the Lerner Index is a bit misleading. Likewise, calculating the elasticity of demand at the firm level, which would also yield a simple reading of the firm's market power, is equally difficult
+
+### Product Differentiation and Market Share
+
+* Measuring market share is not always straightforward, as there are a number of different metrics that can be used (e.g. total units, revenue, capacity, etc.)
+  * Where goods are relatively fungible (i.e. non-differentiated), market share is easiest to obtain because it tends to be the same whether it is a % of revenue or total output
+  * Product differentiation complicates things. Unfortunately, most monopoly activity does not occur in markets for fungibles products (i.e. commodities), but rather markets where products are distinguishable
+* Forms of Product Differentiation
+  * Lower forms of product differences
+    * Trademarks with trivial physical differences (e.g. Del Monte banana sticker)
+    * Trademark plus minor or rapidly re-engineered product differences (e.g. knockoff cereal brands)
+  * More extensive product differences
+    * Different technologies of manufacture or operation (e.g. film vs. digital cameras)
+    * Different inputs (e.g. flexible packaging materials)
+    * Different and substantial IP protection (e.g. software)
+* Market definitions in differentiated markets
+  * Market definition is binary - something is either in or out, and as a result, it is **always wrong**
+    * Example: Passenger automobile have several brands and types. Are we including vans? Pickup trucks? Motorcycles?
+    * Including them in the product market treats them all as perfect competitors, whereas excluding them treats the two groupings as if they do not compete at all
+    * Thus, the relevant market method either frequently understates market power by lumping differentiated products together OR overstates it by excluding them despite having some degree of interchangeability
+  * **There has been decreasing reliance on "market definition" and "market share" in modern antitrust law, with more of an emphasis on direct measurement**
+    * Today, we have a much better set of economic tools in place of categorical market definitions (e.g. econometric methods to measure responses to price changes)
+      * Through direct measurements of firm specific revenues in response to price changes, we can obtain that products residual demand - the demand curve facing a firm in a perfectly competitive market
+
+### United States v. E.I. du Pont de Nemours & Co (1956)
+
+* Background: du Pont was alleged to have monopolized the market for cellophane. It produced about 75% of the cellophane sold in the United States. du Pont argued that the relevant market was not cellophane, but "flexible packaging materials," which included not only cellophane but also aluminum foil, waxed paper, etc. Many of these other flexible packaging materials where either cheaper or more expensive than cellophane, had different levels of acceptance among buyers, and many had specific uses (e.g. more expensive products relied on transparent packaging like cellophane to attract buyers). Thus, while cellophane only furnished 7% of the bakery market, 75%-85% of cigarettes were wrapped in cellophane. Government, OTOH, asserts that cellophane and other wrapping materials are neither substantially fungible nor similarly priced, thus the market for these things are distinct. Court tasked with delimiting market to determine if alleged monopoly violates §2
+* Holding: The relevant market to which cellophane belongs is the overall market for flexible packaging materials, because there is sufficient interchangeability as shown by customers shifting to other packaging materials
+* Reasoning: Supreme Court refused to conclude that cellophane was a relevant market from the fact that certain buyers, such as cigarette manufacturers, were willing to pay a very high price for cellophane before switching to other wrapping. It argued that an illegal monopoly does not exist merely because the product said to be monopolized differs from others; if it were not so, only physically identical products would be a part of the market. Thus, the relevant market must include "products that have reasonable interchangeability for the purposes for which they are produced". The court says cellophane is sufficiently interchangeable to make it part of the entire market for flexible packaging materials, as evidenced by the record which indicates a high  cross-elasticity of demand: a change price of cellophane causes a considerable number of customers of other flexible wrappings to switch to/from cellophane
+
+* Notes: **Cellophane fallacy**
+  * The cellophane fallacy Assuming from a large number of casual observations that customers switch back and forth, and thus these two things must be part of the same market
+    * If we want to measure market power, we shouldn't ask whether consumers are switching different things, but whether the relative strength of substitutions are sufficient to force monopolist to keep prices down around level of costs
+    * Example: If the unit cost was $1 for du Pont, but the aggregate presence of other flexible wrap products was such that a small price increase (e.g. to $1.05) would lead to du Pont losing all of its sales, we might conclude we some confidence that cellophane is part of this relevant market. However, mere fact that customers are switching without consideration to the cost-profit margins does not tell us anything about the size of the relevant market or the firms power in it
+  * At the monopoly price, there is a higher cross-elasticity of demand between the product and the broader market. However, the cross-elasticity of demand would likely be much lower at the competitive price
+    * This is consistent the economic logic, as charging above profit-maximizing monopoly price results in less profit
+    * Courts, like the one in *du Pont*, that use a monopolized product's elevated market price will typically misconstrue a completed anti-competitive act as a lack of market power
+
+## Market Power, Tying Arrangements, and Lock-In
+
+* A **tying arrangement** is "an agreement by a party to sell one product but only on the the condition that the buyer also purchases a different (or tied) product, or, at least agrees not to purchase that product from any other supplier
+  * Such an arrangement violates §1 of the Sherman Act if the seller has "appreciable economic power" in the tying product market and if the arrangement affects a substantial volume of commerce
+* Lock in
+  * In a few extreme cases customers may become "locked in" to a particular brand, and this fact may justify a narrower market definition
+  * The relevant antitrust question is whether this lock-in enables a firm to somehow take advantage of product owners, and if any such advantage amounts to "monopoly
+    * Installed base opportunism the extent to which a firm can take advantage of the fact that its customers are stuck with it
+* Myopic customers - There is an assumption rational customer would engage in lifecycle pricing (total cost of ownership over entirety of products life), meaning that any significant aftermarket costs caused by lock-in could be forseen at time of purchase. However, Supreme Court in *Kodak* argues that there could be a class of buyers, myopic customers, that deviate from this assumption and become locked-in with considering these costs because they are not reflected in the purchase price
+
 ### Kodak v. Image Tech
 
-* Market power and "lock-in"
+* Background: Kodak sells high speed photocopiers. Primary Market Share was less than 25% and Xerox was the market leader at around 50%. In addition to selling copiers to buyers, it sold maintenance agreements in which Kodak would provide maintenance (parts and services) to the product for an annual fee. However, there were also competing independent service organizations (ISOs), smaller firms that would maintain and service photocopiers of all brands. When Kodak announced it would stop directly selling its specialized parts, it effectively prevented ISOs from being able to offer the full range of maintenance services and compete with Kodak itself. Kodak defended itself as a lawful refusal to license patented parts, protected under the Patent Act. In order to get around the Patent Act problem, the ISO's got together and sued arguing that this was an unlawful "tying agreement". The plaintiffs claimed that Kodak had illegally tied maintenance service to replacement parts and was attempting to the monopolize the market fof, two violations of antitrust laws. Kodak argued that to have substantial power over the market for its parts (i.e. aftermarket), a requirement for unlawful tying and attempting to monopolize the aftermarket, then it must also do so in the primary product market (only had 23% market share)
+* Holding:
+  1. Lack of substantial power over primary product market is not dispositive; Kodak may still have substantial market power in the market for its replacement parts
+  1. The proper relevant market definition depends on the "commercial realities" faced by consumers and the choices made available to them (a factual inquiry); a single brand of product or service can constitute a relevant market
+* Reasoning: Kodak argued that any additional profits from its power in the aftermarket would be offset by loss of customers in the primary market who don't want to deal with Kodak's service costs. It thus urged court to adopt as a rule that "equipment competition precludes any finding of monopoly power in derivative aftermarkets". Court declined to adopt a rule, stating that there exists a price for services/parts above competitive levels that would more than compensate for any loss sales in the primary market; the ability to charge such price is the definition of market power. Consumers don't always have all the necessary data to calculate the lifetime cost of the product at the time of purchase, and even if they did, such sophisticate analysis is difficult to perform. Once consumers purchase the equipment, they have no choice but to pay the high service/replacement part costs because they are effectively locked-in, meaning switching costs are high because they have already invested so much in the initial purchase. It thus affirmed the reversal of the summary judgement which the district court had granted for failure to show evidence of market power. Moving to the monopolization claim, the court held that evidence of Kodak's control of 100% of the market for its parts and around 90% of the market for maintenance services was enough to survive summary judgement. It rejected Kodak's argument that a relevant market could not consist of a single brand of product or service. The definition of a relevant market is determined from the perspective of the consumer, and here there were no reasonable interchangeable services/parts for existing owners. Finally, on the second prong of the monopoly claim, the Court stated that there was strong evidence of exclusionary actions intended to preserve monopoly and that they did not have "valid business justifications" to entitle it to SJ as a matter of law
 
-* Background: Kodak sells high speed photocopiers. Primary Market Share was less than 25% and Xerox was the market leader at around 50%. In addition to selling copiers to buyers, it sold maintenance agreements in which Kodak would provide maintenance (parts and services) to the product for an annual fee. However, there were also competing independent service organizations (ISOs), smaller firms that would maintain and service photocopiers of all brands. When Kodak announced it would stop directly selling its specialized parts, it effectively prevented ISOs from being able to offer the full range of maintenance services and compete with Kodak itself. Kodak defended itself as a lawful refusal to license patented parts, protected under the Patent Act. In order to get around the Patent Act problem, the ISO's got together and sued arguing that this was an unlawful "tying agreement". The plaintiffs claimed that Kodak had illegally tied maintenance service to replacement parts and was attempting to the monopolize the market fof, two violations of antitrust laws. Circuit court determined that to have substantial power over the market for its parts (i.e. aftermarket), a requirement for unlawful tying and attempting to monopolize the aftermarket, then Kodak must also have substantial over the primary product market, which it did not have at 23& market share
-* Holding: Lack of substantial power over primary product market is not dispositive; Kodak may still have substantial market power in the market for its replacement parts
-* Reasoning: Court says it doesn't matter that Kodak is the only manufacturer of its parts and that no substitute replacement parts will work in its product as it pertains to aftermarket power. It only shows that Kodak, like most other manufacturers of durable goods subject to repair, has a great deal of control over the manufacturing of its own repair parts which are unique. To  
-
-* Installed base opportunism the extent to which a firm can take advantage of the fact that its customers are stuck with it
-
-* Myopic customers - There is an assumption rational customer would engage in lifecycle pricing (total cost of ownership over entirety of products life), meaning that any significant aftermarket costs caused by lock-in could be forseen at time of purchase. However, Supreme Court argues that there could be a class of buyers, myopic customers, that deviate from this assumption and become locked-in with considering these costs because they are not reflected in the purchase price.
-
-* Kodak collateral issues
-  * Single-brand relevant market (e.g. Kodak parts)
-  * Simultaneous vs. Sequential Sales (Hack v. Yale Colleges)
-  * Franchise Lock-in (Queen City Pizza v. Dominos Pizza)
+* Notes: Kodak collateral issues
+  * Single-brand relevant market - On remand, the Ninth Circuit confused substitutes and complements, concluding that there was a single relevant market for all Kodak photocopier parts because a machine user or repairer needs "all the parts" in order to make the machine function properly
+    * Placing complements into a "relevant market" ignores the fact that a relevant market must be a set of sales that compete with each other
+    * People need both cars and gas to operate an automobile, but this hardly establishes a single "car/gas" market
+    * Demand for compliments tend to move in opposite direction, whereas demand for competing products tend to move together
+  * Simultaneous vs. Sequential Sales (Hack v. Yale Colleges) - Lower court held that *Kodak* lock-in doctrine applies only to sequential, not simultaneous sales
+  * Franchise Lock-in (Queen City Pizza v. Dominos Pizza) - If time you make your primary market purchase (to become a franchisee) you also agree to exclusively sell the franchisor's products, then there is no lock-in
   * Remedies - Judicial price setting? Scope of dealing duty?
 
 ### Apple v. Pepper
 
-* Apple store is exclusive marketplace/distributor for mobile applications on its iOS platform, meaning iPhone owners are locked-in to the App Store for all purchases
+* Apple store is exclusive marketplace/distributor for mobile applications on its iOS platform, meaning iPhone owners are effectively "locked-in" to the App Store for all purchases
 * iPhone's share of the US market is about 41% of all smartphones
 * iPhone app markups seem very high in relation to cost (30%)
 * Hovenkamp: Direct measurement is superior, particularly since all sales are digital and recorded. It would not be difficult for an econometrician to measure, avoiding many of the problems with Kodak which is primarily a relevant market definition problem
@@ -138,4 +161,5 @@
 * Degrees of price discrimination
   * First degree ("perfect") - sell to each customer at his or her reservation price; competetive output, but all surpulus goes to the seller
   * Second degree - seller picks the schedule; buyer picks the price (e.g. quantity discount)
-  * Third degree - divide customres ex ante into two different groups (e.g. c)
+  * Third degree - divide customers ex ante into two different groups (e.g. c)
+
