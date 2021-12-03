@@ -6,7 +6,7 @@
 
 * **Fee Simple Absolute**
   * Longest potential duration
-    * Since it is inheritable.devisable, it can last forever unless owner dies intestate (in which case it *escheats* to the state)
+    * Since it is inheritable and devisable, it can last forever unless owner dies intestate (in which case it *escheats* to the state)
   * Created by language "A to B and his heirs" or even just "to B"
     * A person is generally presumed to convey fee simple absolute unless otherwise specified
   * Fully alienable - it can be sold or leased without any restraints (any such attempted restraints would be void)
@@ -70,3 +70,38 @@
       * **Vested remainder subject to divestment** - Remainder interest subject to condition subsequent
         * "A conveys to B for life, then to C for as long as C is financially solvent
   * **Executory Interest** - equivalent of right of entry or possibility of reverter for third-party; if it only vests by cutting previous estate short or if it doesn't become possessory automatically upon previous estate ending, it is an executory interest not a remainder.
+    * Shifting Executory Interest - takes from one grantee and gives it to another
+    * Springing Executory Interest - takes from grantor and gives to grantee
+
+* **Rule Against Perpetuities**
+  * Rule that prevents conveyance of interests that could vest far in the very distant future.
+    * Interest must vest or fail to vest within a certain period, measured from the lives of the persons involved, else the future interest is void
+    * Primary purpose is to prevent limitations/qualifications on property that continue to affect ownership long after persons involved are dead
+  * Common law approach:
+    * > "No interest is good unless it must vest, if at all, not later than twenty-one years after some life in being at the creation of the interest" - John Chipman Gray
+    * Some life in being at the creation = any of the parties relevant to the conveyance that are alive that the time it is made
+    * In other words, if the interest could vest after all parties involved could die and 21 years pass, it is void
+  * Some modern jurisdictions (aka the Wait-and-See Approach):
+    * Future interest must vest or fail to vest within 90 years of conveyance. If the interest hasn't certainly vested after 90 years, it is voided
+  * Applies to:
+    * vested remainder subject to open
+      * Example: To A for life, then to his children, then to his grandchildren who graduate college
+    * contingent remainder
+    * executory interest
+    * purchase options
+  * N/A to:
+    * reversion
+    * possibility of reverter
+    * right of entry
+  * Where future interest is stricken down by RAP, grantor gets possibility of reverter
+    * Example: A to B, for as long as property is not used to sell Alcohol, then to C.
+      * B has FSD
+      * C would have executory interest, but since it is possible that alcohol is still not sold on property 21 years after all parties, it is stricken by RAP
+      * Thus creates possibility of reverter in A (not subject to RAP)
+  * Perpetuity saving clause - prevents conveyance from being voided by RAP by ensuring that vesting occurs w/in permissible time period
+    * Using example from earlier: A to B, for as long as property is not used to sell Alcohol during his lifetime, then to C.
+  * Exceptions:
+    * Where gift to one charity with remainder/executory interest other 
+
+
+
