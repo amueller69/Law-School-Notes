@@ -161,23 +161,18 @@
 ### Rights and Obligations in Leasehold estates
 
 * **Obligations of Tenants**
-  * Fulfill the obligations explicitly contained in the lease
+  * Must fulfill the obligations explicitly contained in the lease
     * Includes making rent payments on time and at agreed upon rate for entire duration (unless otherwise specified)
     * Also includes vacating property upon expiration of the lease
     * When T abandons property without intent to return and stops paying rent, this is a breach; L can sue for owed rent
-  * Refrain from committing waste or nuisance
+      * Modern exception: Property is destroyed through some fault other than T's own (e.g., natural disaster, arson, etc.)
+  * Must refrain from committing waste or nuisance
+    * Ordinary wear and tear is exempted
     * See section on Life Estates for more on waste
     * Some leases have terms that completely shifts burden of repairs/maintenance onto the tenant; generally enforceable unless has the effect of waving warranty of habitability (this is not something you can contract around)
-  * To secure these obligations or remedy T's failure to perform them, L may:
-    * Hold a security deposit and pay back with interest.
-      * Normally limited to 2 months’ rent, but this can be circumvented by styling a security deposit as “advance rent.”
-    * Commence summary eviction proceedings (Notice to T, quick trail)
-      * Alternative to self-help
-    * Provide a new lease with the same conditions to a holdover T.
-    * Bring action 
 
 * **Obligations of Landlords**
-  * Delivery of possession - L had duty to ensure rights of possession are delivered to T when lease starts
+  * Delivery of possession - L has duty to ensure rights of possession are delivered to T when lease starts
     * Majority: Delivery includes actual, physical possession. This meant if trespasser/holdover still on property, L responsible for expelling them. Failure to do so would result in breach
     * Minority: Historically, American jurisdictions only required L to convey legal rights of possession. T would need to enforce rights himself. This is now a minority rule
   * Implied covenant of quiet enjoyment - imposes duty on L not interfere with T's possession/occupancy/beneficial use of the property
@@ -204,3 +199,170 @@
       * The two might be treated independently
   * Duty to Mitigate - where T abandons property, L has duty to mitigate harm by attempting to re-let the property; T liable for the remaining difference
     * Can also accept T's abandonment as an offer of surrender; retakes possession and lets T off the hook as of that date
+      * L needs to be careful when trying to re-let in order to mitigate loss; this could be interpreted as his implicit acceptance of the surrender; L should make his intent clear
+
+* **Rights and Remedies of Tenants**
+  * The right to be free from discriminatory treatment
+    * Under § 3604 of the FHA: It is unlawful to:
+      * Refuse to negotiate, or deny a dwelling to a person because of race, color, religion, sex, familial status, or national origin
+      * offer inferior services or terms based on the above categories
+      * advertise in a discriminatory way, indicating a preference or limitation in reference to above categories, as well as disability status
+      * misrepresent the availability/status of a dwelling based on the categories above (including disabled)
+      * induce a person to sell or rent any dwelling by representation regarding the entry or prospective entry into the neighborhood by individuals of a class defined by one of the above categories (including disabled) (e.g., can't accelerate white flight for profit).
+  * Protection against retaliatory eviction - residential property only
+    * T cannot be threatened with eviction, increased rent, or withholding performance of obligations (e.g., repair) because T filed complaint or legal action
+    * Retaliatory eviction an be invoked as a cause of action against L or as defense in eviction proceedings initiated by L
+    * Contractual waivers of this defense/cause of action are not enforceable
+    * Rebuttable assumption of retaliation if occurring within certain amount of time after complaint/legal action was taken (90-180 days)
+
+* **Rights and Remedies of Landlords**
+  * To secure the obligations of T or remedy his failure to perform them, L may:
+    * Hold a security deposit and pay back with interest.
+      * Normally limited to 2 months’ rent, but this can be circumvented by styling a security deposit as “advance rent.”
+    * Commence summary eviction proceedings (Notice to T, quick trail)
+      * Alternative to self-help
+    * Provide a new lease with the same conditions to a holdover T.
+    * Bring action to recover unpaid rent that is past due
+      * Moreover, contract law doctrine of anticipatory repudiation (aka anticipatory breach) may allow lawsuits for unpaid future rent under the modern contractual view of leases.
+        * When party evidences lack of ability or intention to perform K (either through clear statement or action that clearly implies it), the other party is entitled to terminate contract and can sue for the extent to which they were deprived of the benefit of the bargain
+
+### Tort Liability in Landlord/Tenant Relationships
+
+* Landlord Liability
+  * Generally not liable for to T or T's invitees for injuries sustained on the leased property
+  * Exceptions
+    * Latent defects - Injuries sustained by hidden defects that L knew (or reasonably should have known) about and failed to disclose
+    * Common areas - Injury's sustained due to failure to exercise reasonable care in detecting/correcting hazardous conditions in areas of property still under L's control
+    * Negligent repairs - Injury sustained resulting from defective repairs performed by L on the leased property
+    * Potential liability for  criminal acts committed by third-parties
+      * Some courts have held landlords liable for failing to provide reasonable security, thereby allowing criminal third-party to cause harm to tenant
+* Tenant Liability
+  * T liable as social host for harm sustained by his own invitees on the leased property
+
+### Transfer of Rights under a Lease
+
+* Because lease is simultaneously a contract and property conveyance, privity of estate and privity of contract exist between LL and original tenant
+  * **Privity of Estate**: Relationship that exists between parties with successive interests in the same property (i.e., present L and present T)
+  * **Privity of Contract**: relationship that exists between parties to a K, person who is not party to the K cannot avail himself of the K’s terms
+    * Always privity of K between original parties to agreement (absent a novation), as well as any subsequent parties who expressly assume the obligations of the original K
+* By Landlord
+  * Can be freely assign property interest to another party (e.g., through selling the property)
+  * If party is assigned all L's rights and thereby assumes its obligations, any K claim that could have been asserted against original L can be asserted against the new one
+* By Tenant
+  * Can freely transfer interest in lease unless explicitly prohibited in the agreement 
+    * If instead requires L's consent, there must be a legitimate and commercially reasonable justification for withholding this consent (e.g., concerns about subtenants financial condition)
+    * Consent can be implied by L accepting rent payment from transferee
+    * Consent to one transfer waives need for consent in future transfers unless explicitly reserved by L
+  * Transfer can either be a sub-lease or an assignment
+    * **Assignment**: when tenant transfers entire remaining interest in the lease (i.e., for the rest of the lease term)
+    * **Sublease**: when tenant transfers anything less than the entire remaining interest; original (head) T retains portion of remaining lease term and has right to possession once sub-lease term expires
+    * Determine which exists by looking at intent of the parties as manifested in the transaction
+    * Sublease nor assignment automatically ends original T's obligations under lease
+      * As noted above, still privity of K (unless L agreed to release original T through a novation) between original T and L, but not between new T and L.
+        * This means sub-tenant/assignee can't sue L for breaching contractual provisions (or vice-versa)
+      * Depending on whether it is an assignment or sublease, there may not be privity of estate between L and current T
+        * If sublease, then no P of E since they do not share successive interests in the land (head tenant is in-between them, has reversion)
+          * L can't sue ST for unpaid rent; ST can't sue for breach of implied covenant of quiet enjoyment
+          * However, L can sue to evict assignee for unpaid rent and/or violations of covenants that touch & concern the land, while assignee can sue for breach of implied covenant of quiet enjoyment
+
+---
+
+## Concurrent Interests (Co-Tenancies)
+
+There are three types of co-tenancies
+
+### Tenancy in Common
+
+* Separate but undivided interest in property (i.e., no party has exclusive right to a part of the property); each has a right to possess and use the entire property
+  * This simultaneous right to possession (aka "unity of possession") is the only required "unity"
+  * Interests (% share), title, and time of acquisition can all vary among co-tenants
+
+* Interest can be freely leased or sold; also typically has no right of survivorship
+  * If A and B are tenants in common of property and A dies, A's share does not to go B
+  * Instead, it goes party designated in A's will
+  * This allows it to be devised or inherited
+
+* TiC is the default
+  * Presumed to have been created whenever conveyance/devise is made to multiple persons to enjoy at same time.
+  * If creation of joint tenancy is defective or is unclear what form of co-tenancy was intended, it is likely interpreted to be an TiC
+* Two ways to terminate
+
+### Joint Tenancy
+
+* Requires four "unities", not just that of possession
+  * Unity of possession: All joint tenants have full rights
+  * Unity of interest: All tenants have the same share of interest (e.g. 50-50) and same duration of interest
+  * Unity of title: All joint tenants are conveyed property by the same deed/will/adverse possession
+  * Unity of time: All interests vested at the same time
+
+* Defining feature is rights of survivorship
+  * When one joint tenant dies, the others take the deceased's interest automatically
+  * Makes a JT non-devisable/inheritable
+
+* Used to be created automatically whenever all 4 unities were present. However, it now usually requires explicit language about the right of survivorship
+  * Example:"A conveys to B & C as joint tenants, not as tenants in common, with a right of survivorship"
+
+* Can be terminated unilaterally by severing one of the 4 unities:
+  * Conveyance to third party by a joint tenant - this severs unities of time and title
+    * JT still exists between original parties; however, they become tenants in common with new party, meaning no longer right to survivorship w/r/t his share
+    * Some jurisdictions even permit conveying to oneself in order to convert JT into TiC
+  * Mortgage by a joint tenant - however only in (minority of) states recognizing title theory of mortgages instead of lien theory
+    * Under lien theory, legal title remains with the mortgagor unless there is foreclosure, whereas under mortgage theory, there is conveyance of title that makes mortgagor a tenant in common
+  * Lease by a joint tenant (courts are split) - severs unities of possession and title
+    * Some jurisdictions have found that leases do not sever a joint tenancy, preserving rights of survivorship.
+  
+### Tenancy by Entirety
+
+* Tenancy by the entireties require the four unities of the joint tenancy plus a fifth (marriage)
+  * Recognized in ~half of states
+  * Have right of survivorship - if spouse dies, surviving spouse takes
+
+* Spouses treated as one economic unit
+  * One spouse acting alone cannot convey or encumber the property
+  * Tenancy can't be severed unilaterally
+
+* Termination can only occur if:
+  * Spouse dies
+  * Divorce or mutual agreement/release
+  * Joint creditor executes claim
+
+### Rights & Duties of Co-Tenants
+
+* Possession - Each co-tenant has a right to possess
+  * No single co-tenant has exclusive right to possess any part of the estate
+  * Similarly, no co-tenant can deny another co-tenant possession (ouster)
+    * Ouster only exists when a co-tenant’s actions have no legitimate purpose (unlike something such as changing locks, which can have a legitimate purpose.), and the ousted party demands and is rejected entry.
+    * If this happens, can sue for ejectment to recover possession and potentially monetary damages on top of it (e.g., reasonable portion of the rental value during ousted period)
+
+* Rent and profit sharing
+  * As a general rule, no obligation to pay rent to another co-tenant
+    * Exception: rental value as a remedy for ouster
+    * Exception: Where rent is from lease of property to third-party
+  * Co-tenant who profits from the lands natural resources must also account to others for their fair share
+
+* Contribution
+  * Can collect from others for fair share for taxes & mortgage payments
+  * However, majority rule is no right contribution from others for repairs or improvements to property, absent an agreement to that effect
+    * Minority rule allows contribution, but only for necessary repairs
+    * However, reasonable cost of such repairs will be credited to the co-tenant who made them in an accounting or partition action
+* Waste - If a co-tenant makes the property worse, they can be sued for waste
+
+### Partition
+
+* Common and joint tenancies can be partitioned, following petition to court, in two ways:
+  * **Partition in kind**: Property is physically partitioned, with each owner gaining a portion (which they are the sole owner of) equivalent to her share
+    * If one co-tenant awarded more valuable part, may be required to compensate others
+      * This is called an owelty: Give all of the property to one party and compensate the other (The same outcome can result in partition by sale.)
+    * Benefits:
+      * Keeps property in owners' hands
+      * Preserves subjective value of property
+      * Prevents strong co-tenants (who would buy the property under partition by sale) from timing sale to harm weak co-tenants
+      * Preserves ownership by minority interest holders
+  * **Partition by sale**: Property is sold and the proceeds divided according to share
+    * The more extreme remedy, but actually quite common. Often elected when partition in kind would be impractical
+      * Preserves asset configuration
+      * Flexible, because divides money instead of land
+      * Easier and cheaper to administer
+  * Alternative is to work it out between co-tenants and then file uncontested petition with court to make it a matter of record
+
+---
