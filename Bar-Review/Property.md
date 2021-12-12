@@ -78,7 +78,8 @@
   * Shifting Executory Interest - takes from one grantee and gives it to another
   * Springing Executory Interest - takes from grantor and gives to grantee
 
-* **Rule Against Perpetuities**
+### Rule Against Perpetuities
+
 * Rule that prevents conveyance of interests that could vest far in the very distant future.
   * To vest = to give an immediate, fixed right of present or future enjoyment (as defined by West's Encyclopedia of American Law).
   * Interest must vest or fail to vest within a certain period, measured from the lives of the persons involved, else the future interest is void
@@ -265,6 +266,48 @@
           * L can't sue ST for unpaid rent; ST can't sue for breach of implied covenant of quiet enjoyment
           * However, L can sue to evict assignee for unpaid rent and/or violations of covenants that touch & concern the land, while assignee can sue for breach of implied covenant of quiet enjoyment
 
+### Fixtures
+
+* Fixtures are personal property/chattels that are attached to real property such that becomes part of the real property, meaning it can't be removed
+  * In other words, when tenant moves out, these things remain with the landlord; tenant can be liable if removed
+
+* Test for determining whether personal property or fixture focuses on intent, degree of attachment, and how integrated it has become to the use of the real property
+  * Intent: if there is an agreement between the parties (e.g., landlord and tenant) that something is or is not a permanent fixture, this controls
+    * However, if dispute involves another party who was not part of the agreement (e.g., a sublessee), the intent expressed in the agreement might not be determinative if it would contradict the expectations of a reasonable person
+      * If two parties have agreement that something is not intended to be a fixture, but an ordinary person would clearly assume it is (e.g., because it is so integrated into the property), agreement has no bearing on property rights of non-party to the contract.
+  * If no agreement that clearly manifests intent, look to other factors:
+    * Extent of attachment, including how the item was attached (duct tape vs. nails vs. welding) and how difficult/damaging removal would be
+      * Even if not physically attached to a given piece of real property, there are some things the law recognizes as being constructively attached
+    * Whether it was adapted to the use or enjoyment of the real property
+      * However, generally does not apply to "domestic fixtures" (not actually a fixture), things attached to the property as decor or to make tenant's life more comfortable (e.g., shelving, blinds/curtains, home appliances, etc.)
+      * Nor does it generally apply to "trade fixtures" (also not a real fixture), which help tenant carry out their trade/business
+
+---
+
+## Restraints on Alienation
+
+* Restraints on alienation can be direct or indirect
+  * Direct restraints - specifically restrict transfers of land (e.g., "not to be sold")
+  * Indirect restraints prevent certain uses which might affect alienability (e.g., "to be used as a school")
+
+* Three categories
+  * **Disabling restraints**: attempts to render any transfers of the property void
+    * However, these restraints are generally void themselves
+  * **Forfeiture restraints**: would automatically transfer the property away from the owner if they attempted to sell it
+    * Void when applied to fee simple absolute; may be enforceable in the context of life estates, leaseholds
+  * **Promissory restraints**: are separate promises not to transfer; enforceable by bringing action for breach (usually damages)
+    * Courts have treated their permissibility similar to forfeiture restraints: void on fee simples, but ok on others
+
+* Finally, they can be absolute or partial. The absolute and partial categories are more applicable to direct restraints than to indirect ones
+  * Absolute restraints bar alienation to anyone at any time
+  * Partial restraints prevent alienation only to certain people, or only for certain periods of time, or only until an outside condition is met
+    * Even in the context of a fee simple, a partial restraint might be permissible if limited to a small group or a short period of time.
+
+* Summary of the restraints permissible for different types of estates:
+  * **Fee simple**: All absolute restraints are void. Partial restraints are okay if limited to a small group or a short period of time
+  * **Life estate**: Absolute disabling restraints are void. Absolute forfeiture and promissory restraints are okay. Partial restraints are okay if reasonable in purpose, effect, and duration.
+  * **Leases**: Direct restraints (e.g., restriction on sub-leases), both absolute and partial, are okay, but must be reasonable; Likewise, indirect restraints (restraints on use) are okay if commercially reasonable, unless they are at odds with public policy
+
 ---
 
 ## Concurrent Interests (Co-Tenancies)
@@ -366,3 +409,122 @@ There are three types of co-tenancies
   * Alternative is to work it out between co-tenants and then file uncontested petition with court to make it a matter of record
 
 ---
+
+## Easements and Licenses
+
+### Easements - an Overview
+
+* An **easement** is a non-possessory interest in real property that grants someone (other than the owner) **rights to use** the property for some limited purpose
+  * The use of the property by the easement holder would otherwise constitute trespassing
+  * Some of the most common examples of easements include right to use private driving path over owners land or rights to use land to install cabling or electrical wiring.
+
+* Two types of easements:
+  * **Easement Appurtenant**: attach to a parcel of land; directly benefits the use and enjoyment of parcel of land to the detriment of another
+    * Servient estate -> the burdened property (property that easement passes through)
+    * Dominant estate -> property whose benefited is served by the easement
+    * Fact that it attaches to the land means it automatically passes title whenever the dominant estate is transferred (i.e., it belongs to the land, not to a person)
+    * Law generally presumes easement is appurtenant unless made clear otherwise
+  * **Easement in Gross**: exists for the benefit of an individual person instead of a parcel of land; not tied to the land
+    * No dominant estate, just a servient one
+    * Since not attached to land, it does not pass with title
+    * Example: The rights of utility companies to their power lines are usually easements in gross
+
+* Can be of the affirmative or negative variety:
+  * Usually affirmative, meaning it grants dominant estate the right to do something
+  * Albeit rare, can also be negative, which prohibits the servient estate from doing something (e.g., restricts them from building some obstruction)
+    * Do not give right of entry to anyone, but instead gives dominant estate right to prevent something from being done by servient estate
+      * Generally restricted to securing air, light, water, roads, support, and fences
+    * No implied negative easements or negative easements by prescription
+
+* Easement holder, not the servient estate, is responsible for:
+  * Repairs, necessary or otherwise
+  * Reasonable restoration of the servient estate, such as after installation underground cabling or pipes
+
+### Creation of Easements
+
+* Express Easement - most common way to create is an express grant of easement to someone else
+  * Since interest in real property, subject to statute of frauds and all deed formalities
+    * Signed, written deed granting and conveying easement (or "right of way")
+    * Failure to satisfy SoF (e.g., oral conveyance), may instead result in granting of a license instead
+  * Express easement can also be created by reservation when land is sold
+    * Under old common law rules, this had to happen in separate steps--seller reserving easement in land being transferred and then subsequently granting it to third party
+    * Now can directly reserve on behalf of third party
+
+* Easement created by implication - court may find that easement was implied, even if not expressly provided for
+  * Courts less hesitant to recognize implicit grant than implicit reservation, as the latter involves interpreting in favor of the grantor, even though he could have explicitly reserved the easement in the deed if he really intended to do so.
+  * **Easements Implied by Necessity** - where (1) the parcels were once under single ownership, (2) the easement is strictly necessary, and (3) the easement was strictly necessary at the time of division
+    * Necessity doesn't require showing land is unreachable without the implied easement, but that there is no alternative for accessing the land is reasonably available.
+      * Fact that easement is far more convenient than other alternatives does not render it necessary
+  * **Easements Implied from Prior Use** - where (1) the parcels were once under single ownership, (2) a pre-division use extended to the servient tenement, (3) the use is apparent upon reasonable inspection, and (4) it is reasonably necessary to recognize the easement
+    * Traditional example: A has one large plot of land; builds house near upper boundary of the plot and uses driveway to connect house to highway that runs parallel to the lower boundary of the plot. A splits the plot vertically in half, selling the upper-half (including house) to B. B could likely get court to recognized implied easement, allowing him to use driveway
+    * Determining reasonable necessity weighs multitude of factors in cost-benefit (financial cost, difficulty of alternatives) type test that is not all that dissimilar from that of nuisance.
+
+* **Easement by prescription** - created by operation of law after long and continuous use; similar to adverse possession;
+  * Requires:
+    * (1) open & notorious use - use needs to be such that it gives notice to the owner
+    * (2) hostile & under claim of right - adverse use that would give owner cause of action
+      * If orally given permission, then no easement by prescription (may be license though)
+      * the adverse use also needs to be one that only he, not the general public, engages in.
+    * (3) continuous & uninterrupted throughout the statutory period
+      * At common law, period was 20 years; usually the same period the state uses for adverse possession
+      * Non-daily or seasonal use is ok if consistent with normal use
+  * Unlike adverse possession, don’t need exclusivity (term takes on different meaning here, as noted below)
+    * However, must be exclusive in the sense that the general public isn't also using the land this way
+    * Don’t have to pay taxes on the land
+
+* **Easement acquired by estoppel** - where substantial reliance on use of easement would lead to unjust result if beneficiary were suddenly deprived of it
+  * Requires:
+    * Consent of owner to use (i.e., license)
+    * Owner knows or should know the person will materially change position, relying on the belief that the allowance will not be revoked
+    * Person indeed reasonably believes allowance will continue indefinitely and, in response, materially changes his position (e.g., by making significant investments)
+  * Not all states recognize this. In states that don't, a license is always revocable and cannot ripen into an easement
+
+### Scope and Termination of Easements
+
+* Use of easement limited to its original scope. This can either be:
+  * Explicitly stated in the instrument creating the easement (e.g., the deed), in which case it controls
+  * If created by prescription, estoppel, or implication based on prior use, courts usually determine the scope by looking to the type of use that gave rise to the easement by operation of law.
+  * If created by implication based on necessity, courts usually limit scope to what is necessary
+* Changes to the easement, including its size, location, frequency of use:
+  * The scope of use may change to suit reasonable development of the dominant tenement
+    * Limited to what could have been reasonably contemplated by parties who created the easement
+  * Neither the easement holder nor the servient estate owner can unilaterally relocate the easement or shrink/enlarge it. Only way this can be done is through mutual agreement
+    * Easement can only be used to benefit the dominant estate; Can't divide into smaller ones, let them use it too
+
+* Termination - easement can end in the following ways:
+  * **Expiration pursuant to express terms** - explicitly contains expiration date or condition on which the easement expires
+  * **Merger** - If dominant estate owner acquires ownership of servient estate (or vice versa)
+    * Once terminated by unified ownership, does not automatically revive if the owner sells one of the estates; has to be re-established
+  * **Release** - easement holder signs document of release
+    * Like express grant or reservation, must comply with SoF and deed formalities
+  * **Abandonment** - owner stops using it and independently manifests an intent to abandon
+    * Non-use alone is not enough; nor is oral manifestation of intent to abandon
+      * Must be physical (e.g., construction of a alternative driveway)
+  * **Termination by estoppel** - if the holder manifests an intent to stop using, and the servient owner materially changes position in reasonable reliance
+  * **Termination by Prescription** - servient estate owner (or someone else) uses property in a way that prevents the holder from using it for the required statutory period
+  * **End of Necessity**: if easement implied by necessity and the necessity ceases to exist (e.g., land becomes easily accessible by some alternative way)
+  * Other ways include destruction of the servient estate, taking by eminent domain, or good faith purchaser acquires servient estate without notice of easement
+
+### Transfer of Easements
+
+* Transferring benefits of easement (i.e., by easement holder)
+  * Easement appurtenant - automatically passes with title whenever dominant estate is transferred
+    * No way to detach easement from land in order to transfer it independently
+  * Easement in gross:
+    * If personal easement in gross, cannot transfer rights to someone else unless clearly intended by parties to be transferrable
+      * Else, new party would need to re-negotiate separately
+      * If original beneficiary sells or dies, easement in gross terminates
+    * If commercial/utility, is generally treated as freely transferrable
+
+* Transferring the burden of an easement (i.e., by servient estate owner)
+  * Always binding on subsequent owners of servient estate with one exception: **lack of notice**
+  * If good faith purchaser acquires servient estate without actual or constructive notice, and the deed was not properly recorded, it is not binding on
+
+### Licenses and Profits
+
+* A **license** also grants allowance to use property for limited purpose, but unlike an easement, this is merely a contractual right instead of a property interest
+  * This makes the allowance revocable by the property owner at will (although it may give rise to contractual damages in action for breach)
+    * But see, easement by estoppel (above), which may make it irrevocable
+
+* A **profit** is a non-possessory right to go on and remove a natural resource from someone's land
+  * Basically governed by the law of easements
