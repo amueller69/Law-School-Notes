@@ -250,7 +250,7 @@
   * Can be freely assign property interest to another party (e.g., through selling the property)
   * If party is assigned all L's rights and thereby assumes its obligations, any K claim that could have been asserted against original L can be asserted against the new one
 * By Tenant
-  * Can freely transfer interest in lease unless explicitly prohibited in the agreement 
+  * Can freely transfer interest in lease unless explicitly prohibited in the agreement
     * If instead requires L's consent, there must be a legitimate and commercially reasonable justification for withholding this consent (e.g., concerns about subtenants financial condition)
     * Consent can be implied by L accepting rent payment from transferee
     * Consent to one transfer waives need for consent in future transfers unless explicitly reserved by L
@@ -528,3 +528,181 @@ There are three types of co-tenancies
 
 * A **profit** is a non-possessory right to go on and remove a natural resource from someone's land
   * Basically governed by the law of easements
+
+---
+
+## Restrictive Covenants
+
+* Restrictive covenants - set of promises legally enforceable promises for enhancing or preserving value of land; these promises run with the land and can thus be enforced against subsequent owners (as opposed to binding only the the original land owners)
+* Two types, distinguished by enforcement
+  * **Real Covenants** - party seeking enforcement through legal remedies, such as monetary damages
+  * **Equitable Servitudes** - party seeking enforcement through equitable remedies, such as specific performance or an injunction
+
+### Elements Required for Enforceable Real Covenants
+
+* **Enforceable contract** - Formation/enforceability is essentially governed by the law of contracts; if it would be void or unenforceable under K law, not enforceable as covenant either
+  * This includes compliance with the SoF
+
+* **Intent** - must be formed with intent to run with the land, rather than end with the current landowners (as a normal K would)
+  * Needs to manifest intent to bind subsequent landowners to the promises as well
+    * Can be satisfied through explicit language stating as much
+
+* **Notice** - person against whom enforcement is sought must have notice (exception is if it is a donee)
+  * If properly recorded, this automatically satisfies notice
+
+* **Touches and concerns land** - covenant must affect the use or value of the land or owners interest in the land; can't be used as a loophole for making personal promises (i.e., those unrelated to land) automatically binding on subsequent parties
+  * It is important to distinguish benefits (enhance usefulness/value) and burdens (restrict usefulness/value) of promise
+    * Where one party seeks enforcement of promise that burdens land but only benefits them personally (i.e., in gross, as opposed to benefiting another piece of land or property interest), courts will find it does not touch & concern the land
+  * Third Restatement replaces touch and concern requirement with another test for enforceability against successors. RST focuses on public policy and advocates reasonableness as benchmark of enforcement. Requires courts to consider:
+    * Purpose and goal of the covenant
+    * Fairness of arrangement, and
+    * Degree of interference with personal autonomy
+
+* **Privity of estate** - two kinds
+  * **Horizontal privity** - privity among creators of covenant, need shared interest in land, whether it be simultaneous (e.g. landlords and tenants) or successive (e.g. transfer of fee simple) interests.
+    * Needed for burden of promise to run with the land (but not the benefit)
+    * Example: A & B own neighboring ranches in Texas. Create covenant where both agree not to build oil wells on land. B subsequently sells ranch to oil prospector, C, who proceeds to start drilling and builds a well. A's attempt to enforce covenant against C would fail since A & C never had simultaneous or successive interests in the land
+      * Lack of  horizontal privity prevents burden from running with the land
+      * However, if it was the other way around and A built the oil well after B sold his land, C could enforce the benefit of the covenant since it runs with the land even without horizontal privity
+    * **Vertical Privity** - privity between creators and their successors, requires succession in estate between the original covenantor/covenantee and their assignees in interest
+      * Required for both the benefit and the burden to run, however:
+        * For burden to run, successor must take full estate
+        * For benefit to run, successor only needs some interest (usually just possession)
+
+### Termination of Real Covenants
+
+* Terminate in many of the same way that easements do:
+  * Expiration (predetermined in agreement creating covenant)
+  * Release or express waiver (all parties in mutual agreement)
+  * Abandonment (repeated violations without any enforcement taken)
+  * Merger (all land concerned comes under common ownership)
+  * Destruction, condemnation, or taking of land by eminent domain
+  * Changed conditions - varies; some jurisdictions rarely allow it
+    * Third Restatement says: If changed conditions make a servitude impossible/unsuitable to enforce, a covenant can be terminated (if impossible)/modified (if unsuitable) to accomplish the purpose for which the servitude was created
+
+### Equitable Servitudes
+
+* Today, not many lawsuits seeking to enforce real covenants; instead, it is much more common to seek equitable relief (i.e., enforce an equitable servitude) rather than seek monetary damages
+
+* Equitable servitudes have most of the same requirements as do real covenants, but **without the privity requirement**
+  * Enforceable under law of contracts
+  * Shared intent to bind successors
+  * Notice, which in addition to actual notice, can be satisfied by:
+    * Record notice (most common type of constructive notice) - Each jurisdiction keeps public records of all transactions affecting title to real property, capturing each change in ownership dating back to original owner (aka chain of title). Publicly recording chain of title (if the restriction is contained in it) provides constructive notice.
+    * Inquiry notice - presumed to have notice (not sure how different this is from constructive)
+  * Touches and concerns the land
+
+* Equitable servitude implied from common scheme (aka reciprocal negative servitude) - usually arises where land is sub-divided and sold as part of common development scheme (i.e. a subdivision plan) for a residential neighborhood. Even if the restriction is not contained in purchaser deed of one of the lots, if majority of lots part of the common scheme contained restrictive covenants and the purchaser has notice (actual or constructive) that lot is part of same scheme, court will imply same restrictive covenant.
+
+* Defenses against enforcement of equitable servitudes:
+  * Unclean Hands - person is guilty of the same violations
+  * Acquiescence - person is aware of the covenant being violated by others but does not object to it
+  * Laches - person delayed enforcement too long (e.g., waiting until building was completed before taking action)
+  * Estoppel - If person leads another to rely on the belief that covenant will not be enforced (either by words or actions), he may be estopped from enforcing it
+
+  ---
+
+## Adverse Possession
+
+* The riskiest way to obtain legal title of property; effectively permits a continuous trespass that lasts long enough and meets certain conditions to ripen into legal title to relevant tract of land
+  * Once this occurs, successful adverse possessor has both paramount title to the land and defense to any trespass claims
+  * However, face significant consequences/costs if not successful (e.g., sued for trespass before statutory period necessary for taking AP)
+
+### Requirements Adverse Possession
+
+* **Actual** - must actually possess/occupy the land; requires that AP show they use or maintain the property as true owner would
+  * If only occupy part of land, can only get title to that part through AP
+    * Exception is taking land through **color of title** - where individual thinks they own land but defect with document which appears to transfer title actually renders it legally ineffective. Under these circumstances, even if the person physically occupies only part of the land they ostensibly own, possession of the rest can be established constructively, giving them AP of the entirety of the land
+      * Note: the part of the land that is physically occupied must be reasonable in proportion to the entire thing; enough so that it would give real owner notice
+      * Reasons deed could be defective: fails to match lot described, incorrect bounds, improperly executed
+
+* **Continuous for statutory period** - possession must be continuous and without interruption for entirety of the required statutory period, which under common law is 20 years (although some states have different lengths ranging from 10-30 years)
+  * Does not mean must physically occupy property at all times; depends on whether the occupation was consistent with the ordinary expected use based on the nature of the property (i.e., how the true owner would occupy it)
+  * Some courts may permit tacking, meaning AP can tack on occupation time of a previous possessor for purposes of satisfying the statutory period, but only if exists vertical privity between the two
+    * Example: A owns land that B adversely occupies for 10 years. B moves away and gives this land to C, where he proceeds to be its sole occupant for the next 10 years.
+    * Also applicable to owners: statutory period for ejection does not restart when real owner sells to another owner
+  * Many states also recognize tolling. Where disability (e.g, imprisonment, mental or physical illness tha prevent owner from bringing claim) exists at time cause of action accrues (time of initial entry), the running of the statutory period will not begin until the relevant disability disappears (e.g. owner reaches majority age, regains mental health, etc.) and then allow owner additional 5-10 years, depending on state, to take legal action
+
+* **Hostile with a Claim of Right** - must be acting adversely to the interest of the true owner by claiming the land as his own in defiance of the owner’s title
+  * Does not actually require malicious or hostile intent, nor an explicit declaration that one is claiming property for themselves
+    * In most states, motive doesn't matter. Can be good faith belief that property is their own or knowledge that it belongs to someone else
+  * Just need to intend to use land as if it was one's own, which is adverse to real owners interests in exclusive possession and use
+  * There cannot be AP where real owner has given permission to use/possess the land
+  * Prevents one co-tenant who is only occupant on the property from getting exclusive title via AP, as this is not adverse to other co-tenants interest since he is already entitled to the full use of the property
+    * However, this is not case if co-tenant ousts or excludes the others
+
+* **Open and notorious** -  possession/use must be visible enough give notice to the true owner so he can defend his rights
+  * This requirement is failed when the use cannot be observed by a reasonable observer
+
+* **Exclusivity** - AP’s use must be exclusive throughout statutory period, meaning the real owner or the general public are not using/occupying the land at the same time
+  * However, possible that two or three different people could acquire title via AP and become co-tenants
+  * Use by the owner during the period is also a strong indicator that the AP's occupation is not hostile
+
+---
+
+## Conveyances
+
+* A more conventional and arguably less problematic way to acquire legal is via a conveyance (e.g., sale of land)
+* This is a multi-stage process, with the two biggest steps being:
+  * Parties reaching agreement on terms of sale (i.e., a contract of sale)
+  * Tender and acceptance of the deed at closing in exchange for payment (i.e., performance)
+
+### Contract of Sale
+
+* Contract for the sale of land, like any other contract, must satisfy the requirements for enforceability under the law of contracts (definiteness, mutual assent, supported by consideration, absent fraud/duress/unconscionability) in addition to the Statute of Frauds
+  * Need some sort of writing signed by parties that captures the essential terms of the sale including:
+    * Description of the property to be sold
+    * Names of the parties
+    * The price
+    * Note: Closing date is typically not deemed to be material, although most of these contracts include it
+  * Exceptions to the SoF that can result in enforcement of a contract that isn't in writing:
+    * **Part performance** - court will enforce oral contract where one party has rendered performance in-part that is clearly tied to some agreement
+      * "Part performance" must generally be more than payment and acceptance, but also taking of possession and/or making improvements/modifications
+    * Estoppel - party may be estopped from denying the validity of the contract where one party has detrimentally relied on the agreement
+
+* **Equitable Conversion** - doctrine that, in effect, recognizes the transfer of equitable title at the time of contract formation
+  * Note: equitable title <> legal title, which still remains with the seller until closing
+    * The seller retains legal title (allowing them to stay in possession for the time being), which it holds in trust for the buyer as security for the agreed price (a personal property interest)
+  * As a result, the risk of loss between the K formation and closing shifts from seller to buyer (unless otherwise agreed upon)
+    * Buyer incurs the cost damage to the property, unless it was a result of sellers failure to protect it; buyer entitled to any insurance proceeds disbursed to seller if property is destroyed
+  * Death
+    * If buyer dies before closing, can devise equitable title to heirs, who could sue to enforce contract through remedy of specific performance
+      * Remember, uniqueness of land makes it one of the few types of contracts where this remedy is available
+    * If seller dies before closing, he has no real property to devise; only personal property which entitle recipient to payment of sales price
+
+* **Marketable Title** - implied warranty in every land sale contract that will provide deliver title in marketable condition at time of closing
+  * Does not need to be perfect, but reasonably acceptable (i.e., **reasonable buyer would not object to**). No significant threats of litigation or doubts about affecting market value
+    * Idea here is that buyer should not be forced to accept conveyance that is materially different than the one bargained for
+  * Things that could adversely effect the marketability of the title (aka an encumbrance), leading to a breach, include:
+    * Easements or restrictive covenants that render it unmarketable
+      * Again, only those reasonable buyer could object to; would not be reasonable to object to utility easements for power company or a known and visible driveway easement that served the neighboring property
+      * Recorded easements can be documented in the agreement and excepted from implied warranty; easements neither openly visible nor mentioned in the agreement can become an encumbrance
+    * Liens- includes mortgages, but only if sales proceeds are not sufficient to satisfy it
+    * Title defects - defects in the chain of title (e.g., unrecorded deed)
+      * If title acquired via adverse possession, need judgement in quiet title action and to record title
+    * Problems with land description in the record
+    * Violations of restrictive covenants
+      * Example: Violation of requirements in original subdivision plan
+    * Violation of statutes, regulations, and ordinances (e.g., zoning laws/regs)
+      * Exception: Violation of a housing or building code
+  * If not marketable, buyer must notify seller of the defect and give him a reasonable time to cure it, even it postpones closing (see exception below)
+    * Unless agreement specifies/facts indicate otherwise, it is not presumed that time is of the essence, meaning not necessarily a material breach if not done by closing
+      * Must render complete performance within reasonable time
+    * However, if agreement specifically states that time is of the essence, failure to perform by closing date is a breach
+    * If defect is not cured but buyer proceeds to accept the deed and close out the deal, can't sue for breach
+
+* Condition of the Property - no  implied warranty of fitness of purpose, habitability, etc.
+  * General rule: seller has no duty to ensure property itself is free of defects, but some states make exception for duty to **disclose serious defects that are not known or obvious to the buyer**
+    * Traditional common law took caveat emptor approach
+    * Some states have started to deviate from this approach legislatively by enacting mandatory disclosure statutes for any known material matters related to the physical condition of the property
+    * State courts also trended in this direction (see above); most also recognize liability for negligent misrepresentation and fraud/deceit for intentional concealing defects
+
+* Remedies for breach
+  * Rescission - can elect to terminate the contract
+  * Damages - may be entitled to monetary damages as well
+    * As is the general rule in contract law, damages to give benefit-of-the-bargain -> difference between market value at closing and agreed upon price
+    * However, majority of states limit to restitutionary damages where seller acted in good faith, which basically entitles refund of their down payment (aka earnest money)
+    * If the buyer is the one that is in breach, earnest money deposit may be kept by seller as liquidated damages if specified in the agreement (must be reasonable in proportion to the sales price)
+  * Specific performance - buyer can get SP to proceed with sale and deduct damages from the purchase price (so long as it is within reason)
+
+## Tendering and Acceptance of the Deed
