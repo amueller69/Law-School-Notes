@@ -704,5 +704,80 @@ There are three types of co-tenancies
     * However, majority of states limit to restitutionary damages where seller acted in good faith, which basically entitles refund of their down payment (aka earnest money)
     * If the buyer is the one that is in breach, earnest money deposit may be kept by seller as liquidated damages if specified in the agreement (must be reasonable in proportion to the sales price)
   * Specific performance - buyer can get SP to proceed with sale and deduct damages from the purchase price (so long as it is within reason)
+  * Note: real estate contracts tend to be subject to a number of contingencies that need to be meet in order for performance to be due (i.e., a condition precedent)
+    * Examples: contingent on ability of buyer to obtain financing, the property completing inspection, or being appraised at a certain value
+    * When these contingencies are not met in time, rather than a breach, contract simply becomes null and void (unless other party agrees to waive it)
+      * Usually requires good faith attempt to satisfy contingencies; can't purposely not look for financing in order to get out of contract without breaching it
 
-## Tendering and Acceptance of the Deed
+### Tendering and Acceptance of the Deed
+
+* The deed is the legal instrument that transfers legal title to the land
+  * Common law doctrine of merger by deed - land sales contracts merges into the deed upon acceptance of the deed, meaning any violations of the prior agreement are no longer actionable
+  * Estoppel by deed - Grantor estopped from denying conveyance of land he lacked title to when deed was signed/delivered but later acquired (when this happens, it goes automatically to the grantee).
+  * Is not a contract itself; does not need to be supported by consideration to be valid
+
+* Must satisfy the statute of frauds
+  * Means the deed must be it be signed by grantor (at the very least), in writing, and contain the following:
+    * **identification of the parties** - must generally identify the individual to whom land is being conveyed, although extrinsic evidence is admissible if precise identity cannot be ascertained
+    * **words of conveyance** - varies based on the type of deed (see more below)
+    * **description of the property** - does not need to be exact, but enough to identify the land conveyed. If it doesn't, becomes void
+      * Not a good idea to just say something like "my lot on the north side of town", even if extrinsic evidence can be used to help identify it, as may cause future problems
+      * Multiple different ways to measure and describe land, including by map or various surveying techniques
+        * Most specific is metes and bounds description, which always controls if there are inconsistencies
+  * Fraud and forgeries
+    * Forged deed is void
+    * Where result of fraud, may be void or simply avoidable depending on the type of fraud
+      * Where seller obtained title through fraud-in-the-factum, deed is void; can't legally convey title, even to good faith buyer
+
+* Delivery and acceptance - Deed must be delivered by seller before title can be transferred. For this to occur, there needs to be intent from transferor to pass title. The deed is not deemed to have been delivered until grantor intends to convey immediate and irrevocable interest.
+  * Extrinsic evidence can be brought in to show intent
+  * Rebuttable presumption that deed has been delivered when:
+    * Grantee takes physical possession of the deed (i.e. physical delivery)
+      * Similarly, there is presumption of non-delivery where grantor retains possession of the deed and dies (although this can be rebutted too)
+    * The deed was acknowledged before a notary
+    * Deed was properly recorded
+  * Conditions on delivery
+    * Conditions that are only expressed orally, and not contained in the deed, are usually unenforceable and grantee has title regardless of whether condition is satisfied
+    * Delivery conditioned on some occurrence, if contained in the deed, may or may not be enforceable
+      * If conveying a future interest in the present, it is valid (A retains estate subject to executory limitation, conveys executory interest to B which becomes possessory upon condition being met)
+      * If conveys a present possessory interest in the future, courts may not consider deed legally delivered
+  * Delivery via third-party - acceptable, but any evidence that grantor has power to recall deed renders delivery invalid (remember, must intend to convey interest immediately and irrevocably)
+    * In these cases, conditions on third party's delivery to grantee are usually treated as enforceable, even if only expressed by grantor orally
+    * Escrow agent is commonly used intermediary
+      * Title is transferred away from grantor at time of delivery to escrow agent, but grantee can't take full  title until condition is satisfied
+      * Must be written contract stating conditions for delivery
+      * Can't reserve power to recall once in escrow
+  * Acceptance - acceptance upon delivery is event triggering the transfer of title; no going back after this point
+    * In most places, this is automatically assumed unless there are clear evidence to the contrary (e.g., buyer explicitly rejects -> no delivery)
+
+### Types of Deeds
+
+* **Warranty Deed** - contains a number of promises as to the quality of the title being conveyed, known as covenants of title
+  * Two types of warranty deeds:
+    * General warranty deed (aka full warranty deed) - warrants title against all defects whether they arose before or after the grantor took title.
+    * Special warranty deed (aka limited warranty deed) - only warrants against defects arising since the grantor acquired title (i.e., no defects that he caused)
+      * Grantor promises the buyer that they did not violate any of the 6 covenants (see below) but offers no protection against defects caused by previous owners.
+  * The standard/usual title covenants contained in a general warranty deed are:
+    * *Covenant of Seisen* - promises that grantor owns the interest in land the deed purports to convey
+    * *Covenant of Right to Convey* - promises that grantor has the power to convey that interest
+    * *Covenant Against Encumbrances* - promises that property is being transferred free of encumbrances
+      * As noted above encumbrance is anything that might diminish value, such as restrictive covenants, liens, mortgages, etc.
+      * To avoid breaching this, deeds generally state that property is subject to real estate taxes, covenants, conditions, restrictions, and easements apparent or disclosed by public record, as well as all applicable zoning regulations
+    * *Covenant of Quiet Enjoyment* - promises that grantees enjoyment of the land will not be disrupted or interfered (e.g, eviction) by someone with better title
+    * *Covenant of General Warranty* - promises that grantor will defend grantee from anyone attempting to claim title
+    * *Covenant of Further Assurances* - promises that grantor whatever is reasonably necessary, such as the execution of additional documents, to perfect the title the deed purports to convey
+  * First three covenants are present covenants - if they are to be breached, must be at the time of delivery; personal to the grantee and do not run with land, meaning subsequent grantees can't sue original grantor
+  * Last three covenants are future covenants - they are breached later when third party with better title disrupts enjoyment of the land; these covenants typically run with the land, benefitting subsequent grantees
+  * Where breach of covenants, grantee generally can recover money damages
+    * If total failure of title, can recover the purchase price plus interests
+    * If partial failure, proportionate reduction in price
+      * If lesser estate conveyed = price paid - actual value of estate
+      * If encumbrance = amount paid to remove it, or if it can't be removed, reduction in value
+
+* **Quitclaim Deed** - grantor makes no warranties or promises regarding titles to the grantee
+  * Effectively states that grantor is conveying interests to grantee, whatever those interests are
+    * No recourse for any failure of title
+    * Still have the implied warranty of marketable title from the sales K, but remember the sales K merges into the deed upon delivery/acceptance
+  * Conveyance language includes:
+    * "Grantor hereby releases, surrenders, and relinquishes any right, title, or interest that he may have"
+    * "Grantor does remise, release, and quitclaim" or "Grantor conveys and quitclaims"
