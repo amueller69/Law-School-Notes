@@ -230,13 +230,14 @@
 ### Tort Liability in Landlord/Tenant Relationships
 
 * Landlord Liability
-  * Generally not liable for to T or T's invitees for injuries sustained on the leased property
+  * At common law, LL are generally not liable for to T or T's invitees for injuries sustained on the leased property
   * Exceptions
     * Latent defects - Injuries sustained by hidden defects that L knew (or reasonably should have known) about and failed to disclose
     * Common areas - Injury's sustained due to failure to exercise reasonable care in detecting/correcting hazardous conditions in areas of property still under L's control
     * Negligent repairs - Injury sustained resulting from defective repairs performed by L on the leased property
     * Potential liability for  criminal acts committed by third-parties
       * Some courts have held landlords liable for failing to provide reasonable security, thereby allowing criminal third-party to cause harm to tenant
+  * Modern trend towards increased liability - more common to general negligence principles applied; LL have duty of reasonable care which is breached when they create unreasonable risk of harm.
 * Tenant Liability
   * T liable as social host for harm sustained by his own invitees on the leased property
 
@@ -713,7 +714,8 @@ There are three types of co-tenancies
 
 * The deed is the legal instrument that transfers legal title to the land
   * Common law doctrine of merger by deed - land sales contracts merges into the deed upon acceptance of the deed, meaning any violations of the prior agreement are no longer actionable
-  * Estoppel by deed - Grantor estopped from denying conveyance of land he lacked title to when deed was signed/delivered but later acquired (when this happens, it goes automatically to the grantee).
+  * Estoppel by deed - Grantor estopped from denying conveyance of land he lacked title to when deed was signed/delivered but later acquired (when this happens, it goes automatically to the grantee)
+    * Defense not available if subsequently sold to another bona fide purchaser, but could still sue for damages  
   * Is not a contract itself; does not need to be supported by consideration to be valid
 
 * Must satisfy the statute of frauds
@@ -781,3 +783,11 @@ There are three types of co-tenancies
   * Conveyance language includes:
     * "Grantor hereby releases, surrenders, and relinquishes any right, title, or interest that he may have"
     * "Grantor does remise, release, and quitclaim" or "Grantor conveys and quitclaims"
+
+## Recording of Interests
+
+* Main purpose of recording is to give **notice** to the world, not necessarily to make title valid
+  * At common law, the rule for resolving competing interests was "first in time, first in right", meaning the person who acquired interest first had priority (similar to first to invent, in the patent context, as opposed to first to file)
+    * This could result in harsh outcomes for individuals who had no notice of prior interests, even if they acquired it in in good faith
+  * Every state has enacted a system to allow public recordation of interests in property, in addition to statutory protection of good faith purchasers of property from earlier, unrecorded interests
+    * Ex: Recording office clerk files copy of deed and indexes it in a grantor index and grantee index
