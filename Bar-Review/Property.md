@@ -64,7 +64,7 @@
 ### To Third Parties
 
 * **Remainder Interests** - equivalent of reversion except with third party instead of grantor; happens **automatically** when estate normally expires (as opposed to being cut short)
-  * **Contingent Remainder** - remainder interest either given to an  person yet to be ascertained or one that is subject to a condition precedent
+  * **Contingent Remainder** - remainder interest either given to an person yet to be ascertained or one that is subject to a condition precedent
     * Condition precedent - Condition must be satisfied *before* interest is vested (contrast with condition subsequent)
     * Ex: "to B for life, then to B's children" where B does not have any kids yet
     * Ex: "to B for life, then to C if C is a legal adult at the time of B's death"
@@ -784,10 +784,92 @@ There are three types of co-tenancies
     * "Grantor hereby releases, surrenders, and relinquishes any right, title, or interest that he may have"
     * "Grantor does remise, release, and quitclaim" or "Grantor conveys and quitclaims"
 
-## Recording of Interests
+---
+
+## Recording
 
 * Main purpose of recording is to give **notice** to the world, not necessarily to make title valid
   * At common law, the rule for resolving competing interests was "first in time, first in right", meaning the person who acquired interest first had priority (similar to first to invent, in the patent context, as opposed to first to file)
     * This could result in harsh outcomes for individuals who had no notice of prior interests, even if they acquired it in in good faith
   * Every state has enacted a system to allow public recordation of interests in property, in addition to statutory protection of good faith purchasers of property from earlier, unrecorded interests
     * Ex: Recording office clerk files copy of deed and indexes it in a grantor index and grantee index
+* There are 3 types of recording statutes intended to protect subsequent property buyers (although only two are really relevant in the context of real property)
+
+### Types of Recording Acts
+
+* **Notice Acts** - Statute that protects a subsequent buyer if they are a Bona Fide Purchaser (a "BFP", someone purchasing *for value without prior notice*, actual or constructive). Thus subsequent buyer only prevails in the absence of notice
+  * The effect of the "for value" requirement of a BFP means that devisees or heirs are *not* protected. This is usually the case for those awarded judgement liens as well.
+  * What counts as notice?
+    * Actual notice (obviously) - when subsequent purchaser actually knew of prior interest
+    * Record Notice - type of constructive notice if deed is recorded in chain of title. If prior is properly recorded, the subsequent purchaser *cannot* be a BFP
+      * Note: deeds improperly recorded (e.g., too late or too soon) such that they are out of the chain of title, often called wild deeds, do not supply effective notice
+    * Inquiry notice - another form of constructive notice in which subsequent buyer is aware of something that suggests, and with some reasonable amount of investigation, would have revealed the preceding interest.
+  * About half of states have on of these statutes, which will often employ the language "in good faith" instead of without notice.
+* **Race Acts** - protects a purchaser from an earlier interest if the purchaser records his or her interest first. Winner of this "race" to record gets priority. Doesn't matter if subsequent buyer has other type of notice, they can still prevail if they are first to record
+  * Although these statutes strongly incentivizes recording quickly after acquiring interest, very few states have them (at least in the real property context).
+* **Race-Notice Acts** - Combination of the two types of statutes above: subsequent purchaser is only protected if they have no prior notice AND are the first to record
+  * Eliminates the possibility of a subsequent purchaser getting priority even when they know about the prior interest, something that can occur under a Race Act statute
+  * The other ~half of states have a Race-Notice statute
+
+### The Shelter Rule
+
+* When a good faith BFP of property with a preexisting interest subsequently conveys/devises their interests, the transferee also receives (or "takes shelter in") the protections provided by the recording statute.
+  * Consistent with the principle that transferees acquire all the rights of the transferor
+  * This is even the case if the transferee knew about the prior interest, so long as the transferor didn't
+
+---
+
+## Mortgages and Security Interests
+
+* Security interests is an enforceable legal claim that attaches to property (i.e. collateral), real or otherwise,  in order to secure repayment of a debt or performance of some other obligation.
+  * Provides creditor with quick, easy recourse in event of default and/or priority over other creditors if debtor files for bankruptcy. This lowers the risk for creditor, allowing them charge lower interest rates than they would if unsecured
+    * Example: if default on home loans, can foreclose, sell house, and apply proceeds to outstanding loan
+  * Note: in the US, the "lien" is sometimes used interchangeably with security interest, although the term lien also tends to denote a narrower set of security interests created by operation of law (i.e., non-consensually)
+* In the context of real property, the primary instrument creating a security interests is the mortgages although their exists alternatives as well
+
+### Mortgages
+
+* Mortgages are means of securing loan by creating a security interest in real property which mortgagee (creditor) can enforce to satisfy outstanding debts in the event that the mortgagor (debtor) defaults.
+  * This definition reflects the now widely accepted Lien Theory, under which a mortgagor retains title of the property and mortgagee merely holds a lien
+  * It can be contrasted with the more historical Title Theory, which some states still recognize, under which a mortgage was considered an actual transfer of title to the mortgagee that would become void if the debt was paid off.
+    * Under Title Theory, mortgagee can technically take possession of property and do whatever with it (e.g., rent it out) unless there is language in the mortgage preventing repossession prior to default (there usually is). However, the additional legal risks and duties for a mortgagee in possession make this relatively unattractive
+  * As noted earlier, the Lien/Title Theory distinction is relevant in the context of join-tenancies and their termination.
+* While mortgages are typically used to finance the purchase of the same real property to which the security interest attaches, this is not necessarily the case
+  * Example: you can take out mortgage on home to enable purchase of a new boat
+* Mortgages must satisfy statute of frauds, meaning they need to be in writing (though may be subject to part performance or estoppel exceptions to SoF)
+
+#### **Equitable Right of Redemption**
+
+* Also known as the equity of redemption, is doctrine which provides debtor in default right to pay late and redeem property.
+  * At any point prior to foreclosure, debtor can still redeem the property if he pays arrears (missed payments + interest), unless mortgage has acceleration clause, in which case the full amount of the unpaid debt becomes due upon default  
+* This right arose over time as those who faced harsh outcomes under the mortgage-by-conveyance system (where mortgagor could forfeit right in land while remaining liable for debt), petitioned courts of equity for relief.
+  * At old common law, mortgages usually consisted of conveyance of fee simple to mortgagee with bond/indenture (defeasance) stating it would reinvest in debtor if debt repaid by certain date (thereby divesting lender). If debt had not been repaid by this date (called "law day"), property automatically vested in the mortgagee. This was thus really conveyance of fee subject to condition subsequent that is disguised as a conveyance fee simple absolute.
+* Clogging the right of redemption - Court's do not allow waiver of one's right of redemption prior to default through a clause in the mortgage itself
+  * However, this right may be waived later on in separate transaction supported by consideration
+* There is also a statutory right of redemption in some states. The key distinction between this and the equitable right are that the former *can be exercised after foreclosure*.
+  * Can redeem property from person who purchased it at foreclosure sale for purchase price plus interest, although the time window varies by state.
+
+#### **Foreclosure**
+
+* Foreclosure is the process by which the mortgagee seeks to terminate the debtor's equitable right of redemption, the 
+
+#### **Transfers**
+
+* When mortgaged property is sold, absent an agreement between the mortgagee and mortgagor to release the latter from his obligations, the mortgagor remains personally liable for upon.
+* New buyer (transferee) of property securing mortgage can assume the mortgage or take title "subject to" it
+  * With an assumption, both the original mortgagor and the new buyer are personally liable for the debt. If there is failure to repay the loan, the mortgagee can sue either one or both.
+  * Where the new buyer only takes the property "subject to" the mortgage, they do not become personally liable to the mortgagee upon default. However, the mortgagee can still foreclose on the property. New buyer thus still has interest in ensuring mortgage is not defaulted on. Nonetheless, if there is still deficiency after sales proceeds applied only original mortgagor can be sued
+    * In most jurisdictions, this is the default
+  * Neither assumption nor taking title "subject to" discharges the original mortgagor; in both situations the original mortgagor becomes a surety w/r/t the mortgage obligation
+    * Subrogation is an equitable remedy to prevent unjust enrichment of the mortgagee at the original mortgagor's expense when the latter (or any other person) pays the mortgage debt on behalf of the new buyer (transferee).
+    * In such cases, original mortgagor (or subrogee) may become of the owner of the mortgage and the rights of the mortgagee, which would include the right to foreclose on the mortgage lien.
+* Some mortgages have "due on sale clauses", which state that mortgage becomes fully payable if the underlying property is sold
+
+### Alternatives to Mortgages
+
+* **Deeds of Trust** - Similar to a mortgage, but involves the debtor transferring legal title (while retaining equitable title) to a 3rd party-trustee who holds it until loan is paid off
+  * In this relationship, the debtor is the trustor and the lender is the beneficiary
+  * In the event of default, this trustee may have power of sale (depending on language in trust deed and the state), allowing the trustee to foreclose and auction the property off themselves without needing to go through courts
+    * In states that allow it, this gives deed of trust a huge advantage over traditional mortgage
+
+Installment Land Contract - sometimes referred to as a contract for deed, is a contractual arrangement in which seller retains title until final installment is paid pursuant to payment schedule.
