@@ -43,7 +43,7 @@
   * Grantor retains possibility of reverter; automatically terminates and thus returns to granter upon occurence of stated condition
   * Conditional nature must be made clear ("so long as", "while", "until"); simply stating that you are conveying "for the purpose of” X is not enough.
 * **Fee Simple Subject to Condition Subsequent** - ends at the election of grantor upon the occurrence of stated condition
-  * Grantor retains *right of entry* or *power of termination*; 
+  * Grantor retains *right of entry* or *power of termination*;
   * Can be created by language like "from A to B though if B does X, A has right of entry".
     * Even absent the explicit mention of the right of entry, Courts generally interpret limiting language like "provided that X", "but only if X", or "on condition that X" as creating a FSSCS
 * **Fee Simple Subject to Executory Limitation** - terminates automatically when the condition occurs, and then transfers to a third-party. Similar to FSD, but if condition triggered/violated, automatically goes to third-party rather than reverting to grantor.
@@ -63,18 +63,22 @@
 
 ### To Third Parties
 
-* **Remainder Interests** - equivalent of reversion except with third party instead of grantor; happens **automatically** when estate normally expires (as opposed to being cut short)
+* **Remainder Interests** - equivalent of reversion except with third party instead of grantor; happens **automatically** when estate naturally expires (e.g., a life estate, estate for years)
   * **Contingent Remainder** - remainder interest either given to an person yet to be ascertained or one that is subject to a condition precedent
     * Condition precedent - Condition must be satisfied *before* interest is vested (contrast with condition subsequent)
-    * Ex: "to B for life, then to B's children" where B does not have any kids yet
+    * Ex: "to B for life, then to B's children" where B does not have any kids yet (interest won't vest until he does)
     * Ex: "to B for life, then to C if C is a legal adult at the time of B's death"
-  * **Vested Remainder** - not subject to any conditions or prevented in any other way from becoming possessory upon preceding estate expiring
-    * **Vested Remainder Subject to Open** - Granted to a group, where at least one member is alive and ascertainable, and others are not alive or ascertainable at the time of conveyance. The grantee is conveyed an interest, but it is not clearly defined at this point.
+  * **Vested Remainder** - Grantee is ascertainable and interest is not subject to any conditions, or prevented in any other way, from becoming possessory upon preceding estate expiring
+    * **Vested Remainder Subject to Open** - Granted to a group, where at least one member is alive and ascertainable, and others are not alive or ascertainable at the time of conveyance. The grantee is conveyed an interest, but it is not clearly defined at this point since others may eventually joint him in claiming a share of the interest
       * Also referred to as Vested Remained Subject to Partial Divestment; members already ascertained have to share remainder with new members of the class
       * "A conveys to B for life, then to B's children." (B has kids but could have additional ones in the future; open for this class of potentially qualifying members)
+      * However, once class closes, those who would otherwise join the class future can no longer claim share of interest;
+        * This can happen through setting an explicit date for closing the class
+        * Absent such a date, law has typically recognized class as closing whenever distribution occurs/at least one member gets immediate possessory interest
     * **Vested remainder subject to divestment** - Remainder interest subject to condition subsequent
-      * "A conveys to B for life, then to C for as long as C is financially solvent
-* **Executory Interest** - equivalent of right of entry or possibility of reverter for third-party; if it only vests by cutting previous estate short or if it doesn't become possessory automatically upon previous estate ending, it is an executory interest not a remainder.
+      * "A conveys to B for life, then to C for as long as C is financially solvent"
+      * "A conveys to B for life, and then to C; but if C is an alcoholic, then to D"
+* **Executory Interest** - equivalent of right of entry or possibility of reverter for third-party; if it only vests by cutting previous estate short (e.g., divesting someone other than grantor) or if it doesn't become possessory automatically upon previous estate ending, then it is an executory interest not a remainder
   * Shifting Executory Interest - takes from one grantee and gives it to another
   * Springing Executory Interest - takes from grantor and gives to grantee
 
@@ -86,19 +90,21 @@
   * Primary purpose is to prevent limitations/qualifications on property that continue to affect ownership long after persons involved are dead
 * Common law approach:
   * > "No interest is good unless it must vest, if at all, not later than twenty-one years after some life in being at the creation of the interest" - John Chipman Gray
-  * Some life in being at the creation = any of the parties relevant to the conveyance that are alive that the time it is made
-  * In other words, if the interest could vest after all parties involved could die and 21 years pass (regardless of how improbable), it is immediately void
+  * Some life in being at the creation = any of the parties relevant to the conveyance that are alive and ascertainable at the time it is made
+    * To be used as measuring life, life or death of person must affect vesting
+  * In other words, if the interest could hypothetically vest after measuring life dies and 21 years pass (regardless of how improbable), it is immediately void
+    * However, only the future interest that violates the RAP fails, not the entire conveyance
 * Some modern jurisdictions (aka the Wait-and-See Approach):
   * Future interest must vest or fail to vest within 90 years of conveyance. If the interest hasn't certainly vested after 90 years, it is voided
 * Applies to:
-  * Vested remainder subject to open
+  * Vested remainder subject to open and contingent remainders
     * Example: To A for life, then to his children, then to his grandchildren who graduate college
       * Assuming A already has 1 grandchild who graduated college. Possible that subsequent grandchildren are born and graduate college 21 years after everyone dies, therefore it violates RAP.
-      * All-or-nothing rule: If it could violate RAP for one class member, is violates it for all
-  * contingent remainder
+      * **All-or-nothing rule**: If it could violate RAP for one class member, is violates it for all
   * executory interest
+    * Example: "A conveys to B for so long as the property is used for residential purposes, then to C" could take decades after A's death before C is entitled to possessory interest
   * purchase options
-* N/A to:
+* N/A for future interests that are held by the grantor:
   * reversion
   * possibility of reverter
   * right of entry
