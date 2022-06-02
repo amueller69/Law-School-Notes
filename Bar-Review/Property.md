@@ -1,5 +1,12 @@
 # Property
 
+* In property law, an interest in real estate can be defined as ownership of one or any combination of the traditional "bundle of rights" to real property (possess, use, transfer, exclude, etc.)
+  * Interests can be shared among multiple parties - an undivided interest is one in which two or more persons each have non-exclusive, equal rights to the entire property (not just a physical section of it)
+  * Where interest consists of the right of possession, it is considered to be an estate (e.g., freehold, leasehold estates)
+    * Different between leasehold and freehold is that former have definite lifespan and the rights held by tenant are more limited (in addition to being temporary)
+    * These estates can also be ones that will become possessory upon some stated event/condition being triggered in the future (i.e., future estates)
+  * Where interest-holder does not have right to possession, interest is referred to as an encumbrance (e.g., easements, liens)
+
 ## Present Estates
 
 ### Freehold Estates
@@ -256,6 +263,7 @@
 * By Landlord
   * Can be freely assign property interest to another party (e.g., through selling the property)
   * If party is assigned all L's rights and thereby assumes its obligations, any K claim that could have been asserted against original L can be asserted against the new one
+    * Exception: New LL may ask Ts to sign attornment, which basically acknowledges and waives any claims/defenses against old LL not asserted at that time
 * By Tenant
   * Can freely transfer interest in lease unless explicitly prohibited in the agreement
     * If instead requires L's consent, there must be a legitimate and commercially reasonable justification for withholding this consent (e.g., concerns about subtenants financial condition)
@@ -265,13 +273,13 @@
     * **Assignment**: when tenant transfers entire remaining interest in the lease (i.e., for the rest of the lease term)
     * **Sublease**: when tenant transfers anything less than the entire remaining interest; original (head) T retains portion of remaining lease term and has right to possession once sub-lease term expires
     * Determine which exists by looking at intent of the parties as manifested in the transaction
-    * Sublease nor assignment automatically ends original T's obligations under lease
+    * Neither sublease nor assignment automatically ends original T's obligations under lease
       * As noted above, still privity of K (unless L agreed to release original T through a novation) between original T and L, but not between new T and L.
         * This means sub-tenant/assignee can't sue L for breaching contractual provisions (or vice-versa)
       * Depending on whether it is an assignment or sublease, there may not be privity of estate between L and current T
         * If sublease, then no P of E since they do not share successive interests in the land (head tenant is in-between them, has reversion)
-          * L can't sue ST for unpaid rent; ST can't sue for breach of implied covenant of quiet enjoyment
-          * However, L can sue to evict assignee for unpaid rent and/or violations of covenants that touch & concern the land, while assignee can sue for breach of implied covenant of quiet enjoyment
+          * L can't sue ST for unpaid rent and ST can't sue for breach of implied covenant of quiet enjoyment; however, L can sue original T for unpaid rent, in which case original T would be entitled to contribution from ST
+        * However, in assignment, L can sue to evict assignee for unpaid rent and/or violations of other covenants that touch & concern the land, while assignee can sue for breach of implied covenant of quiet enjoyment
 
 ### Fixtures
 
@@ -335,7 +343,7 @@ There are three types of co-tenancies
 * TiC is the default
   * Presumed to have been created whenever conveyance/devise is made to multiple persons to enjoy at same time.
   * If creation of joint tenancy is defective or is unclear what form of co-tenancy was intended, it is likely interpreted to be an TiC
-* Two ways to terminate
+* Can be terminated by agreement or partition
 
 ### Joint Tenancy
 

@@ -9,12 +9,16 @@
   * Might be limited; admissible for one purpose and not another; in such cases, court typically issues "limiting instructions" to jury
 * **Circumstantial** - Type of evidence that tends to indirectly prove a factual proposition through inference from collateral facts; can be contrasted with direct evidence (e.g., surveillance camera footage of the crime)
 * **Competency** - applies to witness testimony; refers to one's ability/qualification to testify as a witness. Note: this competency is not the same as credibility; the former, decided by judge (rather than fact finder), determines whether individual is allowed to testify in the first place, whereas credibility is ultimately a matter decided by jury
+  * Can also be used in a broader sense to refer to the appropriateness of evidence, including its relevance and whether privilege or some other basis for exclusion applies
 * **Completeness** - rule of completeness allows party to request that, if one piece of evidence is admitted and introduced, any other part/piece of evidence be introduced at the same time if needed to be fairly considered
 * **Materiality** - offered for the purpose of directly proving a specific fact/matter at issue (e.g., a fact proving/disproving a necessary element of the claim/offense)
   * Conversely, evidence offered for any other purpose (evidence which does not stand to have a probative effect on the facts at issue) is said to be immaterial
   * The term is less common in modern law of evidence, but still utilized in some jurisdictions
+* **Preliminary Questions** - those related to the competence of evidence, including the admissibility of evidence, witness qualifications, whether privilege exists or hearsay exception applies
+  * In ruling on preliminary questions of fact, court is not bound by FRE except when related to privileges; can consider things that would otherwise be inadmissible, hearsay, etc.
+  * Hearings may be required to take place outside presence of jury if preliminary question involves admissibility of confessions, defendant in criminal case requests it, and "justice so requires" (gives judge discretion)
 * **Probativeness or Probative Value** - the extent to which a piece of evidence makes the disputed fact more or less probable or true
-* **Relevancy** -  having any tendency to make the facts at issue more or less probably than if this evidence were excluded entirely (i.e., having probative effect)
+* **Relevance** -  having any tendency to make the facts at issue more or less probably than if this evidence were excluded entirely (i.e., having probative effect)
   * Relevance is a necessary condition for evidence to be admissible; must meet minimum threshold of relevance to be admissible
   * This threshold is not strict: the extent to which evidence tends to affect probabilities does not need to be significant, it just needs to affect it all
 * **Sufficiency** - has to deal with meeting burden of production and establishing prima facie case; evidence is "sufficient" when there is enough of it has been produced to move forward to be considered by fact-finder.
@@ -33,10 +37,18 @@
     * Note: The FRE also functions as a de facto set of model rules that have been adopted in a majority of states, thus most states trials are governed by evidence rules very similar to the FRE
   * Non-trial criminal proceedings (e.g., grand jury, discovery, sentencing or probation hearings, issuance of warrants)
     * Exception: the rules in the FRE relating to Privilege apply here as well
-  * Court’s determination of a preliminary question of fact (e.g., admissability/competency of evidence and witnesses)
+  * Court’s deciding on a preliminary question of fact (e.g., admissability/competency of evidence and witnesses)
     * Exception: the rules in the FRE relating to Privilege also continue to apply here
 
 * In federal diversity cases, Fed courts generally apply the FRE in deciding/resolving evidentiary issues that arise during trial
+
+* Ruling on evidence under FRE (103)
+  * Court required to prevent inadmissible evidence from reaching jury to the extent practical
+  * Party can only claim error (i.e., appeal) in court's ruling to admit/exclude evidence if it affects substantial right of party AND:
+    * If ruling was to admit, party must have made a timely objection/motion to strike and stated specific grounds for doing so
+    * If ruling was on exclusion, offer of proof (explanation why evidence is relevant, admissible) must have been made
+      * Once court rules definitively, don't need to renew objection/offer of proof in order to preserve appeal
+      * Exception: error affecting substantial right is plain obvious, can appeal even if no objection at the time
 
 ---
 
@@ -108,9 +120,11 @@
 
 ## Relevance
 
-* As explained in the first section of this outline the *relevance** of evidence is a necessary condition for admissibility and can be defined as having tendency of to make the facts at issue more or less probable (i.e., having probative effect)
+* **Relevance** of evidence is a necessary condition for admissibility and can be defined as having tendency of to make the facts at issue more or less probable (i.e., having probative effect)
   * The minimum threshold of relevance that mus be met for evidence to be admissible is not that strict hover; simply needs to have some probative value
   * Trial judge is responsible for applying this relevance analysis by reviewing piece of evidence and determining its probative value (if any);
+  * FRE states that relevant evidence is considered admissible unless some other rule of the FRE or statute maintains otherwise
+    * However, as shown in following sections, FRE contains several other provisions that could result in relevant evidence being deemed inadmissible
 * Even if a piece of evidence meets this relevance threshold, it may be inadmissible on one of the other grounds for exclusion
   * FRE 403 provides that even relevant evidence may be excluded if its **probative value is substantially outweighed by** the danger of:
     * Unfair prejudice
@@ -120,10 +134,11 @@
     * Waste of time
     * Needlessly presenting cumulative evidence
   * The term "substantially" in FRE 403 is important; even where the aforementioned risks outweigh the probative value of evidence, it may still be admissible if the extent to which it is outweighed is less than substantial
-* Conditional admission - There may be circumstances where the question of relevance hinges on the existence of some other fact, which must first be proven before relevance can be determined
+* **Conditional relevance** - There may be circumstances where the question of relevance hinges on the existence of some other fact, which must first be proven before relevance can be determined (FRE 104(b))
   * In these cases, court may admit the evidence so long as conditional fact can be proven later on when it considers the sufficiency of the whole body of evidence
-  * At this sufficiency stage, court considers whether jury could reasonably find (by preponderance of the evidence) the conditional fact to be true
-* Finally, if a party believes a pieces of admitted evidence is improper, it may, subject to the court's discretion, to admit otherwise inadmissible evidence in order to show this
+  * At this stage, court makes preliminary decision whether jury could reasonably find (pretty low hurdle) the condition to be satisfied, it is admitted; jury then considers weight/credibility
+  * Example: Letter purportedly from X has no probative value unless can be established that X actually sent or authorized it; if judge decides that jury could reasonably find that X indeed sent the letter, it will be admitted
+* Finally, if a party believes a pieces of admitted evidence is improper, it may, subject to the court's discretion, admit otherwise inadmissible evidence in order to show this (remember, Court not bound by FRE in considering preliminary questions)
 
 ### Character Evidence
 
@@ -217,7 +232,45 @@
 
 ### Identification/Authentication
 
+* Identification and authentication used interchangeably, though authentication used more frequently in the context of writings/documents, whereas more identification tends to be used more in context of other physical objects
+* Authentication requirement - tangible evidence cannot be admitted until it’s been authenticated/identified; this is part of laying foundation for non-testimonial evidence
+  * FRE 901: "To satisfy the requirement of authenticating or identifying an item of evidence, the proponent must **produce evidence sufficient to support a finding that the item is what the proponent claims it is.**"
+    * "Sufficient to support a finding" standard here is lower preponderance of the evidence (i.e., enough evidence that jury could find it genuine)
+  * Authentication is preliminary question of "conditional relevancy" (FRE 104(b)), which proponent can establish by showing connection between the item offered and the facts of the case
+    * Even if judge determines threshold has been met and item can be admitted, whether or not it is accepted by jury as authentic/genuine is still entirely up to them
+    * Similarly, admission of item doesn't mean opponent cannot present counter-evidence attacking its authenticity
+
+* Methods for authenticating evidence (non-exhaustive)
+  * Testimony by someone w/ personal knowledge of the object - admission that it belongs to them or they directly saw signature be made
+    * Can also be someone testifying about origin and the chain-of-custody up until trial; this is important for physical objects
+    * In the case of photos, W can testify picture a fair/accurate representation
+  * Non-expert Testimony on handwriting - A non-expert’s opinion that handwriting is genuine based on past familiarity with it
+  * Comparison - A comparison by an expert witness or the trier of fact of the item in question with a genuine version of it (e.g., handwriting samples)
+  * Distinctive characteristics -  appearance, contents, substance, internal patterns, etc. taken together with all the circumstances
+  * Others include voice recognition (w/ additional corroborating evidence), solicited replies, so-called ancient documents obtained from ordinary place of custody
+
+* There is also such thing as **self-authenticating** evidence for which proponent is not required to meet threshold
+  * These are things whose authenticity is self-evident, requiring no additional extrinsic evidence to lay foundation and be admitted
+  * This includes:
+    * Public documents bearing a governmental seal and a signature of authorized official
+    * Certified copies of public records
+    * Official government publications
+    * Notarized documents and other acknowledged docs (e.g., those with attached certificate attesting to authenticity)
+    * Articles from newspapers and periodicals
+
 ### Best Evidence Rule
+
+* Rule maintaining that when party attempts to prove the substance/contents of a "writing" (construed broadly), the original version needs to be offered, subject to some exceptions
+  * Applies only to writings, photographs, videos, audio recordings, and the like
+  * Note that "duplicates", defined as counterpart produced by some process/technique to reproduce original and insure its accuracy/genuineness, are generally treated the same as the original and are admissible unless it is determined that doing so would be unfair or there are questions about whether original is even authentic (FRE 1003)
+    * Example of a duplicate is something like a carbon copy
+* Secondary evidence (i.e., anything less than original or duplicate, such as testimony about the original) may be admissible if:
+  * All originals have been destroyed/lost and not by some bad faith act of proponent
+  * Original cannot be obtained by any available judicial process or if opposing party fails to produce it
+  * OR the writing is not closely related to a controlling issue
+* Other special cases
+  * Certified copies of official public records are generally acceptable
+  * Summaries of "voluminous documents" (those that cannot be conveniently examined in court) are allowed, so long as proponent makes original available by other parties at reasonable time/place
 
 ---
 
@@ -352,10 +405,11 @@
 
 * To impeach a witness simply means to attack or cast doubt on the credibility/believability of their testimony;
   * Almost always by the cross-examining party during or after the cross-examination, as it rarely makes sense for examining-party to impeach their own witness (although technically you are permitted to under FRE 607)
-  * Impeachment can occur by targeting a number of different aspects of a witnesses and their testimony. The main ones are:
-    * Truthfulness of W's testimony - attempt to show that W is intentionally lying or purposefully embellishing testimony
-    * Sincerity of W's testimony - , or is following a memorized script that does not represent their actual knowledge/memory/thoughts, etc.
-    * Ability of W to perceive/recall what they are testifying about - 
+  * Impeachment can occur by targeting a number of different aspects of a witnesses and their testimony. The main vulnerabilities are:
+    * Truthfulness/sincerity of W - W is dishonest person and is intentionally lying, or has personal bias causing them to embellish their testimony
+    * Ability of W to accurately recall what they are testifying about - W could have poor memory, get things confused
+    * Ability of W to communicate - ambiguity and inconsistencies in W's testimony
+    * Ability of W to have accurately perceived subject of testimony - W could be hard of hearing, have poor eyesight or obstructed view
   * The inverse of impeachment, in which party seeks to build the credibility of a witness (sometimes called bolstering) is generally not allowed unless it is in response to W's character being attacked by opposing party
     * Introducing character evidence in defense of W's credibility after truthfulness was attacked by opposing party is known as **rehabilitation**
     * That the attack be directed at truthfulness is important; no rehabilitation if W attacked for bias, mental/sensory defect
@@ -532,6 +586,16 @@
     * usually need to consider the extent to which they mitigate the risks of untruthfulness/unreliability
       * This is common denominator among recognized exceptions in 803/804 (e.g., someone unlikely to lie in dying last words or to doctor when trying to get treated/diagnosed; records are more reliable where they regularly generated as part of standard procedures)
 
+### Constitutional Limitations on Hearsay Exceptions
+
+* Even if out-of-court statement falls in one of the exceptions listed above, it may nonetheless be excluded on grounds that permitting it to be used against defendant in criminal case would violate 6th amendment rights
+  * Where out-of-court statement is offered against defendant in **criminal trial** to prove truth of the matter asserted, any recognized exception to the hearsay rule applies only if:
+    * Declarant is unavailable at trial (even for 803 exceptions)
+    * The defendant must have had a prior opportunity to cross-examine the declarant
+    * out-of-court statement is **testimonial**
+      * Testimonial statement = statement that declarant could anticipate being offered at trial in aid of prosecution (i.e., resembling the type of statement that would be offered as testimony at trial)
+        * This is one that tends to identify the wrongdoer, the commission of the act, and other surrounding circumstances that is made following the crime (e.g., statement made to police by onlooker, but NOT usually 911 calls)
+
 ---
 
 ## Privilege
@@ -594,5 +658,12 @@
   * Unlike spousal immunity, the marriage only needs to be valid when the communication is made (not at the time of the trial)
   * Does not apply when spouses suing each other (e.g., divorce) or if spouse is being charged for crime committed against spouse or their children
   * Like other privileged relationships, can be waived if made in presence of third parties and is inapplicable to protect against communications made in furtherance of crime/fraud
+
+### 5th Amendment
+
+* Not really a form of evidentiary privilege in the same way those above are, but protects defendant at any proceeding from being compelled to give testimony that tends to incriminate themselves
+  * This only applies to testimony that has yet to be given, not to past statements, writings, etc.
+  * Applicable in all types of proceeding (not just criminal)
+  * No additional hearing needed to determine appropriateness of invoking 5A or to evaluate risk of self-incrimination; upheld if court believes there is reasonable possibility that W will incriminate self
 
 ---
