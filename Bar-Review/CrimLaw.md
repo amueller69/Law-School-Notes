@@ -137,24 +137,13 @@
 
 ## Homicide
 
-* General Principles
+* **Criminal Homicide** - Defined broadly, person is guilty of criminal homicide if he intentionally, knowingly, recklessly, or negligently causes the death of another human being
+  * Typically classified as murder of the first degree, murder of the second degree, voluntary manslaughter, or involuntary manslaughter
 
-* Two questions that apply to any category of crime:
-  1. Criminality - What distinguishes criminal from non-criminal conduct?
-  1. Grading - What factors greater or lesser punishment when behavior qualifies a criminal?
-* Little doubt about the criminality of homicidal conduct. Instead, the central concern is to determine how much punishment can be imposed (i.e. grading)
-  * Happens legislatively by dividing conduct into different names (e.g. murder v. manslaughter) and different degrees
-  * Varies by state, which have different statutory schemes and classifications (e.g. PA is different than CA)
+### First Degree Murder
 
-## Elements and State Legislative Grading
-
-### Modified PA Statute
-
-* **§2502 - Criminal Homicide**
-  * Person is guilty if he intentionally, knowingly, recklessly, or negligently causes the death of another human being
-  * Shall be classified as murder, voluntary manslaughter, or involuntary manslaughter
-* **§2502 - Murder**
   * Murder of the first degree - A criminal homicide constitutes murder of the first degree when it is committed by an intentional killing
+
   * Murder of the second degree - A criminal homicide constitutes murder of the second degree when it is committed while defendant was engaged as a principal or an accomplice in the perpetration of a felony. The felony’s that count:
     * The act of the defendant in engaging in or being an accomplice in the commission of, or an attempt to commit, or flight after committing, or attempting to commit robbery, rape, or deviate sexual intercourse by force or threat of force, arson, burglary or kidnapping.
   * Murder of the third degree - All other kinds of murder shall be murder of the third degree. Murder of the third degree is a felony of the first degree
@@ -164,13 +153,12 @@
 * **§2504 - Involuntary Manslaughter**
   * A person is guilty of involuntary manslaughter when as a direct result of the doing of an unlawful act in a reckless or grossly negligent manner, or the doing of a lawful act in a reckless or grossly negligent manner, he causes the death of another person.
 
-## Intended Killings
 
 ### Criteria of Most Serious Killings (i.e. First-Degree)
 
 * 29 states and Federal system currently use criterion of "premeditation" to identify the most serious categories of murders
-  * A majority of those states use *Carroll* approach where this element can be established instantaneously
-  * Other states like Arizona use *Guthrie* standard and require murder be preceded length of time which permits reflection
+  * A majority of those states use  approach where this can be established instantaneously
+  * Other states like Arizona use standard require murder be preceded length of time which permits reflection
 * Types of evidence to establish premeditation as delineated in *Anderson*. Court stated that first degree murders typically involve evidence of all three and at a minimum requires strong evidence of (1) or evidence of (2) in conjunction with (1) or (3)
   1. Planning – Evidence that shows the D planned to take a life before the act will sufficiently prove premeditation and deliberateness
   1. Motive – Facts about the defendant’s prior relationship with the victim might indicate a reason to kill
@@ -179,22 +167,6 @@
   * *Anderson* case in which an extremely gruesome child murder was committed in an enraged and violent outburst (i.e. without premeditation) is intuitively more culpable that dispassionate planned killing
   * Mercy killings would also likely fall into category of most serious killings under this standard
   * As a response, MPC along with some states have rejected premeditation as basis for identifying most serious murders
-
-* *Commonwealth v Carroll* (Pa. 1963) - Instantaneous Premeditation
-  * Facts: Appeal of a felony murder conviction in the first degree, the argument is that murder was a crime a passion – not enough premeditation here. 1st degree murder, arguing it’s 3rd degree. D argues that his mental disorders, as well as the previous context of the relationship, got him to the point where he didn’t think – he just acted instinctively
-  * Issue: How much premeditation is required for 1st degree murder? What evidence is needed to show that element of premeditation was or was not present?
-  * Rule: **Premeditation can happen in an instant. Whether the intention to kill arose within a brief time before the act is immaterial**. It wasn’t planned in the typical way we might think of premeditation, but it can be instantaneous
-  * Notes:
-    * Court appears to be suggesting that an act that is deliberate is necessarily premeditated. However, premeditation refers quantity of time required to deliberate (the quality of that thinking ahead). Court suggests that the quantity of time can be close to instantaneous before a crime is committed if attendant circumstances indication deliberation
-    * “The specific intent to kill which is necessary to constitute in a nonfelony murder, murder in the first degree, may be found from a defendant’s words or conduct or from the attendant circumstances together with all reasonable inference therefrom”… it can happen in an instant"
-    * “Society would be almost completely unprotected from criminals if the law permitted a bling or irresistible impulse or inability control one’s self to excuse or justify a murder or to reduce it from first degree to second degree”
-  
-* *State v Guthrie* (W. Va. 1995) - Period of Reflection
-  * Facts: At issue is a jury instruction for first degree murder and whether the instruction that “it is not necessary that the intention to kill should exist for any particular length of time prior to the actual killing” was a correct interpretation of premeditation
-  * Rule: In conflict with *Carrol*, **premeditation can’t be instantaneous or near instantaneous**. Otherwise, if the State prove premeditation by only showing that intention came into existence for the first time at the time of killing, then it effectively eliminates the distinction between the degrees. Thus, there must be some evidence that D considered and weighed his decision to kill in order to establish premeditation
-  * Notes:
-    * Court emphasizes the requirement for a period between formation of intent and the actual act in order to establish premeditation. Need an opportunity to reflect and contemplate the act to kill
-      * Several arguments for this requirement: Makes act more culpable, harder to deter, and smaller likelihood of getting caught. Each of these arguably make crime more serious and justifying a different grade
 
 ### Mitigation of Intentional Killings (i.e. Manslaughter)
 
