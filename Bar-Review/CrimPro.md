@@ -1,6 +1,139 @@
-# The Criminal Justice System, The Process Of Proof, and Punishment
+# Criminal Procedure
 
-## Introduction
+## 4th Amendment: Searches and Seizures
+
+### General Overview
+
+> The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized. - U.S. Const., amend. IV.
+
+* These protections are only applicable to government conduct
+  * 4A protections generally do not extend to against acts of private individuals
+    * Exception: **State action doctrine**
+      * 4A might apply to acts of private individuals if they are attributable to the state (e.g., private party acting w/ government authority aka "under color of state law")
+      * Some situations in which private party may be deemed a state actor include:
+        * Where State has outsourced traditional government functions to the private party (e.g., private prisons, deputized private police)
+        * Where there is a close operational relationship between state and the private party (so-called "symbiotic relationships" or "joint ventures")
+        * Where party is acting under coercion/influence/encouragement from the state
+        * Government is "pervasively entwined" with the leadership of a private organization
+  * Incorporated against the states, as are all rights enumerated in the BoR, by the 14th Amendment
+    * Hence 4A protections apply to actions taken by state/municipal law enforcement
+* Standing - can only bring claims for violation of one's own constitutional rights (can't do so vicariously);
+  * Not sure if this is always true? I think it is assumed to be true since nearly all cases involving claimed violations of constitutional rights are brought in federal court under federal question jurisdiction, thus they are subject to Article III standing requirements. However, this is still area of concurrent jurisdiction that could theoretically be heard in state court, many of whom have much more relaxed standing requirements.
+
+* Standards
+
+  * **Reasonable suspicion** - Knowledge of specific and articulable facts that would lead a reasonable person/officer to believe that criminal activity is occurring and requires further investigation
+    * Lower standard than PC but more than just a hunch
+  * **Probable cause** - Specific acts and circumstances, of which one has reliable information, that would lead a reasonable person to conclude there is a "substantial chance" or "fair probability" the individual in question is (about to be) engaged in criminal activity or that evidence of criminal activity can be found at a particular location
+    * Needs to be specific and individualized (particular person/place/thing)
+    * Knowledge of facts/circumstances is more concrete and reliable than reasonable suspicion
+      * Need not be first-hand, but source must be trustworthy/reliable
+
+### Searches
+
+* A search is an invasion of a protected privacy interest; for a search to have occurred must be an **intrusion of a reasonable expectation of privacy or physical trespass to a protected  space** for the purpose of investigation
+  * Questions about whether the law still recognizes the former (sometimes referred to as Trespass Doctrine) as a test for identifying 4th amendment interest; *Jones* suggests it is alive and well, while *Carpenter* declines to provide any further clarification
+  * REP test has both objective and subjective test, but the latter is mostly ignored since it is assumes that individual expectations are shaped by societal ones
+* Things that are not searches:
+  * Things in plain view - plain sight observation by police from a place they are legally entitled to be is not a search
+  * Open fields -  area outside a property owner's curtilage
+  * Movements in public - tailing or areal surveillance (limited post-*Carpenter*)
+  * Non-content/meta data possessed by third part (third-party doctrine)
+  * Canine sniffs
+* Anything the falls under the definition of "search" requires a search warrant supported by probable cause to be proper (unless it falls under one of the warrant exceptions detailed below)
+
+### Seizures of Property
+
+* A seizure of property is an act that invades/interferes with an individual's possessory interest in that property
+  * This can consist of taking possession of the property (i.e., as evidence), destroying the property, preventing the property from being accessed
+* Requires warrant (search warrant) supported by probable cause in order to be "reasonable" and thus steer clear of 4th Amendment violations
+  * Seizures of property are really just an extension of searches
+
+### Seizures of Persons
+
+* Not all dealings with police are seizures; "Only when the officer, by means of physical force or show of authority, has in some way restrained the liberty of a citizen may we conclude that a ‘seizure’ has occurred" - dictum in *Terry*
+  * *Mendenhall* test for when seizure has occurred (objective) - person has been 'seized' within the meaning of the Fourth Amendment only if, **in view of all the circumstances surrounding the incident, a reasonable person would have believed that he was not free to leave**
+  * Encounters w/ police were reasonable person would feel free to go at any time are are **not seizures** at all (lack show of force/coercion or authority); the extent these encounters occur can be characterized as **consensual**
+    * Police can approach people, ask questions, request permission to search without any PC or reasonable suspicion (however, needs to be somewhat reasonable; can't go around arbitrarily harassing random citizens)
+  * Even where there is use of force/coercion or show of authority, not considered a seizure unless person actually submits to it
+
+* Seizure can either be an arrest or a detention short of arrest (aka "*Terry* stop")
+  * This distinction is significant, as the former is subject to warrant requirement (w/ exceptions), whereas the later merely requires reasonable suspicion
+  * Distinguished by level of coercion/intrusiveness, length of detention, whether seized person is moved to different location
+  * Arrest - in formal arrest, person is taken into legal custody to be further questioned and/or charged with a crime
+    * **Arrest in the home --> Requires PC AND a warrant** (absent exception)
+    * **Arrest in public place --> Requires PC, but can be without warrant**
+  * Detention short of arrest (aka *Terry* stops)
+    * These still constitute seizures for 4A purposes (since person is not free to leave), but **only require reasonable suspicion**
+    * Detention is brief and cursory, limited level of restraint/intrusiveness; reasonable person would feel free to leave after limited purpose of stop (brief questioning or pat down) is completed
+    * Stops for questioning - temporarily detaining person for brief questioning in order to dispel the reasonable suspicion of ongoing/imminent criminal activity that is basis for the stop
+    * **Stop-and-frisk**- brief detention for purpose of pat-down search of persons outer clothing;
+      * Must be **reasonable suspicion of criminal activity AND that person is carrying weapon**
+      * **Plain-feel doctrine** - if during pat-down, officer detects weapon OR other contraband based solely on its feel or from plain sight, it can be seized
+
+### Warrants
+
+* Valid search warrant:
+  * States, with specificity, the **place to be searched and, with reasonable detail, the items to be searched/seized**
+  * Signed and issue judge/magistrate after reviewing warrant application
+    * Application for warrant accompanied by affidavit stating basis/justification for warrant that is being sought
+* Challenges to validity of search warrants
+  * Warrant is invalid where it relies on a faulty affidavit;
+    * If D challenges warrant for lack of PC, court will only review whether there was "substantial basis" for magistrate's finding of PC UNLESS D can prove (by preponderance of evidence) that knowingly/recklessly included false statement of material fact, at which point it may be reviewed de novo
+  * May also be challenged on grounds that it failed particularity requirements, that magistrate lacked requisite neutrality/detachment, or contained some other error
+    * Good faith exception - where error on behalf of magistrate causes warrant to become invalid but police relied on its validity in good faith, evidence obtained through execution of this warrant might not be suppressed (these are warrants that would pretty much otherwise be valid)
+* Execution of warrant - facial validity of warrant notwithstanding, search/seizure with warrant may be improper due to defects in the execution of warrant
+  * Searches and seizures that exceed the warrant's scope of authorization, such as places/items not specified
+    * **Plain view Doctrine** - however, even if item not specified in warrant, can be properly seized if item's incriminating nature is immediately apparent and observable from place within scope of warrant
+  * Knock and announce - generally required to announce presence and give person enough time before breaching the place (unless exigent circumstances); however, failure to do this will not result in evidence being suppressed
+  * Execution of search warrant caries with it implicit authorization to temporarily detain any persons present the place to be searched
+
+### Exception to Warrant Requirement
+
+* General note: any warrantless search or seizure is presumed to be unreasonable; burden is on the state to prove it falls under one of the exceptions
+
+* **Search incident to arrest** - where police make lawful arrest (i.e., supported by PC), can perform warrantless search of person being taken into custody, seize any contraband/evidence of crime
+  * This extends to suspect's so-called "**wingspan**" (areas within his reach) if there is reason to believe contraband **related to crime of arrest** might be found
+    * If arrested in vehicle, this wingspan consist of front compartment, rear/passenger seats
+
+* **Plain view Doctrine** - detailed earlier, item can be seized if it is plain view from place police are legally authorized to be and whose incriminating nature is immediately apparent (i.e., giving rise to PC)
+
+* ***Terry* frisk** - detailed earlier, can perform warrantless pat-down search where reasonable suspicion of crime AND that suspect is armed/dangerous
+  * Can extend to parts of vehicle (e.g., glove compartment) from which suspect could gain immediate control of weapon
+
+* **Vehicle exception** - warrantless search is permissible where PC exists that a "readily mobile" (i.e., not a mobile home) vehicle has evidence of crime or other contraband located in it.
+  * Unlike searches incident to arrest or Terry frisk of vehicles, authorizes complete search of vehicle (not just parts in immediate control)
+  * However, once the evidence/contraband for which there is PC has been seized, cannot continue general search of vehicle
+
+* **Exigent circumstances** - where circumstances make waiting for warrant impossible, warrantless search/entry may be allowed if there is PC
+  * In hot pursuit of felon -  warrantless entry into otherwise protected area if fleeing suspect pursued into place (e.g., home) where arrest is made; once therein, items in plain view may be seized
+  * Emergency situations - where, under "totality of circumstances" test, it is reasonably necessary to prevent physical harm or imminent destruction/removal of evidence
+
+* **Consent** - must be given voluntarily and without coercion; person consenting can limit scope of authorization and withdraw it
+  * Consent of third-party may also suffice where they share common authority over property with suspect (e.g., roommate, parent, but NOT hotel or landlord)
+
+* **Inventory search** - Allows a warrantless search of impounded vehicle, without PC or RS, for purpose of inventorying contents; must be done pursuant to standard policies/procedures
+
+### Exclusionary Rule
+
+* Exclusionary rule is a judicially crafted that serves as a remedy for violations of 4th Amendment rights (among others), **preventing unlawfully obtained evidence from being introduced in criminal trial**, as well as a deterrent for prosecutors/law enforcement.
+  * Does not apply in  civil case, grand jury proceedings, or in parole hearings
+* Not only is illegally obtained evidence suppressed, but any derivative evidence--that which is only obtained as a result of the suppressed evidence--is also excluded in what is often referred to as the "**fruit of the poisonous tree**" doctrine
+* **Exceptions**:
+  * Where evidence is discovered from an unrelated, independent source
+  * Where discovery of the evidence was inevitable
+  * Attenuation principle - where passage of time or intervening events attenuates the causal chain between the violation and derivative evidence such that the violation is not served by suppression
+  * As noted earlier, exception for the good faith reliance on defective warrant
+
+
+
+The right to be free from unreasonable searches and seizures must be distinguished from the remedy. The primary remedy is the “exclusionary rule,” which prevents the introduction at a subsequent criminal trial of evidence unlawfully seized. This remedy is judicially created, not constitutionally mandated. The remedy provided by the exclusionary rule generally applies to criminal trials; it does not apply in other court proceedings, including federal habeas corpus review of state convictions, grand jury proceedings, preliminary hearings, bail hearings, sentencing hearings, and proceedings to revoke parole. Evidence will also not be excluded at trial when introduced as impeachment evidence against the defendant. Finally, the exclusionary rule is not applicable to civil proceedings
+
+## 5th Amendment: Self-Incrimination
+
+
+## 5th and 14th Amendments: Due Process
+
 
 ### The Sweep Of Criminal Law In America
 
@@ -58,7 +191,6 @@
 * **Relevance**: Evidence is relevant for the purposes of the rules of evidence **only if it is both probative and material**. Evidence is probative only if it tends to establish the proposition for which it is offered or – to be precise – the proposition is more likely to be true given the evidence than it would be without the evidence. Probative is generally enough to be admissible, but if the evidence is not material is could be excluded.
   * Irrelevant evidence is never admissible
   * Relevant evidence is generally admissible
-
 
 * **Exclusionary Rule: Privilege**
   * Sometimes relevant evidence cannot be admissible. Rules relating to privilege allow people to withhold certain types of testimony in order to protect certain interests.
@@ -1195,944 +1327,6 @@ Vazquez was a part but not a huge part of his brother’s drug dealing empire. W
 |2015|Glossip v. Gross|To be unconstitutional, a method of execution must involve any risk of harm which is substantial when compared to a known and available alternative method. The condemned has the burden of proof. Breyer DISSENT death penalty on verge of violating Eighth Amendment|5-4|
 |2016|Hurst v. Florida|Florida law giving to judges the power to decide facts related to sentencing violates the Sixth Amendment in light of Ring, which requires a jury to determine if there are aggravating factors making the crime punishable by death|8-0|
 
-  ---
-# Causation
-
-## General Overview
-
-* Determination of causation is part of the actus reus analysis
-  * It links the “voluntary act” of the actus reus and the resulting social harm
-  * Actus reus thus has 3 components that must be satisfied: Voluntary Act, Causation, Social Harm
-* Issue of causation appears primarily in homicide cases. Occasionally appears in non-homicide cases, but almost always related to homicide
-  
-* Causation is Mainly a Retributive Concept
-  * There’s no reason why D should not be responsible for V’s death if we can prove that, had X not intervened, D’s bullet surely would have killed V. The act seems just as culpable. From an deterrence/incentive side, it doesn’t make sense to under charge to 'attempted murder'
-  * Role of causation finds it primary moral justification in retributive just deserts. Given the stakes of criminal convictions, the principle of causation is an instrument society employs to ensure that criminal responsibility is personal
-  
-* As in tort law, causation has two constituent parts that must be satisfied: **But-for causation** and **proximate causation**
-  * Criminal law causation is in no way linked to Tort law and its underlying doctrines and standards related causation
-    * Different aims. Tort law causation attempts to place liability on the party who's conduct is most culpable for P's harm (apportionment). Criminal law is concerned with the level of culpability necessary to justify punishment (deterrence and retribution)
-    * The severe consequences that follow from criminal liability provide a strong argument for a stricter standard of causation than that in tort law
-  
-* Most state codes include no explicit rules for determining causation. In these jurisdictions, courts are left to decide based on evolving common law principles
-  * MPC §2.03 seeks to articulate an appropriate standard and roughly a dozen states have adopted it
-
-## But-For Causation
-
-* But-For Causation - There can be no criminal responsibility for resulting social harm unless it can be shown that the defendant’s conduct was a cause-in-fact of the prohibited result
-  * Ask: But for D’s voluntary acts, would the social harm have occurred when it did?
-  
-* But-For Causation Actus Reus Problems
-  * In order to convict, you need the full actus reus (act, harm), causation (but for AND proximate cause), and mens rea. Without any component, you can’t convict
-  * Causation without Mens Rea – D has an argument with husband V. V is upset and storms out of the house. He walks across the street in a fury and in the process is stroked and killed by X’s car. Did D cause the harm?
-    * Probably Not. You have a strong “but-for” and “causation” argument. But even still, D can’t be convicted. He didn’t have the mens rea. This is ‘but-for’ causation without the mens rea
-  * Mens Rea without Causation – D shoots at V intending to kill, but misses. Y simultaneously, independently, and accidentally shoots V in the heart. Is D guilty?
-    * Probably Not. D may have intended to kill (he can get attempted murder) but D did not cause V’s death. Likewise, Y may have caused the death, but he lacks the requisite mens rea for a first degree murder charge (though depending on how reckless, he might get third degree or manslaughter)
-
-### *State v. Montoya* (2002) NM CoLR
-
-* Facts - Accomplice of D shot and severely wounded. D drove accomplice to secluded area and left him to die. D convicted of murder on theory that D prevented accomplice from getting medical help, but D argued evidence only established accomplice may have survived w/ treatment.
-* Holding - D wins appeal. Court rules that D is **liable ONLY if established beyond a reasonable doubt that his conduct is the cause in-fact of victim’s death**
-
-### *State v. Muro* (2005) (Neb CoLR)
-
-* Facts - D came home and found daughter w/ a fractured skull. D waited 4 hours before seeking medical attention. D convicted of causing daughter’s death by failing to seek immediate medical attention
-* Holding - D **criminally liable ONLY if established beyond a reasonable doubt that his conduct is the cause in-fact of victim’s death**. Only the possibility of survival existed with earlier treatment, thus no but-for beyond reasonable doubt. D wins on appeal
-
-### *Burrage v U.S.* (2014) (SCOTUS)
-
-* Facts: 20 year mandatory minimum for distributing drugs that lead to death. V dies and cocktail of mixed drugs found in autopsy. Expert testimony that heroin sold by D was a contributing factor in the death, as it was part of the mix of drugs. Possible V could still have died without the heroin
-* Holding: SCOTUS holds that there’s no but-for causation because it’s not certain that D's conduct was an independently sufficient cause. Uncertain about precisely how much the chance of death increased as a result of the heroin. **Uncertainty of this type cannot be reconciled with beyond a reasonable doubt standard.**
-
-## Proximate Causation
-
-* Most causation problems present issues related to only proximate causation
-* There are two situations where proximate cause is present:
-  1. Direct Proximate Cause – When D shoots V and V dies instantly or soon after, it’s pretty clear that the shooting was a direct cause of death. An act that is a direct cause of social harm is also a proximate cause of it (easy and straightforward)
-  1. Proximate Intervening Causes – Notwithstanding an intervening cause – an independent force that is another but-for cause – that operates in producing the social harm after the defendant’s voluntary act has been committed, the initial voluntary act is still such that it is sufficiently culpable
-  
-* The purpose of the but-for test of causation is to identify the candidates for responsibility for an event. From this pool, which may include other human actors and non-human forces stemming over an extended period of time, the “proximate” cause of the social harm must be selected
-  * Examples of these problems: Intervening causes of nature, third parties, etc.
-  * When these problems aries, the proximate cause analysis is concerned with two primary questions:
-    1. When is the intervening conduct – of a third party, the victim, or a natural force – sufficiently out of the ordinary that it is no longer fair to say that the social harm was caused by the Defendant’s conduct?
-       * Even if not unforeseeable or out of the ordinary, what are the exceptions (e.g. autonomy)?
-    1. Put differently, under what circumstances should D, who acts with the requisite mens rea, and who commits a voluntary act that is but-for causation of a social harm, be relieved of criminal responsibility because of an intervening proximate cause?
-* Omissions as Causes
-  * Example: Intruder pushes baby into pool, babysitter refuses to rescue and child drowns. Can it be said that in failing to come to child's aid, the babysitter caused the death?
-    * The babysitter's omission was indeed a necessary condition and was thus a but-for cause
-    * Does it follow that all bystanders causally contributed? Are these omissions non-culpable in the absence of some duty to act?
-  * Courts are uniformly willing to treat an omission as the legal cause of a result in situations where there is a duty to act
-  
-* Transferred Intent  
-  * D shoots at V1 intended to kill him, but bullet misses and ricochets. It strikes and kills V2. Is D guilty of murder regardless of foreseeability?
-    * All jurisdictions say D is guilty, reasoning that the intent to kill V1 transfers to his action that ultimately harmed V2
-      * Has the same blameworthy mental state and blameworthy result
-  * MPC would also convict D in this situation, holding a person is guilty of intentionally causing a certain result even if it accidentally inflicts the harm on a person while intentionally trying to inflict it on another
-  * Problems
-    * If D succeeds in inflicting harm on intended person while harming another person in the process, is the intent still transferred or is it "used up"
-    * If D shoots at V1 intending to kill and V2 kills pedestrian with car while trying to escape, is the intent transferred to this scenario?
-
-* Assisted Suicide
-  * Prevailing American law: One who successfully urges or assists another to commit suicide is not guilty of murder at least so long as the V was mentally responsible and was not forced or deceived
-  * Most states also reject possibility of negligent homicide or manslaughter, provided that V's action were indeed voluntary
-    * Possible exception for negligent/reckless aid? (e.g. V is in state of mind where choice cannot be said to be free or voluntary)
-  * MPC permits conviction of criminal homicide for causing individual to take their own life "only if he purposely causes such suicide by force, duress, or deception"
-  * However, majority of states define separate statutory offense for assisting in suicide that is a felony that is the punishable equivalent of manslaughter
-  * Seems to conflict with foreseeability standard of proximate cause. Surely Dr. Death knew his actions would have the precise effect that they did in causing death
-    * Distinction between human action in physical events is embodied in the principles of causation. Human action caused by initial actor's conduct is not treated the same as physical events which are subject to laws of nature. In the former, the "resultant" human action is chosen by the second person alone
-    * The principle of autonomy teaches that the individual's will is the prime cause of behavior
-    * Qualification on this special treatment: **Subsequent human actions are only independent when they are freely and voluntarily chosen**
-  
-* Subsequent Action Problems
-  * Subsequent victim actions - Somewhat similar to assisted suicide; where subsequent action of the victim, in response to D's initial action, causally contributes to their harm. Is D's initial act such that he is culpable for harm that results from the choices of the victim (autonomy problem)?
-  * Subsequent third party actions - Exposing the victim to homicidal third-parties. Does this make D blameworthy for the actions of others? Does it matter that the third-party actions were foreseeable?
-    * One perspective: A person is only responsible for what he himself does. The doer of the final act whom autonomously intervenes should bear sole responsibility for the resulting harm
-    * What if deliberately misleading a third party to commit the harm?
-
-### Proximate Causation Cases
-
-### *People v Acosta* (1991) (CA Appel)
-  
-* Facts: Intense car chase. In pursuit, two police helicopters crash killing the pilots. Is D responsible?
-* Holding - But for causation is clear, but proximate causation would depend on foreseeability. Trier of fact's finding of proximate cause was appropriate based on objective standard of reasonableness
-* Reasoning
-  * Proximate cause is term historically used to separate those results for which actor will be held responsible from those not carrying such responsibility. Legal fiction serving matters of policy based partly on expediency and partly on concerns of fairness and justice
-  * If not a factual cause (but-for), then no need to even consider proximate causation
-  * Standard for proximate cause should exclude extraordinary results and allow the trier of fact to sense of common man (objective)
-  * In choosing to engage in high-speed escape from police, within D's reasonable apprehension that the police may be harmed in the pursuit
-  * **Since the result was possible consequences that could have been reasonably contemplated, a finding of proximate cause is appropriate**
-
-### *People v. Brady* (2005) (CA Appel)
-  
-* Facts - D recklessly started a fire in meth lab. Two firefighting planes went to fight fire, but one pilot made an error and the planes collided, killing both pilots. D convicted of causing both deaths, D argued not sufficient cause
-* Holding - Deaths foreseeable given location of the fire (it would require extraordinary efforts to control it), thus proximate cause established
-
-### *People v. Arzon* (1978) (NY Appel)
-
-* Facts:D intentionally set fire on fifth floor of abandoned building. Firefighters respond to fire that D started at which point an independent fire is discovered on the second floor. Second floor fire kills firefighter attempting to evacuate building. D indicted for arson and second-degree murder (based on recklessness evincing depraved disregard for human life). D argued no causal link between the fifth floor fire and the fireman’s death
-* Holding: Court upholds finding that **D was responsible because conduct was but-for cause and ultimate harm should have been reasonably foreseen. Ultimate harm need not be intended by actor, so long as harm is something which should have been foreseen as being reasonably related to the conduct. Irrelevant that it ws not sole and exclusive factor in V's death or that intervening factor contributed to ultimate harm. Result was certainly foreseeable that fire set would expose responders to life-threatening risk**
-
-### *Warner Lambert* (1980) (NY CoLR)
-  
-* Facts - D’s gum factory explodes killing workers b/c D failed to take safety precautions; D acquitted of second-degree manslaughter. D’s convicted of IVM (negligence), but D’s argue no criminal culpability
-* Holding  - Court rejects theory that But-For causation is sole requirement and that it is irrelevant which chain of events actually caused the harm (i.e. D is culpable for simply exposing to the potential harm by employing them). It holds that D's **conduct must be “sufficiently direct cause” of victim’s death because criminal negligence requires higher standard than civil negligence**
-
-### *State v. Shabazz* (CT 1998)
-
-* Facts - D fatally stabbed victim, but victim died from malpractice while being treated at hospital
-* Holding - D criminally liable if D’s despite other contributing factors including negligence on behalf of the hospital treating V. **Gross negligence by a third party is only a defense when the negligence is the sole cause of the death**. At most, the hospital's negligence can be viewed as a contributing factor. Had V been in stable condition and expected to make a full recovery when the malpractice occurred, then this would likely be a valid defense
-
-### *United States v. Main* (1997) (9th CC)
-
-* Facts - D (police officer) failed to move an injured victim who then died from asphyxiation. D convicted of IVM
-* Holding - Causation is a matter of fact for the jury, including judgment about morality and culpability related to medical treatment errors. It was inappropriate for trial judge to refuse instructing jury about proximate cause.
-
-### *People v Campbell* (Mich. 1983)
-
-* Facts: V sleeps with D's wife (Borat voice) D encourages V to kill himself and provides him with a gun. V kills himself. Is D responsible for his death?
-  * Prosecution argues that inciting suicide along with the overt act of furnishing a gun to an intoxicate and emotionally precarious individual is homicide
-* Holding: **Court doesn’t hold D responsible for simply furnishing means of suicide**. V had enough free will to decide whether to kill himself. D's hope that V would kill himself is not alone the degree of intention requisite for a finding of murder
-
-### *People v. Kevorkian* (Mich. 1994)
-
-* Facts: D creates assisted suicide machines that victims activate themselves. D is subsequently indicted for murder
-  * Issue: Is D responsible as cause of death so as to support finding of murder?
-* Holding - Yes. While the victims freely chose to kill themselves, the court distinguishes from *Campbell* stating that a person who actively participates in the commission of a suicide is responsible
-  * Court reasons that this is consistent with overwhelming modern trend where **murder conviction is proper if D participates in the final overt act that causes death, but not where merely involved in events leading up to the commission of the final overt act**
-    * Example: Murder if help firing a gun or pushing hypodermic needle, but not when simply furnishing the means
-
-* Subsequent Victim Behavior Scenarios
-  * Garcia: D is charged with murder for raping Garcia, as prosecution argues that V's subsequent suicide was the result of her loss of the will to live. Is this sufficient to uphold a murder conviction? Does this square with Campbell and Kevorkian? Commentators have expressed skepticism about the level of causation here
-  * Blaue: D stabbed victim, but victim refused medical treatment for religious reasons and died. Can D be found guilty for having caused the death of another when her religiously motivated decision contributed to her death? Were D's actions an independent but-for cause?
-
-### *Commonwealth v. Root* (Pa. 1961)
-
-* Facts: Drag racing on a highway, V attempts to pass D and gets in a fatal crash. D charged with murder for causing his death by assenting to the conditions (i.e. drag race) that led to his death
-* Holding: Court rejects the charge. V was a rationale, free actor who decided to engage in the dangerous activity. This cuts off of liability, as D's conduct was not a sufficiently direct cause. To hold D to the same civil liability standard of proximate causation, which are dependent on accidental circumstances, would be unjust
-  * When proximate cause was first adopted in criminal proceedings, it had a much more different connotation (related to directness) than it does in the modern liberal definition
-* Dissent: Contends that conviction should be upheld because D was both the but-for cause (accepted challenge) and proximate cause (crash foreseeable in race)
-
-### *Commonwealth v. Atencio* (MA. 1963)
-
-* Facts - D’s and a friend played Russian roulette. Friend dies during game. D’s convicted of manslaughter, but D’s argued not sufficient cause of friend’s death
-* Holding - D’s encouraging victim to engage in reckless activity may provide sufficient cause for victim’s death. Court upholds the conviction while following the MPC. The case can be distinguished from *Root* in that drag ricing required a degree of skill and independent action – Russian roulette is much more about luck. Much more foreseeable that the this could happen such that the complicit boys are responsible
-
----
-# Attempt
-
-## Breakdown of MPC 5.01 - Criminal Attempt
-
-* **(1) Definition of Attempt** - A person is guilty of an attempt to commit a crime if, acting with the kind of culpability otherwise required for commission of the crime, he:
-  * (a) Purposely engages in conduct which would constitute the crime if the attendant circumstances were as he believes them to be; or
-    * *Suggests that reverse mistake of fact may still constitute an attempt.The MPC make clear here that the person’s mens rea is important for establishing attempt, maybe not objectively*
-  * (b) When causing a particular result is an element of the crime, does or omits to do anything with the purpose of causing or with the belief that it will cause such result without further conduct on his part; or
-    * *This captures the traditional "last act" doctrines. If I take all the steps and just miss or fail to carry it out. If the person has done everything needed to commit the crime -- completed actus reus -- they can be found guilty of attempt*
-  * (c) Purposely does or omits to do anything which, under the circumstances as he believes them to be, is an act or omission constituting a substantial step in a course of conduct planned to culminate in his commission of the crime
-    * *The MPC here incorporates the notion that when something intervenes that prevents the final actus reus, there needs to be a substantial step*
-  
-* **(2) Conduct Which May Be Held Substantial Step** Under Subsection (1)(c) - Conduct shall not be held to constitute a substantial step under Subsection (1)(c) of this Section unless it is strongly corroborative of the actor's criminal purpose. Without negativing the sufficiency of other conduct, the following, if strongly corroborative of the actor's criminal purpose, shall not be held insufficient as a matter of law:
-  * (a) Lying in wait, searching for or following the contemplated victim of the crime;
-  * (b) Enticing or seeking to entice the contemplated victim of the crime to go to the place contemplated for its commission;
-  * (c) Reconnoitering the place contemplated for the commission of the crime;
-  * (d) Unlawful entry of a structure, vehicle or enclosure in which it is contemplated that the crime will be committed;
-  * (e) Possession of materials to be employed in the commission of the crime, which are specially designed for such unlawful use or which can serve no lawful purpose of the actor under the circumstances;
-  * (f) Possession, collection or fabrication of materials to be employed in the commission of the crime, at or near the place contemplated for its commission, where such possession, collection or fabrication serves no lawful purpose of the actor under the circumstances;
-  * (g) Soliciting an innocent agent to engage in conduct constituting an element of the crime
-
-## Attempt and Mens Rea
-
-* Statutory definitions of the crime of "attempt"
-  * "A person is guilty of an attempt to commit a crime when, with intent to commit a crime, he engages in conduct which tends to effect the commission of such a crime" - NY Penal Law
-  * "A person commits the offense of attempt when, with intent to commit a specific offense, he does any act which constitutes a substantial step towards the commission of that offense" - IL Comp. Stat
-  
-* Punishment
-  * Traditionally, an actor who intentionally seeks harm is less punished much less severely if his attempt proves unsuccessful
-  * Today, usual punishment for attempt is a reduced factor of the punishment for the completed crime
-    * At common law, attempts were misdemeanors
-    * In CA, attempt carries a maximum term of half that of the maximum term of the completed offense
-  * Justifications for less severe punishment
-    * Retributive - Severity of punishment depends on the relationship to the level of harm. Under just deserts, no reason to punish as severely if there is no harm to avenge
-  * This might be a problem, considering the the level of culpability an attempt carries is nearly identical to that of successful completion
-    * "In one sense, each has committed an offense, but the one has had the bad luck to cause a horrible misfortune..Both certainly deserve punishment, but it gratifies a natural public feeling to choose out for punishment the one who actually has caused great harm"
-  * "The principle of proportionality does not decree that the degree of punishment be proportionate to the offender's good or bad luck, but rather to his...blameworthiness"
-  
-* Specific Intent
-  * General common law rule and most American statutes hold that an attempt requires **a purpose or specific intent** to produce the proscribed result, even when recklessness or some lesser mens rea would suffice for conviction of the completed offense
-  * What does specific intent mean? Under MPC, it exists only when it is the actors "conscious object...to cause such a result"
-    * MPC 5.01 - "Required mens rea is satisfied if defendant acts with purpose of causing or with the belief that his conduct will cause the prohibited result"
-  * Why should attempt require higher mens rea than required to convict of the actual attempt:
-    1. Linguistic - Meaning of the word attempt is to accomplish something and it cannot be said to try if one does not intend to succeed
-    1. Moral - One who intends to commit a criminal harm does a greater moral wrong than one who merely does so recklessly or negligently
-    1. Utilitarian - Importance of the intent is not to show that act was wicked, but that it was likely to be followed by hurtful consequences
-  * If we were to extend this to reckless and negligent conduct, it would be difficult to draw a line between culpable and non-culpable conduct
-    * Would speeding motorists necessarily be charged of attempted negligent homicide every time the are cited with a speeding violation?
-  * Attempted manslaughter
-    * Clearly no such thing as intentional involuntary manslaughter (an unintentional killing by definition), but overwhelming weight of case law recognizes offense of attempted voluntary manslaughter (i.e. failed provoked killing)
-  * Attempted felony murder
-    * Most courts have rejected this. Felony murder is a strict liability offense which is triggered by the outcome, regardless of the mens rea. In the absence of this outcome (i.e. the killing, ), there is nothing to be strictly liable for
-  * Statutory Rape - MA court held D guilty for attempted statutory rape for attempting to sleep with someone he believed was 16
-    * This finding is clearly inappropriate. There was no harm done (actus reus) or intent to rape (menus rea). Statutory rape is purely strict liability and the outcome that triggers liability never occurred
-
-### *Smallwood v. State* (1996)
-
-* Facts - D (HIV-positive) convicted of attempted murder for unprotected sex with multiple victims despite knowing his HIV status. D argued that attempted murder charge was improper because lacked intent to kill
-* Holding - D's conviction was overturned
-  * The **required intent in assault with intent to murder is the specific intent to murder**, i.e., the specific intent to kill under circumstances that would not legally justify or mitigate to manslaughter
-  * **Only properly guilty if there was sufficient evidence from which trier of fact could reasonably have concluded that D possessed a specific intent to kill at the time he assaulted the women**
-    * Intent to kill may be proved by circumstantial evidence; we can **infer that one intends the natural and probable consequences of his act** (e.g. inferred from the use of a deadly weapon direct at a vital part of the human body - risk of killing becomes so high it is reasonable to assume intent was to kill)
-  * Here, court holds that it can't be fairly concluded that death by AIDS was sufficiently probably to support inference that D intended to kill. **In the absence of such evidence from which to infer intent to kill, conviction for attempted murder with intent to murder must be reversed**
-
-### Mens Rea Hypothetical
-  
-* Setup: D places a bomb in a room intending to kill person X. He has good reason to believe that other people would be in the room. If the bomb goes off, assume the law suggests that he would get first-degree murder of X and probably third degree murder of everyone else due to extreme recklessness. The bomb does not go off. You’re charged with attempted murder of everyone in the room, person X, Y, and Z. When it comes to X, there’s probably no issue charging attempted murder because there’s specific intent to kill the victim and done everything – completed attempted. But you’re also charged with attempted murder of Y and Z
-* Question: How would this fare both under the common law and MPC?
-  * In the common law (see Smallwood) you can’t have an attempt unless you specifically intended to kill specific people
-  * Under the MPC, you’re probably guilty of attempted murder even though you didn’t intend to kill Y and Z. Here, the intended mens rea is satisfied for all parties since D acted with the belief that his conduct would cause the prohibited result (i.e. that if the bomb exploded, Y an Z would die as well)
-    * The code follows it’s own philosophy – find the mens rea. If it’s enough to satisfy mens rea in completed crime, it’s enough to satisfy it in attempt. This challenges the traditional notion that attempt is meaningfully different than the successful actus rea
-
-## Preparation vs. Attempt
-
-* Common law has recognized between acts which are and are not too remote to constitute criminal attempt
-  * How far back should we punish an attempt? The doctrine of conspiracy basically means that if you talk and plan about a crime with others, you can be punished. But if you’re acting outside of the conspiracy sphere, what’s the dividing line
-  * Modern law also contains several instances in which mere preparation is considered criminal
-    * Example: Demonstrating the use of a firearm intending that the same will be unlawfully used in furtherance of civil disorder
-    * Example: Possession with intent to distribute
-* If criminal intent is there and D is mentally culpable, why should it matter how far D has gotten in effectuating criminal purpose?
-  * Locus penitentiae - The opportunity to report and/or change one's mind
-    * If the threshold is too low and D is preempted, we may hold them guilty of attempt when we really don't know if they would have gone through with it
-    * If D abandoned criminal plan and is subsequently arrested, we would be holding them guilty even if they took every effort to prevent causing any harm (See Abandonment section below for how some jurisdictions address this problem)
-  * Punishment of thought crimes
-    * Don't want to punish people for merely thinking about committing crime
-  
-* Abandonment - Once a D has moved from mere preparation to attempt, can he abandon his attempt and escape liability? No. Although there is disagreement on the matter, most scholars believe that abandonment is not a common law defense to attempt.
-  * To the extent that a defense of abandonment is recognized today, however, it applies **only if the defendant voluntary and completely renounces her criminal purpose**. It has to be a genuine change of heart – can’t just abandon your attempt because the plan is falling apart or because the risk of capture is higher or you’re afraid of the police
-  * The MPC recognizes this approach of voluntary and complete renunciation, even if a substantial step is taken to make an act an attempt. But it too has to be genuine
-
-### Tests for Distinguishing Preparation from Attempt
-
-* **Final Step Test** (Has pretty much been universally rejected)
-  * Traditional theory that effectively that precludes incomplete acts from criminal attempt. A criminal attempt only occurred when the person performed all of the acts that she believed were necessary to commit the target offense
-    * Someone who has stopped short of this, either out of repentance/intervention or because time has not yet come, they are still within scope of innocent preparation
-    * Example: Attempted murder by shooting does not occur until D pulls the trigger
-  * This test really frustrates prevention efforts by law enforcement
-
-* **Unequivocally Test / Res Ipsa Loquitur Test**
-  * Doesn't look at how far D has gone in his conduct, but instead at how clearly his acts bespeak his intent
-  * An act does not constitute an attempt until it becomes unequivocal. That is, **an attempt occurs when a person’s conduct, standing alone, unambiguously manifests her criminal intent**
-    * Must demonstrate that the crime is about to be committed unless frustrated by intervention
-  * Some jurisdictions have adopted this approach (e.g. SD, WI)
-    * Criticisms include that it allows D to mask his intent in order to avoid conviction of attempt if unsuccessful
-
-* **Proximity to Danger Test** (*Rizzo*)
-  * In drawing line between preparation and attempt, **must only consider those acts which are so to the accomplishment of a crime that, in all reasonable probability, the crime itself would have been successfully completed but for timely intervention**
-  * A person is guilty of an attempt when her conduct is in “dangerous proximity to success” or when an act “is so near to the result that the danger of success if very great”
-  * Justice Holmes dissenting in *Hyde* - "There must be dangerous proximity to success"
-  * Consider the distance/gap between D's actions and the unachieved goal of the consummated crime - the distance must be relatively short and the gap narrow if D is to be held guilty of attempt
-
-* **Substantial Step Test** (MPC Approach)
-  * Roughly half of states and 2/3rd of federal circuits employ some type of substantial step test
-  * **In addition to criminal purpose, an act must be a substantial step in a course of conduct designed to accomplish a criminal result and that it be strongly corroborative of criminal purpose in order for it to constitute such a substantial step**
-  * Distinguished from other approaches
-    * Unlike proximity, it doesn't matter what remains to be done - what matters is what you’ve done. Fact that further major steps must be taken isn't prelcusive. If you’ve taken a substantial step toward the crime, that’s enough to corroborate mens rea
-      * *Rizzo* would probably be convicted under this approach
-    * Does not require finding as to whether actor would have desisted prior to completing crime
-    * Requirement of proving a substantial step is less of a hurdle for prosecutors than unequivocality test
-    * Not requiring last proximate act would allow apprehension earlier on without immunizing D from criminal liability for attempt
-
-### *King v. Barker* (1924 New Zealand)
-
-* Summary: Court rejects rule where in order to constitute criminal attempt, D must have taken the last stp which he was able to tke along the road of his criminal intent (in other words, D must have done all he intended to do for the purpose of effectuating his criminal intent). Court argues that proper dividing line between preparation and attempt is to be found between two extremes (first step and final act)
-  
-### *People v. Rizzo* (1927 NY CoA)
-
-* Facts: Four armed men drove around looking for V, whom the expected would be withdrawing large sums of money from the bank. They entered various buildings, but two police officers arrested them before they could find V
-* Rule: **The act or acts must come or advance very near to the accomplishment of the intended crime in order to constitute an attempt**
-* Holding: The court overturned the attempted robbery charges because Ds weren’t dangerously close to success since V was nowhere to be found. The opportunity to commit the crime never came. We wouldn't charge someone with attempted murder if he set out to kill but couldn't find the victim
-  
-### *McQuirter v. State* (1953 AL CoA)
-  
-* Facts - D, black man, convicted of attempted assault for following a white woman around based on confession to police, although D claims he wasn’t following her at all. D convicted of attempted assault.
-* Holding - Intent is a question of fact for the jury to decide based on facts/circumstances and social customs based on race. Conviction of attempted assault affirmed
-  
-### *United States v. Jackson* (1977 2d)
-
-* Facts: D’s planned to rob a bank but aborted first attempt because the bank was too crowded. D’s returned days later and FBI agents arrested D’s while driving towards the bank in a car filled w/ guns and supplies. D’s convicted of attempted robbery
-* Rule: In order to convict of attempt, **acts must constitute a substantial step and corroborate criminal purpose**
-* Holding: Convictions affirmed. D's were seriously dedicated to commission of a crime and passed stage beyond preparation. Would have assaulted bank had they not been dissuaded by other factors. Either type of conduct alone is a substantial step under MPC and corroborated their criminal purpose
-  
-### *US v. Harper* (1994 9th Cir.)
-
-* Facts: ATM bill trap case. D's purposely cause ATM to malfunction so they can rob it when repair man shows up. While waiting, they are apprehended by police and charged with attempted robbery
-* Rule: **Must take a step of such substantiality that, unless frustrate, the crime would have occurred**
-* Holding: Convictions overturned. Necessary stage of crime had not been entered. Major difference between causing something that will result in the appearance of a potential victim (ATM repairman) and actual moving towards victim with gun and mask
-  * Would MPC follow? I don't think so. Luring and waiting for person against which crime would be committed are each "substantial acts" under the MPC. As is possessing instruments necessary to commit the crime. Seems corroborative of criminal purpose
-
-### *US v. Joyce* (1982 8th Cir.)
-
-* Facts: D negotiating cocaine price but refused to buy the cocaine when he grew suspicious at the sellers reluctance to reveal the contents of the packaging to verify it was cocaine. Seller was actually undercover officer and D was subsequently arrested for attempting to purchase with intent to distribute
-* Holding: Conviction overturned. Intention was abandoned prior to commission of substantial step necessary to effectuate the purchase. It was merely a preliminary discussion. Motive for refusing to commit substantial step is irrelevant (doesn't matter if he was tipped off)
-* Appropriate application of MPC?
-  * Could make an argument that this was solicitation to have seller commit crime and appearing at place are both substantial acts that,when viewed together, are corroborative of criminal purpose
-
-### *United States v. Howard* (2014 5th Cir.)
-
-* Facts: D negotiated sex with minors, told the mother to perform sex acts on them and take birth control in preparation. Failed to book flight
-* Holding - Court upholds attempt conviction. D takes substantial step when he instructs preparation for the crime. Definite plan to travel not itself necessary to constitute a substantial step
-* Appropriate application of MPC?
-
-## Solicitation
-
-* Solicitation = Inchoate offense of requesting another person commit a target crime
-  * Courts differ over question whether solicitation itself constitutes an attempt by the person making it
-    * Some states hold solicitor cannot be convicted of attempt because it is not his purpose to commit the offense personally
-  
-* **MPC 5.02**
-  * (1) D requests, commands, encourages a person to attempt or commit a crime
-  * (2) Failed communication is still sufficient for solicitation
-  * (3) Withdrawal is defense if D voluntarily thwarts the target crime
-
-### *State v. Davis* (1928 MO)
-  
-* Facts - D and accomplice planned to kill accomplice’s husband to collect life insurance payment. D asked person (undercover cop) to get ex-convict to kill the husband; D gave person photos of the husband and paid him $600. D convicted of attempted first-degree murder, but D argued no attempt because no overt act toward committing the crime beyond mere preparation
-* Holding - **Mere solicitation, unaccompanied by an act directly toward commission of crime, is not overt act constituting attempt**. Evidence only shows verbal arrangement and communication of instructions. These alone are mere acts of preparation. Undercover cop obviously had no intention of following through, nor did he take steps. Thus, no attempt
-
-### *US v. Church* (1991 US Military Court)
-
-* Facts - D hired person (undercover officer) to kill his wife, giving the person details. Person faked killing and D paid him.  D convicted of attempted first-degree murder, but D argued no attempt because no overt act toward committing the crime beyond mere preparation
-* Holding - Detailed planning qualifies as overt act towards commission of a crime (court openly rejects holding in *Davis*)
-  * Detailed instructions and payment constituted substantial step. Court can't conceive of anything more that D could have done to effectuate his intent aside from committing the murder himself
-* NOTE: D’s conviction reduced from attempted first-degree murder to attempted second-degree because no death (CL idea that punishment should be proportionate to resulting harm vs. MPC idea that punishment should be proportionate to D’s culpability)
-
-## Impossibility
-
-* Impossibility is concerned with the question of: What if you attempt a crime, but it’s a literal impossibility that you could complete the attempted crime?
-  * Utilitarian/subjective not as concerned if it’s impossible. You have the requisite mens rea, so you should be punished
-
-* **Pure Factual Impossibility** = No defense
-  * Under the attendant circumstances, though unaware at the time, there was no way that D could have possibly succeeded in carrying out his intended criminal action. Example: Attempt misfires do to poor aim, inadequate weapon, unloaded gun, etc.
-  * Example: D shoots a bed thinking he’s going to kill the victim. Full mens rea, but no one was in the bed. Attempted murder?
-    * Yes – this is a factual impossibility. We’ve got full mens rea, full actus reus, and only luck that no one was in the bed. Most states will treat this as attempted murder
-
-* **Pure Legal Impossibility** = Valid defense
-  * True legal impossibility - Person engages in activity they believe to be prohibited but no such crime actually exists
-  * Example: Same situation, but this time the person is in the bed. D shoots, hits the victim but it turns out the victim had been dead for hours previously. Attempted murder?
-    * No – it’s legally impossible to murder a dead person. Though there’s some debate
-    * However - you can see how you might be able to spin this into a factual impossibility
-
-* **Hybrid Legal Impossibility** = Usually not a defense - Mislabeled factual impossibility
-  * This situation exists if the actor’s goal is illegal, but commission of the offense is impossible due to factual mistake (and not simply a misunderstanding of the law) regarding the legal status of some attendant circumstance that is an element of the charged offense
-  * Example - D receives recovered stolen property believing it was stolen
-  * What distinguishes these cases from simple ‘factual impossibilities’ however, is that these factual mistakes relate to legal status of the defendant’s conduct
-  * Ultimately, hybrid legal impossibility cases may be reasonably be characterized as factual impossibility…
-    * For example, if D shoots a corpse believing it to be human, D would say it’s legal impossibility – you can’t murder a dead person
-  * MPC approach has influenced the debate – If the factual circumstances had been as D believed – that the victim had been alive – he would be guilty of murder
-  * Most states have abolished hybrid legal impossibility on the grounds that it sure looks like factual impossibility. Objectivists/retributionists say that if something is legally impossible, there’s no actual harm to society – subjectivists who care about mens rea disagree – these are people with malicious intent that are dangerous to society
-
-### *People v. Jaffe* (NY 1906)
-
-* Facts - The Defendant sought to purchase what he believed was stolen property – twenty yards of cloth. In fact, the property had lost its character as “stolen” by the time it was offered to Defendant for purchase, having been restored to its rightful owner and made available to him through their agency. Though Defendant believed he was purchasing stolen property, his belief was in error. D charged with crime is receiving stolen property
-* Issue - Improper to convict of attempted stolen property?
-  * Defense argues that this was a legal impossibility – there is no crime of possessing non-stolen property (although you could argue it’s factual impossibility, is it stolen or not)
-* Holding - Conviction overturned
-  * Court distinguishes this from pickpocket cases in which it is not necessary for there to be something valuable in pocket to be subject to larceny. The pickpocket cases are frustrated only be the fact that there’s no money in the pocket. The frustration here is the property turns out not be stolen. The latter would not have been a crime if successfully consummated, hence it was legally impossible
-    * This is factual v. legal impossibility
-    * However, couldn’t the State say that this is just like the pickpocket? In the same way that there was no money in the pocket, these were not stolen
-      * One could argue that there’s no distinction between this and factual impossibility, which is not a defense
-    * The court looks at whether the attendant circumstance is really a stolen property. It’s a legal status question
-
-### *People v Dlugash* (1977 NY)
-
-* Facts: Man shoots victim in the chest a few times. A few minutes later, the Defendant shoots the victim in the chest and head again. The man is convicted of attempted murder because it was unknown whether or not the victim was alive at the time the Defendant shot him. If he was dead, then an attempted murder charge would be bogus – matter of impossibility. If he was alive, he could be convicted of murder / attempted murder. The facts are heavily disputed
-* Issue: We know that there’s full mens rea, but the question is whether there is attempt?
-* Court recognizes general rule that legal impossibility is a valid defense whereas factual impossibility isn't
-* Court adopts **MPC** approach - **It is an attempt if the crime would have occurred if the attendant circumstances were as you thought them to be**. Virtually eliminates any impossibility defense - **legal or factual impossibility under attendant circumstances are irrelevant if D intentionally engages in conduct tending to effect commission of crime**
-* Under MPC standard, there is sufficient evidence in record from which jury could conclude that D believed V was still alive, it is irrelevant whether V was still alive as a matter of fact at the time D fired the shots
-
-### *United States v Berrigan* (1973 3rd Cir.)
-
-* Facts - Father Berrigan was imprisoned for being a Vietnam War resister. A federal statute made it a crime to send and receive letters in prison without the warden’s consent. Father Berrigan was doing just that, thinking that he was acting in violation of the warden’s consent. In reality, the warden knew the whole time and allowed the letters to go through
-* Issue: Any basis for an attempt charge?
-  * Berrigan argues that I cannot be guilty of this crime because the warden knew about it. That’s right, but the state argues that it’s an attempt
-* Holding - No attempt, this is a legal impossibility because “Legal impossibility is said to occur where the intended acts, even if completed, would not amount to a crime. Thus, legal impossibility would apply to those circumstances where (1) the motive, desire, and expectation is to perform an act in violation of the law; (2) there is intention to perform a physical act; (3) there is a performance of the intended physical act; and (4) the consequence resulting from the intended act does not amount to a crime”:
-
-### *United States v Ovideo* (5th Cir. 1976)
-
-* Facts: Drug dealer was contacted by an undercover agent for the sale of heroin. It turns out the sale was of fake heroin and the dealer was arrested for attempted sale. On appeal, the court vacated the conviction
-* Holding: The court chose to reject the distinction of legal impossibility and factual impossibility because the court didn’t think they helped. Technically you could convict here under a factual impossibility standard (i.e. it didn’t matter that it was fake) but not under legal impossibility. The court also rejects the MPC approach because it amounts to prosecuting mere thoughts
-  * “Thus, we demand that in order for a defendant to be guilty of a criminal attempt, the objective acts performed, without any reliance on the accompanying mens rea, mark the defendant’s conduct as criminal in nature”
-* Related Hypothetical
-  * Setup: Two hunters both kill deer on Oct. 15. It turns out that hunting is permitted on that day. It is illegal to hunt before Oct. 1st. One of them thought it was Sept 15, thinks he’s acting illegally. One way to think about it is that he’s just wrong about the attendant circumstances, the facts. The other person knows it’s Oct. 15, but think it’s only permissible in November. This seems to be legal mistake/legal impossibility
-  * One is clearly factual impossibility and other is legal impossibility. Yet, under the doctrines, the first person would be punished, but not the second. Why do we distinguish? The situation seems to be the exact same thing, the same wrong
-    * Perhaps this is why the MPC approach is better – which would consistently hold them both culpable because of their mens rea
-
----
-# Group Criminality
-
-* Two bases of complicity for acts committed by others are to be considered
-  1. A person may be held accountable for the conduct of another person if he assists the other in committing an offense. This is called **accessory or accomplice liability**
-  1. In the great majority of jurisdictions, a person who has conspired with another may be held accountable for the conduct of his-co conspirator who commits a crime in furtherance of their agreement. In this case, the mere existence of a **conspiracy** is sufficient to justify liability for the other’s conduct; assistance in commission of the crime is not required.
-
-## Accomplice Liability
-
-* Mens Rea of Accomplice Liability
-  * The problem of mens rea for complicity is complicated by the presence of two levels of mens rea: (1) that required of the accomplice (the helper or encourager) and that required of the principle (the actual perpetrator). However, the mens rea of the accomplice is distinct
-  * A true purpose, often called a **specific intent**, is generally required to hold a person liable as an accomplice; that is, he must actually intend his action to further the criminal action or conduct of the principal”
-    * However, most courts agree that this specific intent is only required for the conduct he engages in, whereas the result only requires same mens rea needed to satisfy the substantive offense (i.e. must intend to aid in something reckless, but need not specifically intend to aid in crime of recklessness/negligence)
-    * As shown below, this specific intent requirement has been incorporated into the MPC and adopted in state statutes
-* MPC Approach - requires actor have "the purpose of promoting or facilitating" the commission of the crime
-  * (1) A person is guilty of an offense if it is committed by his own conduct or by the conduct of another person for which he is legally accountable, or both.
-  * (2) A person is legally accountable for the conduct of another person when:
-    * (a) acting with the kind of culpability that is sufficient for the commission of the offense, he causes an innocent or irresponsible person to engage in such conduct; or
-    * (b) he is made accountable for the conduct of such other person by the Code or by the law defining the offense; or
-    * (c) he is an accomplice of such other person in the commission of the offense.
-  * (3) A person **is an accomplice** of another person in the commission of an offense if:
-    * (a) **with the purpose of promoting or facilitating** the commission of the offense, he
-      * (i) **solicits** such other person to commit it, or
-      * (ii) **aids or agrees or attempts** to aid such other person in planning or committing it, or
-      * (iii) having **a legal duty to prevent** the commission of the offense, **fails to make proper effort so to do**; or
-        * Example: Most courts agree that parents can be liable under an aiding and abetting theory for a crime committed by a third party when they fail to protect their children from abuse
-    * (b) his conduct is expressly declared by law to establish his complicity
-  * (4) If a specific result is an element of the target crime, D acts with “**the kind of culpability, if any, with respect to that result that is sufficient for commission of the offense**”
-        * Example: Where 3rd degree murder is satisfied by gross recklessness, accomplice that aids with same level of recklessness with respect to the result needed can be held legally accountable as an accomplice
-  * Recap:
-    * Actus reus for acting as an accomplice
-      * Aiding or soliciting is enough, omissions can sometimes be if based on legal duty
-      * D’s mere presence is not sufficient to establish actus reus
-    * Mens rea for accomplice liability
-      * D must act with the purpose of promoting/facilitating target crime OR
-      * D must act with same level of culpability with respect to result that is sufficient for commission of that offense
-* Substantive Crimes of Facilitation
-  * Majority in *Rosemond* suggests that if the crime is already in progress when the defendant first becomes aware of the use of a gun, the defendant may not have sufficient notice to be held responsible for it. The Dissent argues that the defendant should be liable as long as he is aware of the gun and persists with the drug deal with that knowledge”
-  * One possible way to mitigate in this regard is to just make criminal facilitation a stand-alone crime all the time and make it a lesser penalty than the crime aided
-  * Often times, states have created special statutes making aiding and abetting certain crimes spelled out, including: Selling Guns to Juveniles, Material Support to Terrorism, Money Laundering
-* Accomplice Liability for Non-Specific Intent Crimes
-  * There is a general rule that accomplice liability requires specific intent. But specific intent with respect to which elements. McVay and Roebuck make clear that there is a distinction between conduct elements and result elements. These cases recognize that **for accomplice liability, the accomplice must have specific intent to further the underlying conduct committed by the principle, but for the result, he need only have the mens rea required for the result element of the substantive offense**
-* Attempt v Complicity under MPC
-  * Result
-    * With attempt, MPC requires D have the purpose to produce the proscribed result or the belief that his conduct will cause the result, even when lesser mens rea (e.g. recklessness) would satisfy completed offense. However, for D charged with accomplice liability in an offense, the required mens rea for resulting harm is not purpose, but only the mens rea required for the commission of the charged offense
-  * Attendant Circumstances
-    * MPC is less demanding with attempt than with complicity when it comes to attendant circumstances. The mens rea for attendant circumstances in cases of attempt is not purpose, but only the mens rea required for the completed crime”. Thus, under MPC, attempted statutory rape can be satisfied without any suspicion that victim was underage
-* **Natural and Probable Causes Doctrine**
-  * Addresses the question of what happens if a different crime occurs than the one the accomplice intended to help with occurs
-  * Holds that if the result is a “natural and probable” consequence in the “ordinary course of things,” then the accomplice can be found liable. In other words, a “person encouraging or facilitating the commission of a crime [may] be held criminally liable not only for that crime, but for any other offense that was a natural or probably consequence of the crime aided and abetted
-* Relationship Between Liability of Parties
-  * Feigned Principal Approach
-    * It is frequently stated that, to be an accomplice, a person “must not only have the purpose that someone else engage in the conduct which constitutes the particular crime charged, but the accomplice musts also share in the same intent which is required for commission of the substantive offense.
-    * What happens when a police officer or private person joins a criminal endeavor as an “accomplice” and feigns a criminal intent in order to obtain incriminating evidence against the primary party or ensnare the other in criminal activity
-  * Vaden Principal Approach:
-    * If there is a crime but there is also a legal barrier to prosecuting the principal (i.e. immunity, self-defense, etc...) the accomplice does not benefit from the unique defense. It does not transfer to the accomplice because the accomplice has his own mens rea and actus reus
-    * Notice how this is different from Hayes. In Hayes there was also no underlying crime. However, *Hayes* court held that you can’t be an accomplice to a principal not committing a crime, regardless of mens rea
-      * These could be reconciled. In *Hayes*, there was no actus reus in the underlying crime - no actual criminal act took place. However, argument can be made that crime took place in *Vaden*, but qualified immunity was simply an defense/justification which relieved principal of any liability
-    * Most modern codes carve this out???
-* Acquittal on the Basis of a Defense
-  * If the principle is acquitted on a defense, does that transfer to the accomplice? We know that the Vaden Principle doesn’t transfer immunity, but what is the general rule?
-    * If the acquittal is a Justification:
-      * The defense passes to the accomplice. For example, recognition of self-defense for the principle implies that no crime has occurred, or even that positive good has resulted. In absence of wrongdoing by the principle, like in Hayes, the accomplice can’t be charged
-    * If only a partial justification (e.g. unreasonable self-defense)
-      * Accomplice can still be liable… see below hypo
-    * If the acquittal is an Excuse...
-      * When the primary party is acquitted on the basis of an excuse (e.g. insanity) his acquittal should not bar a successful prosecution of a secondary party to whom the excuse does not extend. An acquittal on the ground of an excuse means that the actions of the primary party were wrongful, but that he was not responsible because of a personal excusing condition
-  * Innocent Agent Doctrine
-    * There is no such thing as accomplice liability if a person forces another person to be the agent or instrument of the crime
-    * So if Z comes up to you and forces you to commit a crime or he kills you. If you commit the crime, you obviously have a duress defense
-      * The way the law treats this situation is to say: There is NO accomplice liability. Z’s guilt is not derivative from your actions. Rather, it is direct liability situation – your actions transfer to Z because you are simply a forced instrument of criminality
-
-## Accomplice Liability - Cases
-
-### *Hicks v. United States* (1893)
-
-* Facts: Two Native Americans appear to engage in dispute with V. One of the men raises rifle at V several times. Other man (D) overheard yelling at V "take your hat off and die like a man" where upon the other man shot V to death. Two men rode off together. D convicted of encouraging and abetting a murder
-* Issue: Was it proper to instruct jury that if deliberate/intentional use of words had effect of encouraging killing of another man proper, we can infer intent and D is responsible?
-* Holding:
-  * No. This phrase was not enough to infer mens rea. **Use of the words must be intended to encourage the act.** The jury instructions were defective insofar as they assumed intent to encourage could be inferred from the intentional use of certain words (regardless of how he intended to use the words and thus regardless of mens rea)
-  * **While it is true that mere presence, but non-participation due to lack of necessity, can be interpreted as aiding in the crime, this only applies in instances such as where there is a previously discussed criminal conspiracy**. No evidence of such conspiracy here. Conviction reversed
-
-### *State v Gladstone* (1970 WA)
-
-* Facts: Defendant Gladstone was approached by an undercover officer looking to nab him for selling marijuana. Gladstone said he could sell any to him at the time, but suggested he go and check out his friend Robert Kent. The undercover officer then went to Kent and bought marijuana. Kent was arrested, but then Gladstone was charged with abetting the sale of marijuana despite the fact there was no evidence of any communication between the parties
-* Rule: **In order to aid and abet, D must associate himself in some sort with the venture, participate in it as something he wishes to bring about, and that he seek by action to make it succeed**
-* Holding: Court reverses the conviction
-  * Vital element - a nexus between the accused and the party he is accused of abetting in the crime--is missing
-  * Nothing from which we can infer that had any communication with seller, that he was encouraged/counseled/commanded/hired to refer potential buyers to seller
-  * Even without prior agreement/communication, can still be guilty if coming to aid of a robber and knowingly assisting him in committing the crime
-    * This is not happening here. Merely described the seller as someone who may possess weed. Had no interest in whether buyer actually obtained it
-
-### *Rosemond v United States* (2014)
-
-* Facts: Rosemond (D) took part, with two others, in an attempted drug deal. The buyer, upon being given them to inspect, grabbed the drugs and ran. Someone in D's party, though unclear who from the evidence, fired shots. Rosemond was charged with aiding and abetting the use of a gun in connection with a drug-trafficking offense. The jury convicted Rosemond. CoA affirmed
-* Issue: Was jury properly instructed when told to return guilty verdict if "(1) the defendant knew his cohort used a firearm in the drug trafficking crime, and (2) the defendant knowingly and actively participated in the drug trafficking crime.”
-* Rule: **Intent requirement is satisfied when person actively participates with full knowledge of the circumstances constituting the charged offense**
-* Holding: Conviction is affirmed
-  * Under the common law and MPC, mere knowledge of an offense does not create culpability - must be purpose to aid in the offense
-  * But in this case, the SCOTUS says that advance knowledge was enough. Advance knowledge had a weapon that could be used in the commission of drug deal and actively participating in it was enough to impute accomplice liability
-    * Example: If friend pulls out a you didn’t know he had, then no liability. However, advance knowledge of the gun would be enough
-* Notes
-  * Many states have adopted the advanced knowledge standard as qualifying for complicity
-  * Does this mean that knowledge is the actual standard after all? Is purpose the same active participation knowing the consequences? Is there a clear line between incidental facilitation and active participation?
-
-### *State v McVay* (1926 RI)
-
-* Facts: The captain and his crew were charged with manslaughter arising from criminal negligence resulting in the explosion of a boiler on a ship, which killed multiple passengers. Ds told steamboat captain to use boat despite knowing the engine was unsafe
-* Issue: Is it possible to hold someone as an accessory to a crime when they did something negligent before the fact (i.e. before the actual crime?)
-* Rule: It is possible to be an accessory to manslaughter or negligence before the fact
-* Holding:
-  * **There is no inherent reason why, prior to the commission of such a crime, one may not aid, abet, counsel, command, or procure the doing of the unlawful act or of the lawful act in a negligent manner**
-    * The violation of the duty was intentional in the sense that it was a choice among possible courses of action. D is charged with full knowledge of that duty and of the fact that the boiler was unsafe, yet procured captain to act in a grossly negligent manner (i.e. **D knew of the duties yet purposefully got them to ignore it**)
-  * “A jury might find that defendant Kelley, with full knowledge of the possible danger to human life, recklessly and willfully advised, counseled, and commanded the captain and engineer to take a chance by negligent action or failure to act”
-
-### **Commonwealth v Roebuck** (2011 PA)
-
-* Facts: D helped helped orchestrate the events, even though he didn't participate in the highly reckless murder. Helped lure the victim to the room. But had no intent that the victim be killed. D convicted as an accomplice to 3rd degree murder
-* Defense Argument: “There is no rational legal theory to support accomplice liability. Accomplice liability attaches only where the defendant intends to facilitate or promote an underlying offense; third-degree murder is an unintentional killing committed with malice; therefore, to adjudge a criminal defendant guilty of third degree murder as an accomplice would be to accept that the accused intended to aid an unintentional act, which is a logical impossibility”
-* Prosecution Argument: The accomplice liability readily pertains to third degree murder because it is the shared criminal intent motivating the underlying conduct (here, designing a reckless/dangerous alteration) which establishes the requisite criminal liability
-* Rule: **As long as there is specific intent in the underlying conduct which lead to the result, intent component (and thus mens rea for AL) is satisfied**
-* Holding: Conviction on basis of accomplice liability is upheld
-  * The court accepts the prosecution argument, pointing to §2.06(4) of MPC
-    * "Indeed, an accomplice to third degree murder does not intend to aid an unintentional murder; he intends to aid a malicious act which results in killing"
-
-### *People v Russel* (1998 NY)
-
-* Facts: Ds got into a shoot-out with each other. One stray bullet killed a victim bystander. Ballistics could not determine who’s gun the stray bullet came from. However, each defendant was charged with second-degree depraved murder under a theory that “each of them ‘intentionally aided’ the defendant of the fatal shot”, regardless of whom was the principal offender and who was merely and accomplice
-* Holding - Court upholds the convictions; **multiple defendants can be charged with depraved indifference murder committed by only one defendant if each defendant intentionally aided the defendant who committed the murder**
-  * “The prosecution was not required to prove which defendant fired the fatal shot when the evidence was sufficient that each defendant acted with the metal culpability required for the commission of depraved indifference murder, and each defendant intentionally aided the defendant who fired the fatal shot, even if it is impossible to identify that particular defendant”
-  * Adequate proof that defendants acknowledged and accepted gunfight challenge prior to the shooting and thus acted with the required mental culpability
-* Notes:
-  * Causation not really an issue here because one of the Ds was clearly the but-for and proximate cause. The conviction of the other Ds derives not from causing the result, but by acting as accomplices of whoever caused the result
-
-### Rudovsky Email
-
-Where an offense has more than “conduct” elements, the issue is what level of mens rea will be required beyond the intent or purpose to engage in that conduct. With respect to results, both McVay and Roebuck are good examples of how courts (and the MPC) address this issue in homicide cases, where of course, the result is an element of the crime. In both cases the alleged accomplice could be found to have engaged in the underlying conduct (encouraging or ordering use of the boiler; luring victim to a certain location) but in both, at worst, the defendant risked the death of the victim, and had no intent to help kill or harm the victim. If specific intent or purpose to harm or kill was required, there could be no accomplice liability. These courts and MPC find that as long as the accomplice acted with the level of culpability required for the principal (e.g., recklessness) that is sufficient.
-
-So how is the analysis different where the other element is not the “result” but an attendant circumstance?  Perhaps the best example is Bowman (p. 718) where the defendant was charged as an accessory to statutory rape., which in NC is a strict liability crime, at least for the person who engages sexual contact with the underage person. Age is an attendant circumstance (not a “result”), and now the issue is whether someone who assists or the principal in having sex, but does not know that the other person was below the statutory age, is an accessory. This issue has divided the courts and the MPC took a pass on the question. I think Bowman is correct, as I don’t think it fair to hold one liable in effect on vicarious liability basis where he has no knowledge of this attendant circumstance. Of course, one could say the same for the principal. The same analysis is provided by the Gardner court (p. 718) where the issue was whether the accomplice had knowledge that the person to whom he helped to provide a firearm was a former felon.
-
-Russell is not a clear case of conduct, result, or attendant circumstance, and I read it as another court following the division between intentional conduct (firing shots) and a mens rea of gross recklessness or malice given the huge risks that were created. And see the comment regarding Rosemond (p. 718) on the issue of whether the “knowledge” standard applies to the central conduct of the defendant or an attendant circumstance. I think it is better understood as a case on conduct mens rea (modified from strict purpose, given the context of the conduct and results).
-
-### *People v Luparello* (1987 CA)
-
-* Facts: Defendant sought to get information on his former wife, who had left him for another man. Defendant sought the aid of several friends to try to get info from a good friend of the husband named Martin. The friends ended up killing Martin. Defendant was charged with first degree murder under the natural and probable consequences theory. Luparello argues that the trial court improperly imposed “mens rea” upon him in the killing of Martin, as he did not share the killer's intent
-  * One Plurality Opinion – "Jurisdiction requires a holding than aider and abettor or co-conspirer **is liable not only for those crimes committed by a co-felon which he intended or agreed to facilitate but also any additional crimes which are ‘reasonably foreseeable.’**"
-  * Another Plurality Opinion – Concurs, but law needs to be changed because it is logically indefensible. We need be concerned about the fact that the contemplated crime was far less serious than the one committed. The lack of regard for this violates a policy in the criminal law not to hold people responsible for things that they did not intend to do an to punish in proportion to one's mental state
-
-### *Wilcox v Jeffrey* 1951 (UK)
-
-* Facts: Hawkins is a celebrated saxophone player. Mr. Curtis and Mr. Hughes, owners of a jazz club in Willesden, invited Hawkins to the United Kingdom to perform a concert. Although Mr. Curtis and Hawkins had applied for permission for Hawkins to land, their petition was refused. Wilcox was present when Hawkins landed at the airport. Despite the law, Hawkins came to the country anyway and a concert was arranged at the Princess Theatre in London. Wilcox purchased a ticket for the show and subsequently, wrote about that show for publication in his magazine.
-* Issue: Wilcox never met Hawkins and simply benefited from his presence. Can he be convicted of encouraging the illegal performance of Hawkins simply by writing on that said performance?
-* Rule: **Not Much is Required for finding of encouragement. Knowledge of unlawful act of a third-party without intervention in order to serve some personal interest is sufficient**.
-* Holding: Wilcox's conduct was sufficient enough encouragement to sustain an accomplice liability. Wilcox knew he was here illegally (thus had the mens rea) and the court ruled the purchase of the ticket (not only the magazine article) was enough for accomplice liability. He was there for the purpose of reporting for his publication. Had he shown some evidence of protest, such as booing, then perhaps his conduct would not be viewed as aiding and abetting
-* Notes
-  * Begs the Question – This Seems Too Low of a Threshold
-    * Could all the audience members be guilty of conspiracy
-    * There’s no but-for causation. The encouragement didn’t seem to assist
-  * Some offenses, such as dog fighting, hold spectators criminally liable for there mere presence at such events
-    * New Bedford rape case saw two people acquitted of involvement in gang rape despite verbal encouragement while crime was on going
-  * Speech has been criticized as basis for encouragement
-    * Hard to determine true mental state thus difficult to infer what was intended
-
-### *State ex rel. Attorney General v Tally Judge* (1894 AL)
-
-* Facts: V seduces D's sister in law. D's brother in law go out to find and kill him. D goes to telegraph office and prevents message warning V of danger from getting through.
-* Rule: Establishes and emphasizes that you don’t need to prove but-for causation. If an act MIGHT have encouraged or assisted, then that’s enough. Low threshold for encouragement.
-* Quote: The assistance given, however, need not contribute to the criminal result in the sense that but for it the result would not have ensued. **It is quite sufficient if it facilitated a result that would have transpired without it. It is quite enough if the aid merely renders it easier for the principle actor to accomplish the end intended by him and the aider and abettor, though in all human probability the end would have been attained without it**”
-* Notes:
-  * >As Tally and Wilcox make clear, it is not necessary to establish a but-for relation between the defendant’s action and the criminal conduct of another to establish accomplice liability. What is the justification for holding someone liable for a crime if it would have occurred anyway?
-    * Doesn’t this contradict the Bedford Rape Cases?
-
-### *State v. Hayes* (1891 MO)
-
-* Facts: S proposed to P that P join S in the burglary of V’s store. S was unaware of the fact that P was a relative of V. With V’s approval, P agreed to the plan. S assisted P into the building, and took possession of property handed to him by P. Before they could leave the store, S got arrested for burglary and was convicted.
-* Rule: **Where criminal liability derives from principal, regardless of intent, not an aider & abetter if principal doesn't satisfy elements of the underlying criminal act**
-* Holding: The Court vacated the charge
-  * While S had the full intent, P was the primary party doing the stealing: P committed the acts that arguably constituted the burglary
-    * "Where overt acts going to make up the crime charged is personally done by D and with intent, his guilt is complete". However, D did not complete eery overt act. He never stepped foot into the store; he only assisted P. Thus, he did no crime regardless of his intent
-  * S’s liability therefore had to derive from P
-    * But P was not guilty of burglary because he entered the building with the express approval of the owner, his father, therefore he lacked the specific intent to commit a felony (theft, which requires specific intent to permanently deprive property)
-  * So because P was not guilty of crime, S cannot be charged with accomplice liability because it is a derivative offense
-    * To make D responsible for acts of P, they must have common motive and design. Clearly they did not
-    * But S can probably be charged with attempt
-
-### *Vaden v State* (1989 AK)
-  
-* Facts: Law enforcement received a tip that Douglas Vaden (defendant) was using illegal hunting methods while providing guiding services to hunters. John Snell, an undercover agent from the Alaska Department of Fish and Game, posed as a hunter, asking Vaden to act as a guide. During the hunt, Snell shot and killed four foxes from Vaden’s aircraft using a shotgun provided by Vaden. At the time, fox-hunting season was closed
-* Rule: **A justification defense (e.g. qualified immunity) does not transfer from principal to accomplice. The fact that principal is not guilty of underlying crime does not absolve accomplice of aiding and abetting**
-* Holding: The majority refused to follow Hayes and upheld the conviction. A justification defense that is available to an undercover agent for the commission of a crime is not transferable to the agent’s accomplice
-  * In cases involving accomplice liability, the principal actor does not need to be convicted or even prosecuted in order for the accomplice to be found guilty. Therefore, the accomplice’s intent is the central issue, and the defenses of entrapment and public authority justification, which focus on an undercover agent’s state of mind, may not be transferred to the accomplice.
-* Dissent:
-  * It is improper for the police to personally engage in criminal conduct for the purpose of securing convictions of accomplices to crimes - "the act of a feigned accomplice may never be imputed to the targeted D for purposes of obtaining a conviction"
-
-Some final, challenging hypos:
-
-* Modern code anticipates defense like the one in *Hayes*
-  * Attempt under 5.01 (instead of 2.06)
-
-### Acquittal Hypotheticals
-
-* Hypothetical #1 - Principle is acquitted, but Accomplice is Not
-  * Setup: Principle is acquitted. Accomplice argues that as a matter of law, if the principle is not guilty than the accomplice can’t be guilty
-  * SCOTUS says that it’s up to jury discretion. It can be tried again, the fact that one jury found the principle not guilty doesn’t mean that the accomplice doesn’t necessarily benefit from the verdict if the prosecution can convince another jury that the principle is guilty AND so to the accomplice
-    * There might be a collateral estoppel if this was a civil case. But like with Vaden, you can’t
-* Hypothetical #2 - Can the Victim be an Accomplice to His Own Injury?
-  * Setup: Principal is charged with statutory rape. Defense is that the victim told me she was 18, but it turned out she was under 16. Principal is clearly liable, since it’s strict liability crime
-  * Question: Can the girl be prosecuted that she was an accomplice for telling her that she was 18?
-  * Generally the law says a victim cannot be viewed that she’s an accomplice. But why does this matter – the D may not have committed the crime if she didn’t say. Most courts kick this to the legislature – if they want to create an immunity for the victim, then that’s their prerogative
-* Hypothetical #3 - Severity of Accomplice's Crime
-  * Question: Can the accomplice be found guilty of a crime more serious than the principle?
-  * Answer: No
-    * Straight forward application of derivative liability. Even if the accomplice has a higher level of mens rea the most they can be punished for is the level of crime the principle commits
-* Hypothetical #4 - What if the Principle on has a Partial Justification?
-  * Setup: If a principle kills in an unreasonable belief of self-defense (in most states if your killing is unreasonable self- defense, but self-defense nonetheless, you get manslaughter instead of murder)
-  * Question: What can an accomplice get in this situation?
-  * Answer: The accomplice can get MURDER not MANSLAUGHTER because it’s not a full justification. Impartial Self-Defense mitigation cannot benefit the accomplice. It’s hard to square with the above hypo.
-
----
-
-## Conspiracy
-
-* The Actus Reus of Conspiracy
-  * Conspiracy is typically defined as an agreement by two or more persons to commit a crime, unlike accomplice liability which is satisfied when accomplice facilitates the crime regardless of prior agreement of such facilitation
-  * Actus reus of the offense is the agreement itself. It’s easy to get conspiracy if the agreement is recorded somehow, but rarely does evidence exist that explicitly shows conspiracy. Thus, courts need to infer conspiratorial agreement from circumstances surrounding the commissions and separate acts of the accused co-conspirators
-* Overt Act Requirement? Conspiracy = (Agreement) + (Some Overt Act in Furtherance of it)
-  * Conduct can be punishable as a conspiracy at points much further back in the stages of preparation than the point where liability begins to attach for attempt
-    * Example: 18 U.S.C. §371 - "If one or more persons conspire to commit any offense and one or more such persons do any act to effect the object of the conspiracy"
-  * Most statutes across the country require an agreement & some act in furtherance of it. The thought is similar to the requirement for attempt. But for conspiracy, a lot of these statues require a lot less of an overt act than for attempt
-    1. Attempt = Requires much more substantial overt act
-    1. Conspiracy = Doesn’t require much
-  * Example: A and B say “let’s rob a bank” and B goes and Googles local banks. This is usually enough of an overt act. Prosecutions rarely fail on this ground
-  * Other states require a more substantial overt act and Maine even requires same standard needed for attempt
-* Mens Rea of Conspiracy
-  * MPC goes beyond mere knowledge by requiring purpose. Thus, you need to prove two things:
-    1. **Knowledge of Illegal Conduct**
-    1. **Intent to Facilitate that Illegal conduct**
-  * Corrupt Motive - Old common law requirement that has pretty much been rejected in modern law
-    * *Powell* Doctrine - Conspiracy must be animated by a "corrupt" motive or an intention to engage in conduct known to be wrongful
-  * Attendant circumstances - Mistake of fact
-    * Should mistake of fact to some attendant circumstance act as defense to conspiracy if it wouldn't be recognized as defense to underlying crime?
-      * *Freed* court considers facts which increase the gravity of the offense in answering this question. Agreement to acquire hand grenade is enough here, even if D was ignorant that grenade was unregistered (this was not an act innocent in itself)
-      * Where act is truly innocent, MPC commentaries seems to leave this up to the courts
-* Conspiracy as a Form of Accomplice Liability
-  * Most jurisdictions follow ***Pinkerton* liability doctrine - Vicarious liability for substantive offenses committed by co-conspirators in furtherance of the conspiracy**
-    * Some extend even further to offenses that were reasonably foreseeable as a consequence of the conspiracy, like in *Bridges* and *Alvarez*
-  * **Arguments in favor of *Pinkerton* Standard**
-    * Counter to Sophistication: “The ever-increasing sophistication of organized crime presents a compelling reason against abandonment of Pinkerton. Complicated and highly refined stock frauds….and narcotics conspiracies represent a substantial and ever-increasing threat to society justifying retention of the Pinkerton doctrine. Empirical evidence has repeatedly demonstrated that those who form and control illegal enterprises are generally well insulated from prosecutions” if not for conspiracy statues
-    * Difficult to Apprehend: “Where individual members of conspiracies are difficult to apprehend, conspiracy law makes it possible to inflict costs on them indirectly by punishing other members who are more accessible.” Punish lower level drug dealers to force the more difficult to find high level managers to take on greater risk
-    * Get People to Squeal: Get low level criminals to squeal by cutting deals on conspiracy charges
-  * **Arguments against *Pinkerton* Standard**
-    * Repugnant to Our System: Not offensive to permit conviction of conspiracy to stand on the overt act of another, for the act merely provides corroboration of the existence of an agreement which has reached point where it poses threat to society. However, it is repugnant to our system of jurisprudence, where guilt is generally personal to the defendant…to impose punishment, not for the socially harmful agreement to which the defendant is a party, but for substantive offenses in which he did not participate
-    * Violates Individual Criminal Liability: “Violates the principle of individual criminal liability in a context where ‘proof is often notoriously uncertain’ because ‘convictions for conspiracies themselves often rest on dubious evidence”
-    * MPC Takes Different Approach: “The MPC also rejects Pinkerton, imposing accomplice liability on conspirators for the substantive crimes of their co-conspirators only when the strict conditions for accomplice liability are met”
-  * Contrasting *Pinkerton* with Accomplice Liability in *Luparello*
-    * Traditional accomplice liability requires proof of intent to promote/facilitate the action, thus theory in *Pinkerton* (and *Bridges* to an even greater extent) may represent significant expansion of liability
-    * However, we saw a similar such expansion of accomplice liability in *Luperello*
-* MPC approach to defining scope of conspiracy
-  * D liable for conspiracy with another person if he knows that his co-conspirator has conspired with other persons, even if D does not know other person’s identity
-  * D liable for one conspiracy involving a string of multiple crimes so long as they are the object of the same agreement or continuous conspiratorial relationship
-
-### *Perry v State* (2014 FL) – Conspiracy & Parallel Action
-
-* Facts: Perry let known sex offender sleep in same bed with 8 year old daughter. Sex offender molested daughter on numerous occasions. Perry charged with conspiracy and aiding abetting for the sexual assault of her daughter. Accomplice liability was sustained – it was proven Perry helped with the sexual assault (i.e. helped unlock the doors) but was their conspiracy?
-* Rule: Fact finder may infer the agreement from the circumstances; direct proof is not necessary
-* Holding: No, the court said that Perry may have known about the illegal act, but simply knowing is not enough or conspiracy
-  * Perry indicates that a key inquiry in cases involving multiple parties to crimes is to determine whether the parties are acting together based on an agreement or whether they are acting independently, albeit in parallel with one another
-    * No evidence in the record to establish the existence of an agreement or intent to conspire
-  * When there is independent, parallel actions occurring – there is no conspiracy
-* Notes
-  * Some jurisdictions -- > will say that simply knowing about another’s criminal plans and not doing anything counts as implicit conspiracy
-* *Interstate Circuit City v Dallas* – Inferring Conspiracy
-  * SCOTUS case where prosecutors alleged that movie distributors entered into a conspiracy among themselves not to distribute movies unless they all charged 25 cents. This way they could all drive up prices
-  * SCOTUS found that we can infer conspiracy here because it would be against each individual business distributor to charge 25 cents without this agreement (because otherwise they would be undercut by lower prices)
-  * They wouldn’t engage in this conspiracy but-for this conspiracy (game-theory element to this factual scenario)
-
-### *People v Lauria* (1967 CA) – Mens Rea for Conspiracy
-  
-* Facts: Telephone answering services that take messages for missed calls is owned and operated by D. The prosecutor’s theory was that D conspired because he knew that a prostitution ring would use this service to get their assignments
-* Question: Under what circumstances does a supplier become a part of a conspiracy to further an illegal enterprise by furnishing goods or services which he knows are to be used for criminal purposes?
-* Rule: **Both element of knowledge of illegal use of goods AND element of intent to further that use must be present for conspiracy**
-  * **Intent of supplier, who knows of criminal use to which his services are put, to participate in the connected criminal activity is established by**
-    1. **Direct evidence that he intends to participate OR**
-    1. **Through an inference that he intends to participate based on:**
-       1. **His special interest in the activity OR**
-       1. **The aggravated nature of the crime**
-* Holding: Court upholds finding that absolved D of conspiracy charge
-  * Lauria indisputably knew that some of his customers were prostitutes, thus this case hinges on the finding of intent
-  * Since direct proof is lacking, intent to further criminal purpose must be inferred from circumstances and the sale itself. Court identifies different ways intent can be inferred:
-    1. Intent may be inferred from knowledge, when the purveyor of legal goods for illegal use has acquired a stake in the venture
-    1. Intent may be inferred from knowledge, when no legitimate use for the goods or services exits
-    1. Intent may be inferred from knowledge, when the volume of business with the buyer is grossly disproportionate to any legitimate demand, or when sales for illegal use amount to a high proportion of the seller’s total business.
-  * However, there are also cases in which there was no personal stake or special interest, yet liability was held on the sole basis of knowledge due to the nature of the criminal conduct
-    * Duty to take positive action to dissociate oneself from criminal activities is far stronger/compelling for serious crimes
-    * Derives from societal duty imposed on all to suppress heinous crime
-  * In any case, there was no evidence in record that D took any direct action to further/encourage/direct activities nor circumstances that would suggest special interest in doing so. Likewise, underlying crime is non-violent misdemeanor
-
-### *Pinkerton v United States* (1946)
-
-* Facts - Ds were brothers who lived a short distance from each other on farm. Brothers were indicted for various violations of IRC. A jury found D1 guilty on nine of the ten substantive counts and on a conspiracy count, and found D2 guilty on six of the ten substantive counts and on the conspiracy count. Each brother was fined and sentenced to terms of imprisonment. No evidence that D2 directly participated in the substantive offenses - he was in prison for a part of the period over which the offense was committed
-* Question - Can D2 be found guilty of substantive offenses if it was found that he was party to unlawful conspiracy and the substantive offenses were committed in furtherance of it?
-* Rule - **In an ongoing conspiracy, the overt act of one co-conspirator may be the act of all conspirators without any new agreement specifically directed to that act**
-* Holding - Yes, D2 was part of continuous conspiracy and can be held vicariously liable for substantive offense
-  * No affirmative action by D2 to establish his withdrawal from the conspiracy. Until he does some act to disavow or defeat the purpose, he is still offending for as long as the offense has not been terminated
-  * When there is conspiracy to commit illegal acts, criminal intent to commit the substantive offenses has been achieved, regardless of who actually commits the illegal substantive offense. It was formed for purpose of executing the act and the act is done in execution of the enterprise
-    * This is the same underlying principle for holding responsible individuals who command/counsel another to commit a crime
-* Dissent
-  * No evidence that D2 was involved in these offenses. He was in prison for a majority of this time
-  * Result of the majority's holding is vicarious criminal liability is equally broad or broader than vicarious liability for acts done by co-partner in course of crime
-* Lecture Commentary:
-  * In the absence of providing assistance or encouragement, there is probably no liability here for aiding or abetting - there is no duty to prevent the crime
-    * Prosecution has a different theory - D2 had more than just knowledge, but initially agreed that they would work together. Court says that this is enough to hold him vicariously liable. Once a conspiracy is established, you can be held responsible for any acts in furtherance of it, regardless if your lack of participation is insufficient to constitute aiding and abetting
-  * Foreseeability applied to the facts of *Pinkerton*
-    * Hypothetical - Assume that the facts are the same, but while D2 is in jail, D1 acts in furtherance of the conspiracy. During one of the acts, he encounters and assaults a police officer. Is D2 vicariously liable?
-      * The offense here is difficult to view as "in furtherance" of the conspiracy, but rather something that simply arose in the process of executing it. It also clearly exceeded the scope of the agreement. However, the question is whether or not D2 could still be vicariously liable on the grounds that such an act was reasonably foreseeable as the probable result of the conspiracy. In argument could be made for both sides in that question
-  * Exceptions that discharge this liability:
-    1. You can withdraw from a conspiracy through some affirmative act, though this must meet a high standard
-    1. End of conspiracy - the offense by a co-conspirator occurred after what was conspired about had already been accomplished
-
-### *State v. Bridges* (1993 NJ)
-
-* Facts - Ds get into a fight with a guest at the part, leave, and come back with friends who brought guns. Friends brought guns to hold everyone at bay while Bridges fights it out with the guest. Someone in crowd hits one of the friend in the face. Friends begin recklessly firing and someone is fatally shot. These seems to show enough for conspiracy among the three friends; but the agreement is one that the friends are supposed to just keep people at bay
-* Rule - **A co-conspirator may be liable for substantive criminal acts not committed by him and outside the scope of the conspiracy if they are reasonably foreseeable as the necessary or natural consequences of the conspiracy**
-  * If criminal acts exceed the scope of what is conspired to, intent doesn't matter if these acts were reasonably foreseeable
-* Holding - Ds are criminally responsible under the circumstances
-  * Court rejects standard that there is only vicarious liability between co-conspirators when there is shared intent/purpose
-    * They argue this is misunderstanding of *Pinkerton* standard, the purpose of which is to impose vicarious liability based on objective standard of reasonable foreseeability (i.e. broader and lest strict than accomplice accountability)
-  * There is evidence that jury could conclude there is reasonably foreseeable risk that as probable consequence of carrying out plan to intimidate with loaded guns was that someone would be shot
-* Dissent - No liability is foreseen other than for the crime that were the object of the conspiracy
-* Lecture Commentary:
-  * Goes even further than *Pinkerton* in expanding vicarious liability
-  * Is there a Mens Rea problem here? How can we describe D's state of mind. It wasn’t his purpose that his co-conspirator kills. Had he known they would do this, he probably wouldn't have agreed to what was conspired
-  * **More importantly, how do we reconcile this with the intent requirement that exists in almost all formulations of conspiracy?**
-
-### *US v. Alvarez* (1985 11th Cir.)
-
-* Facts: Undercover sting operation for drug buying. While the transaction is going on in the house, the agents move in too quickly and a shootout begins killing an officer. The person who shot the officer is liable for homicide, though 3 others involved in the operation were also charged with 2nd degree murder even though they didn't take part in the shooting
-* Issue: Is everyone involved in the drug deal is liable for the death?
-* Holding: Yes. *Pinkerton* liability was properly imposed on those who were part of the operation but didn't take part in the shooting
-  * Court says there is evidence to find that murder was a reasonably foreseeable consequence of the drug conspiracy. The planned sale was for an abnormally large volume and based on the money involved, good reason to expect buyers to be carrying weapons and to use deadly force if necessary
-* Question: Did the court get it right here? The relationship between the actual conspiracy and the murder seems pretty remote. Is this a probable consequence or a fluke?
-
-### Accomplice and Conspiracy Hypotheticals
-
-* Note: When it comes to sentencing, you either are sentenced for conspiracy OR accomplice liability, not both. Though the substantive crimes stack up (Conspiracy/Accomplice + Substantive Crimes). That’s why we’re interested in whether the substantive crimes are imputed
-* Factual Setup: A is the organizer and ringleader of a conspiracy to rob banks. He hires B and C to rob banks 1 and 2, respectively. Although B and C do not meet face to face and do not know each other, the both know that they are members of a larger conspiracy, and each knows of the other’s assignment with respect to the two banks. A then gets D, who also knows of the larger conspiracy, to steal a car for use in both bank robberies. B and C then rob banks and 1 and 2, but only B uses the car stolen by D
-* What is A criminally responsible for?
-  * Under Pinkerton liability, A is guilty for all substantive offenses committed by B, C, and D. These acts were clearly in furtherance of the conspiracy which A facilitated.
-  * If prosecutors instead try to impose accomplice liability, they need to show that there’s aiding and abetting. Here, A directed and funded the entire operation in furtherance of the crimes so it would have the same outcome as *Pinkerton*
-* What is B/C criminally responsible for?
-  * Prosecutors will argue that B and C are part of a conspiracy via Pinkerton and therefore B is liable for C’s crime. Defense will argue that there are only two different conspiracy – Between A-B and A-C
-    * However, this might be a more difficult question because it seems like B knew C was committing the crime. Especially if B and C are sharing the profits as part of A’s conspiracy, it definitely seems like there would be Pinkerton liability
-    * B and C probably not liable as accomplices to each other; there’s no evidence that they aided and abetted each other in helping to rob their respective bank. Depending if you expand complicity theory (i.e. *Luperello*) – you might be able to get there, though probably not
-* What is D criminally responsible for?
-  * There is likely *Pinkerton* liability for B & C's crimes. D is part of the conspiracy. What B did was in furtherance of the conspiracy and D’s robbed car has helped
-  * *Pinkerton* Liability for C's robbery not as easy since C didn't use stolen car. The prosecutor’s argument is that it doesn’t matter under Pinkerton who uses the car – you’re agreement is to steal the car for use in either case. It matters for accomplice liability, but not conspiracy
-    * This is an example of conspiracy being broader than accomplice liability
-  * D is also liable for the offenses as an accomplice to B because his stolen car aids and abets the robbery
-  * However, because C did not use the car, there is no accomplice liability here
-* What is D wasn’t able to steal the car? Can D still be charged?
-  * Yes with *Pinkerton*. Once you’re in the agreement anything done in furtherance of the crime by co-conspirators makes you liable as well
-  * However, in this case, you couldn't impose on D any accomplice liability to B or C
-* Are B & C both responsible for D’s theft?
-  * Under *Pinkerton* – it’s easy if B, C, and D meet together – then everything’s in furtherance. If it’s not that clean, then the argument would have to be that B and C are responsible because it’s foreseeable that bank robbers might need a car and someone in the conspiracy is actually doing this
-  * Under accomplice theory, question becomes whether B or C had done anything to encourage and assist D to steal the car. It probably wasn’t B’s purpose that D steal the car. The question is whether B and C encouraged D to do it. Probably a stretch, you’d have to argue – but for the bank robbery plans, D wouldn’t steal the car
-
-### *Kotteakos v United States* (1946)
-
-* Facts: Brown organizing people to apply for false credit in a housing program and get some false money
-  * Wheel and Spoke Conspiracy - Brown enlists a bunch of people to fake false credit
-* Question: Is this five separate conspiracy or just one conspiracy?
-  * This is important because if there is one conspiracy, then all the individuals under Pinkerton are responsible for each others’ acts. Brown wants it this way so that he doesn’t get multiple conspiracy charges
-  * Government’s theory is that Brown organized this venture, gets five people to assist him in doing the same acts
-  * Individual Ds argue that they have a relationship only with Brown, but not the others
-    * Individuals just want multiple conspiracy because they don’t want to be one the hook for each others’s substantive crimes
-* Holding: SCOTUS find that the notion of the **hub and spoke consists of multiple conspiracies**. If the venture can’t happen unless they all participate – given the nature of the criminal activities.
-  * **A single conspiracy cannot exist when two or more persons have no contact or transactions with each other**, even though each person may transact with the same, single individual
-* Notes case: *Anderson v Superior Court* (1947 CA)
-  * How do other jurisdiction deal with this? Persons are referring patients to a doctor to perform illegal abortions. Obvious conspiracy here. But in Anderson, the several people who allegedly refer women for abortions are charged with a single conspiracy
-    * Court agrees that it’s a single conspiracy. But it’s a hub and spoke conspiracy where the individuals don’t know they’re part of a larger conspiracy – for this scheme to work all the individuals don’t have to agree
-    * Completely counter to *Kotteakos*
-* Conclusion: *Kotteakos* is probably right
-
-### *United States v Bruno* (1939)
-
-* Facts: There’s a narcotics conspiracy. Importer, Seller provides the drugs and passes them to a NYC middle-manager and a LA middle-manger. They distribute them to people on the street
-* Rule: **A single conspiracy exists when the success of the part with which the defendant was immediately concerned, was dependent upon the success of the whole scheme**
-* Issue: Whether this is a single or multiple conspiracy?
-* Holding: Single conspiracy. In order for the parties’ drug scheme to succeed each group had to do its illegal part in furthering the conspiracy. Thus, the conspirators at each end of the drug chain knew that the unlawful business could not stop with the buyers. A single conspiracy existed because each participant knew that he was a necessary link in the chain of the drug distribution scheme. The judgments of conviction are affirmed
-* Notes
-  * Chain Relationship - one large conspiracy if series of sub-agreements (links) form part of a single larger agreement (chain) that all parties are interest
-  * One of the low-level drug dealers is likely in competition with each. One argument is that the more we sell, the more the Seller will give us product. So how can it be a conspiracy with each other when they’re in competition which each other
-    * So maybe it’s a mischaracterization
-
-### *United States v. McDermott* (2001 2nd CC)
-
-* Facts - D1 had affair with woman who also had affair with D2; D1 gave woman stock tips which she passed onto D2. D1 and D2 convicted of insider trading only circumstantial evidence that D1 knew of D2’s involvement
-* Rule - **A conspiracy does not exist if there is no agreement to commit a crime between the defendant and at least one other person**
-* Outcome - Court reverses conspiracy conviction
-* Holding - A conspiracy to commit securities insider trading requires the essential element of an agreement among all members of the conspiracy. Government must show that each member agreed to participate in a criminal plan to reach an overall common goal. The individuals involved do not necessarily need to agree on the details. There is no evidence that the stock information D1 supplied to D2 encompassed a broader scope or common goal outside of the two of them. To support D1's conspiracy conviction, D2 must agree with D1 to pass the insider information to another person, even if that person is unknown to D1
-
----
-
-## Conspiracy within Parties and Enterprises
-
-* **Gebardi Liability** - A person with protected status cannot be convicted of conspiracy
-* **Wharton Rule** - A conspiracy requires more parties participate in the agreement than are required for the crime; affects crimes requiring two or more people (e.g. selling drugs). Courts are split on this:
-  * Majority - Wharton rule always precludes conspiracy conviction
-  * Minority - Wharton rule enacts the merger doctrine for conspiracies (i.e.) conspiracy conviction is viable if the crime is NOT completed)
-    * NOTE: Wharton Rule does NOT apply in certain situations:
-      * If statute about crimes requiring two or more parties only imposes liability on one party (ex: drug selling statute only puts liability on the seller; this negates the Wharton Rule so both buyer and seller could be conspiracy)
-      * If a conspiracy member is part of protected class (ex: statute prohibiting transport of prostitutes
-* **Racketeer Influenced and Corrupt Organizations Act (RICO)**: An organization violates RICO if it conducts racketeering enterprises such as murder, kidnapping, illegal gambling, bribery, extortion, etc; D liable for violating any section of RICO, but two independent and unrelated conspiracies may not form the basis for prosecuting a single conspiracy
-
-### *Gebardi v. United States* (1932)
-
-* Facts - D (unmarried) convicted for violating the Mann Act when he brought an unmarried woman across state lines for sexual intercourse. The trial court found Gebardi and the woman guilty and their convictions were affirmed by the court of appeals
-* Outcome - SCOTUS reverses convictions
-* Rule: Person who cannot be convicted of crime (e.g. due to rule of justice or policy) cannot be liable for conspiracy to commit the substantive crime
-* Holding
-  * Mann Act doesn't make it make it illegal for women to consent to this. It is evidence of Congress’ intent to leave her acquiescence unpunished. Since D did not conspire with anyone else and the woman didn't violate the man act, there was no conspiracy to do so. D did it unilaterally
-
-### *Garcia v. State* (1979 IN)
-
-* Facts: D discussed marital problems with neighbor. Expressed desire to kill husband in these discussions multiple times. Neighbor went to police and all future discussions were recorded. D asks neighbor for help planning to kill husband. Neighbor introduces D to undercover detective and made payment, agreeing to pay rest when job was done. D is subsequently arrested and convicted of conspiracy to commit murder. She appealed, arguing that she could not be convicted of such an offense when the only person with whom she allegedly conspired (the neighbor) feigned acquiescence in the scheme
-* Rule: **Under the “unilateral” concept of conspiracy, an individual may be convicted of conspiracy even if the other persons involved in the scheme feigned acquiescence in the plan**
-* Holding - Conviction of conspiracy is affirmed
-  * Traditional bilateral view of conspiracy comes from CL - each person agrees to commit a crime with intent to do so. This left major gap for instances like the present case where one party only feigned acquiescence
-  * MPC responded by introducing unilateral concept of conspiracy, which has been adopted in at least 26 states, where the culpable party’s guilt would not be affected by the fact that another participant feigned acquiescence in the scheme
-  * Indiana statute - No defense that person with whom D is alleged to have conspired with is not or cannot be prosecuted for any reason is not convicted/is acquitted
-* Notes
-  * Argument for traditional rule and against unilateral conception: Conspiracy is separate crime because view that collective action towards antisocial end risks greater harm to society and increases chances of success. These dangers are not present when person "conspires" with another person (e.g. government agent) who has no intent to carry out the crime. Also the issue of entrapment
-
----
-
-## Liability within the Corporate Framework
-
-* Pro Corporate Liability
-  * Criminal law most powerful tool for expressing conduct outside the bounds of acceptable corporate behavior and for expressing expectations of how corporations should conduct affairs (i.e. sends societal message). Failure to prosecute egregious violations blurs line between acceptable and unacceptable conduct.
-  * Provides incentives for managers to patrol lower ranking employees and incentivizes employers to create law-abiding corporate culture
-  * If corporations are provided constitutional rights and protections that individuals, why wouldn't we hold them liable for misconduct like we do with individuals?
-* Anti Corporate Liability
-  * Questions the effectiveness of the expressive/instrumental view
-  * Questions the level of deterrence it actually provides, especially in light of the cost of monitoring and litigating
-* Prosecutorial Discretion
-  * Despite breadth of principles of respondeat superior, there is no fixed rule of law for imputing corporations for acts of there employees. Prosecutors can exercise discretion in deciding whether to forgo corporate prosecution. However, absent any countervailing policy justification, the interest in incentivizing corporations monitoring and preventing illegal employee conduct is strong enough to justify holding corporations liable
-    * This is especially true where the employee is acting with intent to further the interests of his employer
-    * Corporation's willingness to cooperate with investigation can be a factor in prosecutorial discretion
-    * There are also alternatives to charging corporations in th eform of deferred prosecution agreements (DPAs) and non-prosecution agreements (NPAs). In NPA, there charges are filed by government retains right to prosecute if terms of agreement are not met. In DPA, charges are filed but are later dismissed if terms of agreement are met
-  * Also a collective knowledge problem with respondeat superior - several individuals were acting together, but no single individual has the mens rea sufficient to prosecute. In this case, corporation seems culpable, but no single person to impute
-* MPC's Trifurcated Approach to Corporate Liability
-  * First rule - **§2.07(1)(a)**
-    * Adopts broad respondeat superior theory. Corporation may incur liability for minor infractions and for non-Code offenses when a legislative purpose to impose liability on corporations **plainly appears**, assuming agent was acting within scope of employment and on behalf of corporate interests
-      * Limited by a defense of due diligence that managerial agent can show it exercise to prevent crime
-  * Second rule - **§2.07(1)(b)**
-    * Corporation is accountable for failure to discharge specific duties imposed on corporations by law
-  * Third rule - **§2.07(1)(c)**
-    * Corporation incurs liability for true crimes (i.e. those defined in MPC) only if the offense is authorized/commanded/solicited/performed/toleratd by high managerial agents whose acquiescence may be regarded as reflecting corporate policy due to their authority
-
-* Liability of Corporate Agents
-  * MPC §2.07(6)
-    * A person is legally accountable for any conduct he performs or causes to be performed in the name of the corporation or on its behalf to the same extent as if it were performed in is own name or behalf
-    * Whenever a duty is imposed on corporation by law, any agent having primary responsibility for the discharge of that duty is legally accountable for reckless omission to perform the required duty to the same extent as if it were imposed upon himself
-  * Bureaucratic structure makes it difficult to impose liability on upper level employees for aiding where accomplice liability standards for aiding/encouraging require intent. Imposing vicarious liability runs the risk of unfairness
-
-### *NY Central RR v. United States* (1909)
-
-* Facts: New York Central (D) was an entity bound by the federal Elkins Act which prohibited common carriers (e.g. railroads) from charging rates less than their posted rate. D and employee of D convicted for paying rebates to certain companies who shipped their products, thereby lowering their shipping rate in violation of the Act. D appealed, arguing that Congress lacked authority to impute to a corporation the commission of criminal offenses or to subject a corporation to criminal prosecution
-Issue
-* Issue: May a corporation be held criminally culpable for the acts of its employee agents when committed within the scope of their employment?
-* Rule: **A corporation may be held criminally culpable for the acts of its employee agents**
-* Holding: Conviction is affirmed
-  * Since a corporation acts by its officers and agents their purposes, motives, and intent are just as much those of the corporation as are the things done
-    * This principle is present in the law of torts, where corporations are liable for damages caused by employees acting within the scope of their employment
-    * Justice requires that the corporation be held responsible for damages to the individual who has suffered by such conduct
-    * No reasonable justification as to why the corporation, which acts through its employee agents and which profits by the transaction, should not be held punishable by fine because of the knowledge and intent of its agents to whom the corporation has entrusted authority
-
-### *U.S. V. Hilton Hotels Corp* (1972 9th Cir.)
-
-* Facts: Tourism trade association in Portland, OR that is funded by monetary contributions by its members. To aid the associations, Hilton (D) agreed to show preference towards those members who contributed and boycott those that didn't. It was the hotel’s policy to purchase supplies solely on the basis of price, quality, and service, though purchasing agent ignored orders not to participate in the boycott and proceeded to coerce a supplier into contributing to the association. Charged with violating the Sherman Act by restricting trade. District court found D responsible for the acts and statements of the agent despite disregarding official instructions or the corporation’s policies
-* Issue: Is a corporation liable under the Sherman Act for the acts of its employee agents committed within the scope of their employment even though the acts are done contrary to general corporate policy and official instructions?
-* Rule: **A corporation is liable under the Sherman Act for the acts of its employee agents committed within the scope of their employment even though the acts are done contrary to general corporate policy**
-* Holding: Criminal conviction of the corporation affirmed
-  * The intent and construction of the Act suggests that a corporation is criminally liable for acts of its employee agents committed within the scope of their employment even if those acts are done against corporate policy
-    * Many legislators believe that such liability is necessary to effectuate regulatory policy - such exposure to potential convictions may provide substantial spurt to corporate action preventing violations of employees
-    * This is especially true with Sherman Act. These violations are commercial and almost always arise out of desire to enhance profits. Additionally, highly-positioned corporate officers are likely to be aware of, if not fully responsible for, many of the corporation’s policy decisions underlying Sherman Act violations (i.e. not inconspicuous ones by low-level employees). Profit-maximizing motive trickles down to lower-levels through pressure exerted by management - it is the corporation, not the individual agents, that reap the benefits of these violations
-  * The purchasing agent was authorized to purchase supplies for the hotel and was in a unique position to add the corporation’s purchasing power to the force of the boycott
-
-### *US v. Guidant LLC* (2010 MN)
-
-* Facts: D sells implantable defibrillators to treat heart disorders. D identified and fixed defects with devices, but did not notify FDA as required by law. D plead guilty to making materially false and misleading statements on FDA filings and failing to promptly notify the FDA of the corrections. Agreement included criminal forfeiture of over $42 million, but did not include a provision that ordered restitution or probation. The victims and several physicians urge the court to reject the plea agreement because of this.
-* Question: Can/should D be made to pay restitution of sentenced to term probation?
-* Rule: **Manufacturers are held liable for the safety and effectiveness of their products and may be fined, sentenced to a term of probation, or required to pay restitution**
-* Holding: The plea agreement was rejected. Court holds the interests of justice are not served by allowing a company such as D to avoid probation simply by changing its corporate form. Manufacturers control quality of the devices and know of any potential dangers, thus safety of future generation of patients is at stake. To allow repeat offender to get off with fine doesn't hold D accountable and undermines patient safety
-
-### *Gordon v. United States* (1953 10 Cir.)
-
-* Facts: D is manufacturer knowingly selling equipment on unlawful credit terms in violation of Defense Production Act.. The case was tried and submitted to the jury on the theory that knowledge of one partner regarding the transactions was “imputable, attributable, and chargeable” to the other partners and that knowledge of lower-level employees who made the sales and kept the records, while acting in the course of their employment, were imputable and chargeable to the employing partners. D and the others were convicted and they appealed
-* Rule: **In cases involving “public welfare” offenses, an employer may be held criminally liable for the knowledge and acts of its employees**
-* Holding - Convictions upheld
-  * Deeply rooted principle of criminal law: Criminal guilt is personal to the accused and that willfulness or a guilty mind is an essential ingredient of a punishable offense. A person cannot intend an act in which he did not consciously participate, acquiesce, or have guilty knowledge. Thus courts have been reluctant to hold employers responsible for acts he did not authorize, counsel, approve or ratify
-    * However, in “public welfare” offenses—those involving regulations of food, drink, or drugs—that courts have relaxed the necessary showing of willful intent
-    * Court placed a duty upon the employer that he has knowledge of the records he is required to keep and knowledge of the acts or omissions performed by his agents and employees. Here knowledge is constructive
-    * **In these situations, it is permissible proof to show “willfulness” as being more than mere negligence but less than a bad purpose or motive**
-
-### *United States v. Park* (1975)
-
-* D was CEO of Acme Markets, Inc. D is charged in federal district court with violating the FDCA. The Government alleged that Park and Acme had received food at its warehouses that had been shipped in interstate commerce and allowed the food to be accessed by rodents and exposed to contamination. Acme pleaded guilty, but Park proceeded to trial. Email correspondence showing D was aware of violations was introduced a evidence. D admitted in cross-examination that he was largely responsible for ensuring the provision of sanitary conditions in his position as CEO
-* Issue: Can D be criminally liable for the FDA violations based on his knowing failure to prevent or remedy the violations?
-* Rule: **A corporate officer may be held criminally liable for the illegal acts of a corporation under federal law which the officer had the ability to prevent before the occurrence or had the ability to correct after the fact**
-* Holding:
-  * Conviction affirmed. Case law reveals not only a positive duty on the part of corporate officers to seek out and remedy violations when they occur, but also to implement measures that will ensure that violations do not occur. The FDCA does not make criminal liability turn on “awareness of some wrongdoing” or “conscious fraud.” If a defendant claims that he was “powerless” to prevent or correct the violation, he has the burden of showing that evidence. D failed to satisfy this burden
-* Dissent:
-  * Majority described a negligence standard, which is not the one the jury was instructed to apply by the trial court. Before D could be convicted of a criminal violation of the FDCA, the jury should have first been instructed that it was required to find evidence beyond a reasonable doubt that he engaged in wrongful conduct amounting to at least to common-law negligence. There were no such instructions and thus no finding in this case
-* Notes
-  * The Responsible Corporate Officer doctrine, which holds officer can be convicted of a misdemeanor without traditional showing of awareness of wrongdoing. However, it is clear that this is not merely by reason of the officer's position in the organization's hierarchy. While this is certainly an important consideration, it must be shown that D had, by reason of his position, responsibility and authority either to prevent or promptly correct the violation complained of
-    * While responsible officer may assert impossibility defense that they were powerless to prevent the violation, courts have made it clear that this defense does not extend to the corporation as a whole
-
-### *United States v. MacDonald & Watson Waste Oil Co.* (1991 1st Cir.)
-
-* Facts: D was president, and a “hands on” manager, of hazardous material disposal company. Operated facility without permit to dispose of hazardous material. D was warned by consultant multiple times, but proceeded to bring contaminated material into the disposal facility. He was subsequently convicted of knowingly transporting hazardous material to facility without a permit. Judge instructed jury that actual knowledge can be established if defendant was what is called a responsible officer of the corporation committing the act (an officer of the company having direct responsibility over the activities). D appealed, arguing that the district judge incorrectly instructed the jury regarding the element of knowledge in the case of a corporate officer
-* Rule: **In a crime having knowledge as an express element, a mere showing of official responsibility by a corporate officer is not an adequate substitute for direct or circumstantial proof of knowledge**
-* Holding: Conviction reversed
-  * At trial, prosecution conceded that the government had no evidence that D had actual knowledge that the waste shipments were being transported to the facility, though it did show that he was a “hands-on” manager who was in a position to ensure compliance and had failed to do so even after being warned by the consultant
-  * The district court's instructions suggest that proof D was a responsible corporate officer would conclusively prove the element of his knowledge shipment
-    * Court says *Park* doesn't apply here because it involved misdemeanor crime that dispensed of intent/knowledge requirement. The instant case contains a much more serious charge
-    * A mere showing of official responsibility is not an adequate substitute for direct or circumstantial proof of knowledge where crime requires this element
-    * Since no evidence that D had actual knowledge of the hazardous waste shipments, conviction is reversed
 
 ---
 # Exculpation
