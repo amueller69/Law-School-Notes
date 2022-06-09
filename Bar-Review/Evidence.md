@@ -29,7 +29,7 @@
   * Can also describe the strength/credibility of an individual piece of evidence and its contribution to persuading the jury in a certain direction (i.e., how much it moves the needle)
   * Whereas admissibility determined by a judge, weight is ultimately determined by fact-finder (e.g., jury) in credible they find a piece/body of evidence and thus how much reliance to place on it when deciding a question of fact
 
-### Federal Rules of Evidence and Their Applicability
+### Federal Rules of Evidence and Their Applicability ???
 
 * The Federal Rules of Evidence (FRE) are applicable to all civil and criminal trial proceedings before U.S. Federal courts (regardless if bench trial or jury trial)
 * The FRE **do not apply to**:
@@ -120,8 +120,8 @@
 
 ## Relevance
 
-* **Relevance** of evidence is a necessary condition for admissibility and can be defined as having tendency of to make the facts at issue more or less probable (i.e., having probative effect)
-  * The minimum threshold of relevance that mus be met for evidence to be admissible is not that strict hover; simply needs to have some probative value
+* **Relevance** of evidence is a **necessary condition for admissibility and can be defined as having tendency of to make the facts at issue more or less probable** (i.e., having probative effect)
+  * The minimum threshold of relevance that must be met for evidence to be admissible is not that strict hover; simply **needs to have some probative value**
   * Trial judge is responsible for applying this relevance analysis by reviewing piece of evidence and determining its probative value (if any);
   * FRE states that relevant evidence is considered admissible unless some other rule of the FRE or statute maintains otherwise
     * However, as shown in following sections, FRE contains several other provisions that could result in relevant evidence being deemed inadmissible
@@ -196,7 +196,7 @@
   * Evidence offered by D intended to prove V's promiscuity/predisposition towards consensual sex or that V engaged in other sexual behavior is generally inadmissible under FRE 412.
     * Why? Possibility of V's sexual past being revealed in trial may deter V from reporting sexual assault
   * Exception to the exception (FRE 412(b)(1)) - In criminal case, may still be admissible if:
-    * Evidence is of specific instances of V's past sexual behavior offered for the purpose of proving someone other than D was responsible (reputation and opinion still excluded) 
+    * Evidence is of specific instances of V's past sexual behavior offered for the purpose of proving someone other than D was responsible (reputation and opinion still excluded)
     * Evidence is of specific instance of V's past sexual behavior with D offered for the purpose proving consent
     * Excluding evidence would violate D's constitutional rights
   * In civil cases, court my allow evidence about sexual predisposition if probative value substantially outweighs risk of unfair prejudice (FRE 412(b)(2))
@@ -410,7 +410,7 @@
     * Ability of W to accurately recall what they are testifying about - W could have poor memory, get things confused
     * Ability of W to communicate - ambiguity and inconsistencies in W's testimony
     * Ability of W to have accurately perceived subject of testimony - W could be hard of hearing, have poor eyesight or obstructed view
-  * The inverse of impeachment, in which party seeks to build the credibility of a witness (sometimes called bolstering) is generally not allowed unless it is in response to W's character being attacked by opposing party
+  * The inverse of impeachment, in which party seeks to build the credibility of a witness, sometimes called bolstering, is generally not allowed unless it is in response to W's character being attacked by opposing party
     * Introducing character evidence in defense of W's credibility after truthfulness was attacked by opposing party is known as **rehabilitation**
     * That the attack be directed at truthfulness is important; no rehabilitation if W attacked for bias, mental/sensory defect
     * Can take the form of allowing giving W chance to explain on redirect examination as well as character witness testifying in support of W's truthfulness
@@ -435,6 +435,7 @@
     * However, evidence of W's religious beliefs is not admissible to attack or support a witness’s credibility;
   * **(3) Past Specific Conduct** - attempting to call truthfulness into question by pointing to past instances of dishonest conduct (not necessarily convicted crimes); must be probative of truthfulness (i.e., makes it more or less likely that W is telling truth)
     * As with all evidence, judge may exclude under FRE 403 or 611 if decided that risk of prejudice > probative value or would cause undue embarrassment to witness
+    * Probative value on truthfulness may be greatly increased if W "opens the door" on matter by some response in testimony
     * As noted above, no extrinsic evidence; must accept W's response in cross-exam
   * **(4) Past Criminal Conduct** - attempting to call truthfulness into question by pointing to past conviction of a crime involving dishonesty/deceit (e.g., perjury, fraud) or, at court's discretion (FRE 403, slightly higher threshold if D is W), any convictions w/in the last 10 years for crimes punishable by > 1 year imprisonment
     * Extrinsic evidence in form of conviction record is admissible without first giving W chance to explain

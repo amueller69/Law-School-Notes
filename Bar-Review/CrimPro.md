@@ -120,20 +120,77 @@
   * Does not apply in  civil case, grand jury proceedings, or in parole hearings
 * Not only is illegally obtained evidence suppressed, but any derivative evidence--that which is only obtained as a result of the suppressed evidence--is also excluded in what is often referred to as the "**fruit of the poisonous tree**" doctrine
 * **Exceptions**:
-  * Where evidence is discovered from an unrelated, independent source
-  * Where discovery of the evidence was inevitable
-  * Attenuation principle - where passage of time or intervening events attenuates the causal chain between the violation and derivative evidence such that the violation is not served by suppression
-  * As noted earlier, exception for the good faith reliance on defective warrant
-
-
+  * **Independent source rule** - Where evidence is discovered via source/measures independent from the violation (e.g., where strong PC already exists at the time of unconstitutional warrantless search, can go back and get a warrant, supported by initial PC, to obtain same evidence lawfully)
+  * **Inevitable discovery** - Where discovery of the evidence was inevitable; it would have eventually been discovered absent the violation
+  * **Attenuation principle** - where passage of time or intervening events attenuates the causal chain between the violation and derivative evidence such that the violation is not served by suppression
+  * **Good faith exception** - As noted earlier, where there is good faith reliance on defective warrant (due to magistrate or other non-police error), evidence obtained is not suppressed
+* Standing requirement - since exclusionary rule operates as remedy for individuals whose 4A rights are violated, the person seeking to invoke exclusionary rule must have actually had their rights violated
+  * This means it cannot be used to suppress evidence obtained from an illegal search/seizure of a third-party
+* Cross-examination - even where illegally-obtained evidence/statement is excluded, prosecution may, for purposes of impeachment (i.e., prior inconsistent statement, contradictory evidence), question D about it in cross-examination and potentially even introduce it as extrinsic evidence if D denies it
+  * Remember: extrinsic evidence is not admissible when impeaching witness on collateral matters. If illegally obtained evidence is not relevant to material issue at trial, but only relevant insofar as it shows contradiction which damages credibility, can only inquire into it in cross-examination and must accept D's answer
 
 The right to be free from unreasonable searches and seizures must be distinguished from the remedy. The primary remedy is the “exclusionary rule,” which prevents the introduction at a subsequent criminal trial of evidence unlawfully seized. This remedy is judicially created, not constitutionally mandated. The remedy provided by the exclusionary rule generally applies to criminal trials; it does not apply in other court proceedings, including federal habeas corpus review of state convictions, grand jury proceedings, preliminary hearings, bail hearings, sentencing hearings, and proceedings to revoke parole. Evidence will also not be excluded at trial when introduced as impeachment evidence against the defendant. Finally, the exclusionary rule is not applicable to civil proceedings
 
-## 5th Amendment: Self-Incrimination
+## Confessions and Privilege Against Self-Incrimination
+
+> No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a grand jury ... ; nor shall any person be subject for the same offense to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, without just compensation. - U.S. Const., amend. V.
+
+### Privilege Against Self-Incrimination
+
+* Only protect persons from compulsory disclosure of testimonial evidence
+  * **Testimonial evidence** - the substantive content of one's mind as expressed through words; this does NOT include things like standing in a police lineup, reciting some words for purpose of voice recognition, submitting to some sort of test (e.g., handwriting, urine, blood, breathalyzer, etc.)
+  * In addition to statements, certain acts which are testimonial in nature may also be protected
+    * **Act of production doctrine** - can be invoked against requests to produce documents or other tangible evidence, the very act of which is incriminating on its own
+      * Tends to communicate that the incriminating documents exist, are under person's control, are authentic, and are relevant to the subpoena
+      * Availability of 5A privilege here depends on whether the existence of these documents is a "**foregone conclusion**" or not; if it is, 5A is N/A because production is not testimonial in nature, but rather surrendering of thing known to exist
+    * However, the contents of pre-existing documents are not subject to 5A protection (because their creation was not “compelled”); only the act of producing them in response to something like a subpoena is
+      * These can be lawfully searched for and seized
+  * **Compulsory disclosure** - compulsion can be legal (e.g., threat of being held in contempt) or physical/psychological (e.g., intimidation by police)
+    * Nor can person exercising this privilege face punishment for doing so; prosecutor in criminal case may not ask the jury to draw an inference of guilt from D's invocation of 5A rights (not necessarily the case in civil proceedings)
+
+* The 5th Amendment privilege against self-incrimination provides basis for refusal to testify in proceedings if answers provide **reasonable possibility of incriminating D in future criminal proceeding**
+  * Applies to both civil and criminal proceedings, as well as other proceedings, formal or informal (e.g., Pharma Bro's congressional testimony)
+  * Can be invoked by D in criminal proceeding against him as a basis for not taking the stand as a witness
+    * Exception: if D is granted **immunity** from criminal prosecution for anything disclosed through his testimony or anything derived from it, can be compelled to testify
+  * Other non-D witnesses can be compelled to take stand, but can invoke it as basis for refusing to respond to specific question(s)
+    * Exception: if W has already testified against D (e.g., in earlier deposition), may not be able to invoke 5A at the trial due other constitutional issues (D's right of confrontation)
+    * This privilege can be voluntarily waived
+      * D waives it by taking the stand; however, once he does, he can't invoke it to when prosecution cross-examines his testimony
+      * Witness waives it by disclosing self-incriminating information in response to a specific question
+* In addition giving right of refusal to testify in legal proceedings, 5A privilege against self-incrimination also extends to questioning while in police custody (see following sub-section)
+
+### Police Interrogations
+
+* 5th Amendment privilege against self-incrimination, combined with 6th Amendment right to counsel and rights to due process under the 5th (federal) and 14th (state) Amendments, provide number of procedural safeguards/protections for suspects in police custody
+
+* First, any incriminating statement of evidence or confession obtained as result of **custodial interrogation** may not be used against suspect at subsequent trial unless police inform subject of *Miranda* rights
+  * *Miranda* court takes expansive understanding of "compulsion" for purposes of 5A: **custodial interrogations = inherently coercive**
+    * Since 5A protects against compulsory disclosure of self-incriminating statements, *Miranda* court concluded that statements obtained through such interrogations violate 5A absent some procedural safeguard (i.e., *Miranda* warning)
+  * Custodial interrogation is what triggers need for for *Miranda* warning
+    * Custodial - in custody means **formal arrest or the deprivation of freedom/restraint of movement to an extent associated with formal arrest**
+      * Uses objective test: **given the totality of the circumstances, would reasonable person believe they could leave?**
+        * For *Miranda* purposes, traffic stops and Terry stops do not amount to custody; nor is when police question at one's home or one voluntarily goes to police station for questioning
+    * Interrogation - any action by police they **know or should know is reasonably likely to elicit an incriminating response**
+      * "should know" - means it does not require intent to elicit such a response (although intent is still relevant, as is knowledge of suspect's vulnerability)
+      * Does not include: questions need for booking, questions by undercover officers, administration of breathalyzer test, or where questions are motivated by **concern for public safety** or officer's safety
+      * Volunteered statements, those offered purely on suspect's own volition and not in response to police inquiry, do not get *Miranda* protection
+  * Miranda warning, by which law-enforcement provides suspects notice of their rights, must be issued before custodial interrogation begins
+    * ***Miranda* rights** - Law-enforcement officials must inform suspects:
+      * (1) Of their right to **remain silent**
+      * (2) Any statement made while in custody can be used **against them in court**
+      * (3) That they right to **presence of attorney**
+      * (4) If they cannot afford one, an **attorney will be appointed**
+    * Any statements before these rights are read and subsequently waived by the suspect can be **suppressed via the exclusionary exclusionary rule**
+    * 5A right to presence of attorney is not the same as 6A, only triggered after one makes a **specific, unambiguous statement asserting his desire to have attorney present**
+      * However, once invoked, **all questioning must stop until counsel is present**
+    * Likewise, **invoking right to remain silent must be done affirmatively by clear, explicit statement** saying as much
+      * If one simply remains silent, police don't have to terminate questioning, but they do if this right is invoked explicitly
+  * Waiver of **Miranda** rights must be **voluntary, knowing, and intelligent** 
 
 
-## 5th and 14th Amendments: Due Process
 
+
+    * 
 
 ### The Sweep Of Criminal Law In America
 
