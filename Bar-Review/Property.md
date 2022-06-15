@@ -47,7 +47,7 @@
 ### Defeasible Estates
 
 * **Fee Simple Determinable** - ends automatically on the occurrence of a stated condition (e.g., from A to B for as long as the property is used as a school)
-  * Grantor retains possibility of reverter; automatically terminates and thus returns to granter upon occurence of stated condition
+  * Grantor retains possibility of reverter; automatically terminates and thus returns to granter upon occurrence of stated condition
   * Conditional nature must be made clear ("so long as", "while", "until"); simply stating that you are conveying "for the purpose of” X is not enough.
 * **Fee Simple Subject to Condition Subsequent** - ends at the election of grantor upon the occurrence of stated condition
   * Grantor retains *right of entry* or *power of termination*;

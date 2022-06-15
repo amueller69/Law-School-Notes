@@ -3,22 +3,24 @@
 ## Jurisdiction
 
 * Multiple Jurisdictions - The criminal justice system is extremely decentralized with a lot of overlapping authorities; authority is dispersed throughout different levels (federal, state, municipal)
+  * If significant portions of crime occurred in more than one state, both states can prosecute
+    * Double jeopardy does not prevent this
 
 ## Elements of a Crime
 
-* No person may be convicted of an offense unless **each and every element** of such offense is proved **beyond a reasonable doubt**. In the absence of such proof, the innocence of the defendant is assumed (MPC 1.12)
+* No person may be convicted of an offense unless **each and every element of such offense is proved beyond a reasonable doubt**. In the absence of such proof, the innocence of the defendant is assumed (MPC 1.12)
   * The burden of proof is always on prosecution; does not shift
   * Supreme Court has repeatedly held that constitutional due process protections demand that "beyond a reasonable doubt" standard be met w/r/t all elements of an offense (See e.g., *In Re Winship*)
   * Does not require the disproof of an affirmative defense unless and until there is evidence supporting such defense
-  * However, there are some affirmative defenses that merely require the defendant to prove by a preponderance of evidence
+  * However, there are some affirmative defenses that merely require the defendant to prove by a preponderance of evidence or clear and convincing evidence standard
 
 * Note that all of the necessary elements of one offense may be a subset of those for a more serious offense crime; however, where a single criminal act satisfies the necessary elements of the greater offense, and thus also the lesser included offense, criminal liability is typically not imposed for both offenses
-  * Under merger doctrine, the lesser included offenses generally merge into the greater offense (i.e., can't be convicted of both)
+  * Under merger doctrine, the **lesser included offenses generally merge into the greater offense** (i.e., can't be convicted of both)
   * Example: false imprisonment is usually a lesser included offense of kidnapping
 
 ### Actus Reus
 
-* There is a difference between voluntary and blameworthy acts - Actus Reus is only one component for criminal liability; it is **necessary but not sufficient**
+* There is a difference between voluntary and blameworthy acts - Actus Reus is only one component for criminal liability; it is necessary but not sufficient
 * Components of Actus Reus - It generally includes three ingredients of a crime:
   * (1) A voluntary, conscious act or omission (see below)
   * (2) that is the cause of (see actual and proximate causation)
@@ -31,23 +33,22 @@
     * However, SC has found law criminalizing drug addiction as unconstitutional as it failed to require an act to be performed within the jurisdiction and instead imposed a crime for a status (e.g. disease); however, underlying act of possession is still punishable
 
 * **Omissions** as acts - Liability for the commission of an offense may not be based on an omission unaccompanied by action unless:
-  * the omission is expressly made sufficient by the law defining the offense; or
+  * The omission is expressly made sufficient by the law defining the offense; or
     * Some states have "Bad Samaritan Laws"
-  * a duty to perform the omitted act is otherwise imposed by law
-    * When a common law duty to act exists, and person physically capable of performing it, omission of the duty to may act serve as a legal substitute for a voluntary act
+  * A duty to perform the omitted act is otherwise imposed by law
+    * When a common law duty to act exists, and person physically capable of performing it, **failure to perform duty may serve as a legal substitute for a voluntary act**
     * Some affirmative duties to aid/rescue/intervene within certain special/contractual relationships, where person has already begun voluntarily rendering aid and abandons doing so, or where person is responsible for creating risk of harm
 
 * Purpose of Actus Reus:
   * Consistent with both MPC and common law conception of culpability, in which you need both a guilty mind (mens rea) and an action on the guilty mind (actus reus) - we don’t punish people for evil thoughts alone (although some crimes such as conspiracy involve planning)
   * Reflects idea that punishment can't deter involuntary actions or conditions
 
-
 ### Mens Rea
 
 * Conceptions of mens rea
   * Broad meaning - Essentially refers to the blameworthiness entailed in choosing to commit a criminal wrong (literally translates to "guilty mind"); reflects the common sense view that blame/punishment are inappropriate in the absence of choice
   * Narrow or “elemental” meaning – a formal/technical requirement for a particular mental awareness or intention, provided for in the definition of an offense, that must accompany the act. Person may possess mens rea in the culpability sense of the term, and yet lack the requisite elemental mens rea. Analysis here looks at whether D intended, expected, or should have expected actions to produce consequences
-    * Required mental state is the one possessed at the of the act, not before or after
+    * Contemporaneous with act - required mental state is the one possessed at the of the act, not before or after
 
 * Four states of mind--aka levels of mens rea or "modes of culpability"--defined by MPC
   * Unless otherwise stated by statute/existing law, person not guilty unless they acted with one of these w/r/t each material element of the offense
@@ -56,12 +57,12 @@
       * Not a huge difference b/w this and purposefully, considering people don't typically act in a way that will yield a certain result unless they desire it
       * Knowledge = awareness that harm is practically certain, whereas recklessness = risk is substantial
         * Willful blindness standard (federal, most states) - where D subjectively believes the probability is high AND takes deliberate actions to avoid learning this fact, then this type of awareness is more culpable than recklessness (i.e. on the same level as knowledge)
-    * **Recklessly** -  acts recklessly w/r/t element when one consciously disregards a substantial and unjustifiable risk that exists or will result from D's conduct; risk must be such that, considering D's conduct and circumstances known to him, disregarding it involves gross deviation from the reasonable person standard
+    * **Recklessly** -  acts recklessly w/r/t element when one **consciously disregards a substantial and unjustifiable risk** that exists or will result from D's conduct; risk must be such that, considering D's conduct and circumstances known to him, disregarding it involves gross deviation from the reasonable person standard
       * Requires 1) conscious risk creation (i.e., actor is aware there is a risk); 2) risk is substantial; and 3) that the risk is unjustifiable
-    * **Negligently** - acts negligently w/r/t element when D should be aware of a substantial and unjustifiable risk exists or will result from his conduct; risk must be of such that, considering D's conduct and circumstances known to him, failure to perceive it involves a gross deviation from the standard of care that a reasonable person would exercise in the situation
+    * **Negligently** - acts negligently w/r/t element when D **should be aware of a substantial and unjustifiable risk** that exists or will result from his conduct; risk must be of such that, considering D's conduct and circumstances known to him, failure to perceive it involves a gross deviation from the standard of care that a reasonable person would exercise in the situation
       * Different b/w reckless and negligent is one of awareness; reckless = aware but disregard, while negligent = unaware due to lack of care
       * Calculation of reasonableness often involves weighing gravity of the potential harm, the probability of such harm occurring, and the burden to D in refraining from the risky conduct
-        * Though this resembles the reasonableness analysis from tort law, there is a distinction between civil and criminal negligence: prosecution must ordinarily show more than mere deviation from the standard of care that would constitute civil negligence; gross amount of negligence to qualify for criminal liability (but NOT recklessness)
+        * Though this resembles the reasonableness analysis from tort law, there is a distinction between civil and criminal negligence: prosecution must ordinarily show more than mere deviation from the standard of care that would constitute civil negligence; **gross amount of negligence**to qualify for criminal liability (but NOT recklessness)
         * Convictions for criminal negligence using simple reasonableness standard have been overturned; still needs to be some conscious moral wrongdoing that is worthy of being criminally condemned
   * Two steps of MPC mens rea analysis:
     * (1) Determine the "material elements" of an offense
@@ -70,7 +71,7 @@
       * If required mens rea is not stated for any element of the offense, then default minimum level of mens rea is generally recklessness
 
 * Common law states of mind - although many states have fully adopted MPC approach, others still employ some/all mental states that developed under the common law
-  * **Specific intent** - requiring either proof of an intention to perform some future act/achieve some further objective BEYOND the immediate conduct/result, proof that there was a subjective desire to bring about a particular bad result, or proof of knowledge that certain bad result was certain to occur
+  * **Specific intent** - requiring either proof of an **intention to perform some future act/achieve some further objective BEYOND the immediate conduct/result**, proof that there was a **subjective desire to bring about a particular bad result**, OR proof of **knowledge that certain bad result was certain** to occur
     * Include:
       * First-degree murder
       * Aggravated battery or assault with intent to commit a battery
@@ -79,8 +80,8 @@
     * These offenses can often be recognized language such as "[ x ] with the intent to [ y ]" or "[ x ] with the purpose of [ y ]"
     * Can be contrast with general intent (see below), which merely requires proof of D's intent to perform the unlawful act itself
     * Things like voluntary intoxication or mistake of fact may be defenses to specific intent offenses (See Defenses section)
-  * Malice - malice is basically the common law analog to the MPC's “recklessness”
-  * **General intent** - only requires that actor intended to perform the act that is considered unlawful without any specific intended result desired or in furtherance of some other objective
+  * Malice - malice is basically the common law analog to the MPC's “recklessness”;
+  * **General intent** - only requires that actor **intended to perform the act that is considered unlawful without any specific intended result desired or in furtherance of some other objective**
     * However, when someone performs an act with intent to harm one person and it ends up harming another one, can still be specific intent even though did not intend that particular result under the doctrine of **transferred intent**
   * Finally, although this has been explicitly rejecting by MPC, there is also strict liability, in which no mens rea is required at all
     * Considering rationale for the mens requirement that strict liability disposes of, it is unsurprising that these are generally disfavored
@@ -95,12 +96,12 @@
     * Still need both; failure to prove either should result in acquittal
 * **But-For Causation**, aka actual causation or causation in fact - There can be no criminal responsibility for resulting social harm unless it can be shown that the defendant’s conduct was a cause-in-fact of the prohibited result
   * Ask: But for D’s voluntary acts, would the social harm have occurred when it did?
-  * **Must be established beyond a reasonable doubt that his conduct is the cause in-fact of victim’s death**; much higher than in tort law
+  * **Must be established beyond a reasonable doubt that his conduct is the cause in-fact** of victim’s death; much higher than in tort law
 * **Proximate Causation** - limits criminal responsibility to those consequences which are (objectively) forseeable; asks if the result so improbable or far removed from the cause that imposing criminal liability would be in the interest of fairness and justice
-  * Forseeable = consequence could have been reasonably contemplated by an ordinary person in D's position; consequence is the natural and probable result of the cause
+  * **Forseeable** = consequence could have been **reasonably contemplated by an ordinary person** in D's position; consequence is the **natural and probable result** of the cause
   * Most causation problems are of this variety; there are two situations where proximate cause is present:
     * Direct Proximate Cause - where the sole actual cause, proximate one unless so unforeseeable that could only be characterized as a freak accident
-    * Intervening Causes - where there are other actual causes, these are only superseding (i.e., enough to sever proximate causation) if completely independent and unforeseeable
+    * Intervening Causes - where there are other actual causes, these are only **superseding** (i.e., enough to sever proximate causation) if completely independent and unforeseeable
 
 ### Summary
 
@@ -129,7 +130,7 @@
 
 ### Murder
 
-* Murder is the unlawful killing of another of another human being with malice aforethought
+* Murder is the **unlawful killing of another of another human being with malice aforethought**
   * Malice aforethought is a category of more culpable mental states that are sufficient to elevate a homicide to the more serious offense of murder; it can consist of one of the following:
     * the specific intention to cause death (express malice)
     * intention to cause grave bodily harm
@@ -137,41 +138,41 @@
     * intent to commit an inherently dangerous felony
   
 * **First degree murder** - majority of modern jurisdictions recognize this category, which is reserved for the most serious killings
-  * A criminal homicide constitutes murder of the first degree when it is committed by an intentional and premeditated killing; this is a **specific-intent offense**
+  * A criminal homicide constitutes murder of the first degree when it is committed by an **deliberate and premeditated killing**; this is a **specific-intent offense**
     * Needs to be deliberation/premeditation (distinguishing it from "heat of passion") though majority states use approach where this can be established instantaneously (minority require length of time which permits reflection)
-    * To prove that killing was deliberate and premeditated, usually need strong evidence of two or more of the following:
+    * To prove that killing was deliberate and premeditated, **usually need strong evidence of two or more of the following**:
       * Planning – Evidence that shows the D planned to take a life before the act will sufficiently prove premeditation and deliberateness
       * Motive – Facts about the defendant’s prior relationship with the victim might indicate a reason to kill
       * Manner of the Killing – Evidence that the manner of the killing was so particular and exacting that the D must have intentionally killed according to preconceived design
-  * **Felony murder as first degree murder** - if killing is proximately caused by and occurs when D is engaged, or acting as an an accomplice, in the commission/attempted commission of a felony deemed to be sufficiently inherently dangerous to human life, can be elevated to first degree in many jurisdictions (even absent premeditation)
-    * Usually one of the following: burglary, arson, rape, robbery, or kidnapping
+  * **Felony murder as first degree murder** - if killing is **proximately caused** by and occurs in D's **commission/attempted commission of or participation in a felony** deemed to be sufficiently **inherently dangerous** to human life can be elevated to first degree in many jurisdictions (even absent premeditation)
+    * Usually one of the following: **burglary, arson, rape, robbery, or kidnapping**
     * Need to prove that commission of the underlying felony, which must be have a purpose independent of the killing itself such that the underlying felony does not collapse into the killing under merger doctrine (e.g., if D murders V with a gun, can't use assault with a deadly weapon as underlying felony since this act is part of the killing)
-    * Also typically requires that the killing is done **in furtherance** of the underlying felony (i.e., can't be entirely unrelated to it or occur afterwards)
-      * If someone is killed in resistance to the felony (e.g., if robbery results in shootout where police kills bystander), minority of jurisdiction may hold D responsible even if he nor co-felon directly killed the victim (proximate cause theory, in contrast with the agency theory adopted in the majority)
+    * Also typically requires that the killing is done **in furtherance of the underlying felony** (i.e., can't be entirely unrelated to it or occur afterwards)
+      * If someone is killed in resistance to the felony (e.g., if robbery results in shootout where police kills bystander), minority of jurisdiction may hold D responsible even though neither he nor co-felon directly killed the victim (proximate cause theory); this can be contrasted with the agency theory (majority rule) in which individual is only responsible for his own acts and those of his agents (i.e., co-felons)
 
-* **Second degree murder** - killing that occurs with malice aforethought but without the elements of deliberation/premeditation needed for first degree; this is a malice offense (under common law), rather than specific intent one, meaning intent to kill can be absent
+* **Second degree murder** - killing that occurs **with malice aforethought but without the elements of deliberation/premeditation** needed for first degree; this is a malice offense (under common law), rather than specific intent one, meaning intent to kill can be absent
   * Second-degree murder when:
-    * the type of malice aforethought present at the time of killing was intention to cause grave bodily harm or reckless disregarded for human life (instead of intent to kill)
+    * the type of malice aforethought present at the time of killing was **intention to cause grave bodily harm or reckless disregarded for human life**(short of intent to kill)
     * if killing occurs in the commission of an unspecified felony (i.e., those not recognized by the statute as grounds for first degree, such as burglary, arson, robbery kidnappings)
-    * where there is specific intent to kill but without the element of premeditation or circumstances (e.g., provocation) that mitigate to voluntary manslaughter (sometimes this is recognized as a separate grade of murder such as third degree)
+    * Where there is specific intent to kill but without the element of premeditation or circumstances (e.g., provocation) that mitigate to voluntary manslaughter (sometimes this is recognized as a separate grade of murder such as third degree)
 
 ### Manslaughter
 
-* Unlawful killing of another human being without malice afore; can be either voluntary (intentional) or involuntary (conduct/result not intentional)
-  * Unlawful intentional killings are presumed to be murder; D has burden of proving circumstances that reduce to manslaughter
-* **Voluntary manslaughter** - if at the time of the killing he is acting under a sudden and intense passion resulting from serious provocation by the individual killed
-  * Circumstances considered subjectively and objectively to determine if provocation was adequate
-    * D was actually provoked and an ordinary/reasonable person would similarly lose control under those circumstances
+* Manslaughter is **unlawful killing of another human being without malice aforethought**; can be either voluntary (intentional) or involuntary (conduct/result not intentional)
+  * **Unlawful intentional killings are presumed to be murder; D has burden of proving circumstances** that reduce to manslaughter
+* **Voluntary manslaughter** - if at the time of the killing he is acting under a **sudden and intense passion resulting from serious provocation** by the individual killed
+  * Circumstances considered subjectively and objectively; **provocation was adequate if**:
+    * D was **actually provoked and an ordinary/reasonable person would similarly lose control** under those circumstances
       * Mere words are not alone enough to adequately provoke
-    * Time between provocation and killing was not long enough for D to cool down, nor would it have been for  ordinary/reasonable person in his position
+    * Time between provocation and killing was **not long enough for D, or ordinary/reasonable person in his position, to cool down**
   * Unreasonable Belief Killing Justifiable: in many jurisdictions, person who intentionally/knowingly kills someone commits voluntary manslaughter if at the time he believes the circumstances to be such that, if they existed, would justify the killing, but his belief is unreasonable (e.g., D believes V has a gun and intends to kill him)
   * **MPC approach** (little less than half of states) - In order to mitigate from murder to manslaughter under the MPC, you therefore need two things:
     * Extreme Mental or Emotional Disturbance
     * There is a Reasonable Explanation as to why the defendant acted as he did
       * Empirical evidence suggest these defenses are rarely successful under strict adoptions of the MPC approach
-* **Involuntary Manslaughter** - person is guilty of involuntary manslaughter when as a direct result of doing an act in a reckless (but not to the extent of extreme disregard for human life) or grossly negligent manner they causes the death of another person
+* **Involuntary Manslaughter** - person is guilty of involuntary manslaughter when as a direct result of doing an act in a **reckless** (but not to the extent of extreme disregard for human life) **or grossly negligent manner** they cause the death of another person
   * Remember - standard for finding criminal negligence is much higher than civil;
-  * Can also be for unintentional killings that occur in the commission of a misdemeanor or certain types of felonies that are not grounds for first or second-degree murder under the felony murder rule
+  * Can also be for unintentional killings that **occur in the commission of a misdemeanor or certain types of felonies that are not grounds for first or second-degree murder** under the felony murder rule
   * MPC approach - Creates two crimes:  manslaughter and lesser crime of negligent homicide - which are distinguished by awareness of unwarranted risk
     * Manslaughter if actor was "reckless", meaning he "**consciously** disregarded substantial and unjustifiable risk of conduct causing death to another"
     * Killing is negligent only where he **should** have been aware of such risks
@@ -184,115 +185,115 @@
 
 * **Larceny** - a specific intent crime at common law
   * Consists of the following elements:
-    * (1) trespassory taking (i.e., taking possession without consent)
-    * (2) and carrying away of
-    * (3) another's personal property
-    * (4) with intent to permanently deprive them of it
-      * Where the intent is only to temporarily deprive them of (i.e., borrow) it, may still be guilty of lesser included offense of **wrongful appropriation**
+    * (1) **trespassory taking** (i.e., taking possession without consent)
+    * (2) and **carrying away** of
+    * (3) **another's personal property**
+    * (4) with **intent to permanently deprive** them of it
+      * Where the intent is only to temporarily deprive them of (i.e., borrow) it, may still be guilty of lesser included offense of wrongful appropriation
       * Under doctrine of continuing trespass, this intent may be formed only after property is taken into possession and still give rise to criminal liability for larceny
-  * **Larceny by Trick** – obtain possession (but not title) of the personal property of another by deception/misrepresentation
+  * **Larceny by Trick** – obtain **possession, but not title**, of the personal property of another by deception/misrepresentation
     * Different than false pretenses (see below) because title not transferred
     * Example: ask to borrow car w/ promise to pay favor in return without actually intending to ever return the car or the favor
 
 * **False pretenses** - specific-intent offense, though it has statutory, rather than common law, origin
   * Consists of:
-    * (1) obtaining title
-    * (2) to personal property
-    * (3) by knowingly making false statement of material fact
-    * (4) and with intent to defraud
-  * Note: Person from whom title is acquired must actually rely on the false statements/representations (doesn't matter if unreasonable)
+    * (1) **obtaining title**
+    * (2) to **personal property**
+    * (3) by **knowingly making false statement of material fact**
+    * (4) and with **intent to defraud**
+  * Note: Person from whom title is acquired **must actually rely on the false statements/representations** (doesn't matter if unreasonable)
 
 * **Embezzlement** - specific intent offense by someone entrusted with or authorized to possess property
   * Consists of:
-    * (1) The fraudulent
+    * (1) The **fraudulent**
       * Specific intent to defraud
-    * (2) Conversion
+    * (2) **Conversion**
       * Conversion = inappropriate use/alteration of another's personal property in a way that causes a serious interference with their rights
-    * (3) Of personal property of another
-    * (4) By a person with lawful possession of that property
+    * (3) Of **personal property** of another
+    * (4) **By a person with lawful possession** of that property
       * This is what separates it from larceny; property is already entrusted w/ someone
 
 * **Receiving Stolen Property** - specific intent offense for knowingly acquiring stolen property with intent not to return it to owner
   * Person is guilty of receiving stolen property when:
-    * (1) they possession of stolen property
-    * (2) with knowledge the property is stolen when receiving it
-    * (3) with the intent to permanently deprive the owner of the property
+    * (1) they are **in possession of stolen property**
+    * (2) that they **received with knowledge of its status**
+    * (3) with the **intent to permanently deprive** the owner of the property
 
 * **Robbery** - specific intent; combination of larceny and assault/battery
   * Consists of:
-    * (1) larceny
-    * (2) from or in the immediate presence of the victim
-    * (3) by force or intimidation
+    * (1) **larceny**
+    * (2) **from or in the immediate presence of the victim**
+    * (3) **by force or intimidation**
       * Where force, must be greater than is necessary to simply take property away (i.e., more than just pickpocketing)
       * Where intimidation, must place person in fear of immediate physical harm
-      * Where the additional element of a weapon is involved -> **armed robbery**
-    * Merges with larceny and/or assault (and potentially even battery)
+      * Where the additional element of a **weapon is involved** -> **armed robbery**
+    * **Merges with lesser included offenses** of larceny and/or assault (and potentially even battery)
 
 ### Burglary
 
 * Common law burglary traditionally consisted of:
-  * (1) breaking and entering
+  * (1) **breaking and entering**
     * Must be some act used to gain entry (i.e., can't be open door)
       * physical force no longer required, can be constructive (gained entry via fraud, threats, etc.)
     * AND must be *some* physical entry
-  * (2) into another persons dwelling
+  * (2) **into another persons dwelling**
     * most jurisdictions have since expanded to other buildings
   * (3) at night
     * most modern jurisdictions have also done away with this)
-  * (4) with the purpose of committing a felony inside
+  * (4) **with the purpose of committing a felony inside**
     * This is makes it **specific-intent crime**; must intend to perform some act inside that would constitute a felony
     * This intent must precede the breaking/entering
-* Burglary does not merge with the predicate felony under the merger doctrine
+* Burglary **does not merge with the intended felony** under the merger doctrine
   * Can be convicted of both burglary AND the underlying felony
   * Even if underlying felony fails, can be convicted of both burglary AND attempt of the underlying felony 
 
 ### Rape
 
 * Elements of the offense:
-  * (1) Sexual intercourse (of any form)
-  * (2) By force or threat of force
+  * (1) **Sexual intercourse** (of any form)
+  * (2) By force or threat of force (MPC retains this element, many jurisdictions have moved away from it)
     * Used to require physical force, but rarely the case now as many states have dropped it reasoning that force is implied by non-consent
     * Where force requirement still exists, can include intellectual, emotional or psychological force, express/implied physical threats, coercion, or extortion
-  * (3) Without consent by the victim
+  * (3) **Without consent** by the victim
     * Under MPC approach, consent is revocable at any time and cannot be established by the absence of physical resistance
     * Defective consent
       * Maturity - Statutes draw bright line by setting specific age of consent on of concerns for young person's capacity to make a mature decision (Statutory Rape)
       * Intellectual disability is another ground for invalidating consent
       * Incapacity - Liability for rape where person in unconscious or severely incapacitated by drugs or alcohol
       * Authority and Trust - Outside of context of psychiatrist-patient relationships, criminal law generally does not invalidate consent in adult relationships
-* Rape as a Strict Liability Offense (Statutory Rape)
-  * Minor cannot consent, as a matter of law
+  * Offense was traditionally limited to man against woman who is not his wife; since moved away from this
+* Rape as a Strict Liability Offense (**Statutory Rape**)
+  * **Minor cannot consent**, as a matter of law
   * Mistake of fact based on V's age is typically not a defense; if uncertain about age, D take affirmative steps to make sure
     * Example: Mass. App. Ct. case in which court refused to acknowledge this defense even where belief that victim consented were reasonable
     * Many states still recognize this defense where reasonable, but varies. Some states (e.g. CA) have become increasingly hesitant to instruct juries unless there is substantial evidence of conduct by female which would reasonably lead to belief of consent
 
 ### Assault and Battery
 
-* Battery – is the (1) unlawful/reckless application of force, (2) directly or indirectly upon another person (or their close personal belongings), (3) resulting in injury or offensive contact (though not necessarily physical harm)
-  * General intent crime, so intent to cause injury is unnecessary
+* **Battery** – is the (1) **unlawful/reckless application of force**, (2) directly or indirectly **upon another person** (or their close personal belongings), (3) resulting in **injury or offensive contact** (though not necessarily physical harm)
+  * **General intent** crime, so intent to cause injury is unnecessary
   * Also an offense called mayhem that was recognized at common law for serious forms of battery that lead to some permanent damage/injury to person
 Assault – doesn't necessarily require physical contact; can be either:
-  * (a) an attempted battery - requires substantial step toward completion of the crime of battery
-    * Specific intent crime, must intend to commit battery
-  * (b) apprehension assault - intentionally placing another person in fear of imminent bodily harm
+  * (a) an **attempted battery (intentional)** - requires substantial step toward completion of the crime of battery; specific intent crime
+  * (b) **apprehension assault** - **intentionally creating (reasonable) fear of imminent bodily harm in victim**
     * unlike attempted battery assault, which focuses on D's mental state, apprehension assault focuses on V's state of mind (whether their apprehension is reasonable)
 
 ### Kidnapping
 
-* Defined as the unlawful confinement of a person without valid consent that involves either:
-  * Some movement of the victim from one place to another
-  * Concealment of the victim in a “secret place”
+* Defined as the **unlawful confinement of a person without valid consent involving**  either:
+  * Some **movement of the victim** from one place to another **OR**
+  * **Concealment** of the victim in a “secret place”
 * Kidnapping is similar to criminal false imprisonment, but takes it one step further
-  * False imprisonment = unlawful confinement of person without valid consent (no movement or concealment required)
+  * **False imprisonment = unlawful confinement of person without valid consent** (no movement or concealment required)
   * Since the act of false imprisonment, a lesser offense, is included in kidnapping, the former merges into the latter under the merger doctrine
 
 ### Arson
 
 * Arson has three components. It is the
-  * (1) malicious (mens rea, malice/recklessness or higher)
-  * (2) burning (actus reus)
+  * (1) **malicious** (mens rea, malice/recklessness or higher)
+  * (2) **burning** (actus reus)
     * Most jurisdictions recognize causing explosive damage = burning
-  * (3) of another person's dwelling
+  * (3) of **another person's dwelling**
     * Many jurisdictions extend this to other types of buildings or even vehicles
 
 ---
@@ -301,21 +302,21 @@ Assault – doesn't necessarily require physical contact; can be either:
 
 ### Attempt
 
-* A person commits the offense of attempt when, with specific intent to commit a specific offense, he does any act which constitutes a substantial step towards the commission of that offense
+* A person commits the offense of attempt when, **with specific intent to commit an offense**, he does any act which constitutes a **substantial step towards the commission** of that offense
   * Under MPC, attempt also includes purposely engaging in conduct which would constitute the crime if the attendant circumstances were as he believes them to be (i.e., reverse mistake of fact)
     * This rejects factual impossibility as a defense to attempt
 * Substantial Step - majority of jurisdiction use this test demarcate attempt from preparation
-  * Step needs to be an overt act strongly corroborative of the actor's criminal purpose (more than just preparation); this can include:
+  * Step needs to be an overt act **strongly corroborative of the actor's criminal purpose (more than just preparation)**; this can include:
     * Lying in wait, searching for or following the contemplated victim of the crime;
     * Enticing or seeking to entice the contemplated victim of the crime to go to the place contemplated for its commission;
     * Reconnoitering the place contemplated for the commission of the crime;
     * Possession, collection or fabrication of materials to be used in crime, at/near the contemplated crime scene OR specially designed for such unlawful use, where such possession serves no other lawful purpose
     * Unlawful entry of a structure, vehicle or enclosure in which it is contemplated that the crime will be committed;
-  * Minority of jurisdictions use alternatives to substantial
-    * Proximity test - requires coming dangerously close completion; in all reasonable probability, crime would have been successfully completed but for timely intervention
+  * **Minority** of jurisdictions use alternatives to substantial step:
+    * **Proximity test** - requires coming **dangerously close completion**; in all reasonable probability, crime would have been successfully completed but for timely intervention
     * Unequivocally test - does not constitute an attempt until it becomes unequivocal. That is, an attempt occurs when a person’s conduct, standing alone, unambiguously manifests her criminal intent
-* Abandonment - Once a D has moved from mere preparation to attempt by taking substantial step, abandonment is generally not recognized as defense to attempt
-  * To the extent this defense is recognized today (minority of states, MPC), however, it applies **only if the defendant voluntary and completely renounces her criminal purpose** (must be genuine change of heart) and completely terminates/prevents commission of crime
+* **Abandonment** - Once a D has moved from mere preparation to attempt by taking substantial step, **abandonment is generally not recognized as defense** to attempt
+  * **MPC and minority of states do recognize** version of abandonment defense, however, it applies **only if the defendant voluntary and completely renounces her criminal purpose** (must be genuine change of heart) and **completely terminates/prevents commission** of crime
 * Note: through the merger doctrine, attempt collapses into the crime upon its successful commission; can't be charged with both the crime and attempted crime
 
 ### Conspiracy
@@ -327,38 +328,38 @@ Assault – doesn't necessarily require physical contact; can be either:
       * Agrees with such other person(s) that one or more of them will engage in conduct that constitutes such crime/attempt/solicitation
       * OR agrees to aid such other person or persons in the planning or commission of such crime/attempt/solicitation
     * Must be an overt act in pursuance of such conspiracy is alleged and proved to have been done by D or co-conspirator
-  * Common law rule - Same as the above but **without overt act requirement**
+  * **Common law rule** - Same as the above but **without overt act requirement**
 * Actus reus of the common law offense of conspiracy is the agreement itself
   * When there is independent, parallel actions occurring – there is no conspiracy
   * Since evidence that explicitly shows conspiracy rarely exist, conspiratorial agreement often inferred from surrounding circumstances (i.e., concerted action)
   * For traditional common law conspiracy, needed at least two parties; however MPC and modern jurisdictions recognize possibility of unilateral conspiracy (e.g., only one actually intends to agree)
-    * Wharton Rule - if a crime requires two or more participants (e.g., drug sale), not conspiracy unless more parties than are necessary to complete the crime agree to commit the crime; however, cans still be convicted of the underlying crime
+    * **Wharton Rule** - if a crime requires two or more participants (e.g., drug sale), **not conspiracy unless more parties than are necessary** to complete the crime agree to commit the crime; however, cans still be convicted of the underlying crime
   * As noted above, MPC and majority of states also require overt act towards criminal object
-    * The overt act required here can be less substantial than that for attempt
+    * The overt act required here can be less substantial than for attempt
     * Needs only be taken by one co-conspirator
     * Example: A and B say “let’s rob a bank” and B goes and Googles local banks. This is usually enough of an overt act
-  * Failure of the conspiracy's criminal objective is not a defense, nor is factual impossibility
-* Mens Rea of Conspiracy - goes beyond mere knowledge of the conspiracy; need both intent to enter agreement AND intent to pursue criminal objective
-  * This is true even if the crime which the parties conspire to commit is not a specific-intent offense
-  * Like with existence of agreement, intent to agree can be inferred
+  * **Failure** of the conspiracy's criminal objective is **not a defense, nor is factual impossibility**
+* Mens Rea of Conspiracy - goes beyond mere knowledge of the conspiracy; **need both intent to enter agreement AND intent to further/pursue criminal objective**
+  * This is true *even if the crime which the parties conspire to commit is not a specific-intent* offense
+  * Like with **existence of agreement, intent to agree can be inferred**
   * Example - *People v Lauria* (1967 CA): Court overturns conspiracy conviction for D, who owned company providing telephone answering services for prostitution ring and allegedly knew about their criminal purpose.
     * Court rules that knowledge of illegal use of the services he furnished is not enough; must be intent to participate in and further the criminal purpose
-    * This intent may be inferred from knowledge if no other legit purpose for goods/services, if D takes personal stake/special interest in venture (e.g., gets a cut of their profit, is dependent on their business), or if criminal is of an aggravated/heinous nature (duty to disassociate for serious crimes)
-* Merger - **does not apply here**; can be charged with conspiracy to commit a crime and the crime itself
+    * This **intent may be inferred from knowledge in circumstances**, such as if no other legit purpose for goods/services, if D takes personal stake/special interest in venture (e.g., gets a cut of their profit, is dependent on their business), or if criminal is of an aggravated/heinous nature (duty to disassociate for serious crimes)
+* **Merger - does not apply here**; can be charged with conspiracy to commit a crime and the crime itself
   * However, where single conspiracy involves multiple crimes, can only be convicted of conspiracy once
-* Withdrawal - defense for the substantive offense of conspiracy not traditionally recognized at common law; once you agree, the crime has been committed (since no overt act requirement)
-  * However, under approach endorsed MPC and majority of states, can withdraw after the agreement if expresses intent to no longer participate before overt act taken; if overt action is taken, MPC recognizes defense if actor completely renounces criminal purpose and thwarts the success of the conspiracy
-  * May be a defense to liability for substantive crimes committed by co-conspirators that are imputed to him; must withdraw before they are committed and not aid/abet
+* **Withdrawal** - common law traditionally **did not recognize it as defense to the substantive offense of conspiracy**; once you agree, the crime has been committed (since no overt act requirement)
+  * However, under **modern majority/MPC approach** , **can withdraw after the agreement if expresses intent to no longer participate before overt act taken**; **if overt action is taken**, MPC recognizes **defense only if actor completely renounces** criminal purpose **and thwarts the success** of the conspiracy
+  * May be a **defense to liability for substantive crimes committed by co-conspirators** that are imputed to him; must withdraw before they are committed and not aid/abet
 
 ### Solicitation
 
 * Solicitation - Inchoate offense of requesting another person commit a target crime
   * Courts differ over question whether solicitation itself constitutes an attempt by the person making it
     * Some states hold solicitor cannot be convicted of attempt because it is not his purpose to commit the offense personally
-  * Solicitation is basically attempted conspiracy, and like with attempt, solicitation merges with offense upon its successful completion (or its attempt)
-* Person is guilty of solicitation if D requests, commands, encourages a person to attempt or commit a crime with intent for them to commit such crime
+  * Solicitation is basically attempted conspiracy, and like with attempt, **solicitation merges with offense** upon its successful completion (or its attempt)
+* Person is guilty of **solicitation if D requests, commands, encourages a person to attempt or commit a crime with intent for them to commit** such crime
   * Failed communication is still sufficient for solicitation, not a defense
-  * Under MPC, withdrawal is defense if D renounces and voluntarily thwarts the target crime, however majority reject this
+* Withdrawal defense - **Majority of states reject withdrawal** defense; **Under MPC, withdrawal is defense if D renounces and voluntarily thwarts** the target crime
 
 ---
 
@@ -375,10 +376,10 @@ Assault – doesn't necessarily require physical contact; can be either:
     * Constructively present- can be some instrumentality he placed at scene and/or controls remotely that is used to effectuate crime (e.g., a bomb)
   * Principal (2nd degree) - Present at the scene of the crime (physically or constructively) and aids & abets commission of the crime, but does not actually commit the crime
     * Constructively present - can be standing close by, providing assistance or giving commands (e.g., lookout guy, getaway driver)
-  * Accessory before the fact - person who, though **not present** nor participating in the actual commission of the crime, aids and/or abets the principle(s) before and/or during the crime's commission and has requisite intent
+  * Accessory before the fact - person who, though not present nor participating in the actual commission of the crime, **aids and/or abets** the principle(s) before and/or during the crime's commission and has requisite intent
     * Aids and abets = encouraged or helped plan/prepare for crime, procured necessary materials, provided instructions, etc.
       * Not much required for finding of encouragement; mere words suffice
-    * Required mental state in majority of states is **dual intent** (both intent to perform act that aids/abets as well as intent for crime to be committed); however, minority only require intent to perform act that aids/abets, meaning person who provides assistance to person known to have a criminal purpose may be liable for his crime, even if he has no intent for it to succeed
+    * Required mental state in majority of states is **dual intent: both intent to perform act that aids/abets as well as intent for crime to be committed**; however, minority only require intent to perform act that aids/abets, meaning person who provides assistance to person known to have a criminal purpose may be liable for his crime, even if he has no intent for it to succeed
     * A second-degree principal and accessory before the fact can be held **equally criminally liable for the principal's offenses and all other offenses that are reasonably foreseeable** (i.e,, natural and probable consequences)
     * At common law, big distinction between this and principal in the second degree is that if the primary principal were acquitted, the accessory could not be convicted
     * Finally, note that special classes receiving statutory protection cannot be accomplices (e.g., minor who solicits someone to buy and furnish him alcohol)
@@ -393,16 +394,16 @@ Assault – doesn't necessarily require physical contact; can be either:
       * **solicits** such other person to commit it, OR
       * **aids or agrees or attempts** to aid such other person in planning or committing it, or
       * **fails to make proper effort so to discharge legal duty to prevent commission of offense**
-  * If a specific result is an element of the target crime, D acts with “**the kind of culpability, if any, with respect to that result that is sufficient for commission of the offense**”
+  * If a specific result is an element of the target crime, **D acts with “the kind of culpability, if any, with respect to that result that is sufficient for commission of the offense**”
     * Example: Where 3rd degree murder is satisfied by gross recklessness, accomplice that aids with same level of recklessness with respect to the result needed can be held legally accountable as an accomplice
     * Note: some (minority) jurisdictions will actually require higher mens rea than required for target offenses in which recklessness suffices; here, P must still prove that accomplice had intent for the crime to be committed; under similar reasoning, many jurisdiction do not allow accomplice liability to attach for offenses like involuntary manslaughter
 
 * Although accomplice liability is not itself an independent offense, rather a means of holding individuals criminally responsible for offenses committed by others, many jurisdictions have separate offenses for providing assistance (e.g., aiding and abetting, criminal facilitation)
   * These are lesser offenses than the crime committed by the principal, but relevant where lacking proof that accomplice had mental state needed for accomplice liability (i.e., intent for crime to be committed
 
-* Withdrawal - this defense to accomplice liability is widely recognized; even after person has rendered aid to person with criminal purpose, potential accomplice can still  avoid criminally responsibility being imputed to him if, before the offense has been committed/becomes unstoppable:
-  * he repudiates aid/encouragement given AND
-  * does all that is possible to negate/counteract this assistance
+* **Withdrawal** - this defense to accomplice liability is **widely recognized**; even after person has rendered aid to person with criminal purpose, potential accomplice can still  avoid criminally responsibility being imputed to him if, **before the offense has been committed/becomes unstoppable:**
+  * he **repudiates** aid/encouragement given AND
+  * **does all that is possible to negate/counteract** this assistance
 
 ### Conspiracy as a Form of Accomplice Liability
 
@@ -442,79 +443,45 @@ Assault – doesn't necessarily require physical contact; can be either:
       * Those that produce deficient but reasonable actions (voluntary, but choice is constrained)
       * Those that render all actions irresponsible; person not responsible moral agents at the time (e.g., insanity, infancy)
 
-### Insanity (H)
+### Insanity
 
-* **Insanity** - A defense negating mens rea or affirmative defense that D committed criminal act while suffering a legally recognized abnormal mental condition
+* **Insanity** - A defense negating mens rea or, more commonly, affirmative defense that D committed criminal act while suffering a legally recognized abnormal mental condition
   * Two types of behavior insanity covers
     * Cognitive defect – D didn’t understand the significance of his actions
     * Behavioral defect – D couldn’t control himself
-  * *Ford v. Wainwright*: Supreme Court declares that the Eighth Amendment bars execution of the insane. Court stated that the defendant must have a rational understanding rather than mere awareness of the nexus between his crime and the punishment
-  * *Atkins v. Virginia*: Eighth Amendment forbids execution of people with mental retardation
 
 * Important terms:
-  * Mental Illness - Medical term referring to D’s diagnosed mental disorder, which ranges in severity and type (personality, psychotic, depression, etc)
-  * Insanity - Legal term referring to D’s mental state at time of the crime that may preclude culpability
-  * Incompetence - Legal term referring to D’s mental state at time of legal proceedings preventing “rational” and “factual” understanding of the proceedings against him, which may preclude ability to stand trial, undertake a responsibility, or get executed (including mentally disabled)
-    * **MPC §4.04** - Competence to be Tried and Sentence: No person who as a result of mental disease or defect lacks capacity to understand the proceedings against him or to assist in his own defense shall be tried, convicted or sentenced for the commission of an offense so long as such incapacity endures
-    * **Dusky Test**: “The test must be whether the defendant has sufficient present ability to consult with his lawyer with a reasonable degree of rational understanding – and whether he has a rational as well as factual understanding of the proceedings against him.”
-    * Note: Mental Illness broader than Insanity and Incompetence, so D can have mental illness and NOT be considered insane or incompetent
-    * Note: D could get Insanity but not Incompetent, or vice versa
+  * Mental Illness - Medical term referring to D’s diagnosed mental disorder, which ranges in severity and type (personality, psychotic, depression, etc); does not necessarily mean one is insane or incompetent to stand trial
+  * **Insanity** - Legal term referring to D’s mental state at time of the crime that may preclude culpability; normally can’t sentence to death
+    * Presumption of legal sanity at the trial; level of evidence required to establish otherwise varies, but most require clear and convincing evidence
+    * If defense is successful, can result in:
+      * Civil commitment, released when the patient has recovered and is not longer dangerous
+      * Some States treat acquittal via insanity defense the same as guilty verdict for purposes of sentencing; sentence will involve some sort of treatment
+  * **Incompetence** - Legal term referring to D’s mental state at time of legal proceedings preventing “rational” and “factual” understanding of the proceedings against him, which may preclude ability to stand trial, undertake a responsibility, or get executed (including mentally disabled)
+    * **MPC** - No person who, as a result of mental disease or defect, lacks capacity to understand the proceedings against him or defend himself, shall be tried, convicted or sentenced for as long as such incapacity endures
+    * **Dusky Test**: whether D has sufficient present ability to consult with his lawyer with a reasonable degree of rational understanding – and whether he has a rational as well as factual understanding of the proceedings against him
 
-* Procedural impacts of the insanity defense
-  * May not be competent to stand trial
-  * Normally can’t sentence to death
+* **M’Naghten Rule** (nearly half of states) - "[D acted] under such a defect of reason so as to not know the nature and quality of the act he was doing, or if he did know it, he did not know what he was doing was wrong". Regarded as most restrictive standard
+  * In order to meet the burden, must show D was under effect of cognitive defect caused by mental disease (must be definable/classifiable) such that he lacked knowledge of:
+    * The nature of quality of the act (significance of actions)
+    * OR the wrongness of the act (legally/morally)
+  * Example: D (Vietnam veteran) has PTSD and shoots at fireman who come to his house; D fails *M’Naghten* because knew the “wrongfulness” of shooting and “nature and quality” of shooting
 
-* Insanity can arise at three points in the criminal process
-  * (1) Mental state at the time of the commission of the criminal offense
-  * (2) Incompetence to stand trial -> lacks the capacity to understand the proceedings or to assist in his own defense
-  * (3) Sentencing -> can not execute the criminally insane
-
-* Approaches for after acquittal
-  * (1) Civil Commitment
-    * (a) Some jurisdictions require civil commitment; others have make ad-hoc determinations -> juries in the verdict are not to be made aware of whether it is mandatory or not
-    * (b) Duration -> may be released when the patient has recovered and is not longer dangerous
-  * (2) Guilty but mentally ill -> court retains the same sentencing authority as in guilty verdicts, but if sentenced to prison he is to be given treatment for the illness
-
-* Burden of Proof
-  * (1) There is a presumption of legal sanity at the trial
-  * (2) Level of evidence required before the presumption disappears
-    * (a) Some states require only “some evidence” of legal insanity
-    * (b) Others require that the evidence raise a reasonable doubt about the sanity
-  * (3) Most States and the federal system require to the defendant to prove by clear and convincing evidence that he is insane. 
-
-### Different Rules and Formulations of Insanity
-
-* Empirically speaking, formulations shown to not make much of a difference
-* Should the formulation be medical or moral?
-  * Criminal law about social approbation, so  latter makes more sense – also shouldn’t hinge on changing defs of medical profession
-  * If it’s moral, doesn’t a phase of the trial dominated by psychiatrists just muck everything up?
-
-* **M’Naghten Rule** - "[D acted] under such a defect of reason so as to not know the nature and quality of the act he was doing, or if he did know it, he did not know what he was doing was wrong". Regarded as most restrictive standard
-  * In order to meet the burden, must show:
-    * Mental disease of defect
-    * Causation
-    * Lacked knowledge of
-      * The nature of quality of the act
-      * OR the wrongness of the act (legally/morally)
-  * Rudovsky example: D (Vietnam veteran) has PTSD and shoots at fireman who come to his house; D fails *M’Naghten* because knew the “wrongfulness” of shooting and “nature and quality” of shooting
-  * A little under half of all jurisdictions still employ some rule similar to this
-
-* **MPC §4.01** - ~40% of jurisdictions have adopted this instead, a more permissive test regarding insanity
-  * D meets defense burden if D establishes:
-    * (1) Mental disease or defect (severity and type ambiguous, though excludes abnormality manifested only by repeated criminal/anti-social conduct)
+* **MPC Rule** - ~40% of jurisdictions have adopted this instead, a more permissive test regarding insanity
+  * D meets defense burden if establishes:
+    * (1) Mental disease or defect (severity/type ambiguous, but not one manifested only by repeated criminal/anti-social conduct) AND
     * (2) D lacked “substantial capacity” at time of crime to either:
-      * (a) Appreciate his conduct’s criminality (i.e. M’Naghten “wrongfulness” prong; but MPC leave open to moral or legal wrongfulness) OR
-      * (b) Conform his conduct to the law’s requirements (i.e. volitional prong)
+      * (a) Appreciate his conduct’s criminality OR
+      * (b) Conform his conduct to the law’s requirements (volitional prong)
   * Distinguished from M'Naghten:
-    * Loosens cognitive impairment (needs to appreciate right/wrong, not just know the difference)
+    * Loosens cognitive impairment (must be able to appreciate right/wrong, not just know the difference)
     * Loosens volitional impairment (lack substantial capacity to conform his conduct to requirements of the law)
-    * Began to fall out of favor after *Hinckley*
-
+  
 * **Durham Test** - First standard to question M’Naghten, but considered too broad
   * D meets burden if D establishes:
-    * (1) Mental disease (NOTE: severity and type is ambiguous)
+    * (1) Mental disease (severity and type is ambiguous)
     * (2) Caused a defect of reason
-    * (3) D’s crime would not have been committed but-for the abnormal mental condition (this is very broad; nothing related to knowledge of wrongfulness or the act itself)
+    * (3) D’s crime would not have been committed but-for the abnormal mental condition
   
 * **Irresistible Impulse Test** - Question of impaired volitional ability, less restrictive than M’Naghten
   * D meets defense burden if D establishes:
@@ -546,30 +513,21 @@ Assault – doesn't necessarily require physical contact; can be either:
 
 ### Intoxication
 
-* MPC §2.08 - Intoxication
-  * (1) except as in (4), intoxication not a defense unless it negatives an element of the offense
-  * (2) when recklessness is mens rea, if intoxication causes actor to not be aware of a risk he would have been sober, intoxication not a defense
-  * (3) intoxication not a mental disease within 4.01
-  * (4) intoxication that is either (a) no self-induced or (b) pathological is a defense if by reason of intoxication the actor lacks substantial capacity to appreciate the wrongfulness/ criminality or to conform his conduct to the requirements of law
+* MPC - Intoxication
+  * Intoxication not a defense unless it negates element of the offense
+    * When recklessness is required mental state, intoxication is not a defense if it causes actor to lack awareness of a risk he would have been aware of sober
+  * Intoxication is not a mental illness, for purposes of insanity
+  * Intoxication that is either (a) not self-induced or (b) pathological is a defense if by reason of intoxication the actor lacks substantial capacity to appreciate the wrongfulness/ criminality or to conform his conduct to the requirements of law
     * “Pathological” means intoxication much more than actor expected given the amount of the intoxicant
-  * Remarks:
 
 * Common Law - Voluntary Intoxication
-  * In some jurisdictions, is not recognized at all
+  * In some jurisdictions, is not recognized at all; others only allow it as defense to reduce murder charge (PA statute)
   * However, more common for intoxication to be relevant for determining a specific intent, but not a general intent
-    * Specific intent – crime includes that actor desired some additional consequence or do some further act (e.g. assault with intent to rob)
-      * You did not act with the required intent, such as, if your actions had been part of a harmless prank, then you cannot be convicted of a specific crime
-      * When it does negate specific intent, you have to be more than just “disinhibited”
-    * General intent – only intent in crime is with respect to the immediate act; you only need to intend your actions, not any particular result
-      * Is not necessary for the prosecution to prove that you intend to cause a specific harm or end result. Must only show that intended to commit some act that the law prohibits
-  * Also jurisdictions where defense only to reduce murder charge (PA statute)
+    * When it does negate specific intent, you have to be more than just “disinhibited”
 
 * Common Law Involuntary Intoxication
   * D took substance (i) without knowledge of its intoxicating nature, (ii) under duress, or (iii) based on medical advice but unaware of intoxicating effect
-    * Availability of defense (split jurisdiction):
-      * (1) Treated as mental illness defense (depends on jurisdiction definition)
-      * (2) Defense for culpability
-      * (3) No defense for culpability (*Kingston*)
+    * Availability of defense varies by jurisdiction, but often treated as mental illness defense (apply insanity analysis)
 
 ### Self-Defense
 
