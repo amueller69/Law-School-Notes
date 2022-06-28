@@ -500,7 +500,7 @@
 
 * FRE 801 says things that fall under the definition of hearsay are not admissible unless the FRE (or other statute) says otherwise; FRE 803 and 804 explicitly provide a number of exceptions, where as 807 contains a catch-all
   * Difference b/w 803 v. 804 is that former only apply when D is not available to testify
-  * Per 804, W is "unavailable" to give testimony if:
+  * Per 804, **W is "unavailable" to give testimony if**:
     * exempt from testifying b/c privilege
     * refuses to testify in defiance of court order or b/c "can't remember"
     * not present due to death, physical/mental illness
@@ -509,20 +509,20 @@
 ### 804 Exceptions - Only Where Declarant Unavailable
   
 * **Former testimony** - two components, both need to satisfied to apply:
-  * Testimony was given by unavailable W under oath at previous trial/hearing/deposition, whether part of current proceeding or a different yet related one
+  * Testimony was given by unavailable W **under oath at previous trial/hearing/deposition**, whether part of current proceeding or a different yet related one
     * Grand juries do not count since no chance to cross-examine
-  * Is now is now offered against same party who had meaningful opportunity and similar motive to cross-examine W previously
+  * Is now is now **offered against same party who had meaningful opportunity and similar motive** to cross-examine W previously
     * Issue/charges/claims need to be fairly similar else it gives rise to a new set of reasons/motives in examining W
     * Identity of party must be same, unless civil cases involving someone with vertical privity to the party before (e.g., successors in interest)
   
-* **Dying declaration** - statement made by declarant, under the belief of imminent death, about its cause or circumstance
+* **Dying declaration** - statement made by declarant, **under the belief of imminent death, about its cause or circumstance**
   * Applies in homicide cases and civil cases only
   * Needs to be genuine belief of certain imminent death (mental state)
   * Needs to convey actual knowledge about cause/circumstances, not just suspicions
 
 * **Statement against interest** - statement that would have only been made if reasonable person in D's position believed it to be true since it is so averse to his interests
   * Must have been against interests at time it was made; based on firsthand knowledge
-  * Examples: statement would be severely damaging to finances or reputation, expose him to civil/criminal liability, invalidate claim he has against someone else
+  * Examples: statement would be **severely damaging to finances or reputation, expose him to civil/criminal liability, invalidate claim** he has against someone else
   * If offered in criminal case where it tends to expose D to criminal liability, must also be supported by corroborating circumstances that clearly indicate its trustworthiness
 
 * Others
@@ -531,58 +531,58 @@
 
 ### 803 Exceptions - Applicable Regardless of Declarant's Availability
 
-* **Present Sense Impression** - A statement describing or explaining an event or condition, made while or immediately after the declarant perceived it
+* **Present Sense Impression** - A statement describing or explaining an event or condition, **made while or immediately after the declarant perceived it**
   * Statement describing what D is directly perceiving; can be plain, dispassionate report of what one is looking at (i.e., doesn't need to be out of shock, excitement, etc.)
   * However, making of the statement needs to more or less be contemporaneous w/ the perceiving
 
-* **Excited Utterance** - A statement relating to a startling event or condition, made while the declarant was under the stress of excitement that it caused
+* **Excited Utterance** - A statement relating to a startling event or condition, made while the declarant was **under the stress of excitement** that caused it
   * Doesn't have to be contemporaneous with event that caused it, but event needs to be sufficiently shocking/startling/exciting--so much so that someone experiencing it would be unable to craft a calculated lie--and statement needs to be made while still under its effect
 
-* **Then-Existing Mental, Emotional, or Physical Condition** - Statement about D's present (i.e., at the time the statement was made):
-  * State of mind (e.g., motive, intent, or plan) - different from circumstantial evidence of mental state that fall outside definition of hearsay (since not asserted to prove truth of the matter stated); this exception applies only when statement offered to prove that person did the thing they planned/intended
-  * Emotional state (e.g., fear, anger)
-  * Physical condition (e.g., pain, illness, fatigue) - can be used to prove the existence of the condition, but not what caused it; can't be past condition (but see, medical diagnosis exception)
+* **Then-Existing Mental, Emotional, or Physical Condition** - Statement **about D's present** (i.e., at the time the statement was made):
+  * **State of mind** (e.g., motive, intent, or plan) - different from circumstantial evidence of mental state that fall outside definition of hearsay (since not asserted to prove truth of the matter stated); this exception applies only when statement offered to prove that person did the thing they planned/intended
+  * **Emotional state** (e.g., fear, anger)
+  * **Physical condition** (e.g., pain, illness, fatigue) - can be used to prove the existence of the condition, but not what caused it; can't be past condition (but see, medical diagnosis exception)
   * But not statements of memory or belief to prove the fact remembered/believed unless it relates to the validity or terms of the declarant’s will
 
 * **Statement Made for Medical Diagnosis or Treatment** - Statement that:
-  * (1) is made for — and reasonably pertinent to — medical diagnosis/treatment
-  * AND (2) describes medical history, past/present symptoms or sensations, their inception, or their general cause/character
+  * (1) is **made for — and reasonably pertinent to — medical diagnosis/treatment**
+  * AND (2) describes **medical history, past/present symptoms or sensations, their inception, or their general cause/character**
   * Application of this exception
     * Doesn't matter if the diagnosis is only sought for purpose of giving testimony
     * Statement must be made with the expectation of treatment/diagnosis, but not necessarily to a physician; may also be a statement relayed by some other person to the physician (e.g., family member)
 
 * **Business records** - A record of an act, event, condition, opinion not hearsay if certain conditions satisfied.
   * Not hearsay if:
-    * record was made at or near the time by (or from information given by) someone with knowledge of act/event/condition/opinion
-    * record was made/kept in ordinary course of business in which record-keeping is a regular practice of (i.e., not done simply in anticipation of lawsuit)
-    * Record can be authenticated (either by testimony from custodian, expert, or other form of certification under FRE 902) and there is nothing untrustworthy that is identified by the opposing party
+    * (1) record was **made at or near the time** by (or from information given by) **someone with knowledge** of act/event/condition/opinion
+    * (2) record was made/kept **in ordinary course of business** in which **record-keeping is a regular practice** of (i.e., not done simply in anticipation of lawsuit) **AND**
+    * (3) record **can be authenticated** (either by testimony from custodian, expert, or other form of certification under FRE 902) and there is **nothing untrustworthy** that is identified by the opposing party
   * Also not hearsay where record of a ordinary business activity (for which records a regularly kept) does not describe act/event/condition alleged to have occurred; can be admitted as evidence that thing did not occur (though opposing party can still point out untrustworthiness)
   * Records can include medical records, but only insofar as they relate to treatment/diagnosis (e.g., not statements about fault or cause)
 
-* **Public Records** - exception applicable to certain records and/or statements of a public office
+* **Public Records** - exception applicable to certain **records and/or statements of a public office**
   * Not hearsay if:
     * The records/statements set out either:
-      * The office's activities
-      * An observation of person under legal duty to report, **except** if by law-enforcement and case is criminal)
-      * Factual findings from a legally authorized investigation, but **only if** civil case or against government in criminal case
+      * The **office's activities**
+      * An **observation of person under legal duty to report**, **EXCEPT** if by law-enforcement and case is criminal)
+      * Factual findings from a legally authorized investigation, but **ONLY IF** civil case or against government in criminal case
     * AND opponent does not show anything to indicate lack of trustworthiness
   * Exception extends to certain public records of vital statistics, such as records of a birth, death, or marriage, if reported to a public office in accordance with a legal duty
     * Similar exception for records/certificates of marriages, baptisms, and other religious ceremonies where made by person authorized (e.g., priest) within reasonable time after occurrence
-  * Similar to w/ business records, exception can extend to absence of public record/statement; if diligent search fails to yield such a record/statement, may be admissible to prove that:
-    * such a record/statement does not exist
-    * OR, taking inference a step further, subject of record/statement does not exist or never happened (though this inference can only be made if the subject is something regularly recorded by office)
+  * Similar to w/ business records, exception can extend to **absence of public record/statement**; if diligent search fails to yield such a record/statement, **may be admissible to prove that**:
+    * such a **record/statement does not exist**
+    * OR, taking inference a step further, **subject of record/statement does not exist or never happened** (though this inference can only be made if the subject is something regularly recorded by office)
       * Subject to written notice requirement of at least 14 days before trial if prosecution intends to use this against D
   
 * **Statements in Learned Treatises** - exception for statements in treatises, periodicals, or pamphlets if:
-  * Expert witness relied on the statement during direct examination or called to their attention in cross-exam  
-  * Source of statement established as reliable authority (is "learned") according to expert's testimony
+  * Expert relied on the statement during direct examination or called to their attention in cross-exam  
+  * Source of statement established as **reliable authority according to expert's testimony** (i.e., is "learned")
     * Still can only be read into evidence, not received as exhibit
     * There is similar exception for market reports, indexes, quotations, compilations, or other similar commercial publications that are generally relied on by the public or by persons in particular occupations
   
 * **Judgment of a Previous Conviction** - may be excepted from hearsay rule if:
-  * Judgment was entered after a trial or guilty plea, but **not** a plea of no contest
-  * Was for crime punishable by death or > 1 year imprisonment
-  * Admitted to prove some fact essential to the judgment
+  * Judgment was **entered after a trial or guilty plea**, but not no contest plea
+  * Was for sufficiently serious crime (punishable by death or > 1 year imprisonment)
+  * Admitted to **prove some fact essential to the judgment**
   * AND judgement was against defendant (this is only necessary if statement offered by prosecution for reason other than impeachment)
 
 * Other exceptions explained in more detail elsewhere in this outline:
@@ -594,8 +594,8 @@
 
 * Statements that don't fall under specific exception listed above may nonetheless by admissible under 807, which functions as a catch-all rule
   * Statement needs to be:
-    * (1) sufficient guarantees of trustworthiness after considering the totality of circumstances it was made and any corroborating evidence; AND
-    * (2) more probative on the point for which it is offered than any other evidence that the proponent can obtain through reasonable efforts
+    * (1) **sufficient guarantees of trustworthiness after considering the totality of circumstances** it was made and any corroborating evidence; AND
+    * (2) **more probative** on the point for which it is offered **than any other evidence that the proponent can obtain** through reasonable efforts
   * When considering the totality of circumstances:
     * usually need to consider the extent to which they mitigate the risks of untruthfulness/unreliability
       * This is common denominator among recognized exceptions in 803/804 (e.g., someone unlikely to lie in dying last words or to doctor when trying to get treated/diagnosed; records are more reliable where they regularly generated as part of standard procedures)
@@ -621,14 +621,14 @@
 
 ### General Requirements for Privilege to Apply
 
-* Communications must made within one of the special types of relationships that the law recognizes as privileged
-* Communication needs to be confidential, or in other words, it was intended to be communicated only to the person w/ whom there is a privileged relationship
+* Communications **must made within one of the special types of relationships** that the law recognizes as privileged
+* Communication **needs to be confidential**, or in other words, it was intended to be communicated only to the person w/ whom there is a privileged relationship
   * If communications are made in the presence of a third party, privilege may not apply
     * However, not the case if communication parties are unaware of the third party's presence (e.g., eavesdropping) or if their presence is necessary/essential for the making of the communication (e.g., a secretary sending fax, translator, or expert)
-* Privilege must be asserted by the person to whom it applies
+* Privilege must be **asserted by the person to whom it applies**
   * Can't assert privilege over confidential communications between third parties
   * In attorney-client, privilege is for the client to waive and attorney can only do so if authorized by client; this is also the case in doctor-patient relationships
-* Privilege has not been waived
+* Privilege has **not been waived**
   * Can be waived if person voluntarily agrees to waive it
   * Can also be waived if person intentionally and voluntarily discloses substantial part of communications to another party to whom privilege does not apply (or knowingly permits this to happen)
     * If disclosure is unauthorized and/or accidental, typically not waived but could still be
@@ -639,36 +639,36 @@
 ### Attorney-Client Privilege
 
 * Apply to communications:
-  * intended to be confidential between client and attorney
+  * **intended to be confidential between client and attorney**
     * presence of essential third parties does not destroy
     * FRE 502 provides protection against inadvertent disclosures
       * Not a waiver if reasonable steps were taken to prevent it and promptly rectify error
       * Also not waiver in current proceeding if previously waived through disclosure to federal office/agency or in other federal proceeding (potentially state ones too if there are no conflicts b/w state and federal waiver rules)
-  * AND made for the purpose of seeking, obtaining, or offering legal advice/assistance
+  * **AND made for the purpose of seeking, obtaining, or offering legal advice/assistance**
     * Does not necessarily require attorney to agree to represent; statements made in initial consultation may still be privileged
     * Nor does it matter whether legal assistance relates to present case
-* Things that are not privileged, either by definition (first two) or exception (other four)
-  * Statements to attorney not made for the purpose of seeking/obtaining legal advice/services
-  * Since privilege applies only to communications, it does not extend to actions, physical evidence, or pre-existing documents (e.g., can't attach a bunch of old records to email to lawyer in order to exclude them from discovery)
-  * If legal services were sought in furtherance of the commission of a crime/fraud
-  * Where legal dispute is between attorney and former client and communications are relevant to issues (e.g., legal malpractice actions)
-  * Where two parties now adverse to each other were formerly joint clients, either party can bring in past joint-communications w/ attorney related to previous they had in common
-  * Where client is now deceased and communications are relevant to dispute between parties who all claim under the deceased client
+* Things that are NOT privileged, either by definition (first two) or exception (other four)
+  * (1) Statements to attorney not made for the purpose of seeking/obtaining legal advice/services
+  * (2) Since privilege applies only to communications, it does not extend to actions, physical evidence, or pre-existing documents (e.g., can't attach a bunch of old records to email to lawyer in order to exclude them from discovery)
+  * (3) If legal services were sought in furtherance of the commission of a crime/fraud
+  * (4) Where legal dispute is between attorney and former client and communications are relevant to issues (e.g., legal malpractice actions)
+  * (5) Where two parties now adverse to each other were formerly joint clients, either party can bring in past joint-communications w/ attorney related to previous they had in common
+  * (6) Where client is now deceased and communications are relevant to dispute between parties who all claim under the deceased client
 
 ### Doctor-Patient Privilege
 
-* Protects confidential information communicated to physician or psychiatrist for purpose of , and thus relevant to, obtaining treatment
+* Protects confidential information communicated to physician or psychiatrist for purpose of, and thus relevant to, obtaining treatment
   * Needs to happen within the boundaries of the professional relationship; complaining about your back to your neighbor, who happens to be a doctor, is not privileged
-* Physician-patient privilege has not been firmly established in federal common law (only psychiatrist-patient), though most states have statutes to this effect
-  * In federal question cases, likely does not apply
+* Physician-patient **privilege has not been firmly established in federal common law** (only psychiatrist-patient), though most states have statutes to this effect
+  * In federal question (arising under) cases, likely does not apply
 * Exceptions: similar to attorney-client, there is exception where in furtherance of a crime as well as in legal disputes between doctor and patient
 
 ### Privileges Between Spouses
 
-* Spousal Immunity - person cannot be forced to testify against their spouse in a criminal (but not civil) case
+* Spousal Immunity - person **cannot be forced to testify against their spouse in a criminal** (but not civil) case
   * Applies to any type of testimony, although spouse can voluntarily elect to testify
   * To apply, marriage must be valid at time of trial
-* Confidential Marital Communications - prevents spouse from being required to disclose confidential communications w/ spouse in their marriage, while also prohibiting one spouse from doing so voluntarily without the consent of the other
+* Confidential Marital Communications - prevents spouse from **being required to disclose confidential communications** w/ spouse in their marriage, while also prohibiting one spouse from **doing so voluntarily without the consent of the other**
   * Unlike spousal immunity, the marriage only needs to be valid when the communication is made (not at the time of the trial)
   * Does not apply when spouses suing each other (e.g., divorce) or if spouse is being charged for crime committed against spouse or their children
   * Like other privileged relationships, can be waived if made in presence of third parties and is inapplicable to protect against communications made in furtherance of crime/fraud

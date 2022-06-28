@@ -366,8 +366,8 @@ Assault – doesn't necessarily require physical contact; can be either:
 ## Group Criminality
 
 * Two bases of complicity for acts committed by others are to be considered
-  * A person may be held accountable for the conduct of another person if he assists the other in committing an offense. This is called **accessory or accomplice liability**
-  * In the great majority of jurisdictions, a person who has conspired with another may be held accountable for the conduct of his-co conspirator who commits a crime in furtherance of their agreement. In this case, the mere existence of a **conspiracy** is sufficient to justify liability for the other’s conduct; assistance in commission of the crime is not required
+  * (1) A person may be held accountable for the conduct of another person if he assists the other in committing an offense. This is called **accessory or accomplice liability**
+  * (2) In the great majority of jurisdictions, a person who has conspired with another may be held accountable for the conduct of his-co conspirator who commits a crime in furtherance of their agreement. In this case, the mere existence of a **conspiracy** is sufficient to justify liability for the other’s conduct; assistance in commission of the crime is not required
 
 ### Accomplice Liability and Aiding & Abetting
 
@@ -391,8 +391,8 @@ Assault – doesn't necessarily require physical contact; can be either:
   * Person can be guilty of an offense committed by the conduct of another person when:
     * (a) acting with the kind of culpability that is sufficient for the commission of the offense, he causes an innocent/irresponsible person to engage in such conduct (i.e., successful solicitation of protected class); OR
     * (b) he is an **accomplice** of such other person in the commission of the offense, meaning that, **with the purpose of promoting or facilitating** the commission of the offense, he:
-      * **solicits** such other person to commit it, OR
-      * **aids or agrees or attempts** to aid such other person in planning or committing it, or
+      * **solicits** such other person to commit it,
+      * **aids or agrees or attempts** to aid such other person in planning or committing it, **OR**
       * **fails to make proper effort so to discharge legal duty to prevent commission of offense**
   * If a specific result is an element of the target crime, **D acts with “the kind of culpability, if any, with respect to that result that is sufficient for commission of the offense**”
     * Example: Where 3rd degree murder is satisfied by gross recklessness, accomplice that aids with same level of recklessness with respect to the result needed can be held legally accountable as an accomplice
@@ -422,7 +422,7 @@ Assault – doesn't necessarily require physical contact; can be either:
 ### Corporate/Enterprise Criminal Liability
 
 * MPC's Trifurcated Approach to Corporate Liability
-  * First rule - Adopts broad respondeat superior theory. Corporation may incur liability for minor infractions and for non-Code offenses when a legislative purpose to impose liability on corporations **plainly appears**, assuming agent was acting within scope of employment and on behalf of corporate interests
+  * First rule - Adopts broad respondeat superior theory. Corporation may incur liability for minor infractions and for non-Code offenses when a legislative purpose to impose liability on corporations plainly appears, assuming agent was acting within scope of employment and on behalf of corporate interests
     * Limited by a defense of due diligence that managerial agent can show it exercise to prevent crime
   * Second rule - Corporation is accountable for failure to discharge specific duties imposed on corporations by law
   * Third rule - Corporation incurs liability for true crimes (i.e. those defined in MPC) only if the offense is authorized/commanded/solicited/performed/tolerated by high managerial agents whose acquiescence may be regarded as reflecting corporate policy due to their authority
@@ -462,62 +462,62 @@ Assault – doesn't necessarily require physical contact; can be either:
     * **Dusky Test**: whether D has sufficient present ability to consult with his lawyer with a reasonable degree of rational understanding – and whether he has a rational as well as factual understanding of the proceedings against him
 
 * **M’Naghten Rule** (nearly half of states) - "[D acted] under such a defect of reason so as to not know the nature and quality of the act he was doing, or if he did know it, he did not know what he was doing was wrong". Regarded as most restrictive standard
-  * In order to meet the burden, must show D was under effect of cognitive defect caused by mental disease (must be definable/classifiable) such that he lacked knowledge of:
-    * The nature of quality of the act (significance of actions)
-    * OR the wrongness of the act (legally/morally)
+  * In order to meet the burden, must show **D was under effect of cognitive defect caused by mental disease** (must be definable/classifiable) such that he **lacked knowledge of**:
+    * The **nature of quality of the act** (significance of actions)
+    * **OR** the **wrongness of the act** (legally/morally)
   * Example: D (Vietnam veteran) has PTSD and shoots at fireman who come to his house; D fails *M’Naghten* because knew the “wrongfulness” of shooting and “nature and quality” of shooting
 
 * **MPC Rule** - ~40% of jurisdictions have adopted this instead, a more permissive test regarding insanity
   * D meets defense burden if establishes:
-    * (1) Mental disease or defect (severity/type ambiguous, but not one manifested only by repeated criminal/anti-social conduct) AND
-    * (2) D lacked “substantial capacity” at time of crime to either:
-      * (a) Appreciate his conduct’s criminality OR
-      * (b) Conform his conduct to the law’s requirements (volitional prong)
+    * (1) **Mental disease or defect** (severity/type ambiguous, but not one manifested only by repeated criminal/anti-social conduct) AND
+    * (2) D **lacked “substantial capacity” at time of crime to** either:
+      * (a) **Appreciate criminality** of his conduct **OR**
+      * (b) **Conform his conduct to the law’s** requirements (volitional prong)
   * Distinguished from M'Naghten:
-    * Loosens cognitive impairment (must be able to appreciate right/wrong, not just know the difference)
-    * Loosens volitional impairment (lack substantial capacity to conform his conduct to requirements of the law)
+    * Loosens cognitive impairment - only requires that they be unable appreciate criminality, rather than unable to distinguish right from wrong)
+    * Adds volitional prong - lack substantial capacity to conform his conduct to requirements of the law
   
 * **Durham Test** - First standard to question M’Naghten, but considered too broad
   * D meets burden if D establishes:
     * (1) Mental disease (severity and type is ambiguous)
     * (2) Caused a defect of reason
-    * (3) D’s crime would not have been committed but-for the abnormal mental condition
+    * (3) D’s crime would not have been committed **but-for** the abnormal mental condition
   
 * **Irresistible Impulse Test** - Question of impaired volitional ability, less restrictive than M’Naghten
   * D meets defense burden if D establishes:
     * (1) Mental disease
     * (2) Caused a defect of reason
-    * (3) D unable to control his actions and follow the law
+    * (3) D **unable to control his actions** and follow the law
 
 ### Duress
 
-* Duress = affirmative excuse defense that D coerced into criminal conduct, had not meaningful choice
+* Duress = affirmative excuse defense that D coerced into criminal conduct, had no meaningful choice
   * Different from Necessity in that: is an excuse instead of justification, always involves a human threat, D's free will impaired while necessity D’s free will intact
 * Common law duress defense
-  * (1) person made "specific and imminent" threats of "serious bodily injury or death" against D or D’s family member if should D refuse to commit a crime
+  * (1) person made **"specific and imminent" threats of "serious bodily injury or death"** against D or D’s family member **if should D refuse** to commit a crime
     * NOTE: Some jurisdictions apply it to property too (if property value outweighs harm)
-  * (2) D reasonably believed the other person would carry out the threat
-  * (3) D had no reasonable opportunity to prevent the threatened harm by:
+  * (2) D **reasonably believed the other person would carry out** the threat
+  * (3) D had **no reasonable opportunity to prevent** the threatened harm by:
     * (a) Fleeing
     * (b) Informing law enforcement
-  * (4) D did NOT recklessly or negligently expose himself to the threat
+  * (4) D did **NOT recklessly or negligently expose himself to the threat AND**
     * NOTE: this element often arises if D part of criminal enterprise where threats are reasonably expected
-  * (5) Crime was not homicide
+  * (5) Crime was **NOT homicide**
 * MPC Duress
-  * (1) Defense if coerced to do so by unlawful force or threat against him or another to which reasonable person of would be unable to resist
+  * (1) Defense if **coerced to do so by unlawful force or threat** against him or another to **which reasonable person of would be unable to resist**
     * Threat does not necessarily have to be against the actor; could be against a relative. However, language here omits property
     * Note: requirement of imminence is noticeably absent
-  * (2) Unavailable for crimes of recklessness/ negligence if actor recklessly/negligently brought about the situation
+  * (2) **Unavailable for recklessness/negligence** offenses if actor recklessly/negligently brought about the situation
     * Note: MPC appears to allow for this defense in intentional killing cases; majority of states and CL approach reject this
   * Possible limitations on the defense not in MPC: R; disallowed for murder; treat it as a mitigation factor, not a total defense
 
 ### Intoxication
 
 * MPC - Intoxication
-  * Intoxication not a defense unless it negates element of the offense
-    * When recklessness is required mental state, intoxication is not a defense if it causes actor to lack awareness of a risk he would have been aware of sober
+  * Intoxication **NOT a defense UNLESS it negates element of the offense**
+    * When recklessness/negligence is required mental state, intoxication is not a defense if it causes actor to lack awareness of a risk he would have been aware of sober
   * Intoxication is not a mental illness, for purposes of insanity
-  * Intoxication that is either (a) not self-induced or (b) pathological is a defense if by reason of intoxication the actor lacks substantial capacity to appreciate the wrongfulness/ criminality or to conform his conduct to the requirements of law
+  * Intoxication that is either (a) **not self-induced** or (b) pathological is a **defense if it causes D to lack substantial capacity to appreciate the wrongfulness/criminality OR to conform his conduct**** to the requirements of law (same as prong two of MPC insanity)
     * “Pathological” means intoxication much more than actor expected given the amount of the intoxicant
 
 * Common Law - Voluntary Intoxication
@@ -531,20 +531,21 @@ Assault – doesn't necessarily require physical contact; can be either:
 
 ### Self-Defense
 
-* Justification defense - When the use of defensive force against an aggressor is necessary to protect the actor from seriously bodily harm, that action is justified - it was the appropriate thing to do under the circumstances
-  * Widely accepted view that it **isn't required that use of force be truly necessary, only that actor reasonably believes defensive force to be necessary**
+* Common Law and MPC take similar approaches - When the use of defensive force against an aggressor is **subjectively believes it immediately necessary to protect the actor from seriously bodily harm**, that action is justified - it was the appropriate thing to do under the circumstances
+  * Widely accepted view that it isn't required that use of force be truly necessary, **only that actor reasonably believes** defensive force to be necessary
+  * Under MPC, force is NOT justifiable if: D knowingly resists lawful arrest OR force of person protecting their property
   * If it turns out that force wasn't truly necessary and reasonable belief was false, then it is more precise to say that the actor is excused; the action was not right, but the mistake was reasonable. Regardless of the label (usually labeled as a justification), one who satisfies the self-defense requirement is entitled to acquittal
-  * States place stricter limits on the use of deadly force, typically requiring threat of immediate death or serious bodily harm or crime
-    * Where D kills initial aggressor in self-defense situation in which force, but not deadly force, was justifiable, most states have allow it as imperfect defense that can downgrade murder charge to manslaughter
-* **MPC Approach** - Force justifiable if D subjectively believes it is "immediately necessary for purpose of protecting himself against the use of unlawful force"
-  * However, force is NOT justifiable if: D knowingly resists lawful arrest OR force of person protecting their property
-    * Use of **deadly** force is only justifiable if actor believes force is necessary to protect against death/rape/serious bodily harm
-      * Also unjustified if: Actor provoked the use of force against him with purpose of causing death or serious bodily harm OR he knows he can avoid necessity of using such force with safety by retreating, surrendering property, or complying with demands (*exception to requirement of retreating: where it is dangerous to do so*)
-        * However, not obliged to retreat from dwelling or place of work unless he was initial aggressor (castle doctrine)
+  * States place **stricter limits on the use of deadly force**, typically requiring **threat of immediate death, serious bodily harm, or rape**
+    * **Unjustified if**:
+      * D provoked the use of force against him with purpose of causing death or serious bodily harm OR
+      * He **knows he can avoid necessity of using such force with safety by retreating**, surrendering property, or complying with demands (*exception to requirement of retreating: where it is dangerous to do so*)
+      * However, **not obliged to retreat from dwelling** or place of work unless he was initial aggressor (castle doctrine)
     * Aside from the above, person using protective force may estimate its necessity under the circumstances as he believes them to be without surrender/retreat
+    * Where D kills initial aggressor in self-defense situation in which force, but not deadly force, was justifiable, most states have allow it as **imperfect defense** that can downgrade murder charge to manslaughter
+  
 * **Stand your ground statutes**:
   * 33 states enacted laws permitting force to be met by force, including deadly force, even in public spaces where retreat is possible. While this enables those who are truly innocent to protect themselves and potentially save lives, there is also the issue of unintended consequences: more unnecessary killings may result and mistakes can be made on unfounded suspicion (including that which is racially influenced)
-* Defense of Property - another justification defense, but only non-deadly force is allowed (force must be commensurate to the threat of harm to property)
+* **Defense of Property** - another justification defense, but **only non-deadly force is allowed** (force must be commensurate to the threat of harm to property)
   * Person may be held criminally or civilly liable if he sets upon his premises a deadly mechanical device which injures or kills another person (e.g., spring gun)
 
 ### Mistake
@@ -562,26 +563,26 @@ Assault – doesn't necessarily require physical contact; can be either:
   * MoF or MoL standard is ONLY “more likely than not” NOT “beyond reasonable doubt"
 
 * **Mistake of Fact** (MoF) - Actor an makes honest mistake as to facts/circumstances that results in the commission of a criminal act
-  * MoF is inseparable from mens rea analysis; must be determined whether the MoF negates required level of culpability for the material elements of the offense
+  * MoF is inseparable from mens rea analysis; must be determined whether the MoF **negates required level of culpability for the material elements** of the offense
   * MoF can be defense to specific intent offense regardless of whether mistake is reasonable; however, must be reasonable to apply to malice and general intent offenses
 
 * **Mistake of Law** (MoL) - defense that D incorrectly understood how applicable law applies to their conduct
-  * Traditional common law rule is that "ignorance of the law is no excuse" and that MoL is never a valid defense
+  * Traditional common law rule is that "**ignorance of the law is no excuse**" and that MoL is never a valid defense
   * This turns out to be murky and not always the case, increasingly so over the last 50 years
-    * MPC adopts limited defense for situation in which D reasonably relies on official interpretation or law is not made reasonably available
-    * MPC also recognizes MoL defense where it negates a material element of the crime; this has mostly succeeded only w/ specific intent offenses
+    * **MPC** adopts limited defense for situation in which **D reasonably relies on official interpretation or law is not made reasonably available**
+    * **MPC** also recognizes MoL defense where it **negates a material element of the crime**; this has mostly succeeded only w/ specific intent offenses
 
 ### Impossibility
 
 * Impossibility is concerned with the question of: What if you attempt a crime, but it’s a literal impossibility that you could complete the attempted crime?
   * Utilitarian/subjective not as concerned if it’s impossible. You have the requisite mens rea, so you should be punished
 
-* **Pure Factual Impossibility** = No defense
+* **Pure Factual Impossibility = No defense**
   * Under the attendant circumstances, though unaware at the time, there was no way that D could have possibly succeeded in carrying out his intended criminal action. Example: Attempt misfires do to poor aim, inadequate weapon, unloaded gun, etc.
   * Example: D shoots a bed thinking he’s going to kill the victim. Full mens rea, but no one was in the bed. Attempted murder?
     * Yes – this is a factual impossibility. We’ve got full mens rea, full actus reus, and only luck that no one was in the bed. Most states will treat this as attempted murder
 
-* **Pure Legal Impossibility** = Valid defense
+* **Pure Legal Impossibility = Valid defense**
   * True legal impossibility - Person engages in activity they believe to be prohibited but no such crime actually exists
   * Example: Same situation, but this time the person is in the bed. D shoots, hits the victim but it turns out the victim had been dead for hours previously. Attempted murder?
     * No – it’s legally impossible to murder a dead person. Though there’s some debate
@@ -601,15 +602,16 @@ Assault – doesn't necessarily require physical contact; can be either:
 * Necessity = defense that otherwise criminal conduct is justifiable as it was necessary to avoid more serious harm
 * MPC Necessity
   * (1) D’s otherwise criminal conduct is justifiable if:
-    * D sought to avoid harm greater than the harm resulting from D’s conduct
+    * D **sought to avoid harm objectively greater** than the harm resulting from D’s conduct
       * Does not rely on the private judgement of D. The harm/evil sought to be avoided must actually be greater than that from the commission of the offense, regardless of D's belief
-      * Not enough that actor beliefs conduct is sufficient to ameliorate the harm. Must believe it was necessary to avoid the evils
+      * Not enough that actor beliefs conduct is sufficient to ameliorate the harm. Must believe it was **necessary to avoid the greater evil**
     * Statute does not explicitly preclude necessity defense
     * No obvious legislative purpose or policy reason to deny necessity defense
-  * (2) Necessity NOT a defense if situation brought about by D’s reckless or negligent conduct
+  * (2) Necessity **NOT a defense if situation brought about by D’s reckless or negligent conduct**
+
 * CL Necessity
-  * (1) No blame in developing the situation AND
-  * (2) D reasonably believed engaging in conduct was necessary to avoid a harm greater than a resulting harm which might result from the conduct AND
+  * (1) **No blame** in developing the situation AND
+  * (2) D **reasonably believed** engaging in conduct was necessary to avoid a harm greater than a resulting harm which might result from the conduct AND
   * (3) (split jurisdiction) Satisfying credibility factors is:
     * Required - D must notify law enforcement as soon as the threat ends
     * Not Required - D does not need to notify law enforcement, factors considered holistically

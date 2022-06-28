@@ -712,7 +712,7 @@
   * Where K specifies transfer without transport via **bailee** in possession of goods (e.g., warehouse)
     * Seller must either tender a document of title covering the goods or procure bailee’s acknowledgment of the buyer’s right to possession of the goods
 
-### Anticipatory  and Reasonable Assurances
+### Anticipatory Repudiation and Reasonable Assurances
 
 * Repudiation is a statement/voluntary act indicating that the **obligor will commit a total, material breach** (i.e., is unable or unwilling to perform) OR that it will **only perform if non-contractual conditions are met**
 * Anticipatory repudiation (aka anticipatory breach) is a **repudiation before performance is due**
@@ -735,7 +735,27 @@
   * Guards against prospect of nonperformance without committing breach itself
   * With anticipatory repudiation, there is risk of misinterpreting as other party's words/conduct as "anticipatory repudiation", meaning innocent party's termination of performance taken in response may actually constitute a breach of its own
 
-### Justifications for Nonperformance - Impossibility, Impracticability, and Frustration
+## Justifications for Nonperformance
+
+### Rescission, Substituted Performance, Novation
+
+* A contractual duty can be discharged without completing the originally agreed upon performance WITHOUT giving rise to liability for breach through the following types of agreements:
+
+* **Rescission** - mutual agreement between parties mid-performance to rescind the contract
+  * This is basically a separate K with the consideration provided by each party being the discharge of their contractual duties
+  * However, cannot recover for the performance that has already taken place, even if one party has performed a considerable about more
+
+* **Accord and satisfaction**:
+  * Accord - party agrees to accept substituted performance in satisfaction of the other party's existing contractual duty
+    * This agreement is a separate contract and must be supported by consideration
+    * Accord does not discharge original duty to perform, merely suspends it while the accord is being performed
+  * Satisfaction - performance of the accord which discharges both the obligations under the accord as well as the the original duty
+
+* **Novation** - parties agree to substitute performance by a third party for the performance of one of the original parties who is then discharged
+  * Delegation of duty to a third party does not release original party from liability of the third-party fails to perform; novation is needed to do this
+  * Consideration is provided in the form of the third-party agreeing to take on discharged party's obligations
+
+### Impossibility, Impracticability, and Frustration
 
 * Contract liability is strict liability; liable for breach regardless if party is without fault or if circumstances have made K more burdensome or less desirable than anticipated
   * However, court may still grant relief in **extraordinary circumstances** which make performance so vitally different from what was reasonable to be expected as to alter the essential nature of that performance. In such cases, court must determine whether justice requires departure from general rule that obligor bears the risk
@@ -762,194 +782,104 @@
 
 ## Remedies
 
-### Contract Damages in General
+### Contract Remedies in General
 
-* Three principle purposes for awarding contract damages
-  1. Expectation – make whole through compensating as if fully performed
+* Three principle goals for contract remedies
+  1. **Expectation** – make whole through compensating **as if fully performed**, giving full benefit of the bargain
      * “Benefit of bargain” - put you in as good a position as you would have been had K been fully performed as promised/bargained for
      * Protects π’s net expectation: includes incidental + consequential damage
      * Non-conforming goods? Difference between value of goods promised and those delivered
      * For total breach: also include cost avoided + loss avoided
-  1. Reliance – restoration to the position you would have been in if the K had never been made (compensates for loss arising out of reliance on K)
-     * Larger than expectation damages if you made a bad deal (where one would sustain a loss even if the K had been performed)
-  1. Restitution – take back from D what was given and kept unjustly
+  1. **Reliance** – restoration to the **position you would have been in** if the K had never been made (compensates for loss arising out of reliance on K)
+  1. **Restitution** – **take back** from D what was **given and kept unjustly**
 
----
+### Expectation Damages
 
-## Computing the Value of Expectation Values
+* Expectation damages, a type of compensatory damages, defined as the interest in having the benefit of the bargain by being put in as good a position as he would have had K been performed
+
+* **Limitations** - Non-breaching party may not be able to recover full expectation:
+  * Amount unable to be **calculated with reasonable certainty**  - damages not recoverable for loss beyond amount that evidence permits to be established with reasonable certainty
+    * Uncertainty of the exact amount does not preclude recovery as long as sufficient evidence shows extent of damage by just and reasonable inference
+    * Example: To recover lost profit damages, party must show that such profits were reasonably certain to have been made absent the breach
+  * Damages are not **foreseeable** - consequential damages only recoverable to the extent they are forseeable by the breaching party, either as natural/ordinary result of breach or because they were specifically made aware of special circumstances
+    * Court may limit damages for foreseeable loss if justice so requires to avoid disproportionate compensation (e.g. excluding lost profits, limiting to reliance, etc.)
+  * Lack of **causation** - for consequential damages, must show harm/loss flows directly or proximately from the breach
+  * Damages could have been **mitigated** - recovery **limited only to losses that could not be avoided through reasonable mitigation efforts** (those w/out undue risk, burden, or humiliation)
+    * No actually legal duty to mitigate, but won't be able to recover avoidable losses
+    * Continuing performance where there is substantial reason to believe K has been repudiated may result in accumulating unrecoverable damages
+  * Cost of performance greatly exceeds market value of performance
 
 * Components of Calculation
-  * Loss in value: value of what should have been received - value of what was actually received
-  * Other loss: consequential + incidental damages
-    * Consequential damages include injury to person or property caused by the breach
-    * Incidental damages include additional costs incurred after the breach in a reasonable attempt to avoid loss (costs of trying to mitigate)
-  * Cost avoided: Savings from avoiding expenditure that would have been incurred if no breach
-  * Loss avoided: Loss avoided by the salvage/reallocation of resources devoted to original contract
+  * **Loss in value**: difference in value between what **should have been received and FMV of what was actually received**
+    * If only part performance or defective performance may get damages on (1) loss of market value caused by breach (i.e., diminution in value due to non-performance) or (2) cost of completion/correcting defect, but only if not disproportionate to loss in value (Reading Pipe case)
+    * Damages for breach of an employment contract include the cost of obtaining other services equivalent to that promised but not performed
+  * **Other loss: consequential + incidental damages**
+    * **Consequential damages** include **forseeable** injury/harm to person or property caused by the breach
+      * Two types - General and special (aka indirect) damages, a distinction drawn in the famous Hadley v. Baxendale case
+        * **General** (aka direct) damages - loss resulting from breach that is foreseeable as **probable (or natural) result of the breach**
+          * "Natural" in the sense that it accords with common experience of ordinary persons
+          * Need not make special showing to establish foreseeability here; can reasonably suppose as being within parties contemplation
+        * **Special** (aka indirect) damages - Loss that results from the breach in the **non-ordinary course of events and only recoverable if breaching party had reason to know of the special circumstances**
+          * Since loss does not occur in usual course of events, only within parties reasonable contemplation and thus foreseeable if the special circumstances were communicated to breaching party
+            * Applies to collateral contracts as in *Florafax* since losses not directly arising out of contract
+            * Also apply to any damage to property/persons caused by failure to conform to contractual warranties
+    * **Incidental damages** include additional costs incurred after the breach in a reasonable attempt to avoid loss (costs of trying to mitigate)
+  * **Cost avoided**: Savings from avoiding expenditure that would have been incurred if no breach (i.e., stopping performance)
+    * Where there non-breaching party has not begun performance or only partially performed, must subtract cost savings of remaining performance
+  * **Loss avoided**: Loss avoided by the salvage/reallocation of resources devoted to original
+  
 * Expectation damages for total breach
 
-  ```general measure = loss in value - other loss - loss avoided - cost avoided```
+  ```general measure = loss in value + other loss - loss avoided - cost avoided```
 
 * Expectation damages for partial breach
 
-  ```general measure = loss in value - other loss```
+  ```general measure = loss in value + other loss```
 
-* Peevyhouse Rule
-  * Where provision breached was merely incidental to contract's main purpose and where the economic benefit which P would receive from completing performance is grossly disproportionate to cost of completion, damages are limited to the difference/diminution in value resulting because of non-performance.
-  * Most courts vary from this rule, but it is still valid law in OK
+### Expectation Damages under UCC
 
-### Rules - Expectation Damages
-
-* **R2d § 344 - Purpose of Remedies**
-  * Allows expectation damages, among others, which it defines as interest in having the benefit of the bargain by being put in as good a position as he would have had K been performed
-* **R2d § 347 - Measure of Damages in General**
-  * Injured party has right to damages based on his expectation interest as measured by
-    1. Loss in value to him by other party's deficiency
-    1. Any other loss, including incidental and consequential, caused by breach
-    1. Cost or other loss avoided by not having to perform
-* **R2d § 348 – Alt. to Loss in Value of Performance**
-  1. If breach delays use of property and loss is not recoverable with reasonable certainty, may use rental value or interest as proxy
-  2. If only part performance may get damages on (1) loss of market value caused by breach or (2) cost of completion, if not disproportionate to loss in value
-  3. If based on condition of fortuitous event, may get value of conditional right
-* **UCC § 2-706 Seller's Resale Including Contract for Resale**
-  * Seller may resell the goods concerned or the undelivered balance thereof. Where the resale is reasonable and made in good faith, the seller may recover the difference between the resale price and the contract price together with any incidental damages, but less expenses saved in consequence of the buyer's breach
-* **UCC § 2-708 Seller's Damages for Non-acceptance or Repudiation**
-  * Measure of damages for non-acceptance or repudiation by the buyer is the difference between the market price at the time and place for tender and the unpaid contract price together with any incidental damages provided
-* **UCC § 2-709 Action for the Price**
-  * When the buyer fails to pay the price as it becomes due, seller may recover,along with incidental damages, the price:  
-  1. of goods accepted or of conforming goods lost or damaged within a commercially reasonable time after risk of their loss has passed to the buyer; and
-  1. of goods identified to the contract if the seller is unable after reasonable effort to resell them at a reasonable price or the circumstances reasonably indicate that such effort will be unavailing.
-* **UCC § 2-710 Seller’s Incidental Damages**
-  * Any commercially reasonable expenses incurred in stopping delivery, in the transport, care and custody of goods after the buyer’s breach, in connection w/ return resale of the goods or otherwise resulting from the breach
-* **UCC § 2-715 Buyer’s Incidental + Consequential Damages**
-  * Incidental: any expenses reasonably incurred in connection with handling rightfully inspection rightfully rejected goods, or in connection w/ effecting cover (if commercially reasonable), any other reasonable expense incident to the breach.
-
-### *Peevyhouse v. Garland Coal & Mining Co.*
-
-D, a mining company, contracts to stripe mine on P's farmland. As part of the agreement, D promised to restore land following its use. However, once mining is complete, D fails to make restorations. D argues the remedial work would be extremely costly and would only provide a very small benefit to P. TC awards P $29k that is needed to complete remedial work. Court holds that since the remedial work was **only incidental to the contract's main purpose and cost of completion disproportionate to its benefit, P should be compensated for the diminution in value due to non-performance, not the cost of completion.** Thus, court rules damages should be $300, not $29K.
-
-### *Crabby’s Inc. v. Hamilton*
-
-D executed a contract to purchase restaurant owned by P for $290k. P assigned his interest in the contract to an L.L.C. established to operate new restaurant. Contract has provision to use reasonable diligence in obtaining a loan and provide written loan commitment within 30 days or the contract terminated automatically. D gets loan but never submits written loan commitment to P. Following 30 day period, P takes steps showing its intent to proceed with transaction. D backs out 2 days before closing date, as it found a better deal. P didn't sell the restaurant until nearly 12 months later for $235,000. P files suit, claiming damages for difference between contract price and eventual sale price. TC awards in favor of P and D appeals, arguing no breach because contract automatically terminated. Court holds contract not terminated because conduct of both parties following 30 day window shows intent to proceed with contract (i.e. contingency clause is waived). **Damages should thus be difference between contract price and fair market value.** Using eventual sales price as proxy, P should be awarded $55k in loss of value, plus $40k in other loss, for a total of $95k in damages.
-
-### *Handicapped Children’s Ed. Board v. Lukaszewski*
-
-P, a school, hired D as employee for 2 year contract. D commutes 45 minutes to job and attempts to leave for something close by. P won't allow her to resign. D eventually resigns, citing health issues caused by situation. P attempts to find replacement and hires only candidate, whom has qualifications which command higher salary than D. P brings suit claiming damages for the additional expense of paying D's replacement. Court holds that **damages for breach of an employment contract include the cost of obtaining other services equivalent to that promised but not performed, plus any foreseeable consequential damages.** P attempted to mitigate loss by hiring the least expensive qualified replacement available and acted reasonably. Thus, in order to put P in position for which it bargained, it should be awarded difference between salaries.
-
----
-
-## Restrictions on Expectation Damages: Foreseeability, Certainty, and Causation
-
-* General Damages
-  * Loss resulting from breach that is foreseeable as probable (or natural) result of the breach
-    * "Natural" in the sense that it accords with common experience of ordinary persons
-  * Need not make special showing
-* Consequential Damages
-  * Loss that results in the non-ordinary course of events, must be forseeable
-  * Applies to collateral contracts as in *Florafax* since losses not directly arising out of contract
-  * Also apply to any damage to property/persons caused by failure to conform to contractual warranties
-
-### Rules - Foreseeability, Certainty, and Causation
-
-* **R2d § 351 - Unforeseeability + Related Limitations on Damages**
-  * Not liable for loss that the party in breach did not have reason to foresee as a probable result of breach when the K was made. Foreseeable = in the ordinary course of things (general/direct) OR as a result of special circumstances that the breaching party had reason to know (consequential/special).
-    * Court may limit damages for foreseeable loss if justice so requires to avoid disproportionate compensation (e.g. excluding lost profits, limiting to reliance, etc.)
-* **R2d § 352 - Uncertainty as a Limitation on Damages**
-  * Damages not recoverable for loss beyond amount that evidence permits to be established with reasonable certainty
-  * Uncertainty of the exact amount does not preclude recovery as long as sufficient evidence shows extent of damage by just and reasonable inference
-* **UCC § 2-710 - Seller’s Incidental Damages**
-  * Any commercially reasonable expenses incurred in stopping delivery, in the transport, care and custody of goods after the buyer’s breach, in connection w/ return resale of the goods or otherwise resulting from the breach.
-* **UCC § 2-715 Buyer’s Incidental + Consequential Damages**
-  * Incidental: any expenses reasonably incurred in connection with handling rightfully inspection rightfully rejected goods, or in connection w/ effecting cover (if commercially reasonable), any other reasonable expense incident to the breach.
-  * Consequential:
-    * Any loss resulting from general or particular requirements which seller at time of contracting had reason to know and which could not be reasonably prevented by cover or otherwise
-    * Injury to person or property proximately resulting from any breach of warranty
-      * Not proximate if buyer unreasonably failed to inspect good
-      * Not subject to foreseeability test, though particular needs of the buyer must generally be made known to the seller
-* **UCC § 2-719 – Contractual Modification and Limitation of Remedy**
+* UCC calculation of expectation damages largely resembles the CL approach detailed above (albeit w/ some small differences)
   * Parties can agree to provide for remedies in addition to or instead of those provided by UCC and may limit or alter the measure of damages
   * Resort to provided remedies is optional unless parties expressly agreed it to be the exclusive remedy—in which case it is. If the provided remedy fails its essential purpose, have UCC to back up
   * May limit or exclude consequential damages unless unconscionable
 
-### *Hadley v. Baxendale*
+* **Damages available to seller**
+  * Where buyer breaches before delivery and **seller in possession of goods** - may resell the goods concerned through reasonable/good faith efforts and **recover the difference between the resale price and contract price** plus any incidental damages and **minus any cost avoided**
+    * If **unable to resell them after reasonable effort**, then can recover **price of goods in contract** plus incidental damages
+  * Where **seller has already delivered** goods and buyer is in possession, damages for **buyer's non-acceptance/repudiation** (without valid justification) is the **difference between the market price at the time of tender and the unpaid contract price** plus any incidental damages provided (unlike above, cost avoided is not subtracted because seller already incurred cost of performed)
+  * Where **seller has already delivered** and **buyer accepts but fails to pay the price** as it becomes due, seller may recover **full contract price** of goods accepted, along with incidental damages
+    * Note: this also applies to goods lost or damaged within a commercially reasonable time after loss shifts to buyer
+  * **Special case of lost volume sellers** - "If he would have entered into both transactions but for the breach, he has “lost volume” and a second transaction is not a substitute for the first."
+    * Can't say that reselling goods at original K price puts P in same position as if K were performed; still an overall loss in volume of business
+    * Mostly applicable where goods sold are fungible and there is large number in inventory
+    * If seller **can prove they would have made sale to both D and resale buyer, can recover the profit it would have made on transaction to D** (contribution margin is a better term here than "profit" since doesn't account for fixed costs)
+  **Seller's Incidental Damages** - Any commercially reasonable expenses incurred in stopping delivery, in the transport, care and custody of goods after the buyer’s breach, in connection w/ return and/or resale of the goods or otherwise resulting from the breach
+  
+* **Damages available to buyer**
+  * Where **seller fails to tender** delivery of goods, buyer can **cancel contract, recover any payment made, AND recover EITHER:**
+    * **Difference between contract price** and the price paid for **reasonable substitute for the goods obtained through good faith** efforts, where **buyer covers** (plus any incidental or consequential damages but minus cost avoided)
+    * **Difference between contract price* and market price at time of breach or tender** (which ever comes first), where **buyer does not cover** (plus any incidental or consequential damages but minus cost avoided)
+  * Where there is **non-conforming tender** and right to cure has expired, buyer can:
+    * can reject it, in which case he is to entitled to what is described above w/ failure to tender (though may be more incidental damages)
+    * Partially accept the non-conforming goods and recover **damages for any non-conformity of tender the loss resulting in the ordinary course** of events from the seller's breach as determined in any manner which is reasonable (plus any incidental or consequential damages)
+      * Usually ends up being the cost of replacing/repairing the non-conforming parts of the goods
+  * **Buyers's Incidental Damages**: any expenses reasonably incurred in connection with handling rightfully inspection rightfully rejected goods, or in connection w/ effecting cover (if commercially reasonable), any other reasonable expense incident to the breach.
+  * **Buyer's Consequential Damages** : any loss which seller at time of contracting had **reason to know which could not be reasonably prevented** by cover or otherwise (subject to good faith requirement)
+  * Also includes injury to person or property **proximately resulting from any breach of warranty**
+    * Not proximate if buyer unreasonably failed to inspect good
+    * Not subject to foreseeability test, though particular needs of the buyer must generally be made known to the seller
 
-Crank shaft in a mill owned by P broke, causing entire milling operation to shut down. P sends employee to office of D, a carrier service, who informs D that new shaft must be sent immediately. D's clerk seems to provide assurance that it will be delivered hastily. Delivery was delayed due some neglect on behalf of D. P's mill remained shut down during this time, thus causing lost profits for which P sues. D objects to this, claiming lost profit damages were too remote. **Court rules that extent of damages should be limited to (1) those arising naturally from breach (directness) or (2) those that could be reasonably contemplated by parties at time of contract (foreseeability)**. However, if circumstances were unknown to D (i.e. no awareness of mill's shutdown), he can only be liable for damages that would arise generally (i.e. in the majority of such cases under ordinary circumstances). Court rules that the special circumstances were not communicated to D and that in great multitude of cases with ordinary circumstances, such consequences would not arise naturally. Hence, D not held liable for the consequential damages.
-
-### *Florafax International, Inc. v. GTE Market Resources, Inc.*
-
-Floral products marketer enters agreement with P, a floral clearinghouse, whereby P will handle direct consumer orders and place corresponding outbound orders. Contract was initially for 1 year w/ a month-to-month renewal thereafter and termination rights with 60 days notice, terminable at any time. P subcontracts D to provide telecom services for 2 years. D was aware of P's contract and knew it would be challenged by the volume of calls, but accepted the work despite questions around its profitability. D ultimately unable to handle the volume and evidence that they made little attempt to increase its capacity. As result of D's poor performance, floral marketer terminates agreement with P. P terminates its agreement with D and is forced to assume D's responsibilities. P filed suit against D seeking to recover lost profits from other contract and other damages. Court awards incidental damages incurred by P in setting up own call center to assume D's responsibilities following the breach. Court also asserts that **future/anticipated profit is recoverable in breach actions if: 1) the loss is within the contemplation of parties at time of formation; 2) the loss flows directly or proximately from the breach; and 3) the loss is capable of reasonable and accurate measurement/estimate.** Here, court found that D clearly had within its contemplation the potential for lost profits. D goes on to contend it should only be liable for lost profits over the 60-day notification period. Court recognizes that, upon a breach of contract claim, no party may recover more in lost profits or other damages than that party could have gained by full performance of that contract. Thus, **to recover lost profit damages, party must show that such profits were reasonably certain to have been made absent the breach.** Court holds P provided sufficient evidence to establish such reasonable certainty, as its agreement with the floral marketer was intended, by both parties, to be a long/continuous one. Thus, court permits recovery of consequential damages for lost profits over the remaining duration of P and D's contract.
-
----
-
-## Restrictions on Expectation Damages: Mitigation
-
-* Mitigation is a restriction on recovery, not technically a duty
-  * One can freely accumulate avoidable losses, they just won't be able to recover
-  * Court has interests in the reduction of social waste
-* Failure to mitigate in employment context is an affirmative defense w/ burden on employer to prove availability substitute employment and no reasonable mitigation efforts taken
-* If unsure of breach, may use reasonable assurances or declaratory judgment to determine whether you will need to mitigate
-  * Continuing performance where there is substantial reason to believe K has been repudiated may result in accumulating unrecoverable damages
-* If volume seller, no real duty to mitigate, damages based off of lost profits resulting from breach
-  * Reselling goods to avoid loss where other goods in inventory could have been sold instead results in loss of volume of business
-  * "If he would have entered into both transactions but for the breach, he has “lost volume” and a second transaction is not a substitute for the first."
-  * This obviously doesn't account for fixed costs (contribution margin is a better term here than "profit") nor does it apply where what is being sold has limited capacity (e.g. personal services)
-
-### Rules - Mitigation
-
-* **R2d § 350 - Avoidability as a Limitation on Damages**
-  * Injured party can’t recover for loss that it could have avoided w/out undue risk, burden, or humiliation - must make reasonable efforts to avoid loss
-    * Can recover where reasonable efforts were unsuccessful
-    * Lost Volume Seller principle recognized in the comments
-* **UCC § 2-708 - Sellers Damages for Non-Acceptance or Repudiation**
-  * You get incidental damages for costs reasonably incurred minus any credit you got for proceeds of resale (with exception of lost volume sellers)
-* **UCC § 2-715 - Buyer’s Damages**
-  * Consequential: any loss which could not be reasonably prevented by cover or otherwise
-  * Imposes good faith requirement
-
-### *Rockingham v. Luten Bridge Co.*
-
-P, a contractor, enters K with a county (D) to construct a bridge. County commission reverses its position on the bridge contract, but P proceeds with construction in hope that a change in the makeup of the commission will result in the restoration of the agreement. County had neither desire nor any use for a completed bridge, but P completes bridge anyways and brings suit for breach to recover full contractual price. Court asserts that **in the case of a breach while the contract is still executory, non-breaching party has a duty to mitigate. It cannot simply continue performance and allow the damages to pile up.** This is an extension of the general rule that breaching party should not be held liable for damages that need not have been incurred. Thus, court holds that damages should be limited to those incurred up to the point of the repudiation plus profit that would have been realized upon its completion.
-
-### *Maness v. Collins*
-
-P sells manufacturing operation to D, but is retained by new ownership to serve in a managerial role. He enters 3 year employment contract which includes non-compete provision. Leadership installed by new owners undermines P in his new role to the point where he becomes severely disgruntled. Relations between P and D continue to sour and P is ultimately let go. P spends time unemployed constructing himself a new home. He brings suit for breach of the employment contract. D contends that there was just cause in P's termination and, even if there was breach, that he failed to mitigate his damages. Court finds that there was no cause behind P's termination. Moving on to the issue of mitigation, court holds that **failure to mitigate damages arising out of termination is an affirmative defense. Breaching party must show the availability of suitable and comparable substitute employment and that P failed to take reasonable diligence in his pursuit of employment.** The terminated party is not allowed to simply sit idly. Plaintiff is precluded from recovering only if proof shows that the amount he would have earned equaled or exceeded amount he would have earned under the original employment K. Since D provides no evidence that suitable/comparable work was available and that P could have obtained it through reasonable efforts, court holds D liable.
-
-### *Jetz Service Co. v. Salina Properties*
-
-P is laundry equipment service from which P leases machinery for its building and for which P receives monthly payment. Months into contract, D breaches by replacing P's machines with its own. P is forced to move machinery into warehouse where it sits idly until eventually being re-serviced elsewhere.  D breaches b/c sees how much money they can make. P sues for entirety of lost profits. Court applies traditional reasonable certainty rule when determining damages for lost profit. However, **instead of limiting the recoverable damages to lost profits during the period where machines sat idly, court uses "lost volume seller" measure of damages which refers to lost volume of business that a non-breaching seller incurs on buyers breach. When seller resells entity he expected to sell to original buyer, he deprives himself of what would be a separate additional sale by merely substituting the buyers.** Since P had other machines it could have used to satisfy sale to other party, awarding damages minus loss avoided doesn't capture net profit that would have resulted if contract had been fully performed. Thus, court rules P should be awarded the expected profits from contract following the breach
-
----
-
-## Nonrecoverable Damages
+### Nonrecoverable Damages
 
 * Attorney’s fees, emotional distress (plus other non-economic injuries), and punitive damages are usually not compensable
-  * Generally justified  because the prevent windfalls to the non-breaching party and take away from the stability of risk allocation in contract
-  * However, many times this may lead to drastically undercompensating parties and could be justified as foreseeable – consequential damages
+  * Restatement - No emotional distress damages unless breach also caused bodily harm or emotional harm is a particularly likely result of breach due to nature of the contract or breach (medical contexts or where emotional concerns are essence of the contract)
+  * Restatement - May not recover punitive damages unless an accompanying tort allows for it (e.g. (personal injury, fraud in the inducement, or breach of fiduciary duty)
 
-### Rules - Nonrecoverable Damages
+### Reliance Damages
 
-* **R2d § 353** - No emotional distress damages unless:
-  * Breach also caused bodily harm
-  * Emotional harm is a particularly likely result of breach due to nature of the contract or breach (medical contexts or where emotional concerns are essence of the contract)
-* **R2d § 355** - May not recover punitive damages unless an accompanying tort allows for it (e.g. (personal injury, fraud in the inducement, or breach of fiduciary duty)
-  * Rationale: Would put P in better position than before (windfall) and culpability is not a consideration in contract law
-
-### *Erlich v. Menezes*
-
-Court does not permit recovery of damages for emotional distress arising out of breach of contract to construct a home. **Breach of contract is tortious only when it violates a duty independent of the contract. Tort damages allowed in contract cases where there is physical injury or in specific types of contracts due to public policy reasons (i.e. bad faith in insurance), but not where just a negligent breach. No emotional distress recovery where mere property damage or economic injury**.
-
-### *Zapata v. Hearthside Baking*
-
-P, a cookie tin manufacturer, sues D, a cookie baker, for breach after D refused to pay $900,000 in past orders to get new contract leverage. P also attempts to recover attorney fees. CISG does not allow for recovery of attorney’s fees in America even though foreseeable w/ breach. **Punitive damages not allowed except in torts and attorney fees can't be used as a pretext for making breaching party pay punitive damages**
-
----
-# Alternatives to Expectation Damages
-
-## Reliance Damages
-
-* Party can recover reliance damages for breach even if they can’t prove expectation damages with reasonable certainty
-* A party may not recover money spent in reliance on the contract if it can be proven that full performance would have resulted in a net loss for the injured party
-  * An award for reliance on the contract must reflect any loss that the injured party would have suffered had the contract been fully performed (subtracted from reliance damages)
-  * Embodies principle that a party shouldn't be able to escape bad bargain through reliance damages
+* Party can recover damages based on his reliance interest, including **expenditures made in preparation for performance or in performance**, even if they can’t prove expectation damages with reasonable certainty
+  * A party **cannot recover** money spent in reliance on the contract if it can be **proven that full performance would have resulted in a net loss** for the injured party
+  * An award for reliance on the contract must reflect **any loss that the injured party would have suffered with reasonable certainty** had the contract been fully performed; must be **subtracted from reliance damages**, although burden is on D to prove this
 * An award of damages will not be reduced due to an injured party’s failure to mitigate when the facts are clear that both parties had the same opportunity to mitigate
 * Promissory Estoppel Contexts
   * Judges have discretion to limit remedy as justice requires
@@ -957,167 +887,137 @@ P, a cookie tin manufacturer, sues D, a cookie baker, for breach after D refused
     * Majority of jurisdictions have adopted this approach
   * Some courts hold that relief P.E. cases should ALWAYS be measured by actual reliance
 
-### Rules
+### Restitutionary Damages
 
-* **R2d § 349 - Reliance Damages**
-  * As an alternative to expectation damages, the injured party has a right to damages based on his reliance interest, including expenditures made in preparation for performance or in performance, minus any loss that the party in breach can prove with reasonable certainty the injured party would have suffered had the contract been performed (burden on D to show that the K would have been a losing one)
-
-### *Wartzman v. Hightower Productions, Ltd.*
-
-P establishes and capitalizes new corporation to finance attempt to break world record. D hired as law firm and provides guidance, though fails to comply with securities regulations and informs P that securities specialist needs to be hired to straighten things out. P can't afford it and D refuses to pay. Record breaking attempt indefinitely postponed. P brings suit. **If expectation damage for lost profits can’t be shown w/ reasonable certainty (i.e. too speculative) money spent in part performance, in preparation for, or in reliance on the K are recoverable**.  Court holds P was injured due to its reliance on the contract; it sold stock and incurred substantial obligations in reliance on the contract. Additionally, **if D can establish that full performance would have resulted in a net loss for P, then reliance damages can be limited or excluded altogether**. D was unable to establish that P would have suffered a net loss from its venture, so this exception is not applicable here. Court also found that P did not fail duty to mitigate as suggested by P. P lacked the funds necessary to hire a securities specialist, **a substantial obligation that P is not required to incur in order to mitigate**. Further, D had the same opportunity to mitigate and refused to do so. Thus, court holds P should be permitted to recover reliance damages.
-
-### *Walser v. Toyota*
-
-P initiates process to become dealer of cars sold by D. Three step process: Application, letter of intent containing conditions, and then formal agreement. P completes first step and D informs them that letter of intent approved and "they were [their] dealer". D later informs them that this was a mistake and letter had not been approved. P had already purchased facility for dealership. P files suit seeking full relief (including lost profits) under theories of breach and promissory estoppel. TC awards relief on promissory estoppel grounds, but limits damage to out of pocket expenditures, which was **price paid minus FMV**. P appeals. CoA points to Restatements description of remedies available in promissory estoppel cases, providing that, **where appropriate, relief may be limited to that measured by the extent of P's reliance rather than the terms of the contract. Thus, this places the damages decision within the trial judge’s discretion**. Here, D provided evidence showing that a formal dealership agreement was far from certain while P did not demonstrated any opportunity lost by virtue of relying on the promise. CoA asserts that it won't interfere with lower court discretionary decisions so long as it "remains within the range of choice" (it did), accounts for all relevant factors (it did), and does not constitute a clear error judgement (it doesn't). Thus, CoA affirms TC's judgement
-
----
-
-## Restitutionary Damages
-
-* Based on concept of unjust enrichment, so breaching party may still claim in restitution
-  * This may create perverse incentives
-* Restitution damages sometimes put a party in a better place than expectation damages, causing commentators to disagree over this doctrine
-  * Justified because party may get good deal, if they breach, court should be able to take away that good deal and give fair market value of services
+* Based on concept of unjust enrichment, so even breaching party may still claim in restitution if he has partially performed and thus conferred some benefit despite breach
+  * Measured by either the **reasonable value of benefit conferred** (what it would cost to obtain it from another source) **OR** the extent to which benefit received **increased value of D’s property or other interests**
+    * Must be shown w/ reasonable certainty and payments or return performance already made must be subtracted
 * Three ways restitution comes up as a damage remedy
-  1. Modern contract law - a remedy for breach
-     * Non-breaching party can choose restitutionary rather than ED for breach of K UNLESS she has already performed all of her duties under the K and nothing is due from the other party than a payment of money for that performance, in which case only expectation damages are available
-  1. Breaching part may even be entitled to restitution if he conferred a benefit to the other party by part performance
-  1. If K unenforceable for some reason, either or both parties may be entitled to restitutionary relief for benefits conferred (e.g. Statute of Frauds, incapacity/mutual mistake, etc.)
+  1. As a remedy for breach - **Available to non-breaching party** in lieu of expectation damages **UNLESS** he has already fully performed duties and the **only performance outstanding is the other party's payment, which case only expectation damages are available**
+  1. Available to **breaching party** if through **part performance he conferred a benefit** to the other party; however if no performed and is in breach, P not permitted to recover
+     * Breaching party is limited to lesser of the two measurements described above
+     * To the extent that party's expressly agree that performance is to be retained in the case of breach as form of liquidated damages, breaching party is not entitled to restitution; this is also the case where breaching party acts officiously/intentionally deviates from terms
+  1. **If K unenforceable** for some reason, **either or both parties** may be entitled to restitutionary relief for benefits conferred (e.g. Statute of Frauds, incapacity/mutual mistake, etc.)
 
-### Rules - Restitutionary Damages
+### Agreed Remedies
 
-* **R2d § 370 - Requirement that Benefit be Conferred**
-  * In order to get restitution damages, you have to have conferred a benefit on the other party through part performance or reliance
-* **R2d § 371 - Measuring Restitution Damages**
-  * Restitution damages may as justice requires be measured by either (non-breaching party can choose):
-    1. The reasonable value to the other party of what he received (based on what it would have cost him to get it from someone else); OR
-    1. The extent to which the other party’s property has been increased in value or his other interests advanced
-       * Measure is unaffected by any loss which would have been incurred in complete performance (though any payments already made must be subtracted)
-       * Breaching party is limited to lesser of (a) or (b)
-       * Must be shown w/ reasonable certainty
-* **R2d § 373 - Restitution When Other Party Is in Breach**
-  * On a breach by non-performance that gives rise to a claim for damages for total breach or on a repudiation, the injured party is entitled to restitution for any benefit that he has conferred on the other party by way of part performance or reliance
-  * The injured party has no right to restitution if he has performed all of his duties under the contract and no performance by the other party remains due other than payment of a definite sum of money for that performance
-* **R2d § 374 - Restitution in Favor of Party in Breach**
-  * If a party justifiably refuses to perform on the ground that his remaining duties of performance have been discharged by the other party's breach, the party in breach is entitled to restitution for any benefit that he has conferred by way of part performance or reliance in excess of the loss that he has caused by his own breach (i.e. value of part performance conferred minus expectation damages)
-  * To the extent that, under the manifested assent of the parties, a party's performance is to be retained in the case of breach, that party is not entitled to restitution if the value of the performance as liquidated damages is reasonable in the light of the anticipated or actual loss caused by the breach and the difficulties of proof of loss
-    * Restitution not available for party that intentionally varied terms of the contract, as they are acting officiously
-* **R2d § 375 - Restitution When Contract Is Within Statute of Frauds**
-  * A party who would otherwise have a claim in restitution under a contract is not barred from restitution for the reason that the contract is unenforceable by him because of the Statute of Frauds unless the Statute provides otherwise or its purpose would be frustrated by allowing restitution
-* **R2d § 376 - Restitution When Contract Is Voidable**
-  * A party who has avoided a contract on the ground of lack of capacity, mistake, misrepresentation, duress, undue influence or abuse of a fiduciary relation is entitled to restitution for any benefit that he has conferred on the other party by way of part performance or reliance
-* **R2d § 377 - Restitution in Cases of Impracticability, Frustration, Non-Occurrence of Condition or Disclaimer by Beneficiary**
-  * A party whose duty of performance does not arise or is discharged as a result of impracticability of performance, frustration of purpose, non-occurrence of a condition or disclaimer by a beneficiary is entitled to restitution for any benefit that he has conferred on the other party by way of part performance or reliance
+* Common law allows party to write in damages into contract for breach
+  * Will generally enforce **unless intended as a penalty** (akin to punitive damages)
+  * Damages must **be reasonable at:**
+    * (1) The time of **formation** (comparing **liquidated vs anticipated** damages) **AND/OR**
+    * (2) The time of **breach** (comparing **liquidated vs actual** damages)
+      * Majority plus Restatement and UCC treat it as an "or", minority treat it as as an “and” (i.e., must be both reasonable in anticipation and in actuality)
+  * Unconscionability can bar enforcement of these clauses
+* **UCC** further considers reasonableness in light of **difficulties of ascertaining actual damages**
 
-### *Coastal Steel v. Algernon Blair*
-
-D entered into a contract with P for P to supply equipment and perform steel erection on hospital. P began performance, but D refused to pay for some of the performance in dispute over contractual obligations. P terminated performance (28% complete) and brings suit. TC rules that D's actions constituted breach and that P was justified in terminating performance. However, it also held that P would have lost money on the contract had it completed performance and thus denied recovery. P appealed. **CoA held that suit seeking restitutionary damages allows an injured party to recover the value of services given, regardless of whether he would be able to recover expectation damages in a claim of breach. The measure of damages is the reasonable value of performance provided, regardless of any loss which would have been incurred by complete performance**. While contract price may be evidence of this reasonable value, it does not measure value of performance. Rather, **damages are measured by the amount for which the injured party’s performance could have been purchased at the time of performance**. Court thus rules that damages are recoverable and remands to lower court for determination of this value. Since P would not have gotten expectation damages (due to projected loss) or reliance damages (can't exceed expectation), P is still able to recover restitutionary damages which put them in a better position than if full performance would have taken place
-
-### *Lancellotti v. Thomas*
-
-P agreed to buy a luncheonette business from D and rent the premises. $25,000 for the business plus promise to build (and pay for) an addition. P paid the $25,000 and began operating the business. Problems during construction of the addition, which D's must ultimately complete. About a year in, P stopped operating the business. It hadn't paid any rent up to that point. P filed a complaint seeking the return of his $25,000, despite concession that it owed D for rent. TC held in favor of the D, denying P recovery and awarding D the rent money owed. P appealed. Traditional rule prohibited recovery of any damages by breaching party. However, CoA, in applying modern rule, held that it is **possible for breacher to get restitutionary damages if value of its part performance was in excesses of loss caused to non-breaching party**. Purpose of contract law is not to punish parties for willful breach. Would be allowing a windfall if permitting non-breaching party to recover expectation damages will still retaining the value of performance that had been rendered
-
-### *Ventura v. Titan Sports, Inc*
-
-Jesse "the Body" Ventura, sues the WWF. He contends contracts did not include right to royalties for further publicity in action figures and VHS, despite WWF's distribution of such. Court holds that **where there is a gap in an express contract (or no enforceable contract at all), but party has conferred an uncompensated benefit unknowingly (not officiously or gratuitously) and other party has been unjustly enriched, then P can get restitutionary damages. The restitutionary damages for benefits conferred are available even if contract is unenforceable due to impracticability, impossibility, frustration of purpose, or other issue in formation.**
-
----
-
-## Specific Performance
+### Specific Performance
 
 * Specific performance is allowed through court’s discretionary equitable power
 * Courts treatment of specific performance in general (under common law)
-  * Specific performance may be allowed for land
-  * Specific performance will not be allowed for personal service contracts
-  * Specific performance only allowed when damages at law are inadequate
-* Potential bars to specific performance
-  * Where there is significant hardship upon D
+  * Specific performance **only allowed when damages at law are inadequate**
+    * When determining adequacy of damages, courts consider
+      * Difficulty of proving damages w/ reasonable certainty
+      * Difficulty of getting a suitable substitute performance w/ money
+      * The likelihood that an award of damages could not be collected
+  * Specific performance **will not be allowed for employment/personal service** contracts
+    * A promise to render personal service exclusively for one employer will not be enforced by an injunction against serving another if its probable result will be to compel a performance involving personal relations the enforced continuance of which is undesirable or will be to leave the employee without other reasonable means of making a living
+  * Specific performance **may be allowed for land** due to its uniqueness
+  * Will not deny specific performance if damages are good for only part or because there is another remedy, including liquidated damages (though such remedy may be considered in exercising discretion)
+* **Potential bars** to specific performance
   * Where D has entered contract with a 3rd party and 3rd party would be harmed by specific performance
   * Where performance would run contrary to public policy
-  * Where definiteness/certainty of terms is insufficient
+  * Where definiteness/**certainty of terms is insufficient to provide a basis for an appropriate order**
   * Where burden of enforcement to court would be too high
-  * Where enforcing would be unfair
-* UCC only allows for specific performance when goods are similar
+  * Where there would be **significant hardship** upon D
+  * Where enforcing would be **unfair** (e.g., unconscionable, induced by mistake/unfair practices, cause unreasonable hardship)
 
-### Rules - Specific Performance
-
-* **R2d § 359 – Effect of Adequacy of Damages**
-  * Will not order specific performance if damages adequate
-  * Will not deny specific performance if damages are good for only part
-  * Specific performance will not be denied simply because there is another remedy (though may be considered in exercising discretion)
-* **R2d § 360 - Factors Affecting Adequacy of Damages**
-  * Difficulty of proving damages w/ reasonable certainty
-  * Difficulty of getting a suitable substitute performance w/ money
-  * The likelihood that an award of damages could not be collected
-* **R2d § 362 - Effect of Uncertainty of Terms**
-  * Specific performance or an injunction will not be granted unless the terms of the contract are sufficiently certain to provide a basis for an appropriate order
-* **R2d § 363 - Effect of Insecurity as to the Agreed Exchange**
-  * Specific performance or an injunction may be refused if a substantial part of the agreed exchange for the performance to be compelled is unperformed and its performance is not secured to the satisfaction of the court
-* **R2d § - 364 Effect of Unfairness**
-  * Specific performance or an injunction will be refused if such relief would be unfair because
-    1. The contract was induced by mistake or by unfair practices
-    1. The relief would cause unreasonable hardship or loss to the party in breach or to third persons, or
-    1. The exchange is grossly inadequate or the terms of the contract are otherwise unfair
-  * Specific performance or an injunction will be granted in spite of a term of the agreement if denial of such relief would be unfair because it would cause unreasonable hardship or loss to the party seeking relief or to third persons.
-* **R2d § - 365 Effect of Public Policy**
-  * Specific performance or an injunction will not be granted if the act or forbearance that would be compelled or the use of compulsion is contrary to public policy
-* **R2d § 366 - Effect of Difficulty in Enforcement or Supervision**
-  * A promise will not be specifically enforced if the character and magnitude of the performance would impose on the court burdens in enforcement or supervision that are disproportionate to the advantages to be gained from enforcement and to the harm to be suffered from its denial
-* **R2d § 367 - Contracts for Personal Service or Supervision**
-  * A promise to render personal service will not be specifically enforced
-  * A promise to render personal service exclusively for one employer will not be enforced by an injunction against serving another if its probable result will be to compel a performance involving personal relations the enforced continuance of which is undesirable or will be to leave the employee without other reasonable means of making a living
-* **UCC § 2-716 - Buyer's Right to Specific Performance or Replevin**
-  * Specific performance may be decreed where the goods are unique or in other proper circumstances
-  * The decree for specific performance may include such terms and conditions as to payment of the price, damages, or other relief as the court may deem just
-  * The buyer has a right of replevin for goods identified to the contract if after reasonable effort he is unable to effect cover for such goods or the circumstances reasonably indicate that such effort will be unavailing or if the goods have been shipped under reservation and satisfaction of the security interest in them has been made or tendered
-
-### *City Stores v. Ammerman*
-
-P to assist D in re-zoning proposal efforts necessary to build shopping mall. In exchange, P would get option contract to occupy space in mall. D granted re-zoning and began leasing store spaces. It refused to lease space to P because of better competing offer. P brought suit seeking specific performance. An option is a unilateral contract that exists as a continuing offer for either a fixed or reasonable period of time and may be enforced through specific performance if its terms are reasonably definite. While letter expressing offer was not very clear as to terms of option contract, such terms can be ascertained from leases already signed with similar businesses. Since **other forms of damages (ED in particular) too difficult to calculate**, denying specific performance due to lack of definiteness would leave P without a remedy. For this reason, and because it would also place no hardship upon D, court rules that specific performance is an adequate remedy
-
-### *Reier Broadcasting Company, Inc. v. Kramer*
-
-Football coach (D) has contract giving exclusive broadcast rights on his interviews/appearances to P, a radio station. The school at which P coaches signs a deal with another station in which coach is expected to appear on that station's broadcasts. P wishes to enforce restrictive covenant against D. Since this is categorized as a personal service, court cannot issue specific performance to force D to continue appearing on P's broadcasts, but it can order injunction to prevent him from appearing on competitor's broadcast. However, court holds that where specific performance would be unavailable to enforce affirmative covenant in an agreement(e.g. personal services), an injunction to enforce a negative covenant would amount to indirectly enforcing the affirmative part. Despite restatement's view that such injunction is only unavailable if it would leave party without reasonable means to make a living and D's primary employment was as a coach (not a broadcast guest), court prevents enforcement.
+* **UCC only allows** for specific performance when **goods are unique** or where performance is payment of the price, damages, or other relief as the court may deem just
+  * UCC also gives buyer has a right of replevin (equitable remedy for repossessing property) for goods in K if unable to obtain cover through reasonable efforts
 
 ---
 
-## Agreed Remedies
+## Contractual Rights/Duties and Third-Parties
 
-* Common law allows party to write in damages into contract for breach
-  * Will generally enforce unless it is seen as a penalty
-  * Old common law rule: determines reasonability at time of contract – anticipated
-  * New rule: determines reasonability at time of breach – actual damages
-    * If actual loss is much less than liquidated damages, some courts will just strike down the liquidated damages clause. (Dissent in Barrie School) (Majority disagrees)
-* R2d uses an OR—reasonable in light of anticipated OR actual loss (9th Cir. follows this in UCC, commercially sophisticated actors context)
-  * Some odern courts read “or” as an “and” (must be both reasonable in anticipation and in actuality)
-* R2d seems to say only use liquidated damages if actual damages are hard to figure out
-  * Courts really focus on the reasonableness part of it
-  * In Barrie School, evidence of loss appeared to be ascertainable. Why court determine that actual loss difficult to tell?
-    * Deference to an institution about how complicated it is to figure out what the loss of one child due to breach might be ex ante—that’s why they contracted to this.
-  * Some courts require mitigation even in cases where K has liquidated damages, *Barrie School* court did not
-* Unconscionability can bar enforcement of these clauses
+### Beneficiaries
 
-### Rules - Agreed Remedies
+* Beneficiary is a **third-party for the intended benefit of whom two other parties form a contract** (e.g., life insurance policy)
+* Roles:
+  * Promisee = person bargaining for promise that benefits beneficiary
+  * Promisor = person making promise that benefits beneficiary
+  * Beneficiary - usually one of 2 types
+    * Donee (most common) - benefit intended as a gift
+    * Creditor - benefit of promisor's performance is to satisfy debt/obligation owed by promisee
+  * There is also incidental beneficiaries, those who happen benefit promisor’s performance despite it not being intended purpose
+    * **Incidental** beneficiaries have **no rights/access to remedies** under contract law
+* Unlike incidental, **intended beneficiary may have standing to enforce contract AGAINST PROMISOR** where there is breach
+  * May not be able do sue for money damages if donee beneficiary (since no economic loss), but specific performance may be available (especially of detrimental reliance on promise)
+  * Similarly, where B is creditor, promisee can sue on behalf of B seeking specific performance of the promise
+  * Not able to enforce against promisee, though may be able to enforce separate agreement which gave rise to obligation that benefit is offered in satisfaction of
+  * If B sues promisor, any defense promisor could have asserted against promisee (e.g., defense to formation) is valid against B
+* However, parties to contract **can rescind/modify w/o beneficiary's consent unless their right has vested**
+  * Vesting occurs when beneficiary either:
+    * Brings **suit to enforce** contract
+    * There is **justifiable and detrimental reliance** on the contract
+    * **Manifests assent** to the contract at the request of either party (e.g., B also signs) OR
+    * Contract explicitly states right has vested
+  * If right vests, original parties can only rescind contract or modify terms with B's consent (else they are void)
 
-* **R2d § 281 Accord and Satisfaction**
-  * An accord is a contract under which an obligee promises to accept a stated performance in satisfaction of the obligor's existing duty. Performance of the accord discharges the original duty
-  * Until performance of the accord, the original duty is suspended unless there is such a breach of the accord by the obligor as discharges the new duty of the obligee to accept the performance in satisfaction. If there is such a breach, the obligee may enforce either the original duty or any duty under the accord
-  * Breach of the accord by the obligee does not discharge the original duty, but the obligor may maintain a suit for specific performance of the accord, in addition to any claim for damages for partial breach
-* **R2d § 356 - Liquidated Damages + Penalties**
-  * Damages for breach by either party may be liquidated in the agreement but only at an amount that is reasonable in the light of the anticipated or actual loss caused by the breach and the difficulties of proof of loss. A term fixing unreasonably large liquidated damages is unenforceable on grounds of public policy as a penalty
-  * A term fixing unreasonably large liquidated damages is a penalty + unenforceable on public policy grounds (aim is not punitive)
-* **R2d § 361 - Effect of Provision for Liquidated Damages**
-  * Specific performance or an injunction may be granted even though there is a provision for liquidated damages
-    * A contract provision for payment of a sum of money as damages may not afford an adequate remedy even though it is valid as one for liquidated damages and not a penalty
-* **UCC § 2-718 - Liquidation of Damages**
-  * Parties may agree to damages at an amount reasonable in light of the anticipated or actual harm caused by the breach, the difficulties of proof of loss, and the inconvenience or non-feasibility of otherwise getting an adequate remedy. A term fixing unreasonably large liquidated damages is void as a penalty. An unreasonably small amount might be stricken under unconscionability
-* **UCC § 2-719 - Contractual Modification or Limitation of Remedy**
-  * An agreement may provide for remedies in addition to or in substitution for those provided in this Article and may limit or alter the measure of damages recoverable, as by limiting the buyer's remedies to return of the goods and repayment of the price or to repair and replacement of non-conforming goods or parts. Resort to a remedy as provided is optional unless the remedy is expressly agreed to be exclusive, in which case it is the sole remedy
-  * Where circumstances cause an exclusive or limited remedy to fail of its essential purpose, remedy may be had as provided in this Act
-  * Consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable. Limitation of consequential damages for injury to the person in the case of consumer goods is prima facie unconscionable but limitation of damages where the loss is commercial is not
+### Assignment
 
-### *Barrie School v. Patch*
+* Assignment - A transfer of one's entitlement to other party's performance under contract
+  * Requirements of valid assignment similar to that of valid K: need **manifestation of intention to IMMEDIATELY transfer existing contractual right**
+    * If not immediate (i.e., promise to forward payment when received), then you don't have an assignment but rather an independent contract
+  * Roles
+    * Assignor - person entitled to right under contract and transfers it to third party
+      * Once he assigns rights, he can receive no further benefits under the K
+    * Assignee - person to whom right is transferred; not original party to contract but can enforce it if assignment is valid
+      * Difference from beneficiary is that here the assignor himself, and not a third-party, is originally the one who contractual promise is intended to benefit; the right to that benefit is then transferred to assignee some time after
+      * Assignee inherits all rights that assignor had, and similar to with beneficiaries, any defense obligor could assert against assignor is valid against assignee
+    * Obligor - other original party to contract and one who owes performance to whoever holds the right
 
-D enrolled their daughter in a private Montessori school (P). Parties entered into a re-enrollment agreement that required D to pay a $1,000 non-refundable deposit and to notify the P in writing by May 31 if they intended to withdraw their daughter before the end of the school year. If D notifies after that date, they agreed to pay the remaining tuition balance of $13,490 pursuant to a liquidated damages clause. D notifies of withdrawal after deadline and demanded the return of their deposit. P brings suit for breach and sought the remaining tuition balance for the academic year plus fees. P filed a counter-claim for return of deposit. TC held that the liquidated damages clause was valid/legally enforceable, but P failed mitigate its damages. P appealed. State supreme court held **a non-breaching party has no duty to mitigate damages where the parties agree to a valid liquidated damages sum in the event of a contract breach**. Liquidated damages differ from mitigation of damages. While mitigation is part of a court’s determination of actual damages that have resulted from a breach, a liquidated damages clause is an agreed-upon sum by both parties in order to replace any determination by a court of an actual loss suffered by the injured party. Once a court has found that a liquidated damages clause is valid and binding upon the parties, it does not need to make any determination regarding actual damages. Court identifies three essential elements to valid/enforceable liquidated damages clause. First, there must be clear and unambiguous terms for a specific sum. Second, the damages must reasonably compensate the injured party. Third, liquidated damages clauses, by their nature, are binding before the fact and may not be altered to correspond to actual damages determined after the breach. All of these elements were satisfied, thus the clause is binding and P had no obligation to mitigate. **Dissent** - majority decision undermines basic principles of contract law pertaining to the equity and reasonableness of contract remedies. Remedies are meant to be compensatory, not punitive. Must consider totality of the circumstances in determining whether a liquidated damages clause is fair and reasonable. Here, amount in the clause is grossly disproportionate to, and in excess of, the harm suffered. Additionally, the School owed a duty to mitigate its damages in an attempt to avoid any purported loss
+* Assignment is **typically permitted EXCEPT** if:
+  * It **materially alters obligor's duty or increases risk of him receiving performance**
+  * Contract **expressly states that any assignments are void**
+    * Note: under both UCC and CL, a K provision **simply prohibiting assignment usually not enough**; however, can still be grounds for breach
+  * Obligor has **personal interest in giving performance** to assignor and not assignee;
+
+* Assignment can be:
+  * **Gratuitous** - similar to donee beneficiary; they **don't require consideration to enforce against obligor, but are revocable by assignor unless**
+    * Assignee forms justifiable, detrimental reliance on assigned right
+    * There is delivery of some writing to assignee that typically represents/symbolizes ownership of the right
+    * Assignee has already received performance
+  * **For value** - assignment is consideration (releasing right = legal detriment incurred) in exchange for some promise/performance as part of another agreement
+    * These are valid against are **irrevocable**
+    * They also **implicitly warrants that the rights exist and assignor knows nothing/will do nothing that impairs them**
+
+* **Multiple assignments** - subsequent assignment of the same right to assignee; party entitled to right depends on whether original assignment was irrevocable (e.g., for value) or revocable (e.g., gratuitous where no exception applies)
+  * **If irrevocable  --> original assignee has priority**
+    * Exception: Bona fide purchaser w/o notice obtains performance/judgement first
+  * **If revocable --> subsequent assignee has priority**
+
+### Delegation
+
+* Delegation - when third-party agrees to take on contractual obligation/duty (as opposed to receiving a right)
+  * Roles
+    * Delegator - party to original contract whose obligations are taken on by third party
+    * Delegator - third-party whom agrees to take on delegator's duties
+    * Obligee - party to original contract to whom duty is owed
+
+* Delegable Duties - Delegation of contractual duties, like assignment of rights, is **generally permitted**
+  * However, this generally qualifies as "reasonable grounds for insecurity" for purposes of UCC § 2-609, meaning buyer demand reasonable assurances from delegatee
+  * Exceptions:
+    * Obligee has **substantial interest in having the original party perform**, often because they possess special skills/knowledge or a certain reputation/image (e.g., a celebrity spokesperson)
+    * If contract **expressly prohibits delegations**
+    * **OR** contract **expressly prohibits assignments** (presumed to cover delegations too, even if it doesn't state that assignments are automatically void)
+  * If any exception above is applicable, only way to delegate is through novation to which all three parties agree to
+    * Obligee's mere consent to delegation <> novation, though novation may be implied if obligee accepts delegatee's performance without reserving rights against the obligor
+
+* Liability - delegation **does not release delegator from liability** for defective/non-performance
+  * Hence the term "transfer" of duty is misleading because it is not really a complete transfer of the duties/obligations
+  * **Absent a novation, delegator instead becomes surety** w/r/t the obligation and can thus still be sued for breach
+    * However, even if delegator held liable, he may still recover from assignee through subrogation/reimbursement
+  * So long as delegation was **supported by consideration** (thus making promise binding):
+    * Delegatee may be held **directly liable to delegator** for breach
+    * **Obligee** can bring action to **enforce as third-party beneficiary**, as he was intended to benefit from the agreement between delegator/delegatee to satisfy existing obligation (i.e., creditor type)
 
 ---
