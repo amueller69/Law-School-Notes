@@ -882,69 +882,72 @@ There are three types of co-tenancies
 
 ## Mortgages
 
-* **Security interests** are an enforceable legal claim that attaches to property (i.e. collateral), real or otherwise,  in order to secure repayment of a debt or performance of some other obligation.
+* **Security interests** are an enforceable legal **claim that attaches to property** (i.e. collateral), real or otherwise,  in order **to secure repayment** of a debt or performance of some other obligation.
   * Provides creditor with quick, easy recourse in event of default and/or priority over other creditors if debtor files for bankruptcy. This lowers the risk for creditor, allowing them charge lower interest rates than they would if unsecured
     * Example: if default on home loans, can foreclose, sell house, and apply proceeds to outstanding loan
   * Note: in the US, the "lien" is sometimes used interchangeably with security interest, although the term lien also tends to denote a narrower set of security interests created by operation of law (i.e., non-consensually)
 * In the context of real property, the primary instrument creating a security interests is the mortgages although their exists alternatives as well
-* **Mortgages** are means of securing loan by creating a security interest in real property which mortgagee (creditor) can enforce to satisfy outstanding debts in the event that the mortgagor (debtor) defaults.
+* **Mortgages** are means of securing **loan by creating a security interest in real property** which mortgagee (creditor) can enforce to satisfy outstanding debts in the event that the mortgagor (debtor) defaults.
   * This definition reflects the now widely accepted Lien Theory, under which a mortgagor retains title of the property and mortgagee merely holds a lien
   * It can be contrasted with the more historical Title Theory, which some states still recognize, under which a mortgage was considered an actual transfer of title to the mortgagee that would become void if the debt was paid off.
     * Under Title Theory, mortgagee can technically take possession of property and do whatever with it (e.g., rent it out) unless there is language in the mortgage preventing repossession prior to default (there usually is). However, the additional legal risks and duties for a mortgagee in possession make this relatively unattractive
   * As noted earlier, the Lien/Title Theory distinction is relevant in the context of join-tenancies and their termination.
 * While mortgages are typically used to finance the purchase of the same real property to which the security interest attaches, this is not necessarily the case
   * Example: you can take out mortgage on home to enable purchase of a new boat
-* Mortgages must satisfy statute of frauds, meaning they need to be in writing (though may be subject to part performance or estoppel exceptions to SoF)
+* Mortgages **must satisfy statute of frauds**, meaning they need to be in writing (though may be subject to part performance or estoppel exceptions to SoF)
 
 ### **Equitable Right of Redemption**
 
-* Also known as the equity of redemption, is doctrine which provides debtor in default right to pay late and redeem property.
-  * At any point prior to foreclosure, debtor can still redeem the property if he pays arrears (missed payments + interest), unless mortgage has acceleration clause, in which case the full amount of the unpaid debt becomes due upon default  
+* Also known as the **equity of redemption**, is doctrine which provides debtor in default **right to pay late and redeem property**.
+  * At any point prior to foreclosure, debtor can still redeem the property if he pays arrears (missed payments + interest), **unless mortgage has acceleration clause**, in which case the full amount of the unpaid debt becomes due upon default  
 * This right arose over time as those who faced harsh outcomes under the mortgage-by-conveyance system (where mortgagor could forfeit right in land while remaining liable for debt), petitioned courts of equity for relief.
-  * At old common law, mortgages usually consisted of conveyance of fee simple to mortgagee with bond/indenture (defeasance) stating it would reinvest in debtor if debt repaid by certain date (thereby divesting lender). If debt had not been repaid by this date (called "law day"), property automatically vested in the mortgagee. This was thus really conveyance of fee subject to condition subsequent that is disguised as a conveyance fee simple absolute.
-* Clogging the right of redemption - Court's do not allow waiver of one's right of redemption prior to default through a clause in the mortgage itself
+  * At old common law, mortgages usually consisted of conveyance of fee simple to mortgagee with bond indenture (w/ defeasance) stating it would reinvest in debtor if debt repaid by certain date (thereby divesting lender). If debt had not been repaid by this date (called "law day"), property automatically vested in the mortgagee. This was thus really conveyance of fee subject to condition subsequent that is disguised as a conveyance fee simple absolute.
+* **Clogging the right of redemption** - Court's do not allow waiver of one's right of redemption prior to default through a clause in the mortgage itself
   * However, this right may be waived later on in separate transaction supported by consideration
-* There is also a statutory right of redemption in some states. The key distinction between this and the equitable right are that the former *can be exercised after foreclosure*.
+* There is also a statutory right of redemption in some states. The key distinction between this and the equitable right are that the former *can be exercised even after foreclosure*.
   * Can redeem property from person who purchased it at foreclosure sale for purchase price plus interest, although the time window varies by state.
 
 ### **Foreclosure**
 
-* Foreclosure is the process by which the mortgagee seeks to terminate the debtor's equitable right of redemption, thereby foreclosing the possibility of the debtor redeeming it
+* Foreclosure is the **process by which the mortgagee seeks to terminate the debtor's equitable right of redemption**, thereby foreclosing the possibility of the debtor redeeming it
   * Right of redemption created uncertainty around mortgagee's ability to repossess and sell mortgaged property; at common law, mortgagee's would turn to courts for an order that barred mortgagor from redeeming property, giving mortgagee fee simple absolute.
 * In modern jurisdictions, foreclosure happens through (public auction) sale, either as part of judicial proceeding or where party has power of sale (see *Deeds of Trust* in "Alternatives to Mortgages" section below)
-* Notice requirements: Must give notice to mortgagor of intent to foreclose; amount of time in advance this notice must be given can vary by state statute
-  * Further, in judicially supervised/administered foreclosure sale, all holders of junior interests must be notified and made party to the action;
-    * Omission of "necessary" parties from the foreclosure results in their interests surviving, even if they would have otherwise been extinguished
+* Notice requirements: Must give **notice to mortgagor of intent to foreclose**; amount of time in advance this notice must be given can vary by state statute
+  * Further, in judicially supervised/administered foreclosure sale, **all holders of junior interests must be notified** and made party to the action;
+    * **Omission of "necessary" parties** from the foreclosure results in their **interests surviving**, even if they would have otherwise been extinguished
   * Rationale: gives opportunity to redeem property and prevent their interests from being wiped out
-* Proceeds of foreclosures sell are typically applied based on the following order of priority:
-  * First, to the expenses related to the sale
-  * Second, to pay off mortgage debt; if multiple mortgages, “first in time” gets priority unless recording statute provides otherwise
-    * Unrecorded mortgages are typically subordinate to all other recorded interests, regardless of order in time
-    * Purchase Money Mortgages have priority over others from around the same time, even if they are recorded first
-    * Contractual agreements between mortgagees (e.g., subordination agreement) can alter priority; so can modifications to senior mortgages that materially prejudice junior interests (the extent to which they do becomes subordinate to junior interests)
-  * Third, any junior interests (e.g., second mortgages, Home Equity Loans, HELOCs, judgement liens);
+* Proceeds of foreclosures sell are typically applied based on the following order of **priority**:
+  * (1) to the **expenses** related to the sale
+  * (2) to pay off **mortgage debt; if multiple mortgages, “first in time” typically gets priority** unless recording statute provides otherwise
+    * **Unrecorded mortgages typically subordinate** to all other recorded interests, regardless of order in time
+    * Purchase Money Mortgages (**where seller is lender**) have **priority over others from around same time, even if recorded first**
+    * Future advance mortgages - basically a mortgage with a secured line of credit for additional loans (i.e., future advances) under the same lending terms; security interest covers both mortgage loan and any future advances, all of which take priority over subsequent liens
+    * Contractual agreements between mortgagees can alter priority (e.g., subordination agreement); so can modifications to senior mortgages that materially prejudice junior interests (the extent to which they do becomes subordinate to junior interests)
+    * Mortgagee may seek a **deficiency judgment** if the proceeds of the are insufficient to satisfy the amount outstanding on the mortgage
+  * (3) to any **junior interests** (e.g., second mortgages, Home Equity Loans, HELOCs, judgement liens);
   * Finally, to the debtor if there is anything left over
-* When property is purchased at foreclosure sale, new buyer takes property **clear of any junior interests**, which are wiped out by the foreclosure, but **not clear of senior interests** (nor of a statutory right of redemption if there is one)
-  * Junior interests are any interests (i.e., liens) that are subordinate to the one being foreclosed on. They are extinguished regardless of whether they are paid off with the sale proceeds
+* When property is **purchased at foreclosure sale**, new buyer takes property **clear of any junior interests**, which are wiped out by the foreclosure, but **not clear of senior interests** (nor of a statutory right of redemption if there is one)
+  * **Junior interests are any interests subordinate to the one being foreclosed on**. They are extinguished regardless of whether they are paid off with the sale proceeds
     * Similar to lower ranking or unsecured claims in bankruptcy; entitled to leftovers, but if there are none, lien holder is out of luck
       * Where mortgagor defaults on first mortgage, junior lien holders have the option to cure the default to prevent their interests from being wiped out in foreclosure
         * In such cases, junior lien holder can seek reimbursement from mortgagor (in addition to what they already owe), and if paid off entirely, becomes subrogated to rights of the senior interest
-    * **Exception**: see exception for omitted parties above
-  * Senior interests (e.g., a first mortgage) stay with the property when sold, meaning if someone with a junior interest forecloses, buyer takes it subject to first mortgage (which obviously would suppress sale price);
+    * Exception: see exception for omitted parties above
+  * Senior interests (e.g., a first mortgage) stay with the property when sold, meaning **if someone with a junior interest forecloses, buyer takes it subject to first mortgage** (which obviously would suppress sale price);
     * Sale proceeds not applied to first mortgage and mortgagee can still foreclose if default
-* Deed in lieu of foreclosure - instead of going through judicial foreclosure process, mortgagor can agree to transfer all interests in the property. Allows mortgagee to repossess much faster by skipping legal process (though debtor still liable for any deficiency; likewise, they are entitled to any surplus)
+* **Deed in lieu of foreclosure** - instead of going through judicial foreclosure process, mortgagor can agree to transfer all interests in the property. Allows mortgagee to repossess much faster by skipping legal process (though debtor still liable for any deficiency; likewise, they are entitled to any surplus)
 
 ### **Transfers**
 
-* When mortgaged property is sold, absent an agreement between the mortgagee and mortgagor to release the latter from his obligations, the mortgagor remains personally liable for upon.
+* When mortgaged property is sold, absent an agreement between the mortgagee and mortgagor to release the latter from his obligations (novation), the **mortgagor remains personally liable**
 * New buyer (transferee) of property securing mortgage can assume the mortgage or take title "subject to" it
-  * With an assumption, both the original mortgagor and the new buyer are personally liable for the debt. If there is failure to repay the loan, the mortgagee can sue either one or both.
+  * **Assumption** - generally requires **explicit agreement for transferee to take on mortgage obligations** (a few jurisdictions allow this to be implied by the act of new party starting to make mortgage payments)
+    * With an assumption, **both parties (original mortgagor new buyer) are personally liable** for the debt. If there is failure to repay the loan, the mortgagee can sue either one or both.
     * If original mortgagor makes payments, can seek reimbursement from transferee since they are the ones w/ primary liability (mortgagor is secondarily liable)
-  * Where the new buyer only takes the property "subject to" the mortgage, they do not become personally liable to the mortgagee upon default. However, the mortgagee can still foreclose on the property. New buyer thus still has interest in ensuring mortgage is not defaulted on. Nonetheless, if there is still deficiency after sales proceeds applied only original mortgagor can be sued
-    * In most jurisdictions, this is the default
-  * Neither assumption nor taking title "subject to" discharges the original mortgagor; in both situations the original mortgagor becomes a surety w/r/t the mortgage obligation
-    * Subrogation is an equitable remedy to prevent unjust enrichment of the mortgagee at the original mortgagor's expense when the latter (or any other person) pays the mortgage debt on behalf of the new buyer (transferee).
-    * In such cases, original mortgagor (or subrogee) may become of the owner of the mortgage and the rights of the mortgagee, which would include the right to foreclose on the mortgage lien.
+  * Taking property **"subject to"** - the default; applies when there is no such assumption agreement
+    * Where the new buyer only takes the property *subject to" the mortgage, they do not become personally liable to the mortgagee upon default. **Only the original mortgagor is personally liable, although mortgagee can still foreclose** on the property. New buyer thus still has interest in ensuring mortgage is not defaulted on. Nonetheless, if there is still deficiency after sales proceeds applied only original mortgagor can be sued
+  * Neither assumption nor taking title "subject to" discharges the original mortgagor; in **both situations the original mortgagor becomes a surety** w/r/t the mortgage obligation
+    * **Subrogation** is an equitable remedy to prevent unjust enrichment of the mortgagee at the original mortgagor's expense when the latter (or any other person) pays the mortgage debt on behalf of the new buyer (transferee).
+    * In such cases, **original mortgagor (aka subrogee) may become of the owner of the mortgage and the rights of the mortgagee**, which would include the right to foreclose on the mortgage lien.
 * Original mortgagor can escape personal liability, however, if released from the mortgage obligations or if the terms of the original loan agreement modified (either of which requires original mortgagee to agree to)
   * In some jurisdictions, modifying terms of the lease which transferee assumed automatically discharges original mortgagor
 * Some mortgages have "due on sale clauses", which state that mortgage becomes fully payable if the underlying property is sold
@@ -952,13 +955,13 @@ There are three types of co-tenancies
 
 ### Alternatives to Mortgages
 
-* **Deeds of Trust** - Similar to a mortgage, but involves the debtor transferring legal title (while retaining equitable title) to a 3rd party-trustee who holds it until loan is paid off
+* **Deeds of Trust** - Similar to a mortgage, but involves the **debtor transferring legal title** (while retaining equitable title) **to a 3rd party-trustee** who holds it until loan is paid off
   * In this relationship, the debtor is the trustor and the lender is the beneficiary
-  * In the event of default, this trustee may have power of sale (depending on language in trust deed and the state), allowing the trustee to foreclose and auction the property off themselves without needing to go through courts
-    * In states that allow it, this gives deed of trust a huge advantage over traditional mortgage
+  * In the event of **default, this trustee may have power of sale** (depending on language in trust deed and the state), allowing the **trustee to foreclose and auction the property off themselves WITHOUT needing to go through courts**
+  * In states that allow it, this gives deed of trust a huge advantage over traditional mortgage
 * **Installment Land Contract** - sometimes referred to as a contract for deed, is a contractual arrangement in which seller retains title until final installment is paid pursuant to payment schedule.
   * Historically, these contracts would contain forfeiture provisions, which provide that upon default, contract voids and title remains with seller (along with all payments up to that point)
-  * Equitable mortgages doctrine - even if forfeiture provisions described above are enforceable, courts in most states generally treat these arrangements as mortgages w/r/t to rights of the buyer in order to prevent inequitable results
+  * **Equitable mortgages doctrine** - even if forfeiture provisions described above are enforceable, courts in most states **generally treat these arrangements as mortgages w/r/t to rights of the buyer in order to prevent inequitable results**
     * This may give buyer equitable right of redemption and/or require seller to go through foreclosure process (in which buyer entitled to surplus)
     * This doctrine has also been applied to a few other type of arrangements that are effectively "mortgages in disguise"
       * Conveyance of fee simple absolute accompanied by separate instrument promising to reconvey if debt repaid in full - court may allow parole evidence to show that transfer of fee simple was to secure loan and thus establish the existence of what is effectively a mortgage
@@ -971,14 +974,14 @@ There are three types of co-tenancies
 
 ### Eminent Domain and Condemnation
 
-* **Eminent domain** refers to the power of federal (and state) governments to acquire private property for public use
-  * "Public use" does not necessarily mean it will the property appropriated by the government will actually possessed and used by it, just that it must serve a *legitimate public purpose*, which may entail re-distributing it to someone other private party (e.g., railroad companies)
-  * Where this power is exercised and private property is taken via eminent domain, the original owner is entitled to just compensation (i.e., the fair market value of the property interest, usually determined at the time of the proceedings)
+* **Eminent domain** refers to the power of federal (and state) **governments to acquire private property for public use**
+  * "Public use" does not necessarily mean it will the property appropriated by the government will actually possessed and used by it, just that it must serve a **legitimate public purpose (i.e., reasonable believe it benefits public)**, which may entail re-distributing it to someone other private party (e.g., railroad companies)
+  * Where this power is exercised and private property is taken via eminent domain, the original owner is **entitled to just compensation** (i.e., the **fair market value** of the property interest, usually determined **at the time of the taking**)
     * 5th Amendment **Takings Clause** - "nor shall private property be taken for public use, without just compensation"
       * Incorporated and enforceable against the states via 14A
-    * If only partial taking (see below), only compensated for the part that is acquired plus any additional decrease in value to the property (i.e., if the sum is greater than component parts)
+    * If only **partial taking, only compensated for part acquired plus any additional decrease in value** to the property (i.e., if the sum is greater than component parts)
   * Some of the most common exercises of eminent domain have been for roads, railroads, government buildings, and utilities.
-* **Condemnation** refers to the formal act of exercising eminent domain to take private property (or a partial interest in it, such as an easement) for public use
+* **Condemnation** refers to the **formal act of exercising eminent domain to take private property** (or a partial interest in it, such as an easement) for public use
   * Although easy to confuse, condemnation in this sense != the act of local government deeming a building uninhabitable (i.e., a condemned property)
   * Condemnation can be full or partial:
     * Partial Taking - only acquires portion of the land as opposed to the entire parcel, leaving the owner with the remainder
@@ -988,11 +991,11 @@ There are three types of co-tenancies
   * Condemnation usually occurs through formal condemnation proceedings--initiated by the Government filing a condemnation action--where compensation is determined
     * Property owner can also contest the Government's exercise of eminent domain here (e.g., by challenging the purpose of the taking)
 * **Inverse Condemnation** - property owner sues government (asserting 5A rights) for just compensation where it has taken property or impaired its value/utility without going through formal condemnation proceedings
-  * Inverse condemnation action is initiated by the property owner instead of the government
-  * As noted above, inverse condemnation not only applies where government physically seizes/occupies land or otherwise dispossesses person of the property, but also where a government action or policy causes the marketability or usefulness of the land to greatly depreciate (i.e., a **regulatory taking**)
-    * *Takings per se* - In the former case (physical invasion), Court can determine owner is entitled to just compensation without needing to go through any balancing tests
+  * **Inverse condemnation action is initiated by the property owner** instead of the government
+  * As noted above, inverse condemnation not only applies where government **physically seizes/occupies land or otherwise dispossesses** person of the property, but **ALSO** where a **government action or policy causes the marketability or usefulness of the land to greatly depreciate** (i.e., a regulatory taking)
+    * **Takings per se** - In the former case (physical invasion), Court can determine owner is entitled to just compensation without needing to go through any balancing tests
       * Also applies when the effect of regulation is to cause property to lose *all* economic viability
-    * To determine whether inverse condemnation is applicable in the latter case (regulatory takings), courts attempt to determine whether the governments use or regulation of the property goes "too far". The "too far" test, as articulated in *Penn Central*, considers three factors:
+    * To determine whether inverse condemnation is applicable in the latter case -- so-called **regulatory takings** -- courts attempt to **determine whether the governments use or regulation of the property goes "too far"**. The "too far" test, as articulated in *Penn Central*, considers three factors:
       1. the nature of the government regulation (e.g., its purpose)
       1. the economic impact on the property
       1. the extent to which the regulation interfered with owners "reasonable investment-backed expectations"
@@ -1004,25 +1007,25 @@ There are three types of co-tenancies
   * States grant this power to local governments through an **enabling act**
     * These acts are nearly identical across the different states, as nearly all have implemented boilerplate language from the Standard State Zoning Enabling Act
     * Local government's regulation of land use can't exceed that which is authorized in the enabling act; zoning ordinances that do are void and will not survive *ultra vires* challenge
-    * A zoning ordinance must also be "rationally related to a legitimate governmental purpose"; must also generally be part of a comprehensive plan (no arbitrariness or "spot zoning")
+    * A zoning ordinance must also be "**rationally related to a legitimate governmental purpose**"; must also generally be **part of a comprehensive plan** (no arbitrariness or "spot zoning")
 * Zoning laws/ordinances typically divide and classify land based permitted use
   * Zoning can be cumulative, meaning uses designated as "higher-use" are also allowed in any lower-use zones
     * Zones for residential use generally the highest-use in cumulative zoning, meaning it is permitted in other lower-use zones (e.g., commercial and industrial) in addition to residential zones
     * Zones may be further sub-divided; for example, a residential zone may divided into area where only single-family dwellings are allowed and another where multi-family dwellings are also allowed)
   * Non-cumulative zoning restricts uses permitted in a zone to one use (e.g., zones exclusively reserved for commercial use)
   * In addition to regulating use, zoning laws/ordinance may also regulate things like lot sizes, building height, or space between buildings
-* Non-conforming properties - ordinances contain provisions for determining what happens to properties that are non-conforming as a result of new or modified zoning regulations (required to for due process reasons)
-  * Some states will permit old non-conforming uses to continue (i.e., to "grandfather" it in)
+* **Non-conforming properties** - ordinances contain provisions for determining what happens to properties that are non-conforming as a result of new or modified zoning regulations (required to for due process reasons)
+  * Some states will **permit old non-conforming uses to continue** (i.e., to "grandfather" it in)
   * At the very least, most states states require that give owners reasonable time before ending the non-conforming use (e.g., to amortize their investment and/or adapt to new conforming uses)
     * Failure to allow non-conforming use to continue for reasonable period may violate Constitutional takings clause, amounting to a regulatory taking
     * Exception: if non-conforming use is serious risk to public wellbeing
-  * Local governments can also allow **variances** (i.e., permitted deviations from specified use) on case-by-case basis;
+  * Local governments can also allow **variances** (i.e., permitted deviations from specified use) on **case-by-case basis**;
     * To receive a variance, owner must typically make argument in front of zoning board, who then determines whether:
-      * Enforcing the zoning ordinance would (1) create unnecessary hardship for the owner that are (2) unique to the property and (3) are not self-induced
-      * Allowing the variance would (4) not result in harm to public welfare (5) nor frustrate the overall purpose of the ordinance
+      * Enforcing the zoning ordinance would (1) create **unnecessary hardship** for the owner that are (2) **unique to the property** and (3) are **not self-induced**
+      * Allowing the variance would (4) **not result in harm to public welfare** (5) **nor frustrate the overall purpose** of the ordinance
     * Variances are granted to the property, meaning they accompany the property when transferred to a new owner
     * Note: Some ordinances explicitly provide **special exceptions** for specific types of uses under certain conditions (e.g., upon applying for and receiving permit), but despite the name, these are different from variances
-      * These special exceptions are very similar to something referred to as a **conditional use**--particular uses that ordinance states are permitted if certain standards it sets forth are met--whereas variances involve a non-conforming use not mentioned in the ordnance at all
+      * These special exceptions are very similar to something referred to as a **conditional use**--particular uses that ordinance states are **permitted if certain standards it sets forth are met**--whereas variances involve a non-conforming use not mentioned in the ordnance at all
       * For these special exceptions or conditional uses, the application is decided by the zoning board or municipal governing body, respectively, without needing to demonstrate hardship
 
 ---
