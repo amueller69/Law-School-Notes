@@ -118,7 +118,7 @@
 
 ## Confessions and Privilege Against Self-Incrimination
 
-> No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a grand jury ... ; nor shall any person be subject for the same offense to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, without just compensation. - U.S. Const., amend. V.
+> No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a grand jury ... nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law .... - U.S. Const., amend. V.
 
 ### Privilege Against Self-Incrimination
 
@@ -175,7 +175,7 @@
     * **Need not be explicit**; if **totality of circumstances** reveal someone who is issued *Miranda* warning **understood the nature of the rights and consequences of abandoning them**, their choice not to invoke them and make statement to police is **implied waiver**
   * Resuming custodial interrogation - police can **re-initiate custodial interrogation if**:
     * (1) Suspect **re-read rights**
-    * (2) Suspect **waives** them (vountarily and knowingly) **AND**
+    * (2) Suspect **waives** them (voluntarily and knowingly) **AND**
     * (3) Either
       * (a) **Counsel is present**
       * (b) **14 days have passed** since last custody OR
@@ -307,29 +307,71 @@
 
 ---
 
-## Criminal Trials
+## Criminal Prosecution, Trials, and Sentencing  
 
 ### Right to Jury Trial
+
+* Competence to Stand Trial - D can only be tried if deemed competent for trial
+  * D is competent to stand trial if he has:
+    * (1) A **sufficient ability to consult with counsel** (able to assist in preparing his defense) **AND**
+    * (2) a **rational and factual understanding** of proceedings
+  * If fails competency determination, may be reassessed at a later date and tried then
+    * Proceeding with trial when deemed incompetent or failing to even provide adequate competency assessment violates due process rights
 
 * 6th Amendment guarantees a criminal D the right to a **jury trial for crimes that are potentially punishable by imprisonment of at least 6 months**
   * This is any offense where max sentence is greater than 6 months; if no max sentence proceeding without jury limits max sentence D can receive to 6 months
   * Any question of fact that increases the maximum penalty for a crime MUST be submitted to a jury, and proven beyond a reasonable doubt by
-  * D can waive the right to a jury trial and instead elect for bench trial
-  the prosecution.
+  * D can waive the right to a jury trial and instead elect for bench trial (when this happens, sentence not limited to 6 months)
   
-* Jury must be composed of **6 jurors at a minimum** to comply with due process, though federal trials require 12 for felonies
-  * Generally, constitution requires that **verdicts be unanimous**.
+* Jury must be composed of **6 jurors at a minimum** to comply with due process, though **federal trials for felonies require 12**
+  * Constitution requires that **verdicts be unanimous** for serious offenses, a requirement SCOTUS has ruled is incorporated at the state level as well (2020 *Ramos* decision)
 
-Double Jeopardy 
+* Unconstitutional discrimination in jury selection/composition
+  * *Strauder* (1880) - state excluding persons from service on a jury on account of race or former slave status violates Equal Protection Clause
+  * *Glasser* (1942) - jury selection pool must be a "representative cross-section of the community" (includes race and gender)
+    * Although the actual composition of the jury selected need not meet the requirement above, discriminatory use of challenges (by either party) in jury selection still violates 14A
+  * D can bring challenge to fairness of selection process, showing by preponderance of the evidence that certain group in the community was systematically excluded (i.e., not just random) from selection pool
 
-1) When a D moves to dismiss a charge based on a violation of double jeopardy, she must establish she had
-been in jeopardy for same offense by same sovereign
-2) Being previously charged is insufficient; D must prove jeopardy had attached—jeopardy attaches:
-a) In a non-jury trial  when first witness is sworn and court beings to hear evidence
-b) In a jury trial  when jury is impaneled and sworn
-3) Same offense: two crimes occurring out of same transaction are considered same offense, unless:
-a) Each charge requires proof of a separate criminal impulse (i.e. multiple Vs in 1 transaction); or
-b) Each charge requires proof of a separate factual element
-4) Separate Sovereignties: does not prevent dual prosecution by separate sovereigns – a D may be prosecuted
-for same criminal conduct by separate sovereigns
-a) Each state is separate sovereign and the fed govt is separate from the states
+* Jury selection
+  * Parties can bring **unlimited number of *challenges for cause***, in which it moves disqualify a potential juror for some stated reason (e.g., prior knowledge, inability to be impartial, etc.)
+  * Also allowed a **statutorily limited number of *preemptory challenges***, where no reason needs to be given
+    * However, as noted above, may not exclude based on race or gender
+    * Where one party raises challenge to the other's use of preemptory strikes which display discriminatory pattern, the latter needs to proffer some plausible explanation, if it does, the other must show this is just a pretext and establish discriminatory intent (very difficult)
+
+### Duty to Disclose and Compulsory Process
+
+* ***Brady* rule** - Where prosecution has material evidence that is favorable to D -- such as evidence that tends to exculpate D, mitigate the offense, or impeach witness against him -- P has affirmative duty to disclose this to D
+  * SCOTUS has held that failure can be violation of D's due process rights
+  * Conviction can be reversed if D can show reasonable probability of different outcome were it no for this failure to disclose
+* Compulsory Process - Similarly, where witness has material, favorable evidence, 6A enables to compel their testimony at trial
+
+### Sentencing
+
+* *Booker*/*Blakely* Rules -  only facts admitted by a defendant or proved beyond a reasonable doubt to a jury may be used to calculate a sentence exceeding the prescribed statutory maximum sentence; if additional facts are necessary to increase a sentence, must be found by jury and not the judge
+  * Failure to do so violates D's Sixth Amendment rights to jury trial
+
+### Double Jeopardy
+
+> No person shall ... be subject for the same offense to be twice put in jeopardy of life or limb .... - U.S. Const., amend. V.
+
+* 5A protections against Double Jeopardy, which **prevent D from being prosecuted/punished by same sovereign for same offense twice**, are incorporated against the states by 14A
+* When a D moves to dismiss a charge based on a violation of double jeopardy, she must establish she had been in jeopardy for same offense by same sovereign
+
+* Merely being previously charged for the offense is insufficient for double jeopardy to apply; double jeopardy protections **attach when**:
+  * In a jury trial, when **jury is impaneled and sworn in**
+  * In a bench trial, when **first witness is sworn** and presentation of evidence commences
+  * If waive right to trial and plead guilty, when court accepts the plea and enters judgment
+
+* Exceptions - where double jeopardy protections do not apply:
+  * Wavier - where D waives DJ protections; only place this really makes sense is where successfully appeal conviction and case is remanded 
+  * **Manifest necessity** -> retrial permitted where mistrial caused by something out of state's control (e.g., death/incapacity of judge/juror, hung jury, major procedural error), but not if result of mistrial was acquittal
+  * **Dual sovereigns rule** - a D may be prosecuted for same criminal conduct by separate sovereigns
+    * Each state as well as the federal government all constitute separate sovereigns; however, municipalities are not separate from states
+    * Example: where significant parts of a criminal offense took place in two different states, DJ does not protect against criminal prosecutions by each state
+  * **Different offenses** - even after DJ attaches, may be prosecuted in same jurisdiction so long as the crime D is charged with constitutes a separate offense
+    * ***Blockburger* test** - two crimes occurring out of same conduct/transaction are considered same offense, unless **each offense requires a factual element which the other does not**
+      * This means, for the purpose of DJ, a greater offense is treated as the same crime as any lesser included offense; DJ prevents being prosecuted for greater offense after being prosecuted for lesser included offense, and vice versa
+        * **Exception**: when all elements for greater offense do not exist at the time of prosecution for lesser offense
+* Notwithstanding the exceptions above, any disposition made on the merits -- including acquittal for any reason -- always prevents re-prosecution
+  * This means prosecution can never appeal trial rulings where D has acquitted
+  
