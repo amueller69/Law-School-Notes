@@ -11,7 +11,7 @@
 [14]: https://github.com/amueller69/Law-School-Notes/tree/master/Bar-Review/CrimLaw.md
 [15]: https://github.com/amueller69/Law-School-Notes/tree/master/Bar-Review/Crim-Outline.docx
 [16]: https://github.com/amueller69/Law-School-Notes/tree/master/Bar-Review/CrimPro.md
-[17]: https://github.com/amueller69/Law-School-Notes/tree/master/Bar-Review/
+[17]: https://github.com/amueller69/Law-School-Notes/tree/master/Bar-Review/CrimPro-Outline.docx
 [18]: https://github.com/amueller69/Law-School-Notes/tree/master/Bar-Review/Contracts.md
 [19]: https://github.com/amueller69/Law-School-Notes/tree/master/Bar-Review/Contracts-Outline.docx
 [20]: https://github.com/amueller69/Law-School-Notes/tree/master/Bar-Review/Evidence.md

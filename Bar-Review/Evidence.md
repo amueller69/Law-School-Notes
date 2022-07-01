@@ -29,7 +29,7 @@
   * Can also describe the strength/credibility of an individual piece of evidence and its contribution to persuading the jury in a certain direction (i.e., how much it moves the needle)
   * Whereas admissibility determined by a judge, weight is ultimately determined by fact-finder (e.g., jury) in credible they find a piece/body of evidence and thus how much reliance to place on it when deciding a question of fact
 
-### Federal Rules of Evidence and Their Applicability ???
+### Federal Rules of Evidence and Their Applicability
 
 * The Federal Rules of Evidence (FRE) are applicable to all civil and criminal trial proceedings before U.S. Federal courts (regardless if bench trial or jury trial)
 * The FRE **do not apply to**:
@@ -41,6 +41,9 @@
     * Exception: the rules in the FRE relating to Privilege also continue to apply here
 
 * In federal diversity cases, Fed courts generally apply the FRE in deciding/resolving evidentiary issues that arise during trial
+  * However, there is are certain carve-outs here intended uphold the *Erie doctrine*, which states that there is no "general" federal common law and that Federal courts must apply state substantive law in suits between citizens of different states
+  * For instance, must recognize state law rules for presumption where it affects element of offense under state law
+  * In cases under federal question jurisdiction, however, FRE always controls
 
 * Ruling on evidence under FRE (103)
   * Court required to prevent inadmissible evidence from reaching jury to the extent practical
@@ -94,7 +97,7 @@
   * However, **can still offer counter-evidence challenging the "basic fact"**
 * Although, as noted in the first section, FRE usually governs evidentiary issues in Federal diversity cases, Rule 302 of the FRE also states that "state law governs the effect of a presumption regarding a claim or defense for which state law supplies the rule of decision"
   * Thus, when there are questions about presumptions/burdens of proof w/r/t a element needed to establish a state law claim/defense, state law, rather than the FRE, controls the effect of said presumption
-  * This upholds the *Erie doctrine*, which states that there is no general federal common law, thus Federal courts must apply state substantive law in suits between citizens of different states
+  * This upholds the *Erie doctrine*, which states that there is no "general" federal common law, thus Federal courts must apply state substantive law in suits between citizens of different states
 
 ### Judicial Notice
 
